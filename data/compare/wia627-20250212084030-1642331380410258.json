@@ -1,0 +1,335 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 232.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark, messy hair wearing a black athletic tank top stands in a modern kitchen, holding a large cardboard box of protein coffee. He looks around the room, which features white cabinetry and a wooden dining table. (2) The scene shifts to a glass display cabinet filled with numerous small colorful gashapon figures and toys; the camera pans slowly across the collection. (3) The man walks up a granite staircase where a calico cat waits at the landing. He reaches out to pet an orange tabby cat resting on a shelf. (4) He opens a wooden drawer to reveal various bags of cat treats and food. He pours kibble into a bowl as several cats gather around his feet on a tiled floor. (5) In a small home office or studio, the man changes into a white baseball jersey with 'Dodgers' and '17' on it. He adjusts a blue baseball cap while looking into the camera; the room is filled with collectibles and a yellow chair. (6) The man walks through a garage area carrying the box of drinks, approaches a white Tesla, and gets into the driver's seat. (7) POV shots from inside the car show the dashboard and the road ahead as the vehicle moves through a residential area during late afternoon. (8) The man walks down a narrow outdoor alleyway carrying a bottle of Coca-Cola and a red and white striped bag of fried chicken. (9) He enters a brightly lit, decorated room where a young boy in a matching baseball jersey is playing. A table is spread with pizza boxes, balloons, and floral arrangements. (10) A close-up shows a smartphone displaying a video of a newborn baby crying. The boy and several adults lean in to watch the screen. (11) The group gathers around a white strawberry cake with lit candles. The boy uses a blue spatula to cut a slice and eats a piece of dark chocolate, reacting with a wrinkled nose and a pout.",
+      "text_narrative_log": "(1) [Logo]: 人類發展協會. [Slogan]: 這天是happy生日. 他這幾天都住在外公外婆家. (2) [Slogan]: 最近地震頻繁 家裡的扭蛋櫃 早已面目全非. (3) [Slogan]: 泡妃又在等我上樓 因為她想吃我倒的飼料. (4) [Variety]: 阿湯 ❤️. (5) [Slogan]: 泡妃還忘了自己是流浪貓 每天都會很職業病地 來我房間門口討吃的 但是2樓明明有自動餵食機 她還是喜歡這樣的儀式感. (6) [Slogan]: 今天岳父給Happy 穿了大谷翔平的球帽跟衣服 所以我決定跟他穿父子裝. (7) [Slogan]: 準備去市區拿披薩跟蛋糕. (8) [Slogan]: 林太太花店的姑姑 會幫Happy佈置生日場地 #花花花店. (9) [Slogan]: 大家各司其職 準備出發. (10) [Slogan]: 雖然林太太有訂 披薩跟蛋糕 但我還是買了胖老爹 🍗 單純只是因為我想吃 😂. (11) [Slogan]: 他終於完成了他的夢想 林太太說他五歲之後 就可以吃巧克力了. (12) [Slogan]: 他媽媽特地幫他準備了 100%的濃巧克力 👍. (13) [Slogan]: 他吃完的感想是... (14) [Variety]: 有點苦 🤢. (15) [Variety]: 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 main child (Happy), 3 adult females and 2 adult males at the party.",
+        "mainCharacterDescription": "An adult male in his 30s, initially in a black tank top then switching to an LA Dodgers baseball jersey (Ohtani #17) and cap. A young boy around 5 years old wearing a matching blue and white Ohtani jersey and cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Indoor Kitchen",
+            "Living Room",
+            "Garage",
+            "Outdoor Street"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern home with a well-equipped kitchen, a glass-encased toy collection, a granite staircase, a specialized studio room with memorabilia, a garage with a Tesla, and a decorated party room with 'Happy Birthday' balloons.",
+        "lightingStyle": [
+          "Natural light",
+          "Interior domestic lighting"
+        ],
+        "weather": [
+          "Sunny"
+        ],
+        "season": "Spring",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Chinese"
+          ],
+          "isSubtitled": false
+        },
+        "colorTone": [
+          "Natural",
+          "Warm"
+        ],
+        "cameraWork": [
+          "POV",
+          "Follow shot",
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Pizza",
+          "Fried Chicken",
+          "Cake",
+          "Strawberry",
+          "Chocolate",
+          "Coca-Cola"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tesla"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Brust",
+          "LA Dodgers",
+          "Nike",
+          "Tesla",
+          "Fat Daddy",
+          "Coca-Cola"
+"胖老爹"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A male voice begins narrating in a casual, conversational tone with moderate speed. A light, whimsical acoustic BGM with a steady folk-style beat plays at a medium volume. (2) The sound of footsteps on a hard floor is heard, followed by the soft, rhythmic sound of a cat being petted. The narrator's tone becomes more affectionate. (3) A mechanical sliding sound occurs as a drawer is opened. High-frequency plastic crinkling noises from cat food bags dominate the mix, followed by the pattering sound of dry kibble hitting a bowl. (4) A cat meows with a clear, medium pitch. The narration continues as the background music maintains its upbeat tempo. (5) The acoustic environment shifts to a smaller room with less reverb. The male voice describes his outfit change. There is the sound of fabric rustling and the soft click of a door handle. (6) The sound of an electric car's low-frequency hum and a metallic click from a charging port are heard. (7) A car door shuts with a heavy, solid thud, followed by the rhythmic electronic beeping of a seatbelt reminder and the clicking of a turn signal. (8) Outdoor ambient noise enters the mix, including the low rumble of distant traffic and the sound of wind. Rhythmic footsteps on pavement and the rustling of a plastic bag are audible. (9) A door opens, and the acoustic scene transitions to a lively indoor gathering. Multiple voices—male, female, and a child—are heard in an excited, high-arousal overlap. A child's voice shouts with joy. (10) A tinny, low-fidelity sound of a baby crying plays through a phone speaker, accompanied by the laughter and commentary of adults in the room. (11) A group begins singing 'Happy Birthday' in a mix of Mandarin and English, accompanied by rhythmic hand-clapping. The volume is loud and the energy is high. (12) The sound of a spatula slicing through a soft cake is heard. The child's voice speaks, followed by a chorus of laughter as he reacts to the taste of chocolate. The BGM fades out.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "main_characters_voices": 2,
+          "total_distinct_voices": 7,
+          "vocal_demographics": {
+            "male_vocal_count": 3,
+            "female_vocal_count": 3,
+            "kids_vocal_count": 1
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "Narrative",
+            "Affectionate",
+            "Excited",
+            "Celebratory"
+          ],
+          "speechDensity": [
+            "Continuous talking",
+            "Occasional singing"
+          ],
+          "vocalLanguage": [
+            "Mandarin",
+            "English"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": [
+          "Moderate"
+        ],
+        "pauseFrequencyAndDuration": [
+          "Natural conversational pauses"
+        ],
+        "pitchF0AndVariability": [
+          "Moderate for narrator",
+          "High-pitched for child"
+        ],
+        "intensityAndLoudness": [
+          "Moderate during narration",
+          "Loud during the party"
+        ],
+        "voiceQuality": [
+          "Clear",
+          "Bright"
+        ],
+        "articulationClarity": [
+          "Clear"
+        ],
+        "intonationAndContour": [
+          "Rising and falling patterns in narration",
+          "Exclamatory patterns during celebration"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": [
+          "Medium during intro",
+          "High during celebration"
+        ],
+        "valence": [
+          "Positive",
+          "Cheerful"
+        ],
+        "dominance": [
+          "Confident"
+        ],
+        "vocalEmotionClassification": [
+          "Happy",
+          "Amused"
+        ],
+        "tensionIndicators": [
+          "None"
+        ]
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic Folk",
+          "Upbeat"
+        ],
+        "tempoBPM": 115,
+        "bgmSinger": {
+          "total_singer_count": 0,
+          "male_singer_count": 0,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "None"
+        ],
+        "musicToSpeechRatio": [
+          "Medium"
+        ],
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": [
+          "Moderate"
+        ],
+        "instrumentFamiliesAudible": [
+          "Strings",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Acoustic Guitar"
+        ],
+        "musicSourceType": [
+          "Stock"
+        ],
+        "keyChangesAndHarmonicTension": [
+          "None"
+        ]
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "Plastic crinkling",
+          "Kibble pouring",
+          "Car door thud",
+          "Seatbelt chime",
+          "Turn signal click",
+          "Clapping",
+          "Cake slicing"
+        ],
+        "crowdNoise": [
+          "Cheering",
+          "Laughter",
+          "Group singing"
+        ],
+        "ambientNoiseDetails": [
+          "Wind",
+          "Distant traffic",
+          "Indoor room tone"
+        ],
+        "silence": [
+          "None"
+        ]
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": [
+          "Bright"
+        ],
+        "spectralFluxAndBandwidth": [
+          "Moderate"
+        ],
+        "noisinessAndPercussiveness": [
+          "Percussive claps and kibble sounds"
+        ],
+        "harmonicsToNoiseRatio": [
+          "High"
+        ],
+        "jitterAndShimmer": [
+          "None"
+        ]
+      },
+      "editing_and_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "vocalRatio": "High",
+        "audioEventDensity": [
+          "High"
+        ],
+        "audioCutFrequency": [
+          "Moderate"
+        ],
+        "dynamicRange": [
+          "Moderate"
+        ],
+        "clippingAndCompressionLevel": [
+          "Optimized for social media"
+        ],
+        "speechMusicOverlap": [
+          "High"
+        ],
+        "rhythmSync": "Low",
+        "audioQuality": [
+          "Mixed (Field and Studio-like)"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 9.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a father's preparation routine including pet care and outfit selection, transitioning into a commute and concluding with a family birthday celebration."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Routine -> Preparation -> Climax",
+      "mainPurpose": "To document and share the heartwarming experience of a son's 5th birthday. The video builds intimacy by showing mundane daily chores and personal preparations (the 'father-son outfit') before the main celebratory event, emphasizing family bonds and milestones like the child's first taste of chocolate.",
+      "visualEmotion": [
+        "Warm",
+        "Humorous",
+        "Celebratory"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While brands like Brust, Dodgers, Tesla, and Fat Daddy are visible, they appear as part of the natural domestic setting rather than paid placements.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "POV camera work, descriptive Chinese on-screen text, family-centric storytelling.",
+      "freeDescribe": "The video effectively uses the Shohei Ohtani jersey as a central visual theme for the 'father-son' connection. The use of a phone to play old videos adds a multi-layered temporal depth to the birthday celebration."
+    }
+  }
+}

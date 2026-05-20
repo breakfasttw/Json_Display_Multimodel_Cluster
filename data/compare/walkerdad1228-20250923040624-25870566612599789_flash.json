@@ -1,0 +1,122 @@
+{
+  "videoName": "DRIP_BABYMONSTER_DanceCover.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 197,
+      "aspectRatio": "1:1",
+      "videoGenre": ["Dance Cover", "Music Video"],
+      "withRealPeople": true,
+      "location": {
+        "country": ["Unknown"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 85,
+      "averageSceneDuration": 2.3,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Intro -> Synchronized Dance Performance -> Close-up Lip-syncing -> Group Formation Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 7,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 5,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": ["Full body", "Mid-shot", "Close-up"],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "5 young girls as main dancers/performers, 1 adult passer-by in background at 01:05, 1 motorcyclist in background at 00:31",
+      "mainCharacterDescription": "Five young girls aged approximately 8-12. One group of outfits features pastel blue and pink cargo pants with white crop tops. Another set features bright yellow cargo pants, black long-sleeved shirts, beanies, and yellow-rimmed sunglasses."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": ["Outdoor Street", "Modern Building Exterior", "Indoor Walkway"],
+        "topography": ["Urban"]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern city streets with skyscrapers, a bridge/overpass, a building with a large colorful pixelated heart mural and a small fountain, and a futuristic-looking white walkway with a red carpet floor.",
+      "lightingStyle": "Natural daylight, overcast sky, bright outdoor lighting",
+      "weather": "Cloudy",
+      "season": "Spring or Autumn",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": ["Chinese", "English"],
+        "isSubtitled": false
+      },
+      "colorTone": "Natural and Vibrant",
+      "cameraWork": ["Static", "Follow shot", "Low angle", "Panning"]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": ["None"],
+      "foodsDetect": ["None"],
+      "trafficDetect": ["Car", "Bus", "Motorcycle"],
+      "techDetect": ["Smartphone"],
+      "landmark": ["None"],
+      "brandLogos": ["Body Glove", "Tesla"],
+      "instrumentsVisible": ["None"]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 5,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 5
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, Youthful",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": ["English", "Korean"]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Hip-hop/Pop",
+      "bgmBPM": 105,
+      "instrumentsAudible": ["Synthesizer", "Electronic Drums", "Bass"],
+      "musicSourceType": "Copyrighted Song",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": ["None"],
+      "ambientNoise": ["Low traffic noise"],
+      "audioQuality": "Studio"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "High",
+      "peopleDetectAmount": 7,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 6,
+      "kidsDetectAmount": 5
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Performance-based choreography showcase.",
+      "mainPurpose": "To showcase the dance skills of a youth group covering a popular K-pop song.",
+      "visualEmotion": "Energetic, Confident, Fun"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": "None"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy synchronized K-pop choreography by children with professional-grade editing and multiple outfit changes.",
+      "freeDescribe": "The video mimics the style of official K-pop music videos with rapid cuts, synchronized movements, and stylized street fashion tailored for a younger audience."
+    }
+  }
+}

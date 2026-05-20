@@ -1,0 +1,167 @@
+{
+  "videoName": "video.mp4", // // If provided in instructions, use the exact filename. Otherwise, default to 'video.mp4'. Do not guess based on content.
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 0, number, // Total video duration (seconds)
+      "aspectRatio": "9:16", // 9:16, 16:9, 1:1, other
+    },
+	"visual_base": {
+		"withRealPeople": true,  // [Deaf Test]  Whether real people appear in the frame (not animation or virtual avatars)
+		"visual_narrative_log": "string"; // [Deaf Test] [Format] Use (1)(2)(3) for Visual-Base CHRONOLOGICAL PHASES. No need to mark the timeline. Record {n} distinct visual events with {n} detailed descriptions. Each phase MUST cover: [People: Face/Hands], [Objects: Details/State], and [Setting: Background/Lighting]. Minimum 40 words per phase to ensure atomic detail. Do not summarize or simplify based on length. No categorical lists. No audio/text info.
+		"text_narrative_log": "string"; // [Deaf Test] [Format] (1) [Category]: Content. (2) [Category]: Content. Labels: [Subtitle], [Logo], [Variety], [Slogan]. If simultaneous text exists, list them together. No need to mark the timeline. ORIGINAL language only. No quotes, no translations, no explanations. Example: (1) [Subtitle]: 大家好. [Logo]: @HanHan. (2) [Variety]: 尖叫聲!!". 
+		"visual_human_presence": {
+		  "totalHumanCount": 0, // [Deaf Test] Includes frontal, side, and back views; includes passers-by and distant figures; count as long as they appear
+		  "maleDetectAmount": integer, // [Deaf Test] 
+		  "femaleDetectAmount": integer, // [Deaf Test] 
+		  "kidsDetectAmount": integer, // [Deaf Test] 
+		  "mainCharacterCount": 0, // [Deaf Test]  Number of individuals identified as main characters or primary interviewees
+		  "bodyPartVisibility": ["Hands only", "Full body"], // [Deaf Test] e.g., Hands only, Back view, Full body
+		  "crowdLevel": ["Single", "Duo", "Small Group", "Crowd"], // [Deaf Test] 
+		  "countingEvidence": "e.g., 1 main creator, 2 passers-by in background", // [Deaf Test] 
+		  "mainCharacterDescription": "string" // [Deaf Test] Describe the appearance and dressing style of the main character(s)
+		},
+		"visual_scene_and_style": {
+		  "locationCategory": { 
+			"category": ["None"], // [Deaf Test] Scene category, e.g., Indoor Kitchen, Outdoor Street, Studio, Cafe. Mandatory: Use ["None"] if absent. NEVER use [].
+			"topography": ["None"]  // [Deaf Test] Topography or natural landforms, e.g., Plain, Hill, River, Coastline, Volcanic. Mandatory: Use ["None"] if absent. NEVER use [].
+		  },
+		  "isMultipleBackground": boolean, // [Deaf Test] 
+		  "backgroundDescribe": "string", // [Deaf Test]  Detailed description of background objects and environment (maintain narrative description)
+		  "lightingStyle": ["Natural light", "intense studio lights"],  // [Deaf Test]  e.g., Natural light, intense studio lights, dim, neon, etc.
+		  "weather": ["Sunny"], // [Deaf Test]  e.g., Sunny, Partly cloudy, Mostly clear, Rainy, Cloudy, Windy, Foggy, Snowy, Typhoon, Hail ..., Unknown
+		  "season": "string", // [Deaf Test]  e.g., Spring, Summer, Fall, Winter, Unknown
+		  
+		  "textOverlay": {
+			"density": "None / Low / Medium / High", // [Deaf Test]  Frequency of variety-show style text overlays and titles
+			"textLanguage": ["None"], // [Deaf Test]  Languages appearing in text overlays, including emojis. Mandatory: Use ["None"] if absent. NEVER use [].
+			"isSubtitled": boolean // [Deaf Test]  Whether there are subtitles
+		  },
+		  "colorTone": ["High Saturation", "Cinematic"], // [Deaf Test] e.g., High Saturation, Muted, Cinematic, Natural, etc.
+		  "cameraWork": ["POV", "Static"] // [Deaf Test] Camera techniques, e.g., POV, Static, Drone, Follow shot, 360-degree
+		},
+		 "visual_objects_and_brands": {
+		  "animalDetect": ["None"], // [Deaf Test] General categories, e.g., Cat, Dog. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "foodsDetect": ["None"], // [Deaf Test]  General categories, e.g., Noodles, Milk, Ramen. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "trafficDetect": ["None"], // [Deaf Test]  General categories, e.g., Car, Bus, Helicopter. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "techDetect": ["None"], // [Deaf Test]  General categories, e.g., Smartphone, TV. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "landmark": ["None"], // [Deaf Test]  Identified specific landmarks, e.g., Taipei 101, Tokyo Skytree. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "brandLogos": ["None"], // [Deaf Test]  Clearly identifiable trademarks on screen **Present in the original language of the trademark, do not translate to English**. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "instrumentsVisible": ["None"] // [Deaf Test]  Specific instruments "being played" or "placed" on screen. Mandatory: Use ["None"] if absent. NEVER use [].
+		}
+	},
+	"audio_base": {
+			"audio_narrative_log": "string", // [Blind Test] [Format] Use (1)(2)(3) for Audio-Base CHRONOLOGICAL PHASES. No need to mark the timeline. Strictly follow 'Blind Listening Test'. MANDATORY: Every unique SFX (clicks, bangs, rustles) MUST trigger a new numbered phase. Each phase MUST ALWAYS DETAIL the interplay of Vocals (Speech Rate, Pitch, Tone), Music (BPM, Texture), and SFX. Assume the persona of a Professional Acoustics Expert/Mix Engineer. Minimum 40 words per phase. Do not summarize. Do not list categories by number.
+			
+			"vocal_characterization_and_census": {
+				"vocal_inventory_census": {
+					"main_characters_voices": 0, // [Blind Test] Total number of main characters voices. BGM singing is excluded.
+					"total_distinct_voices": 0, // [Blind Test] Total number of unique voices identified in the audio track, passers-by or background chatter from non-main characters (regardless of their location). BGM singing is excluded.
+					"vocal_demographics": {
+						"male_vocal_count": 0, // [Blind Test] Total number of male voices detected. BGM singing is excluded.
+						"female_vocal_count": 0, // [Blind Test] Total number of female voices detected. BGM singing is excluded.
+						"kids_vocal_count": 0 // [Blind Test] Total number of child voices detected. BGM singing is excluded.
+					}
+				},
+				"vocal_qualities": {
+					"tone": ["None"], // [Blind Test] e.g., excited, cheerful, professional, friendly and humorous, etc. Mandatory: Use ["None"] if absent.
+					"speechDensity": ["None"], // [Blind Test] e.g., Continuous talking, Occasional talking, No talking, Occasional narration, Occasional singing, Continuous singing. Mandatory: Use ["None"] if absent.
+					"vocalLanguage": ["None"] // [Blind Test] Identified spoken languages. Mandatory: Use ["None"] if absent. NEVER use [].
+				}
+			},
+
+			"speaking_style_and_prosody": {
+				"speechRate": ["None"], // [Blind Test] Words or syllables per second/minute. e.g., Extremely fast, Fast, Moderate, Slow, Extremely Slow. Mandatory: Use ["None"] if absent.
+				"pauseFrequencyAndDuration": ["None"], // [Blind Test] How often and long the speaker pauses (e.g., slow with pauses, frequent short pauses). Mandatory: Use ["None"] if absent.
+				"pitchF0AndVariability": ["None"], // [Blind Test] Perceived vocal highness/lowness & variability. e.g., Extremely high, High, Medium-high, Moderate, High-pitched, Sharp, Deep, Low. Mandatory: Use ["None"] if absent.
+				"intensityAndLoudness": ["None"], // [Blind Test] Volume level over time. e.g., Extremely Loud, Loud, Moderate, Quiet, Extremely quiet. Mandatory: Use ["None"] if absent.
+				"voiceQuality": ["None"], // [Blind Test] e.g., Breathiness, roughness, creakiness, strain, clear. Mandatory: Use ["None"] if absent.
+				"articulationClarity": ["None"], // [Blind Test] How clearly phonemes/words are produced (e.g., Clear/Professional, Reduced/Casual). Mandatory: Use ["None"] if absent.
+				"intonationAndContour": ["None"] // [Blind Test] Rising/falling pitch patterns, emphasis/stress patterns, and rhythm regularity. Mandatory: Use ["None"] if absent.
+			},
+
+			"emotional_and_affective": {
+				"arousal": ["None"], // [Blind Test] Energy or activation level (e.g., High arousal: excitement, anger; low arousal: calm, sadness). Mandatory: Use ["None"] if absent.
+				"valence": ["None"], // [Blind Test] Positive vs. negative emotional tone (e.g., hopeful, critical, fearful, optimistic). Mandatory: Use ["None"] if absent.
+				"dominance": ["None"], // [Blind Test] Confidence/control, assertiveness or authority in voice. Mandatory: Use ["None"] if absent.
+				"vocalEmotionClassification": ["None"], // [Blind Test] Predicted categories such as happy, angry, sad, neutral. Mandatory: Use ["None"] if absent.
+				"tensionIndicators": ["None"] // [Blind Test] Jitter, shimmer, or spectral stress features indicating anxiety or intensity. Mandatory: Use ["None"] if absent.
+			},
+
+			"music_features": {
+				"musicPresence": false, // [Blind Test] Whether background music is present.
+				"bgmGenre": ["None"], // [Blind Test] Background music style: e.g., Upbeat, K-Pop, J-Pop, Lo-fi, Electronic, Suspenseful, No Music. Mandatory: Use ["None"] if absent.
+				"tempoBPM": 0, // [Blind Test] Estimated BPM of background music (0 if no music).
+				"bgmSinger": {
+					"total_singer_count": 0,
+					"male_singer_count": 0,
+					"female_singer_count": 0,
+					"kids_singer_count": 0
+				},
+				"bgmLanguage":["None"], // [Blind Test] The language of the background music. If it's instrumental, write "None".
+				"musicToSpeechRatio": ["None"], // [Blind Test] Relative loudness of music vs. voice (e.g., High, Medium, Low). Mandatory: Use ["None"] if absent.
+				"mode": ["None"], // [Blind Test] Major/minor tonality (e.g., Major: positive/hopeful; Minor: serious/sad/threatening). Mandatory: Use ["None"] if absent.
+				"beatStrength": ["None"], // [Blind Test] How strong or regular the beat is (e.g., Strong, Weak, None). Mandatory: Use ["None"] if absent.
+				"instrumentFamiliesAudible": ["None"], // [Blind Test] Instrument broad categories: Strings, Percussion, Keyboard, Electronic, Woodwind, Brass. Mandatory: Use ["None"] if absent.
+				"instrumentsAudible": ["None"], // [Blind Test] Audible specific instruments (e.g., Violin, Piano). Mandatory: Use ["None"] if absent. NEVER use [].
+				"musicSourceType": ["None"], // [Blind Test] Nature of music source: Stock / Copyrighted Song / AI / Live. Mandatory: Use ["None"] if absent. NEVER use [].
+				"keyChangesAndHarmonicTension": ["None"] // [Blind Test] Musical progression and emotional build-up tension. Mandatory: Use ["None"] if absent.
+			},
+
+			"sound_design": {
+				"soundEffectsDetails": ["None"], // [Blind Test] Identifiable sound events, e.g., Cartoon SFX, Dog barking, Cat meowing, Door slamming, whooshes, impacts, clicks, alarms. Mandatory: Use ["None"] if absent. NEVER use [].
+				"crowdNoise": ["None"], // [Blind Test] Collective audience sounds: e.g., Applause, cheering, crowd chatter. Mandatory: Use ["None"] if absent.
+				"ambientNoiseDetails": ["None"], // [Blind Test] Background environmental floor, e.g., Wind, Traffic, Cafe chatter, Forest birds/cicadas, office, nature. Mandatory: Use ["None"] if absent. NEVER use [].
+				"silence": ["None"] // [Blind Test] Strategic moments with very low audio energy for seriousness, suspense, or emphasis. Mandatory: Use ["None"] if absent.
+			},
+
+			"spectral_and_acoustic": {
+				"spectralCentroidBrightness": ["None"], // [Blind Test] Perceived brightness of sound (Higher: sharp/bright; Lower: dark/warmer). Mandatory: Use ["None"] if absent.
+				"spectralFluxAndBandwidth": ["None"], // [Blind Test] Spectral shape change over time (dynamism) and spread of frequencies (richness/complexity). Mandatory: Use ["None"] if absent.
+				"noisinessAndPercussiveness": ["None"], // [Blind Test] Based on zero-crossing rate (detecting unvoiced speech or percussive noise). Mandatory: Use ["None"] if absent.
+				"harmonicsToNoiseRatio": ["None"], // [Blind Test] Clean vs. breathy/rough/noisy vocal texture. Mandatory: Use ["None"] if absent.
+				"jitterAndShimmer": ["None"] // [Blind Test] Small variations in pitch and amplitude indicating vocal stress/fatigue. Mandatory: Use ["None"] if absent.
+			},
+
+			"editing_and_production_style": {
+				"audioContinuity": "Continuous", // [Blind Test] Continuous (smooth and continuous) / Fragmented (composed of fragmented edits)
+				"audioTransition": ["None"], // [Blind Test] Audio transition techniques: e.g., Cross-fade, Hard cut, Fade out, Fades, stingers, risers. Mandatory: Use ["None"] if absent.
+				"vocalRatio": "None", // [Blind Test] Weight of vocals relative to BGM/ambient: High (mainly talking head), Medium (even), Low (mainly music/atmosphere-oriented), None.
+				"audioEventDensity": ["None"], // [Blind Test] Number of speech/music/SFX events per minute (High density feels social-media-native). Mandatory: Use ["None"] if absent.
+				"audioCutFrequency": ["None"], // [Blind Test] Number of audio transitions per minute measuring production intensity. Mandatory: Use ["None"] if absent.
+				"dynamicRange": ["None"], // [Blind Test] Difference between quiet and loud parts (Wide: cinematic; Compressed: broadcast/social-media optimized). Mandatory: Use ["None"] if absent.
+				"clippingAndCompressionLevel": ["None"], // [Blind Test] Whether audio is heavily processed or platform-optimized. Mandatory: Use ["None"] if absent.
+				"speechMusicOverlap": ["None"], // [Blind Test] How often speech and music occur together (common in campaign ads/motivational videos). Mandatory: Use ["None"] if absent.
+				"rhythmSync": "Low", // [Blind Test] Low / High(Beat-sync) whether there is beat-matching/on-beat editing.
+				"audioQuality": ["None"] // [Blind Test] e.g., Studio / Field Recording / Low-fi / Mixed. Mandatory: Use ["None"] if absent.
+			}
+		}
+  },
+  "high_inference": {
+	"content_identity": {
+      "videoGenre": ["Vlog", "Tutorial"], // Video genre, e.g., Vlog, Tutorial, Unboxing, Commentary, Gaming, etc. Mandatory: Use ["None"] if absent. NEVER use [].
+      "location": { "country": ["None"], "city": ["None"] } // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+	"temporal_pacing_summary": {
+      "sceneCutCount": 0, // Total number of cuts (reflects production intensity)
+      "averageSceneDuration": 0.0, // Average duration per shot in seconds (reflects pace)
+	  "editingPace": "string (Fast / Moderate / Slow)",
+      "isNarrativeShift": boolean, // Whether there is a transition/turn in the middle of the video (e.g., talking head first, followed by b-roll/scenery)
+      "mainActionFlow": "string" // Describe the temporal flow in one sentence, e.g., Constant talking, or Intro -> Demo -> Outr
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "string", // [Narrative Structure] Describes the framework and logic of event arrangement. Format must be "Label: Logic Flow". 1. Labeling: Must first choose a standard category from (Linear / Montage / List-based / Circular / Random). 2. Logicization: Use "->" to describe the abstract progression of stages (e.g., Hook -> Evidence -> CTA). 3. Prohibition: Strictly forbidden to mention specific content details; limited to describing narrative functions.
+      "mainPurpose": "string", // [Comprehensive Intent] Combine all the above modalities (visual narrative, audio features, narrative structure) to conduct a deep summary, describing the main purpose and core appeal of the video. Strictly forbidden to cover it in a short single sentence; must possess narrative depth.
+      "visualEmotion": ["energetic", "humorous", "informative", "warm", "flirtatious"] // Overall emotion conveyed by the imagery, e.g., Energetic, Calm, Tense, Humorous
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "boolean",  // Whether it includes product or service placement/endorsement 
+      "endorsementMethod": ["None"], // Endorsement format, must include: (Explicit/Implicit) and (Full/Integrated)
+      "endorsementCues": "string",  // Basis for determining it as an endorsement
+      "endorsementObject": ["None"] // **Present in the original language of the brand, do not translate to English**. Inferred endorsed product or brand. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "string", // Describe visual or auditory signatures unique to the influencer (e.g., specific opening lines, specific filters)
+      "freeDescribe": "string" // Assessment of other findings that may affect the clustering results
+	}
+  }
+} 

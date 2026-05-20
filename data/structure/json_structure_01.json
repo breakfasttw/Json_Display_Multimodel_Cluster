@@ -1,0 +1,117 @@
+{
+  "videoName": "video.mp4", // If provided in instructions, use the exact filename. Otherwise, default to 'video.mp4'. Do not guess based on content.
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 0, // number, Total video duration (seconds)
+      "aspectRatio": "9:16", // 9:16, 16:9, 1:1, other
+      "videoGenre": ["Vlog", "Tutorial"], // Video genre, e.g., Vlog, Tutorial, Unboxing, Commentary, Gaming, etc. Mandatory: Use ["None"] if absent. NEVER use [].
+      "withRealPeople": true,  // Whether real people appear in the frame (not animation or virtual avatars)
+      "location": { "country": ["None"], "city": ["None"] } // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+	"perceptual_narrative_logs": {
+      "visual_narrative_log": "string", // [Format Specification] Must use (1) (2) (3) numbering to mark visual phases. Record in chronological order: changes in character facial expressions/gestures, movement of core objects, and scene transition details. For non-live-action videos (e.g., animation/graphics), this must be stated in the first sentence of phase (1). Strictly forbidden to mention any audio or text overlay content here.
+      "audio_narrative_log": "string",   // Strictly implement the 'Blind Listening Test': record only what is actually heard. Strictly forbidden to infer results based on visual imagery. [Format Specification] Must use (1) (2) (3) numbering to mark chronological audio phases (changes in the soundscape over time). Each phase must describe the integrated acoustic experience during that period, covering: (A) Vocals: gender, tone, and whether they are actually speaking (mark as 'No vocals detected' if silent). (B) BGM style/tempo. (C) Ambient noise. (D) Sound effects (SFX). Note: Do not use (1)(2)(3) to list categories (e.g., do not make 1=Vocals, 2=BGM); instead, use them to describe the flow (e.g., (1) Music starts... (2) Music fades as vocals enter... (3) Only ambient noise remains...). 
+      "text_narrative_log": "string",  [Format Specification] Must use (1) (2) (3) numbering to mark chronological text appearance.  Distinguish between: (A) Functional Text: Subtitles or narrations that translate speech.(B) Decorative/Effect Text: Variety-show style captions, emotional stickers, or "hooks" (e.g., "Watch until the end!"). Record the content and its emotional tone.
+	},
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0, // Total number of cuts (reflects production intensity)
+      "averageSceneDuration": 0.0, // Average duration per shot in seconds (reflects pace)
+      "isNarrativeShift": boolean, // Whether there is a transition/turn in the middle of the video (e.g., talking head first, followed by b-roll/scenery)
+      "mainActionFlow": "string" // Describe the temporal flow in one sentence, e.g., Constant talking, or Intro -> Demo -> Outr
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0, // Includes frontal, side, and back views; includes passers-by and distant figures; count as long as they appear
+	  "maleDetectAmount": integer,
+      "femaleDetectAmount": integer,
+      "kidsDetectAmount": integer,
+      "mainCharacterCount": 0, // Number of individuals identified as main characters or primary interviewees
+      "bodyPartVisibility": ["Hands only", "Full body"], // e.g., Hands only, Back view, Full body
+      "crowdLevel": "Single / Duo / Small Group / Crowd", // Single / Duo / Small Group / Crowd
+      "countingEvidence": "e.g., 1 main creator, 2 passers-by in background", // e.g., 1 main creator, 2 passers-by in background
+      "mainCharacterDescription": "string" // Describe the appearance and dressing style of the main character(s)
+    },
+    "visual_scene_and_style": {
+      "locationCategory": { 
+		"category": ["None"], // Scene category, e.g., Indoor Kitchen, Outdoor Street, Studio, Cafe. Mandatory: Use ["None"] if absent. NEVER use [].
+		"topography": ["None"]  // Topography or natural landforms, e.g., Plain, Hill, River, Coastline, Volcanic. Mandatory: Use ["None"] if absent. NEVER use [].
+	  },
+	  "isMultipleBackground": boolean,
+      "backgroundDescribe": "string", // Detailed description of background objects and environment (maintain narrative description)
+      "lightingStyle": "string", // e.g., Natural light, intense studio lights, dim, neon, etc.
+      "weather": "string",
+      "season": "string",
+      "editingPace": "string (Fast / Moderate / Slow)", //  e.g.Fast / Moderate / Slow
+      "textOverlay": {
+        "density": "None / Low / Medium / High", // Frequency of variety-show style text overlays and titles
+        "language": ["None"], // Languages appearing in text overlays, including emojis. Mandatory: Use ["None"] if absent. NEVER use [].
+        "isSubtitled": boolean // Whether there are subtitles
+      },
+      "colorTone": "string", // e.g., High Saturation, Muted, Cinematic, Natural
+      "cameraWork": ["POV", "Static"] // Camera techniques, e.g., POV, Static, Drone, Follow shot, 360-degree
+    },
+     "visual_objects_and_brands": {
+      "animalDetect": ["None"], // General categories, e.g., Cat, Dog. Mandatory: Use ["None"] if absent. NEVER use [].
+      "foodsDetect": ["None"], // General categories, e.g., Noodles, Milk, Ramen. Mandatory: Use ["None"] if absent. NEVER use [].
+      "trafficDetect": ["None"], // General categories, e.g., Car, Bus, Helicopter. Mandatory: Use ["None"] if absent. NEVER use [].
+      "techDetect": ["None"], // General categories, e.g., Smartphone, TV. Mandatory: Use ["None"] if absent. NEVER use [].
+      "landmark": ["None"], // Identified specific landmarks, e.g., Taipei 101, Tokyo Skytree. Mandatory: Use ["None"] if absent. NEVER use [].
+      "brandLogos": ["None"], // Clearly identifiable trademarks on screen **Present in the original language of the trademark, do not translate to English**. Mandatory: Use ["None"] if absent. NEVER use [].
+      "instrumentsVisible": ["None"] // Specific instruments "being played" or "placed" on screen. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+	"audio_production_style": {
+	  "audioContinuity": "Continuous / Fragmented", // Audio continuity: describes whether the audio track is smooth and continuous (Continuous) or composed of fragmented edits (Fragmented)
+      "audioTransition": "string", // Audio transition techniques: describes the switching methods between audio tracks, such as Cross-fade, Hard cut, Fade out, reflecting production sophistication
+      "vocalRatio": "string" // Vocal ratio: describes the weight of vocals relative to background music/ambient sound, e.g., High (mainly talking head), Medium (even), Low (mainly music/atmosphere-oriented)
+
+	},
+    "audio_vocal_characterization": {
+		"speaker_inventory": {
+            "onscreen": 0, // On-screen speakers: the speaker's face and mouth movements are clearly visible on screen, and the sound is synchronized with the on-screen action
+            "offscreen": 0, // Off-screen speakers: sound appears in the audio track, but the corresponding speaker does not appear on screen (e.g., narration, first-person photographer voice, off-camera characters)
+            "backgroundCrowdVoices": 0, // Background crowd voices: estimation of the number of noisy passers-by or background chatter from non-main characters
+            "vocal_demographics": {
+                "male_vocal_count": 0, // Total number of male voices detected (must include onscreen + offscreen)
+                "female_vocal_count": 0, // Total number of female voices detected (must include onscreen + offscreen)
+                "kids_vocal_count": 0 // Total number of child voices detected (must include onscreen + offscreen)
+		    }
+		},
+		"vocal_qualities": {
+            "tone": "string", // Tone description: e.g., high-pitched and excited, steady and professional, friendly and humorous
+            "pitch": "string", // Describes the pitch of the voice (e.g., sharp/high, deep/low)
+            "loudness": "string", // Describes the volume level of the sound
+            "speed": "string", // Speech speed description: extremely fast, normal, slow with pauses
+            "speechDensity": "string", // Speech density: describes the extent to which speech fills the video, e.g., Continuous talking, Occasional narration
+            "language": ["None"] // Identified spoken languages. Mandatory: Use ["None"] if absent. NEVER use [].
+		}
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": "boolean",
+      "bgmGenre": "string",  // Describes background music style: Lo-fi, Upbeat, classic, No Music, Suspenseful
+      "bgmBPM": 0,  // Estimated BPM of background music
+      "instrumentFamiliesAudible": ["Keyboard"], // Instrument broad categories: Strings, Percussion, Keyboard, Electronic, Woodwind, Brass ...None
+      "instrumentsAudible": ["Violin", "Piano"], // Audible instruments (may not appear on screen). Mandatory: Use ["None"] if absent. NEVER use [].
+      "musicSourceType": ["Copyrighted Song"], //  Nature of the music source, such as Stock / Copyrighted Song / AI / Live.Mandatory: Use ["None"] if absent. NEVER use [].
+      "rhythmSync": "Low / High(Beat-sync)", // Supplement: whether there is beat-matching/on-beat editing
+      "soundEffects": ["None"], // Sound effects usage, e.g., Cartoon SFX, Sizzling, Meme sounds. Mandatory: Use ["None"] if absent. NEVER use [].
+      "ambientNoise": ["None"], // Ambient noise, e.g., Wind, Traffic, Cafe, Studio quiet. Mandatory: Use ["None"] if absent. NEVER use [].
+      "audioQuality": "Studio / Field" // e.g., Studio / Field Recording / Low-fi
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "string", // [Narrative Structure] Describes the framework and logic of event arrangement. Format must be "Label: Logic Flow". 1. Labeling: Must first choose a standard category from (Linear / Montage / List-based / Circular / Random). 2. Logicization: Use "->" to describe the abstract progression of stages (e.g., Hook -> Evidence -> CTA). 3. Prohibition: Strictly forbidden to mention specific content details; limited to describing narrative functions.
+      "mainPurpose": "string", // [Comprehensive Intent] Combine all the above modalities (visual narrative, audio features, narrative structure) to conduct a deep summary, describing the main purpose and core appeal of the video. Strictly forbidden to cover it in a short single sentence; must possess narrative depth.
+      "visualEmotion": "string" // Overall emotion conveyed by the imagery, e.g., Energetic, Calm, Tense, Humorous
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "boolean",  // Whether it includes product or service placement/endorsement 
+      "endorsementMethod": ["None"], // Endorsement format, must include: (Explicit/Implicit) and (Full/Integrated)
+      "endorsementCues": "string",  // Basis for determining it as an endorsement
+      "endorsementObject": ["None"] // **Present in the original language of the brand, do not translate to English**. Inferred endorsed product or brand. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "string", // Describe visual or auditory signatures unique to the influencer (e.g., specific opening lines, specific filters)
+      "freeDescribe": "string" // Assessment of other findings that may affect the clustering results
+	}
+  }
+}

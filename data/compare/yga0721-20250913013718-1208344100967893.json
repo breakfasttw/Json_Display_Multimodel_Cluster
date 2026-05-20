@@ -1,0 +1,179 @@
+{
+  "videoName": "yga0721-20250913013718-1208344100967893.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 81,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Advertisement"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei",
+          "New Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video begins with a male character (Tsai A-ga) showing exaggerated expressions of surprise as several colorful gift boxes are flashed in front of him. (2) He transitions to an indoor dining scene where he and two friends are sitting around a table having a BBQ (indoor grill). (3) The camera intercuts between their interaction and close-up shots of a glass being filled with a golden liquid (chicken essence) and various product boxes. (4) The main character holds up a red gift box while talking excitedly, later showcasing different colored boxes (green, white, red). (5) The group interacts playfully, pointing at each other and the products. (6) The video ends with the characters holding up multiple gift boxes towards the camera in a promotional pose.",
+      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music plays throughout. (2) A male voice speaks with a high-pitched, energetic, and humorous tone in Chinese and Taiwanese Hokkien. (3) Sounds of a sizzling grill and casual group laughter are heard in the background. (4) A clearer, more professional-sounding voiceover (likely recorded in a studio) describes product features such as 'natural ingredients' and 'low sodium' mid-video. (5) Cartoonish sound effects (SFX) like pops and dings coincide with the appearance of text overlays.",
+      "text_narrative_log": "(1) Functional Text: Subtitles translate the dialogue between the characters regarding gift-giving for the Mid-Autumn Festival. (2) Decorative/Hook Text: Large, colorful variety-show style captions such as '農純鄉中秋禮盒' (Nong Chun Xiang Mid-Autumn Gift Box), '天然無添加' (Natural No Additives), and '任選兩件79折' (Select any two for 21% off) appear with a persuasive and festive tone. (3) Location labels like '新北_王小姐' and '台北_周先生' appear during simulated interview segments."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.5,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Group Discussion/Skit -> Product Feature Demo -> Promotion and CTA"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Upper body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male main creator, 1 male friend, 1 female friend.",
+      "mainCharacterDescription": "A male creator with short brown hair, wearing a cream-colored short-sleeved t-shirt and light-colored shorts, known for expressive facial reactions."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Dining Room",
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A domestic indoor setting with dining table, BBQ grill, indoor plant, and cartoon illustrations on the wall.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "Autumn (implied)",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static",
+        "Handheld",
+        "Follow shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Grilled Meats",
+        "Vegetables",
+        "Chicken Essence"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "農純鄉"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and energetic",
+        "pitch": "High-pitched",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Traditional Chinese",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat Pop",
+      "bgmBPM": 128,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Machine"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Meme sounds",
+        "Transition pops"
+      ],
+      "ambientNoise": [
+        "Sizzling",
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Skit -> Discussion -> Demonstration -> CTA",
+      "mainPurpose": "The video serves as a festive commercial for the brand '農純鄉' (Nong Chun Xiang). It uses a comedic vlog format to address the common social dilemma of what to gift family members during the Mid-Autumn Festival, positioning chicken essence gift boxes as a healthy and versatile solution with a limited-time discount.",
+      "visualEmotion": "Energetic and Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of product boxes, brand name repetition, and explicit mention of price discounts and purchase channels.",
+      "endorsementObject": [
+        "農純鄉"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Tsai A-ga's signature exaggerated acting style and fast-paced editing with variety-show captions.",
+      "freeDescribe": "The video effectively leverages the creator's established comedic persona to make the advertisement feel like organic content, typical of top-tier influencers in the Taiwan market."
+    }
+  }
+}

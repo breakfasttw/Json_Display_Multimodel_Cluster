@@ -1,0 +1,183 @@
+{
+  "videoName": "video.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 233,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Family",
+        "Celebration"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 15.5,
+      "isNarrativeShift": false,
+      "mainActionFlow": "A father's chronological preparations and journey to celebrate his son's 5th birthday, ending with a family party."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Upper body",
+        "Face",
+        "Hands only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 child (birthday boy), and 3 adult family members gathered at the party table.",
+      "mainCharacterDescription": "A father wearing a Los Angeles Dodgers baseball jersey and cap. His young son wears a matching Dodgers outfit."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room",
+          "Outdoor Street",
+          "Car Interior"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Transitions from a modern multi-story home with a cat room, to a studio, an outdoor garage, driving in a car, an outdoor street, and finally a decorated dining room for a birthday party.",
+      "lightingStyle": "Natural indoor and outdoor lighting, mixed with warm artificial lighting at the party.",
+      "weather": "Clear",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Emoji"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "POV",
+        "Handheld"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat"
+      ],
+      "foodsDetect": [
+        "Cake",
+        "Pizza",
+        "Fried Chicken",
+        "Chocolate"
+      ],
+      "trafficDetect": [
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "brüst",
+        "Dodgers",
+        "Tesla",
+        "Coca-Cola",
+        "胖老爹"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 2,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Affectionate, joyful, humorous",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking and narration",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Lighthearted, acoustic",
+      "bgmBPM": 100,
+      "instrumentsAudible": [
+        "Guitar",
+        "Piano",
+        "Percussion"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Car engine",
+        "Street noise",
+        "Party chatter"
+      ],
+      "audioQuality": "Field Recording"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High",
+      "peopleDetectAmount": 5,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 2,
+      "kidsDetectAmount": 1
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Chronological vlog detailing the preparations for a child's birthday, culminating in the family celebration and a funny moment.",
+      "mainPurpose": "To document and share a heartwarming and humorous family milestone.",
+      "visualEmotion": "Warm, loving, joyful, funny"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses entirely on a personal family event. Brands shown appear to be personal belongings or everyday purchases for the party, not sponsored placements.",
+      "endorsementObject": "None"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of a wide-angle/fisheye POV lens combined with running text commentary that adds a humorous, self-deprecating layer to the narrative.",
+      "freeDescribe": "A relatable parenting vlog capturing the chaotic but loving preparations for a child's birthday, highlighting the father's effort to wear matching outfits and the child's funny reaction to tasting 100% dark chocolate for the first time."
+    }
+  }
+}

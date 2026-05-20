@@ -1,0 +1,169 @@
+{
+  "videoName": "achusan0817-20250522071346-1427164119064164.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 60,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Comedy"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a non-live-action animation. Two male characters with school uniforms are standing in a classroom hallway, talking near lockers. One has spiky dark hair and the other is bald. (2) The scene transitions to a medium shot of the bald character as a small chibi-style character (Reborn) flies past him. (3) A female student with short grey hair and large eyes appears in the classroom setting. (4) The two boys approach her, looking persistent. (5) The female character has an angry/shouting expression with speed lines around her face. (6) The screen turns brown with white text 'Old Driver' appearing over the characters.",
+      "audio_narrative_log": "(1) Two male voices are heard speaking in Mandarin, one slightly deeper than the other, discussing a birthday gift over light, upbeat background music. (2) A female voice enters, initially sounding curious then becoming firm and shouting. (3) Frequent high-pitched bleeping sound effects (SFX) are used to censor specific words during the dialogue. (4) Ambient classroom noise is minimal, with the focus on the dialogue. (5) The video ends with a deep, authoritative male voice saying 'Old Driver' (Lao Si Ji).",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the dialogue between the students. (2) Functional Text: A series of numbers appear (6918, 6927, 10069, etc.), referencing subculture-specific codes. (3) Decorative Text: 'FOXY受災戶' appears with an angry expression. (4) Hook Text: '老司機' (Old Driver) appears at the end in large white characters against a dark background."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Discussion -> Meeting the girl -> Shocking request -> Reaction and punchline"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "2 animated male students and 1 animated female student.",
+      "mainCharacterDescription": "Animated students in white short-sleeved school shirts; one male is bald, one has spiky dark hair, the female has short grey hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Classroom"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": false,
+      "backgroundDescribe": "An animated classroom with green chalkboards, grey lockers, and rows of brown desks and chairs.",
+      "lightingStyle": "Flat animated lighting",
+      "weather": "Unknown",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Pastel",
+      "cameraWork": [
+        "Static",
+        "Zoom"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 3,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 3,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched",
+        "pitch": "Varied",
+        "loudness": "High during shouting",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat/Pop",
+      "bgmBPM": 120,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum Kit"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Censorship Bleeps",
+        "Shouting SFX"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Interaction -> Twist -> Punchline",
+      "mainPurpose": "To create a comedic subversion of the 'innocent schoolgirl' trope by having the character request adult content (AV) instead of a typical birthday gift, utilizing internet slang like 'Old Driver'.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of specific numbers representing adult content tags and the 'Old Driver' meme.",
+      "freeDescribe": "The video relies heavily on the viewer's understanding of internet subcultures and adult industry terminology for its humor."
+    }
+  }
+}

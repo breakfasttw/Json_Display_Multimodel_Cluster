@@ -1,0 +1,176 @@
+{
+  "videoName": "2uncle987-20251001222519-1609690110064482.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 114,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Skit",
+        "Advertisement",
+        "Vlog"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": []
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) A woman is seen browsing in a clothing store, interacting with a clerk before leaving with a smile. (2) Scene shifts to the woman appearing to scold a child off-camera on a street; two bystanders observe her and whisper while looking at a phone. (3) The woman is shown lying in bed, visibly annoyed by thumping sounds from above, then gets up in pajamas to confront a male neighbor at his door. (4) The woman introduces a large blue fitness mat, demonstrating its thickness, texture, and grip with close-up shots of hands and feet jumping on it. (5) The woman and the male neighbor stand together in a room with a toy display cabinet, laughing and talking while gesturing toward the mat.",
+      "audio_narrative_log": "(1) Vocals: Female voice, initially polite in the shop, then sharp and loud during the street 'education' scene, finally sounding frustrated and confrontational with the neighbor. (2) Vocals: Male voice, casual and slightly breathless, explaining his exercise routine. (3) BGM: Light, comedic underscore in the first half, transitioning to a high-energy, upbeat commercial track during the product feature demonstration. (4) SFX: Rhythmic 'thump-thump' sounds representing footsteps from the floor above; doorbell chime; door opening sound.",
+      "text_narrative_log": "(1) Hook text: '身為一位知名網路創作者...' (As a famous internet creator...), '如果我逛街不消費' (If I go shopping and don't buy). (2) Narrative text: '如果我在路邊教育小孩' (If I educate kids on the street), '如果我的鄰居很吵鬧' (If my neighbor is noisy). (3) Functional text: 'Lotus Fitness', '二代慢跑墊' (2nd Gen Jogging Mat), '臺灣製造' (Made in Taiwan), '緩衝避震' (Shock absorption)."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 4.75,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro/Problem scenarios -> Climax (Neighbor dispute) -> Solution (Product Introduction) -> Outro"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 5,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 4,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Full body",
+        "Hands only",
+        "Feet only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main female creator, 1 male neighbor, 1 shop clerk, 2 female bystanders.",
+      "mainCharacterDescription": "A woman with long dark hair wearing pink pajamas in the latter half; a man with curly hair wearing a green 'Haha Baby' t-shirt and shorts."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Kitchen",
+          "Bedroom",
+          "Studio",
+          "Clothing Store"
+        ],
+        "topography": []
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "A clothing shop with racks, a cozy bedroom with a wooden bed frame, an apartment hallway, and a studio space featuring a large display cabinet filled with character figures and toys.",
+      "lightingStyle": "Bright studio lighting",
+      "weather": "Indoor",
+      "season": "None",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Medium Shot"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Electronic Door Lock"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Lotus Fitness",
+        "Haha Baby"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 3,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 4,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Humorous and high-pitched during skits, informative during ad section",
+        "pitch": "High",
+        "loudness": "Normal",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": "true",
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 124,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Doorbell",
+        "Knocking",
+        "Cartoon thuds"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Problem -> Solution -> CTA",
+      "mainPurpose": "The video uses a humorous skit about neighbor noise complaints to promote the 'Lotus Fitness' jogging mat. It aims to solve the common problem of apartment noise during exercise by highlighting the mat's shock-absorbing and sound-dampening qualities.",
+      "visualEmotion": "Humorous"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "true",
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct demonstration of product features, brand name displayed in text, and call to action for group buying.",
+      "endorsementObject": [
+        "Lotus Fitness"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of 'Haha Baby' apparel, which is the creator's own brand, and a focus on domestic/family-oriented problem solving.",
+      "freeDescribe": "The video leverages the creator's public persona as 'Er-bo' (a well-known Taiwanese influencer) to build trust and relatability for the fitness product."
+    }
+  }
+}

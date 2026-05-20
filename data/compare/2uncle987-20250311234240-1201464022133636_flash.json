@@ -1,0 +1,128 @@
+{
+    "videoName": "Osaka_Katsuo-ji_Temple_Vlog.mp4",
+    "low_inference_observations": {
+        "basic_metadata": {
+            "videoDuration": 77,
+            "aspectRatio": "1:1",
+            "videoGenre": ["Travel Vlog", "Tour", "Family"],
+            "withRealPeople": true,
+            "location": { "country": ["Japan"], "city": ["Osaka"] }
+        },
+        "temporal_pacing_summary": {
+            "sceneCutCount": 46,
+            "averageSceneDuration": 1.7,
+            "isNarrativeShift": false,
+            "mainActionFlow": "Entrance -> Exploring Daruma displays -> Landscape views -> Stamp collection activity -> Souvenir shopping -> Conclusion"
+        },
+        "visual_human_presence": {
+            "totalHumanCount": 25,
+            "maleDetectAmount": 10,
+            "femaleDetectAmount": 15,
+            "kidsDetectAmount": 2,
+            "mainCharacterCount": 4,
+            "bodyPartVisibility": ["Full body", "Mid-shot", "Face close-up"],
+            "crowdLevel": "Crowd",
+            "countingEvidence": "1 female creator, her mother, and two young sons as main characters; numerous tourists in the background of temple shots.",
+            "mainCharacterDescription": "A woman in a beige trench coat and wide-leg jeans. An older woman in a brown puffer jacket. Two young boys in distinctive yellow and multi-colored fuzzy cardigans."
+        },
+        "visual_scene_and_style": {
+            "locationCategory": {
+                "category": [
+                    "Japanese Temple",
+                    "Outdoor Garden",
+                    "Pond",
+                    "Souvenir Shop"
+                ],
+                "topography": ["Hill"]
+            },
+            "isMultipleBackground": true,
+            "backgroundDescribe": "Traditional Japanese Buddhist temple architecture (Katsuo-ji) featuring red gates, pagodas, stone lanterns, and thousands of red Daruma dolls of various sizes placed throughout the grounds. A large pond with a red bridge and mist effects.",
+            "lightingStyle": "Natural outdoor daylight, mostly overcast.",
+            "weather": "Cloudy",
+            "season": "Early Spring / Late Winter",
+            "editingPace": "Fast",
+            "textOverlay": {
+                "density": "Medium",
+                "language": ["Traditional Chinese", "English", "Japanese"],
+                "isSubtitled": false
+            },
+            "colorTone": "Natural, with high contrast red elements (Daruma/Gates).",
+            "cameraWork": ["Static", "Panning", "Follow shot", "Low angle"]
+        },
+        "visual_objects_and_brands": {
+            "animalDetect": ["None"],
+            "foodsDetect": ["Potato chips", "Noodles", "Cookies"],
+            "trafficDetect": ["None"],
+            "techDetect": ["Smartphone"],
+            "landmark": ["勝尾寺"],
+            "brandLogos": ["胜尾寺", "Adidas"],
+            "instrumentsVisible": ["None"]
+        },
+        "audio_production_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "Hard cut (Beat-sync)",
+            "vocalRatio": "Medium"
+        },
+        "audio_vocal_characterization": {
+            "speaker_inventory": {
+                "onscreen": 4,
+                "offscreen": 1,
+                "backgroundCrowdVoices": 10,
+                "vocal_demographics": {
+                    "male_vocal_count": 2,
+                    "female_vocal_count": 2,
+                    "kids_vocal_count": 2
+                }
+            },
+            "vocal_qualities": {
+                "tone": "Cheerful, Informative, Excited",
+                "pitch": "Medium-high",
+                "loudness": "Clear",
+                "speed": "Normal",
+                "speechDensity": "Continuous narration mixed with live dialogue",
+                "language": ["Mandarin Chinese"]
+            }
+        },
+        "audio_music_and_environment": {
+            "bgmPresence": true,
+            "bgmGenre": "Upbeat Pop with Traditional Asian Elements",
+            "bgmBPM": 120,
+            "instrumentsAudible": [
+                "Synthesizer",
+                "Digital Percussion",
+                "Plucked Strings"
+            ],
+            "musicSourceType": "Stock",
+            "rhythmSync": "High(Beat-sync)",
+            "soundEffects": ["Camera shutter sound"],
+            "ambientNoise": ["Temple chatter", "Wind"],
+            "audioQuality": "Studio Narration / Field Audio"
+        },
+        "audio_technical_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "None",
+            "vocalRatio": "Medium",
+            "peopleDetectAmount": 25,
+            "maleDetectAmount": 10,
+            "femaleDetectAmount": 15,
+            "kidsDetectAmount": 2
+        }
+    },
+    "high_inference_interpretations": {
+        "narrative_and_purpose": {
+            "narrativeStructure": "Travel guide presenting the highlights of a specific tourist destination.",
+            "mainPurpose": "To recommend Katsuo-ji Temple as a family-friendly and highly photogenic spot in Osaka.",
+            "visualEmotion": "Joyful, Aesthetic, Harmonious"
+        },
+        "endorsement_analysis": {
+            "isEndorsement": false,
+            "endorsementMethod": ["None"],
+            "endorsementCues": "The video presents as a personal travel vlog rather than a paid sponsorship by the temple or any brand.",
+            "endorsementObject": "None"
+        },
+        "social_sociology_tags": {
+            "uniqueSignatures": "High-quality travel cinematography focusing on 'Instagrammable' spots; family-oriented travel tips.",
+            "freeDescribe": "Showcases the trend of visiting specific 'aesthetic' locations in Japan that offer interactive elements like stamp collections and unique visual icons (Daruma)."
+        }
+    }
+}

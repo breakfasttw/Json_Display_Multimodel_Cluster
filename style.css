@@ -1,0 +1,43 @@
+/* 自定義斑馬紋與 Hover 效果 */
+#tableBody tr:nth-child(even) {
+    background-color: rgba(30, 41, 59, 0.5); /* 斑馬紋深色區 */
+}
+
+#tableBody tr:nth-child(odd) {
+    background-color: rgba(15, 23, 42, 1); /* 斑馬紋較深區 */
+}
+
+#tableBody tr:hover {
+    background-color: rgba(51, 65, 85, 1) !important; /* 高亮色 */
+    transition: background-color 0.2s ease;
+}
+
+/* 文字渲染優化 */
+td {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    word-break: break-all; /* 強制換行 */
+    vertical-align: top;
+}
+
+/* 置頂表頭關鍵：強制設定不透明背景色 */
+thead th {
+    position: sticky !important;
+    top: 150px; /* 配合增加的頁籤，將高度稍微下調以符合實際位置 */
+    z-index: 10;
+    /* 統一設定為不透明背景色，避免穿透感 */
+    background-color: #1e293b !important;
+    box-shadow: 0 2px 5px -1px rgba(0, 0, 0, 0.5);
+}
+
+/* 捲軸美化 */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #1e293b;
+}
+::-webkit-scrollbar-thumb {
+    background: #475569;
+    border-radius: 4px;
+}

@@ -1,0 +1,135 @@
+{
+    "videoName": "Volcano_BBQ_Rice_Bowl_Ollie.mp4",
+    "low_inference_observations": {
+        "basic_metadata": {
+            "videoDuration": 284,
+            "aspectRatio": "1:1",
+            "videoGenre": ["Cooking", "Tutorial", "Review"],
+            "withRealPeople": true,
+            "location": { "country": ["Taiwan"], "city": ["Taipei"] }
+        },
+        "temporal_pacing_summary": {
+            "sceneCutCount": 42,
+            "averageSceneDuration": 6.7,
+            "isNarrativeShift": true,
+            "mainActionFlow": "Intro -> Ingredient Display -> Sauce Preparation -> Humorous News Skit -> Searing Meat -> Plating -> Tasting & Review"
+        },
+        "visual_human_presence": {
+            "totalHumanCount": 2,
+            "maleDetectAmount": 2,
+            "femaleDetectAmount": 0,
+            "kidsDetectAmount": 0,
+            "mainCharacterCount": 1,
+            "bodyPartVisibility": ["Full body", "Face close-up", "Hands only"],
+            "crowdLevel": "Single",
+            "countingEvidence": "1 main chef (Ollie) and 1 male 'reporter' appearing in a fictional news segment parody.",
+            "mainCharacterDescription": "Chef Ollie, wearing a professional white chef's uniform with black accents. He has a friendly demeanor and short black hair."
+        },
+        "visual_scene_and_style": {
+            "locationCategory": {
+                "category": ["Studio Kitchen"],
+                "topography": ["Indoor"]
+            },
+            "isMultipleBackground": true,
+            "backgroundDescribe": "The primary kitchen studio features a white brick wall, wooden countertops, and shelves stocked with cooking ingredients and '黑豆桑' soy sauce bottles. The news segment uses a digital 'Breaking News' world map backdrop.",
+            "lightingStyle": "Professional studio lighting, bright and warm.",
+            "weather": "Unknown",
+            "season": "Unknown",
+            "editingPace": "Moderate",
+            "textOverlay": {
+                "density": "High",
+                "language": ["Traditional Chinese"],
+                "isSubtitled": true
+            },
+            "colorTone": "Warm, Appetizing",
+            "cameraWork": [
+                "Static",
+                "Macro Close-up",
+                "Pan",
+                "Top-down (overhead)"
+            ]
+        },
+        "visual_objects_and_brands": {
+            "animalDetect": ["None"],
+            "foodsDetect": [
+                "Beef",
+                "Rice",
+                "Egg",
+                "Pineapple",
+                "Green Onion",
+                "Chili"
+            ],
+            "trafficDetect": ["None"],
+            "techDetect": ["Food processor", "Induction stove", "Microphone"],
+            "landmark": ["None"],
+            "brandLogos": ["黑豆桑", "料理123"],
+            "instrumentsVisible": ["None"]
+        },
+        "audio_production_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "Hard cut",
+            "vocalRatio": "High"
+        },
+        "audio_vocal_characterization": {
+            "speaker_inventory": {
+                "onscreen": 2,
+                "offscreen": 0,
+                "backgroundCrowdVoices": 0,
+                "vocal_demographics": {
+                    "male_vocal_count": 2,
+                    "female_vocal_count": 0,
+                    "kids_vocal_count": 0
+                }
+            },
+            "vocal_qualities": {
+                "tone": "Enthusiastic, Instructional, Humorous",
+                "pitch": "Medium",
+                "loudness": "Clear and balanced",
+                "speed": "Normal",
+                "speechDensity": "Continuous talking",
+                "language": ["Mandarin Chinese"]
+            }
+        },
+        "audio_music_and_environment": {
+            "bgmPresence": true,
+            "bgmGenre": "Upbeat, Acoustic, Corporate/News parody",
+            "bgmBPM": 115,
+            "instrumentsAudible": ["Piano", "Electronic percussion", "Synth"],
+            "musicSourceType": "Stock",
+            "rhythmSync": "Low",
+            "soundEffects": [
+                "Sizzling sound",
+                "Digital 'Breaking News' sting",
+                "Meme sound effects"
+            ],
+            "ambientNoise": ["Cooking utensil sounds"],
+            "audioQuality": "Studio"
+        },
+        "audio_technical_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "None",
+            "vocalRatio": "High",
+            "peopleDetectAmount": 2,
+            "maleDetectAmount": 2,
+            "femaleDetectAmount": 0,
+            "kidsDetectAmount": 0
+        }
+    },
+    "high_inference_interpretations": {
+        "narrative_and_purpose": {
+            "narrativeStructure": "A professional cooking tutorial interspersed with a creative marketing parody to keep viewers engaged.",
+            "mainPurpose": "To provide a step-by-step recipe for a 'Volcano BBQ Rice Bowl' while prominently promoting '黑豆桑' (Hei Dou Sang) soy sauce.",
+            "visualEmotion": "Appetizing, Engaging, Lighthearted"
+        },
+        "endorsement_analysis": {
+            "isEndorsement": true,
+            "endorsementMethod": ["Explicit", "Integrated"],
+            "endorsementCues": "Frequent macro close-ups of the soy sauce bottle, chef's verbal praise of the brand's natural fermentation and flavor profile, and a dedicated 'news' skit centered on the product's aroma.",
+            "endorsementObject": "黑豆桑 厚黑金醬油"
+        },
+        "social_sociology_tags": {
+            "uniqueSignatures": "Ollie's 'Elite' chef persona, 'Cooking 123' channel's consistent graphic style, high-quality food cinematography.",
+            "freeDescribe": "This video exemplifies modern 'Advertainment' where the educational value of a recipe is used as a vehicle for a highly integrated product placement."
+        }
+    }
+}

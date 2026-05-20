@@ -1,0 +1,174 @@
+{
+  "videoName": "video.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 20,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Tutorial"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.6,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Indoor styling tutorial transitions to an outdoor reaction vlog"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Face"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 main creator, 1 man in background indoors, multiple scooter riders and pedestrians in the background outdoors",
+      "mainCharacterDescription": "A young woman with her hair styled upwards into a tall cone, decorated with tinsel, a star, and lights resembling a Christmas tree. She wears a white top indoors and a fluffy white sweater outdoors."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Room",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Starts in a modern apartment hallway with grey walls and a dark door. Shifts to a busy city street at night with traffic, a bus, and glowing signs.",
+      "lightingStyle": "Bright artificial indoor lighting, followed by nighttime city streetlights and neon signs",
+      "weather": "Clear night",
+      "season": "Winter",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese",
+          "Emoji"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural",
+      "cameraWork": [
+        "Static",
+        "Handheld POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Bus",
+        "Scooter",
+        "Car"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Digital door lock"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "None"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 1,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 1,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Playful, humorous, embarrassed",
+        "pitch": "Medium-high",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Occasional talking interspersed with BGM",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Classic Christmas Pop",
+      "bgmBPM": 105,
+      "instrumentsAudible": [
+        "Piano",
+        "Strings",
+        "Vocals",
+        "Bells"
+      ],
+      "musicSourceType": "Copyrighted Song",
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Bell ringing"
+      ],
+      "ambientNoise": [
+        "Traffic noise"
+      ],
+      "audioQuality": "Studio / Field Recording"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium",
+      "peopleDetectAmount": 10,
+      "maleDetectAmount": 5,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 0
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Setup and punchline: creating an absurd festive look indoors, then facing the reality of wearing it in public.",
+      "mainPurpose": "Entertainment, generating comedic engagement through a festive, self-deprecating stunt.",
+      "visualEmotion": "Humorous, festive, slightly awkward"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No product features or promotional messaging; focus is entirely on the comedic DIY hairstyle.",
+      "endorsementObject": "None"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Extreme DIY styling for comedic effect, blending a tutorial format with a real-world reaction vlog.",
+      "freeDescribe": "A typical short-form comedy video designed for virality, capitalizing on holiday themes by taking a festive concept (Christmas tree) to an absurd, wearable extreme and capturing the creator's genuine embarrassment in public."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "videoName": "achusan0817-20250802181312-1930533867546917.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 59,
+      "aspectRatio": "1:1",
+      "videoGenre": [
+        "Animation",
+        "Advertisement",
+        "Comedy"
+      ],
+      "withRealPeople": false,
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) This is a 2D animated video. It begins with a bald, large-eared character yelling intensely against a yellow grid background; multiple copies of him appear in a chaotic manner. (2) The scene transitions to a red circular background with traditional patterns where a black-haired male character introduces a series of stickers. (3) A fast-paced montage follows, showcasing various animated stickers: a bald man laughing, a character screaming with a purple face, characters saying 'Really?', 'What are you saying?', 'Good job', and 'Idiot'. It also features a character eating a burger, a bat-like version of the character, a cat with wide eyes, and a character dressed in camouflage. (4) The video concludes with a green screen displaying the LINE logo and text instructions for downloading the stickers.",
+      "audio_narrative_log": "(1) High-pitched, extremely energetic male vocals yell 'Chu-i!' repeatedly, accompanied by fast, percussive sound effects. (2) Upbeat, fast-tempo electronic BGM starts. An enthusiastic male narrator speaks quickly in Mandarin. (3) A sequence of short audio bites corresponding to the animation: 'Hello hello', high-pitched cackling, a sharp whistle/scream, 'Zhen jia?' (Really?), a deep male voice saying 'What the hell are you saying?', a child-like voice saying 'You are great', 'Idiot', and various sound effects like popping, meowing, and munching sounds. (4) The main male narrator returns with a friendly, promotional tone to deliver the final call to action over a bright musical finish.",
+      "text_narrative_log": "(1) Functional Text: '注意' (Caution) appears in bold yellow font. (2) Decorative/Effect Text: '阿啾第一款有聲音的貼圖 上架啦' (Ah-Chu's first voiced stickers are now available). (3) Functional Text: A sequence of sticker labels including '哈囉' (Hello), '嘻嘻' (Hehe), '真假' (Really?), '到底是在供三小' (What the hell are you saying?), '你好棒' (You're great), '吃飽囉' (Let's eat), '叛逆' (Rebellious), '教召' (Call-up), '大便' (Poop), '吃飯了' (Time to eat), '咪' (Meow). (4) Hook Text: '現在下載購買還可以參加新年活動唷!' (Download now to join New Year activities!) with promotional instructions."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.4,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro Hook -> Product Announcement -> Rapid Sticker Showcase -> Call to Action"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 0,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 3,
+      "bodyPartVisibility": [
+        "Full body",
+        "Head only"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "0 real people; 3 main animated characters (bald man, black-haired man, black-haired woman).",
+      "mainCharacterDescription": "Stylized 2D animated characters: one is a bald man with large ears and simple features; another is a male with black hair and a more modern look; the third is a female with short black hair."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Abstract animated backgrounds including a yellow grid, a red festive circular motif, solid green, and various colored frames for stickers.",
+      "lightingStyle": "Uniform animated lighting",
+      "weather": "Unknown",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Static"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "Cat"
+      ],
+      "foodsDetect": [
+        "Pudding",
+        "Burger"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Smartphone"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "LINE"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 2,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Excited, humorous, and high-pitched",
+        "pitch": "High",
+        "loudness": "High",
+        "speed": "Fast",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin",
+          "Taiwanese Hokkien"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat",
+      "bgmBPM": 135,
+      "instrumentFamiliesAudible": [
+        "Electronic",
+        "Percussion"
+      ],
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum kit"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "Cartoon SFX",
+        "Screaming",
+        "Whistle",
+        "Meme sounds"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Product Launch Announcement -> Feature Showcase -> CTA",
+      "mainPurpose": "The video serves as a promotional advertisement for a new set of voiced digital stickers on the LINE messaging platform. It utilizes high-energy animation and auditory hooks from the 'Ah-Chu' (阿啾) series to demonstrate the variety and humor of the stickers, ultimately encouraging viewers to download them for the New Year season.",
+      "visualEmotion": "Energetic"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Direct display of the product (LINE stickers) and a clear call to action to download.",
+      "endorsementObject": [
+        "LINE stickers (阿啾小劇場)"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature bald character design, high-pitched comedic voice acting, and use of Taiwanese internet slang.",
+      "freeDescribe": "The video targets a young, digital-native audience familiar with Taiwanese webcomics and LINE sticker culture. The pacing is designed to match the 'short-form' attention span of social media users."
+    }
+  }
+}

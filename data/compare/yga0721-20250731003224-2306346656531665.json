@@ -1,0 +1,175 @@
+{
+  "videoName": "yga0721-20250731003224-2306346656531665.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 234,
+      "aspectRatio": "9:16",
+      "videoGenre": [
+        "Music Cover",
+        "Vlog",
+        "Live Stream"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "perceptual_narrative_logs": {
+      "visual_narrative_log": "(1) The video uses a vertical split-screen layout; the top half shows an indoor studio where a male character in a black and white shirt sings into a professional microphone. A female character in a striped shirt sits next to him, interacting with a smartphone and reacting to the singing. Behind them is a large shelf filled with numerous collectible toy figures. (2) The bottom half of the screen displays a point-of-view (POV) night drive through a city, showing street lights, traffic, and urban buildings. (3) The male singer displays emotional facial expressions and subtle hand gestures consistent with the song's lyrics. (4) Scene transitions in the bottom half show different stretches of the night road, including passing a large building with the 'Breeze' logo.",
+      "audio_narrative_log": "(1) Vocals: A male voice singing an emotional C-pop ballad in Mandarin; the tone is sentimental and expressive. Occasionally, a female voice is heard laughing or making short remarks during instrumental sections. (2) BGM: A melodic piano accompaniment with soft string arrangements, maintaining a slow and steady tempo. (3) Ambient noise: Minimal; the audio sounds like a clean studio recording. (4) SFX: None detected.",
+      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the top frame, providing the lyrics to the song being performed. (2) Decorative/Effect Text: A title at the top reads '蔡阿嘎 愚人節快樂cover', and a parenthetical note in the middle states '(喔哥podcast直播。也是會唱一些新歌啦)'. (3) A live stream chat overlay is visible on the right side of the top frame, showing scrolling viewer comments and various heart/fire emojis, creating a community interaction tone."
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 13.0,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Emotional Singing with Split Screen Imagery -> Instrumental Break with Social Interaction -> Conclusion"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 1,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 1,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Full face",
+        "Hands"
+      ],
+      "crowdLevel": "Duo",
+      "countingEvidence": "1 male main creator (singer), 1 female companion (assistant/wife).",
+      "mainCharacterDescription": "Male wearing a black and white baseball-style jersey shirt and glasses. Female wearing a blue and white horizontal striped t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Indoor Studio",
+          "Outdoor Street"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Top frame: A room with white walls and dark shelves packed with hundreds of collectible toys and figures. Bottom frame: Urban streets at night with moving traffic, buses, and neon signage.",
+      "lightingStyle": "Mixed: Bright studio lighting (top) and naturalistic night street lights (bottom).",
+      "weather": "Clear Night",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "Medium",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm and Muted",
+      "cameraWork": [
+        "Static",
+        "POV"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Bus",
+        "Scooter"
+      ],
+      "techDetect": [
+        "Smartphone",
+        "Microphone",
+        "Monitor"
+      ],
+      "landmark": [
+        "Breeze Xinyi"
+      ],
+      "brandLogos": [
+        "Breeze",
+        "蔡阿嘎"
+      ],
+      "instrumentsVisible": [
+        "Microphone"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Cross-fade",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 1,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Sentimental and melodic",
+        "pitch": "Medium-High",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous singing",
+        "language": [
+          "Traditional Chinese"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Ballad",
+      "bgmBPM": 72,
+      "instrumentFamiliesAudible": [
+        "Keyboard",
+        "Strings"
+      ],
+      "instrumentsAudible": [
+        "Piano"
+      ],
+      "musicSourceType": "Live",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "Studio quiet"
+      ],
+      "audioQuality": "Studio"
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Musical Performance -> Visual Mood Setting -> Engagement",
+      "mainPurpose": "This video serves as an emotional music cover and fan engagement piece. By using a split-screen format that combines a live singing performance with atmospheric night-drive footage, the creator aims to evoke a sense of late-night nostalgia and intimacy. The primary goal is to showcase the creator's vocal talent while maintaining a 'vlog' or 'podcast' connection with his audience through the live chat and informal setting.",
+      "visualEmotion": "Nostalgic and Calm"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Signature figure collection background, specific font style for subtitles, inclusion of the creator's brand logo.",
+      "freeDescribe": "The video structure leverages the 'double-screen' trend on social media platforms to maintain viewer retention by providing both a focus point (the singer) and a secondary 'satisfying' visual (the night drive)."
+    }
+  }
+}

@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh-TW">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>JSON Display</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+
+        <link rel="icon" type="image/png" href="image\logo.png" />
+        <link rel="apple-touch-icon" href="image\logo.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body class="bg-[#0f172a] text-slate-200 min-h-screen p-10">
+        <div class="w-full mx-auto">
+            <div class="sticky top-0 z-20 bg-[#0f172a] pb-6">
+                <div class="flex gap-4 mb-4">
+                    <button
+                        id="tabCompare"
+                        class="px-6 py-2 bg-blue-600 text-white rounded-lg font-bold border border-blue-500 shadow-md transition-colors"
+                    >
+                        Compare Mode
+                    </button>
+                    <button
+                        id="tabSingle"
+                        class="px-6 py-2 bg-slate-800 text-slate-400 rounded-lg font-bold border border-slate-700 hover:bg-slate-700 transition-colors"
+                    >
+                        Single Mode
+                    </button>
+                </div>
+
+                <div
+                    class="flex items-center gap-6 bg-slate-800/40 p-4 rounded-xl border border-slate-700 shadow-lg"
+                >
+                    <div class="flex items-center gap-3">
+                        <span class="text-blue-400 font-bold">Target</span>
+                        <select
+                            id="groupSelect"
+                            class="bg-slate-900 border border-slate-600 text-white py-2 px-6 rounded-lg outline-none cursor-pointer focus:ring-2 focus:ring-blue-500"
+                        ></select>
+                    </div>
+
+                    <a
+                        id="videoLink"
+                        href="#"
+                        target="_blank"
+                        class="text-blue-400 hover:text-blue-300 underline text-sm font-medium transition-colors hidden"
+                    >
+                        🔗 影片連結
+                    </a>
+                </div>
+            </div>
+
+            <div
+                class="rounded-2xl border border-slate-700 shadow-2xl bg-slate-900 overflow-visible"
+            >
+                <table class="w-full text-left border-collapse table-fixed">
+                    <thead>
+                        <tr class="bg-slate-900 text-slate-300">
+                            <th
+                                class="p-4 w-[6.8%] text-xs font-bold uppercase text-center border-r border-slate-700 rounded-tl-2xl"
+                            >
+                                L1
+                            </th>
+                            <th
+                                class="p-4 w-[6.8%] text-xs font-bold uppercase text-center border-r border-slate-700"
+                            >
+                                L2
+                            </th>
+                            <th
+                                class="p-4 w-[6.8%] text-xs font-bold uppercase text-center border-r border-slate-700"
+                            >
+                                L3
+                            </th>
+                            <th
+                                class="p-4 w-[6.8%] text-xs font-bold uppercase text-center border-r border-slate-700"
+                            >
+                                L4
+                            </th>
+                            <th
+                                class="p-4 w-[6.8%] text-xs font-bold uppercase text-center border-r border-slate-700"
+                            >
+                                L5
+                            </th>
+                            <th
+                                id="val1Header"
+                                class="p-4 w-[33%] text-sm font-bold text-blue-400 border-r border-slate-700 text-center"
+                            >
+                                File 1
+                            </th>
+                            <th
+                                id="val2Header"
+                                class="p-4 w-[33%] text-sm font-bold text-purple-400 text-center rounded-tr-2xl"
+                            >
+                                File 2
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <script src="config_compare.js"></script>
+        <script src="config_single.js"></script>
+        <script src="schemaParser.js"></script>
+        <script src="tableRenderer.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

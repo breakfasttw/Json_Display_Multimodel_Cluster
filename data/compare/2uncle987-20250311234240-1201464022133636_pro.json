@@ -1,0 +1,127 @@
+{
+    "videoName": "video.mp4",
+    "low_inference_observations": {
+        "basic_metadata": {
+            "videoDuration": 78,
+            "aspectRatio": "9:16",
+            "videoGenre": ["Vlog", "Travel", "Family"],
+            "withRealPeople": true,
+            "location": {
+                "country": ["Japan"],
+                "city": ["Osaka"]
+            }
+        },
+        "temporal_pacing_summary": {
+            "sceneCutCount": 35,
+            "averageSceneDuration": 2.2,
+            "isNarrativeShift": false,
+            "mainActionFlow": "A family arrives at a temple, explores the grounds looking at Daruma dolls, visits the gift shop, and leaves."
+        },
+        "visual_human_presence": {
+            "totalHumanCount": 30,
+            "maleDetectAmount": 10,
+            "femaleDetectAmount": 15,
+            "kidsDetectAmount": 5,
+            "mainCharacterCount": 4,
+            "bodyPartVisibility": [
+                "Full body",
+                "Upper body",
+                "Face",
+                "Hands only"
+            ],
+            "crowdLevel": "Crowd",
+            "countingEvidence": "4 main family members appear consistently, with a large number of other tourists visible in the background throughout the temple grounds and gift shop.",
+            "mainCharacterDescription": "A family of four: a mother in a beige trench coat, a grandmother in a brown puffer jacket, and two young boys wearing matching color-block fleece jackets."
+        },
+        "visual_scene_and_style": {
+            "locationCategory": {
+                "category": ["Outdoor Temple", "Gift Shop"],
+                "topography": ["Hill", "Mountain"]
+            },
+            "isMultipleBackground": true,
+            "backgroundDescribe": "A Japanese Buddhist temple complex situated in a mountainous area, characterized by traditional architecture, red bridges, a pond, and thousands of red Daruma dolls placed on walls, trees, and ground. A brightly lit indoor gift shop is also shown.",
+            "lightingStyle": "Natural daylight outdoors with partly cloudy skies; bright artificial lighting inside the souvenir shop.",
+            "weather": "Partly cloudy",
+            "season": "Winter",
+            "editingPace": "Fast",
+            "textOverlay": {
+                "density": "Medium",
+                "language": ["Traditional Chinese", "Japanese", "English"],
+                "isSubtitled": true
+            },
+            "colorTone": "Natural, with prominent red hues from the Daruma dolls and temple structures.",
+            "cameraWork": ["Static", "Handheld", "Follow shot", "Panning"]
+        },
+        "visual_objects_and_brands": {
+            "animalDetect": ["None"],
+            "foodsDetect": ["Snacks", "Potato Chips", "Noodles"],
+            "trafficDetect": ["Bicycle"],
+            "techDetect": ["Smartphone", "Camera"],
+            "landmark": ["Katsuoji Temple"],
+            "brandLogos": ["adidas"],
+            "instrumentsVisible": ["None"]
+        },
+        "audio_production_style": {
+            "audioContinuity": "Fragmented",
+            "audioTransition": "Cross-fade, Hard cut",
+            "vocalRatio": "High"
+        },
+        "audio_vocal_characterization": {
+            "speaker_inventory": {
+                "onscreen": 4,
+                "offscreen": 1,
+                "backgroundCrowdVoices": 10,
+                "vocal_demographics": {
+                    "male_vocal_count": 0,
+                    "female_vocal_count": 2,
+                    "kids_vocal_count": 2
+                }
+            },
+            "vocal_qualities": {
+                "tone": "Cheerful, excited, enthusiastic",
+                "pitch": "Medium-high",
+                "loudness": "Normal to Loud",
+                "speed": "Normal",
+                "speechDensity": "Continuous talking and narration",
+                "language": ["Mandarin"]
+            }
+        },
+        "audio_music_and_environment": {
+            "bgmPresence": true,
+            "bgmGenre": "Upbeat, cheerful, electronic pop",
+            "bgmBPM": 120,
+            "instrumentsAudible": ["Synthesizer", "Percussion", "Bass"],
+            "musicSourceType": "Stock",
+            "rhythmSync": "Low",
+            "soundEffects": ["Cartoon SFX", "Pop", "Swoosh"],
+            "ambientNoise": ["Wind", "Crowd chatter", "Water flowing"],
+            "audioQuality": "Field Recording"
+        },
+        "audio_technical_style": {
+            "audioContinuity": "Fragmented",
+            "audioTransition": "Cross-fade, Hard cut",
+            "vocalRatio": "High",
+            "peopleDetectAmount": 4,
+            "maleDetectAmount": 0,
+            "femaleDetectAmount": 2,
+            "kidsDetectAmount": 2
+        }
+    },
+    "high_inference_interpretations": {
+        "narrative_and_purpose": {
+            "narrativeStructure": "A chronological travel diary highlighting the key attractions and experiences of visiting a specific temple.",
+            "mainPurpose": "To share a family travel experience and recommend Katsuoji Temple as a tourist destination.",
+            "visualEmotion": "Joyful, energetic, family-oriented"
+        },
+        "endorsement_analysis": {
+            "isEndorsement": false,
+            "endorsementMethod": ["None"],
+            "endorsementCues": "The video documents a personal family trip. While they show the gift shop and purchased items, it is presented as a typical tourist activity rather than a sponsored advertisement.",
+            "endorsementObject": "None"
+        },
+        "social_sociology_tags": {
+            "uniqueSignatures": "Fast-paced editing with colorful, stylized text overlays and playful visual effects (like adding animated eyes/ears to the Daruma dolls) characteristic of short-form social media travel vlogs.",
+            "freeDescribe": "A highly engaging, family-friendly travel vlog designed for platforms like TikTok or Instagram Reels. It effectively uses visual and audio cues to maintain viewer interest while providing practical tourist information like admission prices and opening hours."
+        }
+    }
+}

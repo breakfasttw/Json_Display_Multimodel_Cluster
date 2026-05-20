@@ -1,0 +1,186 @@
+{
+  "videoName": "video.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 284,
+      "aspectRatio": "16:9",
+      "videoGenre": [
+        "Tutorial",
+        "Cooking",
+        "Sponsored Content"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 85,
+      "averageSceneDuration": 3.3,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Standard cooking tutorial interrupted by a comedic news skit, then returning to the tutorial conclusion."
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 2,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 0,
+      "kidsDetectAmount": 0,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": [
+        "Upper body",
+        "Hands only"
+      ],
+      "crowdLevel": "Single / Duo",
+      "countingEvidence": "1 main chef presenting the recipe, 1 news anchor appearing in a skit segment.",
+      "mainCharacterDescription": "A male chef wearing a white chef's coat. A male news anchor wearing glasses and a dark blue shirt over a white t-shirt."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Studio",
+          "Kitchen Setup"
+        ],
+        "topography": [
+          "None"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Primarily a studio kitchen set featuring a faux white brick wall with small potted plants on shelves. A secondary setup for the news skit uses a blue digital world map background.",
+      "lightingStyle": "Bright, even studio lighting",
+      "weather": "None",
+      "season": "None",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "High",
+        "language": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "colorTone": "Warm, High Saturation",
+      "cameraWork": [
+        "Static",
+        "Close-up",
+        "Zooming"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "Beef",
+        "Pineapple",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Egg",
+        "Rice",
+        "Scallion",
+        "Chili"
+      ],
+      "trafficDetect": [
+        "None"
+      ],
+      "techDetect": [
+        "Food processor",
+        "Portable gas stove",
+        "Microphone",
+        "Camera"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "黑豆桑",
+        "料理123"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut, Sound effects",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 1,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 1,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Informative, enthusiastic, comedic",
+        "pitch": "Medium",
+        "loudness": "Normal",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking",
+        "language": [
+          "Mandarin"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Upbeat, Lighthearted, News theme",
+      "bgmBPM": 110,
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Percussion"
+      ],
+      "musicSourceType": "Stock",
+      "rhythmSync": "Low",
+      "soundEffects": [
+        "Pop",
+        "Whoosh",
+        "Ding",
+        "News alert"
+      ],
+      "ambientNoise": [
+        "Sizzling",
+        "Food processor motor"
+      ],
+      "audioQuality": "Studio"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Fragmented",
+      "audioTransition": "Hard cut, Sound effects",
+      "vocalRatio": "High",
+      "peopleDetectAmount": 3,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 1,
+      "kidsDetectAmount": 0
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Introduction of recipe -> Ingredient preparation -> Cooking process -> Comedic skit interruption highlighting the sponsor -> Final plating -> Tasting and conclusion.",
+      "mainPurpose": "To demonstrate a cooking recipe while heavily promoting a specific brand's soy sauce and fruit vinegar products.",
+      "visualEmotion": "Appetizing, lighthearted, engaging"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The chef explicitly introduces and praises the '黑豆桑' products while using them. A dedicated 'Breaking News' skit is performed entirely to exaggerate the appealing aroma and quality of the soy sauce. The product bottles are prominently displayed throughout and placed next to the finished dish.",
+      "endorsementObject": "黑豆桑厚黑金醬油, 黑豆桑蘋果淳"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Incorporating a highly produced, fake news broadcast skit midway through a cooking tutorial to playfully exaggerate the effects of a sponsored product.",
+      "freeDescribe": "This video is a highly produced advertorial. It attempts to mask the typical dryness of a sponsored cooking video by injecting humor and a creative 'breaking news' narrative shift to make the product placement more memorable and engaging for the audience."
+    }
+  }
+}

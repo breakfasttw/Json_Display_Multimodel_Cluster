@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 188,
+      "aspectRatio": "16:9",
+      "videoGenre": [
+        "Dance Cover",
+        "Music Video"
+      ],
+      "withRealPeople": true,
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 90,
+      "averageSceneDuration": 2.1,
+      "isNarrativeShift": false,
+      "mainActionFlow": "Continuous dancing across multiple locations intercut together"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 10,
+      "maleDetectAmount": 2,
+      "femaleDetectAmount": 8,
+      "kidsDetectAmount": 5,
+      "mainCharacterCount": 5,
+      "bodyPartVisibility": [
+        "Full body"
+      ],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "5 main child dancers, and approximately 5 adult passers-by in the background across different scenes",
+      "mainCharacterDescription": "Five young girls wearing matching, brightly colored streetwear and hip-hop style clothing, including cargo pants, crop tops, and beanies."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": {
+        "category": [
+          "Outdoor Street",
+          "Pedestrian Walkway",
+          "Plaza"
+        ],
+        "topography": [
+          "Plain"
+        ]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern urban environments including wide streets with tall glass skyscrapers, a covered pedestrian overpass with a red floor, and an outdoor courtyard featuring a colorful pixel-art heart mural.",
+      "lightingStyle": "Natural daylight, overcast, flat and even lighting",
+      "weather": "Overcast",
+      "season": "Unknown",
+      "editingPace": "Fast",
+      "textOverlay": {
+        "density": "Low",
+        "language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "colorTone": "High Saturation",
+      "cameraWork": [
+        "Follow shot",
+        "Dynamic panning",
+        "Zooming"
+      ]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": [
+        "None"
+      ],
+      "foodsDetect": [
+        "None"
+      ],
+      "trafficDetect": [
+        "Car",
+        "Taxi"
+      ],
+      "techDetect": [
+        "None"
+      ],
+      "landmark": [
+        "None"
+      ],
+      "brandLogos": [
+        "Body Glove",
+        "Le Polka"
+      ],
+      "instrumentsVisible": [
+        "None"
+      ]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "Medium"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 0,
+        "offscreen": 7,
+        "backgroundCrowdVoices": 0,
+        "vocal_demographics": {
+          "male_vocal_count": 0,
+          "female_vocal_count": 7,
+          "kids_vocal_count": 0
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Energetic, confident, sassy",
+        "pitch": "High",
+        "loudness": "Loud",
+        "speed": "Fast",
+        "speechDensity": "Continuous singing and rapping",
+        "language": [
+          "Korean",
+          "English"
+        ]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "K-pop, Hip-Hop, Upbeat",
+      "bgmBPM": 105,
+      "instrumentsAudible": [
+        "Synthesizer",
+        "Drum machine",
+        "Bass"
+      ],
+      "musicSourceType": "Copyrighted Song",
+      "rhythmSync": "High(Beat-sync)",
+      "soundEffects": [
+        "None"
+      ],
+      "ambientNoise": [
+        "None"
+      ],
+      "audioQuality": "Studio"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "None",
+      "vocalRatio": "Medium",
+      "peopleDetectAmount": 7,
+      "maleDetectAmount": 0,
+      "femaleDetectAmount": 7,
+      "kidsDetectAmount": 0
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Performance video with dynamic intercutting between different urban locations.",
+      "mainPurpose": "To showcase a choreographed dance cover of a popular K-pop music track.",
+      "visualEmotion": "Energetic, joyful, confident"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No explicit promotional messaging or focus on products; text credits indicate it is a dance studio's student cover video.",
+      "endorsementObject": "None"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-quality, music-video-style cinematography applied to a group of very young children performing an adult K-pop choreography in matching streetwear.",
+      "freeDescribe": "This appears to be a promotional or portfolio video produced by a children's dance academy to highlight the skills of their students, emulating the production value and aesthetic of official K-pop idol videos."
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "videoName": "Happy_5th_Birthday_Vlog.mp4",
+  "low_inference_observations": {
+    "basic_metadata": {
+      "videoDuration": 234,
+      "aspectRatio": "9:16",
+      "videoGenre": ["Vlog", "Family", "Lifestyle"],
+      "withRealPeople": true,
+      "location": { "country": ["Taiwan"], "city": ["Tainan"] }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 38,
+      "averageSceneDuration": 6.1,
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro & Morning routine -> Feeding stray cats -> Preparing party supplies & Driving -> Birthday celebration at home -> Cake cutting & Chocolate tasting"
+    },
+    "visual_human_presence": {
+      "totalHumanCount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 1,
+      "mainCharacterCount": 2,
+      "bodyPartVisibility": ["Full body", "Face close-up", "First-person POV"],
+      "crowdLevel": "Small Group",
+      "countingEvidence": "1 male creator (father), 1 child (Happy), and approximately 6 family members/guests gathered for the celebration.",
+      "mainCharacterDescription": "An adult male (the father) with glasses, visible arm tattoos, wearing a white Dodgers baseball jersey. The child (Happy) has curly hair and wears matching Dodgers apparel (jersey and cap)."
+    },
+    "visual_scene_and_style": {
+      "locationCategory": { 
+        "category": ["Indoor Home", "Car Interior", "Outdoor Alleyway"],
+        "topography": ["Urban"]
+      },
+      "isMultipleBackground": true,
+      "backgroundDescribe": "Modern residential interior with an open kitchen and dining area decorated with balloons and birthday banners. Outdoor scenes include a residential alley and a home garage.",
+      "lightingStyle": "Natural daylight for outdoor scenes; warm, soft indoor home lighting.",
+      "weather": "Sunny",
+      "season": "Unknown",
+      "editingPace": "Moderate",
+      "textOverlay": {
+        "density": "High",
+        "language": ["Traditional Chinese"],
+        "isSubtitled": true
+      },
+      "colorTone": "Natural, Warm",
+      "cameraWork": ["POV", "Static", "Handheld", "Wide angle"]
+    },
+    "visual_objects_and_brands": {
+      "animalDetect": ["Cat"],
+      "foodsDetect": ["Fried Chicken", "Pizza", "Cake", "Chocolate", "Coca-Cola"],
+      "trafficDetect": ["Car"],
+      "techDetect": ["Smartphone", "Automatic pet feeder"],
+      "landmark": ["None"],
+      "brandLogos": ["Dodgers", "胖老爹", "伯多義", "Tesla", "Coca-Cola", "Doraemon"],
+      "instrumentsVisible": ["None"]
+    },
+    "audio_production_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High"
+    },
+    "audio_vocal_characterization": {
+      "speaker_inventory": {
+        "onscreen": 2,
+        "offscreen": 0,
+        "backgroundCrowdVoices": 6,
+        "vocal_demographics": {
+          "male_vocal_count": 2,
+          "female_vocal_count": 5,
+          "kids_vocal_count": 1
+        }
+      },
+      "vocal_qualities": {
+        "tone": "Warm, affectionate, joyful, humorous",
+        "pitch": "Medium",
+        "loudness": "Clear",
+        "speed": "Normal",
+        "speechDensity": "Continuous talking (Vlog style)",
+        "language": ["Mandarin Chinese"]
+      }
+    },
+    "audio_music_and_environment": {
+      "bgmPresence": true,
+      "bgmGenre": "Acoustic, Whimsical, Happy",
+      "bgmBPM": 110,
+      "instrumentsAudible": ["Acoustic Guitar", "Xylophone", "Soft Percussion"],
+      "musicSourceType": "Stock",
+      "rhythmSync": "Low",
+      "soundEffects": ["None"],
+      "ambientNoise": ["Car engine sounds", "Home chatter", "Cat meowing"],
+      "audioQuality": "Field Recording"
+    },
+    "audio_technical_style": {
+      "audioContinuity": "Continuous",
+      "audioTransition": "Hard cut",
+      "vocalRatio": "High",
+      "peopleDetectAmount": 8,
+      "maleDetectAmount": 3,
+      "femaleDetectAmount": 5,
+      "kidsDetectAmount": 1
+    }
+  },
+  "high_inference_interpretations": {
+    "narrative_and_purpose": {
+      "narrativeStructure": "Chronological family vlog detailing the preparations and celebration of a child's milestone birthday.",
+      "mainPurpose": "To document and share a personal family celebration, specifically highlighting the child's 5th birthday.",
+      "visualEmotion": "Heartwarming, Festive, Joyful"
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "Visible brands are typical of daily life consumption; the tone is personal rather than promotional.",
+      "endorsementObject": "None"
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of first-person POV to create an intimate family atmosphere; focus on small childhood milestones like the 'chocolate ban' lift.",
+      "freeDescribe": "Illustrates modern Taiwanese middle-class family life and 'Sharenting' culture, where parents document and curate their children's life events for social media engagement."
+    }
+  }
+}

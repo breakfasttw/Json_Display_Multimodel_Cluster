@@ -1,0 +1,123 @@
+{
+    "videoName": "Christmas_Tree_Hair_Vlog.mp4",
+    "low_inference_observations": {
+        "basic_metadata": {
+            "videoDuration": 20,
+            "aspectRatio": "9:16",
+            "videoGenre": ["Vlog", "Lifestyle", "Comedy"],
+            "withRealPeople": true,
+            "location": { "country": ["Taiwan"], "city": ["Taipei"] }
+        },
+        "temporal_pacing_summary": {
+            "sceneCutCount": 13,
+            "averageSceneDuration": 1.5,
+            "isNarrativeShift": true,
+            "mainActionFlow": "Preparation -> DIY Decoration Process -> Final Result & Public Reaction"
+        },
+        "visual_human_presence": {
+            "totalHumanCount": 3,
+            "maleDetectAmount": 1,
+            "femaleDetectAmount": 2,
+            "kidsDetectAmount": 0,
+            "mainCharacterCount": 1,
+            "bodyPartVisibility": [
+                "Full body",
+                "Face close-up",
+                "Shoulders up"
+            ],
+            "crowdLevel": "Single",
+            "countingEvidence": "1 main female creator; 1 male scooter rider and 1 female pedestrian visible in the background during the street scene.",
+            "mainCharacterDescription": "A young Asian woman with dark hair styled into a tall, cone-shaped bun. She initially wears a white spaghetti-strap dress, later adding a light-colored knit cardigan and a gold necklace."
+        },
+        "visual_scene_and_style": {
+            "locationCategory": {
+                "category": ["Indoor Bedroom", "Outdoor Street at Night"],
+                "topography": ["Urban"]
+            },
+            "isMultipleBackground": true,
+            "backgroundDescribe": "The indoor scene features a modern room with a dark grey door, tile walls, and a large mirror. The outdoor scene takes place on a city street at night with neon signage, streetlights, and a green-and-white Taipei city bus.",
+            "lightingStyle": "Bright indoor artificial light; high-contrast city night lighting with neon glow.",
+            "weather": "Unknown",
+            "season": "Winter (Christmas-themed content)",
+            "editingPace": "Fast",
+            "textOverlay": {
+                "density": "High",
+                "language": ["Traditional Chinese", "Emoji"],
+                "isSubtitled": false
+            },
+            "colorTone": "Warm, Vibrant",
+            "cameraWork": ["Static", "Handheld", "Point-of-view (POV)"]
+        },
+        "visual_objects_and_brands": {
+            "animalDetect": ["None"],
+            "foodsDetect": ["None"],
+            "trafficDetect": ["Bus", "Scooter"],
+            "techDetect": ["Smartphone"],
+            "landmark": ["None"],
+            "brandLogos": ["台北公車 307"],
+            "instrumentsVisible": ["None"]
+        },
+        "audio_production_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "Hard cut",
+            "vocalRatio": "Medium"
+        },
+        "audio_vocal_characterization": {
+            "speaker_inventory": {
+                "onscreen": 1,
+                "offscreen": 0,
+                "backgroundCrowdVoices": 0,
+                "vocal_demographics": {
+                    "male_vocal_count": 0,
+                    "female_vocal_count": 1,
+                    "kids_vocal_count": 0
+                }
+            },
+            "vocal_qualities": {
+                "tone": "Playful, slightly embarrassed, enthusiastic",
+                "pitch": "Medium-high",
+                "loudness": "Moderate",
+                "speed": "Normal",
+                "speechDensity": "Occasional commentary with background laughter",
+                "language": ["Mandarin Chinese"]
+            }
+        },
+        "audio_music_and_environment": {
+            "bgmPresence": true,
+            "bgmGenre": "Holiday Pop / Orchestral",
+            "bgmBPM": 110,
+            "instrumentsAudible": ["Bells", "Piano", "Strings"],
+            "musicSourceType": "Copyrighted Song",
+            "rhythmSync": "Low",
+            "soundEffects": ["Bell chime SFX"],
+            "ambientNoise": ["Street traffic", "City bustle"],
+            "audioQuality": "Field Recording"
+        },
+        "audio_technical_style": {
+            "audioContinuity": "Continuous",
+            "audioTransition": "None",
+            "vocalRatio": "Medium",
+            "peopleDetectAmount": 3,
+            "maleDetectAmount": 1,
+            "femaleDetectAmount": 2,
+            "kidsDetectAmount": 0
+        }
+    },
+    "high_inference_interpretations": {
+        "narrative_and_purpose": {
+            "narrativeStructure": "A short-form DIY tutorial mixed with a social experiment reaction.",
+            "mainPurpose": "To attempt a viral Christmas tree hairstyle trend and show the humorous reality of wearing it in public.",
+            "visualEmotion": "Festive, Humorous, Self-deprecating"
+        },
+        "endorsement_analysis": {
+            "isEndorsement": false,
+            "endorsementMethod": ["None"],
+            "endorsementCues": "The video appears to be a personal challenge or trend participation without explicit brand sponsorship.",
+            "endorsementObject": "None"
+        },
+        "social_sociology_tags": {
+            "uniqueSignatures": "High-density Traditional Chinese text bubbles, humorous 'expectation vs reality' framing.",
+            "freeDescribe": "Reflects the 'Trend-jacking' culture prevalent on platforms like TikTok/Douyin, where creators perform absurd viral challenges for comedic engagement."
+        }
+    }
+}
