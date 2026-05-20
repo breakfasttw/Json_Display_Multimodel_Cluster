@@ -1,0 +1,313 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 19,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman sits at a white table in a modern room with a grey door. Her dark hair is pulled up into a tall, pointed cone shape. She looks at the camera with a serious, focused expression. A pair of scissors and a black hair tie are visible on the table in front of her. (2) The scene shifts to a hallway with marble-patterned walls. The woman stands holding a long, shimmering rose gold garland. She begins to wrap the garland around the hair cone, looking into the mirror with a slight smile as she works. (3) She holds a small, glittery gold star ornament between her fingers. She carefully places the star on the very tip of her garland-wrapped hair, completing the tree look. She smiles and adjusts her position to show the effect. (4) She picks up a fluffy silver and white garland. She wraps it around the middle section of the hair structure, adding bulk and a multi-toned effect. She looks slightly skeptical yet amused by the growing size of her hairstyle. (5) She holds up a small red ribbon with two gold bells attached. She places them onto the hair tree. The lighting is bright and clear, highlighting the textures of the tinsel and her hair. (6) The hairstyle is now illuminated with a string of warm yellow LED lights. The woman leans closer to the camera, laughing and looking very pleased with the result. Her eyes are wide and expressive. (7) The woman is now outdoors at night on a busy city street. A white bus and several motorbikes are visible in the background. She wears a white knit cardigan over her dress. She looks around nervously, laughing and covering her mouth with her hand, appearing amused and embarrassed by the attention her hair is drawing.",
+      "text_narrative_log": "(1) [Slogan]: 最近超熱門的聖誕樹打在頭上. (2) [Slogan]: 聖誕. (3) [Slogan]: ...髮型？ (4) [Slogan]: 走在路上會怎樣?. (5) [Slogan]: 怎麼還有鈴鐺. (6) [Slogan]: (髮型?) 什麼意思. (7) [Slogan]: 出去逛囉. (8) [Variety]: (不知所措的干). (9) [Variety]: 怎麼辦 我覺得好丟臉.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Single",
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, several indistinct passers-by in the background of the outdoor scene.",
+        "mainCharacterDescription": "A young woman with black hair, initially wearing a white spaghetti strap dress and later adding a white fuzzy knit cardigan."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Indoor Hallway",
+            "Outdoor Street"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor modern apartment with grey doors and marble-tiled walls, followed by a bustling city street at night with neon lights and a city bus.",
+        "lightingStyle": [
+          "Interior lighting",
+          "Natural night light",
+          "String lights"
+        ],
+        "weather": [
+          "Mostly clear"
+        ],
+        "season": "Winter",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Traditional Chinese"
+          ],
+          "isSubtitled": false
+        },
+        "colorTone": [
+          "Natural",
+          "Warm"
+        ],
+        "cameraWork": [
+          "Static",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Bus",
+          "Car",
+          "Motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A young female voice speaks in a calm, informative tone with a moderate pace. There is no background music. The acoustic environment is a quiet room with minimal reverb. (2) An upbeat, jazz-style Christmas song begins. The music features a male vocalist, a rhythmic double bass, and soft percussion. The woman's voice is heard intermittently over the music. (3) A cartoonish 'boing' sound effect triggers as a new decoration is added. The female voice speaks with a slightly higher pitch, indicating growing excitement. (4) A sharp 'ding' sound effect of a bell chiming occurs. The female voice is heard laughing and speaking with a bright, high-arousal tone. (5) A magical, shimmering wind-chime SFX plays. The audio texture shifts as the woman's laughter becomes more prominent. (6) The acoustic environment shifts to a field recording style with loud traffic noises, motor engines, and distant city sirens. The BGM continues but is overlaid with environmental chatter. The female voice sounds embarrassed and giggles frequently.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "main_characters_voices": 1,
+          "total_distinct_voices": 1,
+          "vocal_demographics": {
+            "male_vocal_count": 0,
+            "female_vocal_count": 1,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "excited",
+            "humorous",
+            "embarrassed"
+          ],
+          "speechDensity": [
+            "Occasional talking"
+          ],
+          "vocalLanguage": [
+            "Mandarin"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": [
+          "Moderate"
+        ],
+        "pauseFrequencyAndDuration": [
+          "Frequent short pauses"
+        ],
+        "pitchF0AndVariability": [
+          "Medium-high",
+          "High-pitched"
+        ],
+        "intensityAndLoudness": [
+          "Moderate",
+          "Loud"
+        ],
+        "voiceQuality": [
+          "Clear"
+        ],
+        "articulationClarity": [
+          "Clear/Professional"
+        ],
+        "intonationAndContour": [
+          "Rising"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": [
+          "High arousal"
+        ],
+        "valence": [
+          "Positive"
+        ],
+        "dominance": [
+          "Moderate"
+        ],
+        "vocalEmotionClassification": [
+          "Happy",
+          "Surprised"
+        ],
+        "tensionIndicators": [
+          "None"
+        ]
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Jazz/Swing",
+          "Christmas"
+        ],
+        "tempoBPM": 120,
+        "bgmSinger": {
+          "total_singer_count": 1,
+          "male_singer_count": 1,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "English"
+        ],
+        "musicToSpeechRatio": [
+          "Medium"
+        ],
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": [
+          "Strong"
+        ],
+        "instrumentFamiliesAudible": [
+          "Strings",
+          "Percussion",
+          "Brass"
+        ],
+        "instrumentsAudible": [
+          "Double Bass",
+          "Drums",
+          "Trumpet"
+        ],
+        "musicSourceType": [
+          "Copyrighted Song"
+        ],
+        "keyChangesAndHarmonicTension": [
+          "None"
+        ]
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "Cartoon SFX",
+          "Bell chime",
+          "Magical shimmer"
+        ],
+        "crowdNoise": [
+          "Crowd chatter"
+        ],
+        "ambientNoiseDetails": [
+          "Traffic",
+          "City hum"
+        ],
+        "silence": [
+          "None"
+        ]
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": [
+          "Bright"
+        ],
+        "spectralFluxAndBandwidth": [
+          "High"
+        ],
+        "noisinessAndPercussiveness": [
+          "Moderate"
+        ],
+        "harmonicsToNoiseRatio": [
+          "Clean"
+        ],
+        "jitterAndShimmer": [
+          "None"
+        ]
+      },
+      "editing_and_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "vocalRatio": "Medium",
+        "audioEventDensity": [
+          "High"
+        ],
+        "audioCutFrequency": [
+          "High"
+        ],
+        "dynamicRange": [
+          "Compressed"
+        ],
+        "clippingAndCompressionLevel": [
+          "High"
+        ],
+        "speechMusicOverlap": [
+          "High"
+        ],
+        "rhythmSync": "High",
+        "audioQuality": [
+          "Mixed"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 9,
+      "averageSceneDuration": 2.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro -> Preparation -> Reveal -> Reaction"
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Transformation -> Result -> Real-world reaction",
+      "mainPurpose": "The video aims to entertain by demonstrating a viral 'Christmas tree hair' trend. It transitions from the technical process of creation to the humorous and slightly embarrassing reality of wearing the eccentric hairstyle in a public urban setting.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Use of self-deprecating humorous captions and reaction-based footage.",
+      "freeDescribe": "The video capitalizes on seasonal trends and the 'expectation vs. reality' trope common in social media challenges."
+    }
+  }
+}

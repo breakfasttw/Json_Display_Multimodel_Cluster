@@ -1,0 +1,320 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 54.43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with short black hair, wearing round glasses, a white t-shirt, and a brown collared jacket stands on a tree-lined walkway. He looks at the camera and speaks with active facial expressions. A green backpack strap is visible on his right shoulder. (2) A YouTube video thumbnail overlay appears in the center, showing two men and various bowls of food. The man in the frame gestures toward the image with his right hand while continuing to speak. (3) The man walks along the path, which is bordered by large trees with thick trunks and green leaves. Yellow and white variety text overlays appear intermittently beside him. (4) Scene transitions to the man standing near a brick building with a sign that reads 'Fu Jen Food Court'. He points toward the entrance behind him. (5) He stands in a different part of the campus with modern buildings in the background. He uses both hands to gesture while explaining something. (6) The man stands in front of a wooden-fronted shop with a large, purple and white soft-serve ice cream sculpture next to the door. (7) A close-up shot shows a hand operating a stainless steel soft-serve machine, dispensing a swirl of chocolate and vanilla ice cream into a wafer cone. (8) The man holds the finished ice cream cone, looking at the camera and speaking. He is in a brightly lit indoor area with colorful wall graphics behind him. (9) He walks across a pedestrian crossing painted with yellow and white stripes, holding the ice cream and looking back over his shoulder at the camera. (10) A static shot shows a multi-story modern academic building with a sign above the entrance that says 'College of Foreign Languages'. (11) The man returns to the tree-lined path, speaking excitedly with wide eyes and pointing his finger toward the camera. (12) He poses for a photo with three young women in front of a building; he holds the phone up for a selfie while they all make 'V' signs. (13) Finally, he stands on the path again, pointing at his chest and then at the camera with a confident, challenging expression.",
+      "text_narrative_log": "(1) [Subtitle]: 欸你有沒有看過那個. (2) [Slogan]: Joeman 跟博恩的台大學餐. [Subtitle]: Joeman 跟博恩的台大學餐. (3) [Subtitle]: 有啊有啊. [Subtitle]: 看他那個封面. [Subtitle]: 噁心. [Variety]: 噁心. (4) [Subtitle]: 男為情. [Variety]: 男為情. (5) [Subtitle]: 可是人家有一百萬觀看耶. (6) [Subtitle]: 不是啊 對啊. [Subtitle]: 所以. [Subtitle]: 為什麼沒有邀我. [Variety]: 為什麼沒有邀我. (7) [Variety]: (引戰發言). [Slogan]: 輔大學餐. (8) [Subtitle]: 台大跟輔大. [Subtitle]: 輔大學餐比較好吃啊. [Variety]: 輔大學餐比較好吃啊. (9) [Subtitle]: 我們輔大呢. [Subtitle]: 是有四大園區. (10) [Subtitle]: 這個都是在校內的餐廳. (11) [Subtitle]: 所以像我身後這個輔園. [Subtitle]: 心園 仁園 文園. [Subtitle]: 還有一個理園. (12) [Subtitle]: 啊理園比較邊緣. [Subtitle]: 容易忘記它. (13) [Slogan]: (畢業超過1X年). (14) [Subtitle]: 在我們那個年代有. [Subtitle]: 輔大三寶. [Subtitle]: 菠蘿麵包. [Subtitle]: 鬆餅 冰淇淋. (15) [Subtitle]: 我們來看下. [Subtitle]: 冰淇淋還有沒有. (16) [Subtitle]: 現在這邊有一整個店面. [Subtitle]: 以前就是. [Subtitle]: 旁邊一個隨便的攤位. (17) [Subtitle]: 那現在的. [Subtitle]: 高級. (18) [Variety]: 吃冰時間. (19) [Subtitle]: 綜合冰淇淋. [Subtitle]: 這樣四十塊. (20) [Slogan]: (老屁股逛校園). (21) [Subtitle]: 原來像這一整棟就是新的. [Subtitle]: 從來沒有看過. (22) [Subtitle]: 這個斑馬線也是新的. [Subtitle]: 外語大樓也翻新了. [Variety]: 外語大樓也翻新了. [Variety]: Surprise!. (23) [Subtitle]: 而且我跟你講. [Subtitle]: 這裡... [Subtitle]: 學妹超多. [Variety]: 學妹超多. (24) [Slogan]: (這個男的欠燒欸). (25) [Subtitle]: 怎麼樣 Joeman. [Subtitle]: 聯絡我. [Subtitle]: 輔大學餐. [Subtitle]: 等你喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Waist up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single",
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 female student visible briefly in background, 3 female students posing for a selfie.",
+        "mainCharacterDescription": "A young Asian male with short black hair, wearing round metal-framed glasses, a brown button-up jacket over a white t-shirt, khaki pants, and a dark green backpack."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "University Campus",
+            "Cafe"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video features various locations within a university campus, including a tree-lined walkway, the exterior of a food court, modern academic buildings, and an ice cream shop interior.",
+        "lightingStyle": [
+          "Natural light",
+          "Interior lighting"
+        ],
+        "weather": [
+          "Sunny"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural",
+          "High Saturation"
+        ],
+        "cameraWork": [
+          "Follow shot",
+          "Static",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Soft-serve ice cream"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Fu Jen Catholic University"
+        ],
+        "brandLogos": [
+          "Joeman"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A young adult male speaks with a casual, conversational tone and moderate speech rate. Background music (BGM) begins: an upbeat, electronic pop track with a steady 4/4 beat (~120 BPM). Ambient noise is low, typical of an outdoor campus setting. (2) The male voice continues, sounding playful and slightly critical. A soft female voice briefly asks a question off-camera. BGM remains constant in the background. (3) The male voice's arousal increases; he speaks louder and with a sharper pitch to emphasize a point. SFX: A sharp 'shing' sound effect plays during a visual transition. (4) The speaker transitions to an informative tone, listing campus locations with clear articulation. BGM continues with synth melodies and a prominent bassline. (5) SFX: A cartoonish 'boing' sound effect marks a shift in the conversation. The male voice becomes more energetic and promotional. (6) SFX: A sparkling, high-pitched chime sound effect plays as a new location is introduced. BGM volume ducks slightly to allow the voice to remain clear. (7) SFX: The rhythmic, mechanical sound of an ice cream machine dispensing (liquid flow and gear hum) is clearly audible for a few seconds. (8) Male voice returns with a high-pitched, satisfied tone while describing food. BGM maintains its upbeat tempo. (9) SFX: A bright 'ta-da' fanfare sound effect plays. The male voice expresses surprise and excitement with a rising intonation contour. (10) The male voice lowers to a conspiratorial whisper, followed by the sound of group laughter and chatter from several females. SFX: A digital camera shutter click sound. (11) The male voice concludes with a very confident, loud, and assertive delivery, directly addressing someone. BGM swells in volume before a final hard cut to silence.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "main_characters_voices": 1,
+          "total_distinct_voices": 3,
+          "vocal_demographics": {
+            "male_vocal_count": 1,
+            "female_vocal_count": 2,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "Energetic",
+            "Humorous",
+            "Confident",
+            "Playful"
+          ],
+          "speechDensity": [
+            "Continuous talking"
+          ],
+          "vocalLanguage": [
+            "Mandarin Chinese"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": [
+          "Moderate"
+        ],
+        "pauseFrequencyAndDuration": [
+          "Frequent short pauses for emphasis"
+        ],
+        "pitchF0AndVariability": [
+          "Moderate variability",
+          "High-pitched emphasis"
+        ],
+        "intensityAndLoudness": [
+          "Moderate",
+          "Loud for emphasis"
+        ],
+        "voiceQuality": [
+          "Clear",
+          "Sharp"
+        ],
+        "articulationClarity": [
+          "Clear"
+        ],
+        "intonationAndContour": [
+          "Highly dynamic",
+          "Rising patterns for humor"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": [
+          "Medium-high"
+        ],
+        "valence": [
+          "Positive",
+          "Optimistic"
+        ],
+        "dominance": [
+          "High"
+        ],
+        "vocalEmotionClassification": [
+          "Happy",
+          "Excited"
+        ],
+        "tensionIndicators": [
+          "None"
+        ]
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic Pop",
+          "Upbeat"
+        ],
+        "tempoBPM": 120,
+        "bgmSinger": {
+          "total_singer_count": 0,
+          "male_singer_count": 0,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "None"
+        ],
+        "musicToSpeechRatio": [
+          "Medium"
+        ],
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": [
+          "Strong"
+        ],
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum machine"
+        ],
+        "musicSourceType": [
+          "Stock"
+        ],
+        "keyChangesAndHarmonicTension": [
+          "Steady progression"
+        ]
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "Shing transition",
+          "Boing",
+          "Sparkle chime",
+          "Ice cream machine whir",
+          "Fanfare",
+          "Camera shutter"
+        ],
+        "crowdNoise": [
+          "Small group laughter"
+        ],
+        "ambientNoiseDetails": [
+          "Light wind",
+          "Outdoor campus atmosphere"
+        ],
+        "silence": [
+          "None"
+        ]
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": [
+          "Bright"
+        ],
+        "spectralFluxAndBandwidth": [
+          "Rich and dynamic"
+        ],
+        "noisinessAndPercussiveness": [
+          "High percussiveness due to BGM beat"
+        ],
+        "harmonicsToNoiseRatio": [
+          "High"
+        ],
+        "jitterAndShimmer": [
+          "Low"
+        ]
+      },
+      "editing_and_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": [
+          "Hard cut",
+          "SFX-assisted transition"
+        ],
+        "vocalRatio": "High",
+        "audioEventDensity": [
+          "High"
+        ],
+        "audioCutFrequency": [
+          "Medium"
+        ],
+        "dynamicRange": [
+          "Compressed"
+        ],
+        "clippingAndCompressionLevel": [
+          "Optimized for social media"
+        ],
+        "speechMusicOverlap": [
+          "High"
+        ],
+        "rhythmSync": "Low",
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Campus Tour"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "New Taipei City"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.02,
+      "editingPace": "Fast",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video starts with a reaction/hook, transitions into a tour of Fu Jen campus highlights, and ends with a personal call-to-action."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Comparison -> Evidence -> CTA",
+      "mainPurpose": "The creator, likely a Fu Jen Catholic University alumnus, uses a lighthearted and competitive tone to critique a popular video about food at National Taiwan University (NTU). By showcasing his own university's food variety (the 'Four Gardens'), iconic snacks (ice cream), and campus atmosphere, he aims to prove that Fu Jen's student life is superior. The ultimate goal is a humorous appeal to popular YouTubers Joeman and Brian Tseng to include him or his school in future collaborations.",
+      "visualEmotion": [
+        "Energetic",
+        "Humorous",
+        "Informative",
+        "Confident"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video mentions other creators and the university, but no specific brand payment is evident.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing with variety-show captions, personal alumni perspective, and direct addressing of other influencers.",
+      "freeDescribe": "The video leverages school rivalry (NTU vs. Fu Jen) to drive engagement and uses nostalgia (referencing the 'Three Treasures' of Fu Jen) to resonate with current students and alumni."
+    }
+  }
+}

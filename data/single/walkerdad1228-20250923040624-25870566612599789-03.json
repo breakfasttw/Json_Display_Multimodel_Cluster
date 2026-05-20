@@ -1,0 +1,311 @@
+
+{
+"videoName": "video.mp4",
+"low_inference": {
+"basic_metadata": {
+"videoDuration": 18,
+"aspectRatio": "16:9"
+},
+"visual_base": {
+"withRealPeople": true,
+"visual_narrative_log": "(1) Five young girls are positioned on a grey asphalt road near a modern urban sidewalk in a staggered formation. One girl crouches in the center while the others stand with hands on hips, dressed in light-colored streetwear consisting of light blue and pink oversized cargo pants and white or light pink crop tops. Their facial expressions are focused and determined as they begin a synchronized dance routine under a cloudy, overcast sky. The background features towering glass skyscrapers, a pedestrian overpass bridge, and flat, natural lighting with no visible text overlays initially. (2) The scene cuts to an outdoor commercial plaza where the girls perform in front of a large glass building featuring a vibrant, pixelated heart mosaic. They have changed into high-contrast yellow cargo pants and black long-sleeved crop tops, showing energetic dance movements with sharp arm extensions and hip sways. The ground appears wet from recent rain, reflecting the ambient light, while several passers-by are visible walking in the distant background near the building entrance. (3) The video enters a sequence of rapid cuts between the initial road setting, the plaza, and a covered pedestrian walkway with a red carpet. The girls maintain tight synchronization, performing complex choreography that includes leg kicks and hair flips. In the walkway, the lighting is controlled and interior-like, with white structural beams and a bird mural on the side panels. The camera uses dynamic following shots and low angles to emphasize the scale of the choreography and the urban environment.",
+"text_narrative_log": "(1) [Logo]: Body Glove. [Slogan]: PINKLANG WORLD. (2) [Slogan]: SUP. (3) [Slogan]: 歌曲：DRIP. [Slogan]: 原唱：BABYMONSTER. [Slogan]: 指導：Mixcin Cindy。樂樂. [Slogan]: 全體成員：彤彤、貝貝、元元、棠棠、Doris. [Slogan]: 後製：珮辰老爸.",
+"visual_human_presence": {
+"totalHumanCount": 8,
+"maleDetectAmount": 1,
+"femaleDetectAmount": 7,
+"kidsDetectAmount": 5,
+"mainCharacterCount": 5,
+"bodyPartVisibility": [
+"Full body",
+"Waist up",
+"Hands and feet"
+],
+"crowdLevel": [
+"Small Group"
+],
+"countingEvidence": "5 main child performers (girls), approximately 3 passers-by visible in the background of the plaza and bridge scenes.",
+"mainCharacterDescription": "Five young girls wearing coordinated streetwear: one set of outfits includes light pink and blue cargo pants with white crop tops; the second set features bright yellow cargo pants with black long-sleeved crop tops and yellow beanies."
+},
+"visual_scene_and_style": {
+"locationCategory": {
+"category": [
+"Outdoor Street",
+"Plaza",
+"Pedestrian Bridge"
+],
+"topography": [
+"Plain"
+]
+},
+"isMultipleBackground": true,
+"backgroundDescribe": "A mix of urban environments including a wide asphalt road with a pedestrian bridge overhead, a modern glass-fronted building with a colorful heart mosaic, and a covered walkway with white steel supports and a red carpet.",
+"lightingStyle": [
+"Natural light",
+"Overcast",
+"Ambient interior"
+],
+"weather": [
+"Cloudy"
+],
+"season": "Unknown",
+"textOverlay": {
+"density": "Low",
+"textLanguage": [
+"Chinese",
+"English"
+],
+"isSubtitled": false
+},
+"colorTone": [
+"Natural",
+"High Saturation"
+],
+"cameraWork": [
+"Static",
+"Follow shot",
+"Low angle"
+]
+},
+"visual_objects_and_brands": {
+"animalDetect": [
+"None"
+],
+"foodsDetect": [
+"None"
+],
+"trafficDetect": [
+"Car",
+"Bus"
+],
+"techDetect": [
+"None"
+],
+"landmark": [
+"None"
+],
+"brandLogos": [
+"Body Glove"
+],
+"instrumentsVisible": [
+"None"
+]
+}
+},
+"audio_base": {
+"audio_narrative_log": "(1) The audio begins with a sharp, electronic percussion impact followed by a high-tempo synth bassline. A group of female voices delivers a rhythmic 'Yo' chant with high vocal arousal and clear articulation. The background music is a modern K-pop style track with a driving electronic beat at approximately 100 BPM. The acoustic environment is clean with no discernible background noise, suggesting a studio-mastered track. (2) A solo female voice enters with a fast-paced rap delivery. The prosody is sharp and aggressive, with high pitch variability and constant volume intensity. The BGM maintains its strong percussive beat, featuring prominent snare hits on every second beat. There is a slight reverb on the vocals, giving them a professional, polished texture. (3) A synthesized 'whoosh' sound effect marks a transition. The music swells into a melodic chorus section with layered vocal harmonies. The tempo remains constant, but the spectral brightness increases with the addition of high-frequency synth pads. The singers' voices are clear and energetic, exhibiting a hopeful and optimistic valence. (4) The track concludes with a series of rhythmic vocal ad-libs and a final percussive hit. The BGM remains dominant until the very end, where a quick fade-out occurs. The overall production is highly compressed and optimized for digital broadcast, with a wide frequency range and zero-crossing percussiveness.",
+"vocal_characterization_and_census": {
+"vocal_inventory_census": {
+"main_characters_voices": 5,
+"total_distinct_voices": 5,
+"vocal_demographics": {
+"male_vocal_count": 0,
+"female_vocal_count": 5,
+"kids_vocal_count": 5
+}
+},
+"vocal_qualities": {
+"tone": [
+"Excited",
+"Energetic",
+"Professional"
+],
+"speechDensity": [
+"Continuous singing"
+],
+"vocalLanguage": [
+"English",
+"Korean"
+]
+}
+},
+"speaking_style_and_prosody": {
+"speechRate": [
+"Fast"
+],
+"pauseFrequencyAndDuration": [
+"Short pauses between verses"
+],
+"pitchF0AndVariability": [
+"High-pitched",
+"High variability"
+],
+"intensityAndLoudness": [
+"Loud"
+],
+"voiceQuality": [
+"Clear",
+"Polished"
+],
+"articulationClarity": [
+"Clear/Professional"
+],
+"intonationAndContour": [
+"Rising and falling patterns"
+]
+},
+"emotional_and_affective": {
+"arousal": [
+"High arousal"
+],
+"valence": [
+"Optimistic"
+],
+"dominance": [
+"Assertive"
+],
+"vocalEmotionClassification": [
+"Happy"
+],
+"tensionIndicators": [
+"None"
+]
+},
+"music_features": {
+"musicPresence": true,
+"bgmGenre": [
+"K-Pop",
+"Electronic"
+],
+"tempoBPM": 100,
+"bgmSinger": {
+"total_singer_count": 5,
+"male_singer_count": 0,
+"female_singer_count": 5,
+"kids_singer_count": 0
+},
+"bgmLanguage": [
+"English",
+"Korean"
+],
+"musicToSpeechRatio": [
+"Medium"
+],
+"mode": [
+"Major"
+],
+"beatStrength": [
+"Strong"
+],
+"instrumentFamiliesAudible": [
+"Electronic",
+"Percussion"
+],
+"instrumentsAudible": [
+"Synthesizer",
+"Drum Machine"
+],
+"musicSourceType": [
+"Copyrighted Song"
+],
+"keyChangesAndHarmonicTension": [
+"Harmonic build-up in chorus"
+]
+},
+"sound_design": {
+"soundEffectsDetails": [
+"Whooshes",
+"Impacts"
+],
+"crowdNoise": [
+"None"
+],
+"ambientNoiseDetails": [
+"None"
+],
+"silence": [
+"None"
+]
+},
+"spectral_and_acoustic": {
+"spectralCentroidBrightness": [
+"Bright"
+],
+"spectralFluxAndBandwidth": [
+"High dynamism"
+],
+"noisinessAndPercussiveness": [
+"High percussiveness"
+],
+"harmonicsToNoiseRatio": [
+"Clean"
+],
+"jitterAndShimmer": [
+"None"
+]
+},
+"editing_and_production_style": {
+"audioContinuity": "Continuous",
+"audioTransition": [
+"Hard cut"
+],
+"vocalRatio": "Medium",
+"audioEventDensity": [
+"High"
+],
+"audioCutFrequency": [
+"None"
+],
+"dynamicRange": [
+"Compressed"
+],
+"clippingAndCompressionLevel": [
+"High"
+],
+"speechMusicOverlap": [
+"High"
+],
+"rhythmSync": "High",
+"audioQuality": [
+"Studio"
+]
+}
+}
+},
+"high_inference": {
+"content_identity": {
+"videoGenre": [
+"Dance Cover",
+"K-Pop Cover"
+],
+"location": {
+"country": [
+"Unknown"
+],
+"city": [
+"Unknown"
+]
+}
+},
+"temporal_pacing_summary": {
+"sceneCutCount": 14,
+"averageSceneDuration": 1.28,
+"editingPace": "Fast",
+"isNarrativeShift": false,
+"mainActionFlow": "The video follows a constant flow of synchronized dance choreography with rapid scene transitions."
+},
+"narrative_and_purpose": {
+"narrativeStructure": "Montage: Hook -> Choreography Showcase -> Credits",
+"mainPurpose": "The video is a high-energy dance cover intended to showcase the skill and coordination of a group of young female dancers. By utilizing multiple urban locations and coordinated costume changes, the content aims to provide an aesthetically pleasing and professional-looking performance that aligns with modern social media dance trends.",
+"visualEmotion": [
+"Energetic",
+"Cheerful",
+"Confident"
+]
+},
+"endorsement_analysis": {
+"isEndorsement": false,
+"endorsementMethod": [
+"None"
+],
+"endorsementCues": "Clothing features logos like 'Body Glove', but no explicit promotional call-to-action is present.",
+"endorsementObject": [
+"None"
+]
+},
+"social_sociology_tags": {
+"uniqueSignatures": "Synchronized youth dance choreography, urban location shifting, and end-screen credits.",
+"freeDescribe": "The video exhibits high production value for a social media dance cover, focusing on visual symmetry and rhythmic alignment."
+}
+}
+}

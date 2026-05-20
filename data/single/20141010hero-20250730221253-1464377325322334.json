@@ -1,0 +1,325 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 91,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens inside a car at night. The dashboard is illuminated with orange light, and a smartphone is mounted showing a GPS map and a messaging interface. Rain streaks the windshield, catching the reflections of green and yellow streetlights. A man with short black hair and a green t-shirt is seen in profile, driving and talking to the camera. (2) The man in the green shirt talks animatedly toward the lens. Later, he is joined by a male friend; both are inside the car at night, holding and eating fried food skewers from a paper bag. The lighting is low, provided by the car's interior cabin lights. (3) The camera captures the car driving on a dark highway at night. Large green overhead road signs with Traditional Chinese text and directional arrows pass by. The road surface is wet, reflecting the white and red lights of surrounding traffic. (4) The scene transitions to daylight. The main character, now wearing a white t-shirt, sits in the passenger seat and talks to the camera. The car interior is flooded with bright, natural sunlight. Outside, blurred utility poles and green trees pass by as the car travels. (5) Inside a brightly lit supermarket or convenience store. The man stands in a refrigerated aisle, picking up multiple shrink-wrapped packs of red canned food labeled with Chinese text. His friend helps him carry a tall stack of these packs against his chest. (6) Back in the car during the day. The man in the white shirt continues his vlog, holding a smartphone that displays a real-time tracking map of a religious procession. A small pink plush toy is visible on the dashboard. (7) The man stands on a sunny street next to a white van. He is handing out the red canned porridge to a continuous stream of people walking past. These people are pilgrims carrying heavy backpacks and wearing pink or red sun hats. (8) A large crowd of pilgrims moves through a narrow street lined with houses. A traditional religious palanquin, decorated with pink flowers and yellow silk, is carried through the crowd by men wearing bright yellow uniforms. A cameraman is seen documenting the event from the side. (9) Inside the car, the man holds up a long red fabric ribbon with golden Chinese characters and a small, colorful embroidered amulet. He speaks to the camera with a satisfied expression, showing the souvenirs he received.",
+      "text_narrative_log": "(1) [Subtitle]: 好的各位今天呢拍完影片大概是凌晨2:23分. (2) [Subtitle]: 秉持著每一年呢 都要去白沙屯走一下. (3) [Subtitle]: 我想就是現在 這個奇怪的時間. (4) [Variety]: 5/5 2:24 在台南黃金海岸. [Subtitle]: Right now 祂現在在哪裡 祂在雲林. (5) [Subtitle]: 主要是 媽祖好像五點就要起駕了 開去那邊剛好. (6) [Subtitle]: 大家都起床囉 慰勞一下這些走那麼遠的人. (7) [Subtitle]: 他們這樣走也走了一百七十幾公里了欸. (8) [Subtitle]: 大家應該沒吃早餐吧 那我就買個八寶粥吧. [Subtitle]: 好重. (9) [Subtitle]: 媽祖會保佑你 媽祖會保佑你. (10) [Subtitle]: 我們採購完畢60人份的早餐了 現在時間大概是5:40分. (11) [Subtitle]: 我們連自己的早餐都還沒吃欸. (12) [Subtitle]: 我們在這邊埋伏 阿不是埋伏啦在這邊等待. (13) [Subtitle]: 現在應該是路線會像這樣子. (14) [Subtitle]: 辛苦了 辛苦了 辛苦了. (15) [Subtitle]: 每一一求的願望都是希望家人身體健康. (16) [Subtitle]: 只要這一家人平安無事 我都會來陪走一小段還願. (17) [Subtitle]: 今年是第六年 比較忙 只能用這種方式 希望大家都能平平安安的. (18) [Subtitle]: 好快 好快快沒了欸. (19) [Subtitle]: 剛剛拿到的結緣品 很棒欸 感覺好好喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 60,
+        "maleDetectAmount": 30,
+        "femaleDetectAmount": 25,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Waist up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main characters in the car; dozens of pilgrims walking in the procession during the middle and end of the video.",
+        "mainCharacterDescription": "The primary character is a young Asian male with short black hair. He wears a dark green t-shirt at the start and later changes into a white t-shirt. His friend is another young Asian male with a fuller build, wearing a grey t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Car Interior",
+            "Convenience Store",
+            "Outdoor Street"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves through various settings: a dimly lit car interior at night with rain-streaked windows; a bright supermarket aisle filled with packaged drinks; and a sun-drenched residential street in Taiwan where a massive crowd is walking in a procession.",
+        "lightingStyle": [
+          "Natural light",
+          "Dim night lighting",
+          "Fluorescent store lights"
+        ],
+        "weather": [
+          "Rainy",
+          "Sunny"
+        ],
+        "season": "Spring",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural",
+          "Warm"
+        ],
+        "cameraWork": [
+          "POV",
+          "Static",
+          "Handheld"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fried skewers",
+          "Canned Porridge"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Van"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Car Dashboard"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple iPhone"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A young male voice speaks with clarity and energy, narrating the start of his journey. Background music is a lo-fi hip-hop track featuring a mellow synth melody and a steady electronic beat. Subtle environmental sounds of rain and engine hum are heard. (2) Sounds of plastic rustling and rhythmic chewing are prominent. A second male voice speaks casually with a lower pitch. They share a relaxed conversation while the lo-fi BGM continues at a medium volume. (3) A sharp, percussive 'click-clack' sound from the car's turn signal indicator repeats. Male voice 1 continues speaking with high enthusiasm as the sound of tires on wet pavement suggests highway travel. (4) The audio shifts to daytime driving. The lo-fi BGM fades out, replaced by the sound of wind rushing against the car and a brighter vocal tone from the narrator. (5) High-pitched 'beeps' from a store checkout scanner are heard, followed by the metallic clattering and plastic crinkling of multiple cans being stacked together. The two men exchange jokes with high vocal arousal. (6) A sentimental Mandopop song with male vocals, acoustic guitar, and soft strings begins as BGM. The environment shifts to a busy outdoor street with the sound of hundreds of footsteps and distant crowd chatter. (7) Male voice 1 interacts with the crowd, repeatedly offering friendly greetings and words of encouragement. The Mandopop BGM swells in volume, highlighting the emotional tone. (8) Loud rhythmic strikes on a wooden clapper and distant gongs mark the arrival of a procession. The crowd's cheering and collective murmurs increase the spectral density and audio arousal. (9) The setting returns to the car interior. A quiet, contemplative piano version of the previous song plays softly. Voice 1 speaks with a calm, satisfied tone. The sound of fabric rustling is heard as he displays souvenirs.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "main_characters_voices": 2,
+          "total_distinct_voices": 2,
+          "vocal_demographics": {
+            "male_vocal_count": 2,
+            "female_vocal_count": 0,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "Excited",
+            "Friendly",
+            "Sincere"
+          ],
+          "speechDensity": [
+            "Continuous talking"
+          ],
+          "vocalLanguage": [
+            "Mandarin"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": [
+          "Moderate"
+        ],
+        "pauseFrequencyAndDuration": [
+          "Frequent short pauses"
+        ],
+        "pitchF0AndVariability": [
+          "Medium-high",
+          "Moderate"
+        ],
+        "intensityAndLoudness": [
+          "Moderate"
+        ],
+        "voiceQuality": [
+          "Clear"
+        ],
+        "articulationClarity": [
+          "Clear"
+        ],
+        "intonationAndContour": [
+          "Varied"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": [
+          "High arousal"
+        ],
+        "valence": [
+          "Positive"
+        ],
+        "dominance": [
+          "Confident"
+        ],
+        "vocalEmotionClassification": [
+          "Happy",
+          "Grateful"
+        ],
+        "tensionIndicators": [
+          "None"
+        ]
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Lo-fi",
+          "Mandopop"
+        ],
+        "tempoBPM": 90,
+        "bgmSinger": {
+          "total_singer_count": 1,
+          "male_singer_count": 1,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "Mandarin"
+        ],
+        "musicToSpeechRatio": [
+          "Medium"
+        ],
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": [
+          "Moderate"
+        ],
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Strings",
+          "Keyboard",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synth",
+          "Acoustic Guitar",
+          "Piano",
+          "Gong",
+          "Wooden Clapper"
+        ],
+        "musicSourceType": [
+          "Copyrighted Song"
+        ],
+        "keyChangesAndHarmonicTension": [
+          "None"
+        ]
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "Car turn signal",
+          "Store scanner beep",
+          "Cans clanking",
+          "Chewing sounds"
+        ],
+        "crowdNoise": [
+          "Crowd chatter",
+          "Cheering"
+        ],
+        "ambientNoiseDetails": [
+          "Traffic hum",
+          "Wind noise",
+          "Rain on windshield",
+          "Footsteps"
+        ],
+        "silence": [
+          "None"
+        ]
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": [
+          "Bright"
+        ],
+        "spectralFluxAndBandwidth": [
+          "High"
+        ],
+        "noisinessAndPercussiveness": [
+          "Moderate"
+        ],
+        "harmonicsToNoiseRatio": [
+          "Clean"
+        ],
+        "jitterAndShimmer": [
+          "None"
+        ]
+      },
+      "editing_and_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": [
+          "Cross-fade",
+          "Hard cut"
+        ],
+        "vocalRatio": "High",
+        "audioEventDensity": [
+          "High"
+        ],
+        "audioCutFrequency": [
+          "Moderate"
+        ],
+        "dynamicRange": [
+          "Moderate"
+        ],
+        "clippingAndCompressionLevel": [
+          "Moderate"
+        ],
+        "speechMusicOverlap": [
+          "High"
+        ],
+        "rhythmSync": "Low",
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Cultural Documentary"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan",
+          "Yunlin",
+          "Miaoli"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a chronological journey starting with a late-night car ride, preparing supplies at a store, and arriving at a daylight religious pilgrimage to distribute gifts."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Preparation -> Climax -> Resolution",
+      "mainPurpose": "To document the creator's participation in the annual Baishatun Mazu Pilgrimage, specifically highlighting the act of distributing 'affinity gifts' (canned food) to tired pilgrims as a form of gratitude and religious devotion.",
+      "visualEmotion": [
+        "Energetic",
+        "Warm",
+        "Sincere"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The canned food purchased appears to be a personal choice for charity rather than a paid product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Night-to-day chronological vlog style with high-energy narration and traditional Taiwanese religious themes.",
+      "freeDescribe": "The video captures a highly localized Taiwanese cultural event (Baishatun Mazu Pilgrimage) with an emphasis on community spirit and personal vow fulfillment (還願)."
+    }
+  }
+}

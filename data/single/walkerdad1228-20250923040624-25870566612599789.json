@@ -1,0 +1,317 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 179.91,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with five young girls positioned in a V-formation on a paved urban road. They are dressed in streetwear: white crop tops paired with baggy light blue or light pink cargo pants. The background features towering modern skyscrapers under an overcast, grey sky and a large elevated walkway. The girls strike a synchronized starting pose with hands on hips, looking directly into the lens with confident, serious expressions. (2) The scene abruptly cuts to the same five girls in a different location, now wearing black and yellow hip-hop inspired outfits with beanies and sunglasses. They are standing in front of a modern glass building with a large, colorful pixelated heart mural. They begin an energetic dance routine involving synchronized arm swings and chest pops. (3) The setting shifts to a covered pedestrian bridge or walkway with a red carpet runner. The girls continue their choreography, performing sharp leg kicks and hair flips. A passerby in dark clothing is visible walking in the distant background. The lighting is diffused and natural, highlighting the high saturation of their yellow garments. (4) For the remainder of the video, the shots rotate rapidly between these three locations (urban road, heart mural, and red carpet tunnel). The camera work utilizes a mix of low-angle static group shots and medium close-ups focusing on individual girls as they perform lip-syncing movements and complex hand-tutting gestures. A white Tesla car drives past in the background of the roadside scene during a wide-angle shot.",
+      "text_narrative_log": "(1) [Subtitle]: WHEN I DRESS I DON’T THINK SO MUCH. (2) [Subtitle]: I COULD BE THE GOAT I DON’T NEED TO MUCH. (3) [Subtitle]: 아 지리리 끼리끼리 놀아볼까. (4) [Logo]: EINKLANG WORLD. (5) [Slogan]: BABYMONSTER. (6) [Variety]: DRIP. (7) [Slogan]: Mixcin Cindy. (8) [Variety]: Doris.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Full body",
+          "Waist up",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "5 main children dancing throughout; 1 male adult passerby visible in the background of the walkway scene at 0:27.",
+        "mainCharacterDescription": "Five young girls aged approximately 7-10. They alternate between two styles: 1) White long-sleeve crop tops with light blue or pink oversized cargo pants. 2) Black long-sleeve shirts with yellow cargo pants, yellow beanies, and yellow-rimmed sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Urban Walkway",
+            "Modern Building Plaza"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video features three primary urban locations: a wide paved road near tall residential and commercial skyscrapers with an overpass; a plaza area in front of a glass building adorned with a large multi-colored heart-shaped pixel art mural; and a long, white architectural walkway with a red carpet and graphic bird/dolphin art on the side panels.",
+        "lightingStyle": [
+          "Natural light",
+          "Overcast"
+        ],
+        "weather": [
+          "Cloudy"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "English",
+            "Korean"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Natural"
+        ],
+        "cameraWork": [
+          "Static",
+          "Follow shot",
+          "Low-angle"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Tesla",
+          "EINKLANG WORLD"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-tempo electronic dance track. A rhythmic synth loop with a sharp, metallic timbre repeats at approximately 120 BPM. There is no ambient noise, indicating a professional studio recording. (2) Female vocals enter with a high-pitched, energetic rap delivery. The articulation is very clear and rapid, following the percussive beat. The bass kicks are heavy with a wide dynamic range, providing a strong rhythmic foundation. (3) A sharp electronic 'whoosh' SFX signals a transition into a more melodic vocal section. The vocals shift from rapping to singing with a rising pitch contour and sustained notes. The reverb level on the vocals increases slightly, adding depth to the mix. (4) The chorus hits with a dense layering of multiple female voices (vocal stacking). The intensity and arousal are high. A heavy, distorted bass synth becomes dominant. There are occasional short, percussive 'clap' sound effects synchronized with the snare hits. (5) A mid-song transition features a change in the synth texture to a darker, more distorted tone. The vocals drop to a whisper-like quality with high breathiness before swelling back into a loud, assertive rap sequence. (6) The final phase consists of the outro where the musical complexity decreases, leaving the rhythmic synth loop and a few vocal ad-libs until a final sharp electronic impact sound ends the track.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "main_characters_voices": 7,
+          "total_distinct_voices": 7,
+          "vocal_demographics": {
+            "male_vocal_count": 0,
+            "female_vocal_count": 7,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "excited",
+            "energetic",
+            "assertive"
+          ],
+          "speechDensity": [
+            "Continuous singing",
+            "Continuous rapping"
+          ],
+          "vocalLanguage": [
+            "English",
+            "Korean"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": [
+          "Fast"
+        ],
+        "pauseFrequencyAndDuration": [
+          "Rare short pauses"
+        ],
+        "pitchF0AndVariability": [
+          "High",
+          "Variable"
+        ],
+        "intensityAndLoudness": [
+          "Loud"
+        ],
+        "voiceQuality": [
+          "Clear",
+          "Breathiness"
+        ],
+        "articulationClarity": [
+          "Clear/Professional"
+        ],
+        "intonationAndContour": [
+          "Rising/Falling pitch patterns",
+          "Strong emphasis"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": [
+          "High arousal"
+        ],
+        "valence": [
+          "Optimistic",
+          "Confident"
+        ],
+        "dominance": [
+          "Assertive"
+        ],
+        "vocalEmotionClassification": [
+          "Happy",
+          "Excited"
+        ],
+        "tensionIndicators": [
+          "None"
+        ]
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "K-Pop",
+          "Hip-Hop",
+          "Electronic"
+        ],
+        "tempoBPM": 120,
+        "bgmSinger": {
+          "total_singer_count": 7,
+          "male_singer_count": 0,
+          "female_singer_count": 7,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "English",
+          "Korean"
+        ],
+        "musicToSpeechRatio": [
+          "High"
+        ],
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": [
+          "Strong"
+        ],
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum machine"
+        ],
+        "musicSourceType": [
+          "Copyrighted Song"
+        ],
+        "keyChangesAndHarmonicTension": [
+          "Occasional build-up tension"
+        ]
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "whooshes",
+          "impacts",
+          "clicks",
+          "percussive claps"
+        ],
+        "crowdNoise": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "None"
+        ],
+        "silence": [
+          "None"
+        ]
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": [
+          "Bright"
+        ],
+        "spectralFluxAndBandwidth": [
+          "Dynamism",
+          "Richness"
+        ],
+        "noisinessAndPercussiveness": [
+          "High"
+        ],
+        "harmonicsToNoiseRatio": [
+          "Clean"
+        ],
+        "jitterAndShimmer": [
+          "None"
+        ]
+      },
+      "editing_and_production_style": {
+        "audioContinuity": "Continuous",
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "vocalRatio": "High",
+        "audioEventDensity": [
+          "High"
+        ],
+        "audioCutFrequency": [
+          "None"
+        ],
+        "dynamicRange": [
+          "Compressed"
+        ],
+        "clippingAndCompressionLevel": [
+          "Platform-optimized"
+        ],
+        "speechMusicOverlap": [
+          "Continuous"
+        ],
+        "rhythmSync": "High",
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance Cover",
+        "Music Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 4.28,
+      "editingPace": "Fast",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a high-energy dance performance throughout, using rapid location cuts to maintain visual momentum."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Performance -> Multi-location showcase -> Ending Credits",
+      "mainPurpose": "This is a high-production dance cover video featuring a group of young students from the 'EINKLANG WORLD' dance studio. The primary purpose is to showcase the children's synchronized choreography and performance skills to the song 'DRIP' by BABYMONSTER. It serves as both a talent showcase for the performers and a promotional piece for the dance instructors mentioned in the credits.",
+      "visualEmotion": [
+        "Energetic",
+        "Confident",
+        "Cool"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "EINKLANG WORLD watermarks and professionally designed lower-third graphics.",
+      "freeDescribe": "The video stands out due to the high level of professionalism in the children's performance and the urban-chic styling, mimicking a mainstream K-pop music video."
+    }
+  }
+}
