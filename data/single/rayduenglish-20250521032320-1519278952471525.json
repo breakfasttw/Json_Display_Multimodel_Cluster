@@ -1,0 +1,166 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 85.34,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a light blue short-sleeved button-down shirt with a name tag, black trousers, and glasses stands in a corridor with promotional banners. He holds a microphone and speaks, gesturing towards a group of people behind him. (2) The scene shifts to the interior of a large stadium corridor with stacked boxes and promotional displays. The man is seen sitting alone on a chair looking pensive, then later walking through a crowded hallway where fans are gathered. (3) On a brightly lit stage with a purple floral backdrop, three women in white and red baseball-style cheerleader uniforms are posing. The man in the blue shirt joins them on stage, standing beside an MC wearing a red and white striped baseball jersey. (4) The group on stage participates in interactive activities, including placing their hands together in a huddle and dancing. Text overlays like '(?)' and '(不要)' appear to highlight comical moments. (5) In a more secluded hallway with stacked cardboard boxes, the man interacts and takes selfies with the women in cheerleader outfits and fans. He concludes by standing in front of a large product poster for Physiogel, holding a white cream tube.",
+      "text_narrative_log": "(1) [Slogan]: 前台灣新媒體影音創作者協會理事長 兼差打工慘烈畫面流出. [Variety]: 沒人在意. (2) [Subtitle]: 你怎麼今天穿這樣來大巨蛋. [Variety]: 邊佑錫. (3) [Subtitle]: 因為我今天參加潔美淨的活動. [Logo]: PHYSIOGEL. [Variety]: 是來看啦啦隊的吧. (4) [Variety]: 沒人在理我欸. [Slogan]: 打造細嫩嫩白肌. (5) [Variety]: (不要) (需要) (?). (6) [Subtitle]: 我的上面是阿滴啦. [Variety]: (偷碰手引發眾怒). (7) [Variety]: (拜託啦不要退訂嘛) (年度代言人跟不上). (8) [Subtitle]: 我也想參與... [Slogan]: 潔美淨品牌大使 阿滴. (9) [Slogan]: 阿滴 36歲. (10) [Subtitle]: 傻眼欸怎麼會有啊. (11) [Subtitle]: 我就說邊邊啦 同等級的待遇. (12) [Slogan]: 台灣代言人 全球代言人. (13) [Variety]: (啦啦隊有危險了!!) (阿滴靠近了!!) (今天一切辛苦都值得了) (相談甚歡) (終於發現攝影機). (14) [Slogan]: 謝謝潔美淨的邀請! 5/20~6/19 康是美實體門市及網購還有優惠活動唷.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": ["Full body", "Upper body", "Hands only"],
+        "crowdLevel": ["Crowd"],
+        "countingEvidence": "One main creator (A-Di), one MC, four cheerleaders (Lotte Girls), and approximately 10 various staff and crowd members.",
+        "mainCharacterDescription": "A young man with short black hair and glasses, wearing a light blue short-sleeved school-style shirt with a name tag 'Ray' and black pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": ["Stadium Interior", "Event Stage", "Corridor"],
+          "topography": ["None"]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a hallway with promotional banners for 'Valment' and 'Physiogel', a large indoor stadium corridor (Taipei Dome), and a dedicated event stage with a purple floral 'LG' backdrop. Stacks of 'LG' brand cardboard boxes are visible in some scenes.",
+        "lightingStyle": ["Indoor commercial lighting", "Bright stage spotlights"],
+        "weather": ["Unknown"],
+        "season": "Spring",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": ["Mandarin", "English"],
+          "isSubtitled": true
+        },
+        "colorTone": ["Bright", "Vibrant", "Natural"],
+        "cameraWork": ["POV", "Static", "Handheld Follow"]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["None"],
+        "techDetect": ["Smartphone", "Microphone"],
+        "landmark": ["Taipei Dome"],
+        "brandLogos": ["LG", "PHYSIOGEL", "EUTHYMOL", "VALMENT", "康是美"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) Casual conversation begins with a male voice speaking at a moderate pace and friendly tone, accompanied by a light, upbeat acoustic BGM. A female voice off-camera asks a question. (2) The acoustic texture shifts to a more reverberant stadium environment. Background noise floor increases with crowd chatter. The BGM remains but is joined by faint stadium music. (3) An MC's voice is heard through a PA system, characterized by a booming, high-intensity professional tone. Frequent cartoon-style sound effects (impacts, boings) are synced with text overlays. (4) Multiple female voices are heard laughing and chatting excitedly. The sound of multiple digital camera shutters clicking is present. (5) The primary male voice returns with high articulation clarity, speaking directly to the audience in a promotional tone. The BGM swells slightly before a final digital notification-like chime ends the clip.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "dominant_speakers_count": 2,
+          "total_distinct_voices": 7,
+          "vocal_demographics": {
+            "male_vocal_count": 2,
+            "female_vocal_count": 5,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": ["Friendly", "Humorous", "Professional/Narrative"],
+          "speechDensity": 4,
+          "vocalLanguage": ["Mandarin"]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": 3,
+        "pauseDensity": 2,
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "voiceQuality": {
+          "hasBreathiness": false,
+          "hasRoughness": false,
+          "hasStrain": false
+        },
+        "articulationClarity": 5,
+        "intonationAndContour": ["Dynamic"]
+      },
+      "emotional_and_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Pop", "Meme/Comedy"],
+        "tempoBPM": 120,
+        "bgmSinger": {
+          "total_singer_count": 0,
+          "male_singer_count": 0,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": ["Instrumental"],
+        "musicToSpeechRatio": 2,
+        "mode": ["Major"],
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer", "Percussion"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "soundEffectsDetails": ["cartoonSFX", "impactSFX", "digitalUI_SFX"],
+        "crowdNoiseIntensity": 3,
+        "crowdNoiseDetail": ["Chatter", "Applause", "Laugh"],
+        "ambientNoiseDetails": ["Commercial/Recreational", "Indoor/RoomTone"],
+        "hasStrategicSilence": false
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "isAudioFragmented": true,
+        "audioTransition": ["Hard cut", "Stingers"],
+        "vocalRatio": 4,
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "speechMusicOverlap": 5,
+        "rhythmSync": 3,
+        "audioQuality": ["Mixed"]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Vlog", "Promotional", "Commentary"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["Taipei"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro commentary -> Event highlights and stage interactions -> Backstage fan/cheerleader interaction -> Final product endorsement."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Interaction -> CTA",
+      "mainPurpose": "The video serves as a comedic promotional Vlog for the skin care brand Physiogel. It uses the influencer A-Di's 'awkward' persona to create an entertaining narrative about his attendance as a brand ambassador at a high-profile event at the Taipei Dome alongside popular cheerleaders (Lotte Girls). The contrast between the glamorous cheerleaders and his self-deprecating humor aims to engage his audience while subtly showcasing the product.",
+      "visualEmotion": ["Humorous", "Energetic", "Social", "Informative"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": ["Explicit", "Full"],
+      "endorsementCues": "Direct display of products, participation in a brand-sponsored event, final call-to-action regarding a sale at Cosmed (康是美), and 'Brand Ambassador' title.",
+      "endorsementObject": ["PHYSIOGEL", "潔美淨"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor, variety-show style high-density text overlays, interaction with mainstream sports culture figures (cheerleaders).",
+      "freeDescribe": "The video leverages 'second-hand embarrassment' humor to drive engagement. The use of variety show editing techniques makes the commercial content more palatable to a younger social media audience."
+    }
+  }
+}

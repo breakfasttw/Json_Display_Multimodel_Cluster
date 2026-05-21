@@ -1,0 +1,285 @@
+{
+"videoName": "video.mp4",
+"low_inference": {
+"basic_metadata": {
+"videoDuration": 233,
+"aspectRatio": "9:16"
+},
+"visual_base": {
+"withRealPeople": true,
+"visual_narrative_log": "(1) A man with short black hair, wearing a black tank top and a chest harness for a camera, stands in a modern, well-lit apartment. He holds a white box of brüst protein coffee. The background features a large wooden dining table, a sleek kitchen area with white cabinetry, and large windows. (2) The man approaches a tall glass display cabinet filled with hundreds of small Gashapon and collectible figurines arranged on shelves. He holds the protein coffee box while looking at the collection. The room has neutral walls and a warm, domestic lighting setup. (3) He walks up a set of dark granite stairs. A grey and white cat sits on a landing, watching him. He enters a bedroom with an unmade bed and pets an orange tabby cat lying on the headboard of the bed near a lamp and some toys. (4) In an outdoor or balcony area, the man opens a large blue bag of cat food. He pours the dry kibble into a light-colored bowl on the floor while multiple cats, including a white and black one, gather around his feet. (5) Transition to a room filled with toys, electronics, and posters. The man is now wearing a white Los Angeles Dodgers jersey, black glasses, and a black baseball cap. He adjusts his gear and speaks directly to the camera in this personal studio space. (6) Evening exterior shots show the man walking down a narrow residential alleyway during golden hour. He is carrying a red bucket of fried chicken and a large bottle of Coca-Cola. The setting sun casts long, soft shadows against the cream-colored walls. (7) Inside a brightly decorated home, a young boy with curly hair, wearing a blue Dodgers t-shirt and cap, sits on the floor near blue and white balloons and a 'Happy Birthday' banner. Adults are gathered around a table with several open pizza boxes. (8) Close-up of a smartphone screen showing a video of a crying newborn baby. The young boy watches the screen intently, touching his face and hair with curiosity. A woman in a beige top leans in close to him in the brightly lit room. (9) The boy sits at the table with a white cake topped with fresh strawberries. He uses a server to cut a slice while people applaud. He then tastes a small square of dark chocolate, resulting in a humorous and expressive face of disgust.",
+"text_narrative_log": "(1) [Logo]: @人夫聖經這這這. (2) [Subtitle]: 這天是happy生日 他這幾天都住在 外公外婆家. (3) [Subtitle]: 最近地震頻繁 家裡的扭蛋櫃 早已面目全非. (4) [Subtitle]: 泡妃又在等我上樓 因為她想吃我倒的飼料. (5) [Subtitle]: 阿湯❤️. (6) [Subtitle]: 泡妃還忘了自己是流浪貓 每天都會很職業病地 來我房間門口討吃的 但是2樓明明有自動餵食機 她還是喜歡這樣的儀式感. (7) [Subtitle]: 今天岳父給Happy 穿了大谷翔平的球帽跟衣服 所以我決定跟他穿父子裝. (8) [Subtitle]: 準備去市區拿披薩跟蛋糕. (9) [Subtitle]: 林太太花店的姑姑 會幫Happy佈置生日場地 #花花花店. (10) [Subtitle]: 大家各司其職 準備出發. (11) [Subtitle]: 雖然林太太有訂 披薩跟蛋糕 但我還是買了胖老爹 單純只是因為我想吃😂. (12) [Subtitle]: 他終於完成了他的夢想 林太太說他五歲之後 就可以吃巧克力了. (13) [Subtitle]: 他媽媽特地幫他準備了 100%的濃巧克力👍. (14) [Subtitle]: 他吃完的感想是... (15) [Variety]: 有點苦🤢. [Variety]: 哈哈哈哈哈哈.",
+"visual_human_presence": {
+"totalHumanCount": 5,
+"maleDetectAmount": 3,
+"femaleDetectAmount": 2,
+"kidsDetectAmount": 1,
+"mainCharacterCount": 2,
+"bodyPartVisibility": [
+"Hands only",
+"Back view",
+"Full body",
+"Head and shoulders"
+],
+"crowdLevel": [
+"Small Group"
+],
+"countingEvidence": "1 main male creator/narrator, 1 young boy (main subject), 1 female (mother), and at least 2 other adults at the party table.",
+"mainCharacterDescription": "The main narrator is a young adult Asian male with black hair, often seen wearing a black tank top or a white Dodgers baseball jersey and a cap. The second main character is a young boy with curly black hair, wearing a blue Dodgers shirt."
+},
+"visual_scene_and_style": {
+"locationCategory": {
+"category": [
+"Indoor Apartment",
+"Indoor Studio",
+"Outdoor Street",
+"Indoor Dining Room"
+],
+"topography": [
+"Plain"
+]
+},
+"isMultipleBackground": true,
+"backgroundDescribe": "Modern home interiors with wooden floors and minimalist furniture; a hobby room filled with figurines and R2-D2 model; a narrow urban residential street at sunset; a festive dining room decorated with balloons and banners.",
+"lightingStyle": [
+"Natural light",
+"Warm indoor light",
+"Golden hour"
+],
+"weather": [
+"Sunny",
+"Mostly clear"
+],
+"season": "Summer",
+"textOverlay": {
+"density": "Medium",
+"textLanguage": [
+"Traditional Chinese"
+],
+"isSubtitled": true
+},
+"colorTone": [
+"Natural",
+"Warm",
+"Golden hour glow"
+],
+"cameraWork": [
+"POV",
+"Static",
+"Follow shot"
+]
+},
+"visual_objects_and_brands": {
+"animalDetect": [
+"Cat"
+],
+"foodsDetect": [
+"Pizza",
+"Fried Chicken",
+"Cake",
+"Strawberries",
+"Chocolate",
+"Coca-Cola"
+],
+"trafficDetect": [
+"Car"
+],
+"techDetect": [
+"Smartphone",
+"Monitor",
+"Camera"
+],
+"landmark": [
+"None"
+],
+"brandLogos": [
+"brüst",
+"Los Angeles Dodgers",
+"Nike",
+"McDonald's",
+"Coca-Cola",
+"胖老爹"
+],
+"instrumentsVisible": [
+"None"
+]
+}
+},
+"audio_base": {
+"audio_narrative_log": "(1) The audio opens with a light, upbeat, and mid-tempo background music (BGM) featuring acoustic guitar strums and a simple piano melody. A male voice narrates in a friendly, casual Mandarin tone with clear articulation. Soft interior room tone and light footsteps are heard in the mix. (2) A subtle shift in acoustics occurs as the man moves through different rooms, with slight changes in reverb. The narrator's voice remains the primary focus, maintaining a consistent conversational volume and a positive, energetic emotional valence. (3) SFX: A soft cat meow is audible. The narrator responds with a more affectionate, higher-pitched tone, followed by the muffled percussive sound of hand-to-fur petting. The upbeat BGM continues at a steady volume in the background. (4) SFX: The distinct, loud crinkling of a large plastic bag is heard, followed by the metallic-like rattling sound of small kibble pieces hitting a plastic bowl. The narrator calls out 'Nai-da' with a slightly echoed vocal quality. (5) SFX: A mechanical 'clunk' of a car door closing, followed by the low-frequency rumble of a car engine starting. The audio texture shifts to include interior vehicle noise. The narrator's voice remains clear but with a slightly more confined acoustic profile. (6) SFX: Rhythmic footsteps on a hard outdoor pavement combined with distant, muffled traffic noise floor. The narrator's voice is close to the microphone, speaking at a moderate pace while the sound of a plastic bag rustles intermittently. (7) SFX: A chorus of voices cheering 'Happy Birthday' and shouting as a door opens. The acoustic density increases significantly with overlapping adult and child voices. High vocal arousal is present, and the BGM remains a constant, unifying element. (8) SFX: A baby's high-pitched crying sounds from a secondary source (a phone speaker) within the environment. This is followed by the boy's voice and collective adult laughter, creating a complex, layered auditory scene of a family gathering. (9) The group sings the 'Happy Birthday' song in a mix of Mandarin and English. Sound of rhythmic clapping follows the song. SFX: The soft sound of a cake server slicing through cake and the clinking of plates. (10) SFX: Soft crunching and eating sounds. The boy speaks in a high-pitched, child-like tone, followed by a sudden burst of high-volume collective laughter from the adults as he reacts to the bitter chocolate. The BGM reaches its conclusion.",
+"vocal_characterization_and_census": {
+"vocal_inventory_census": {
+"dominant_speakers_count": 1,
+"total_distinct_voices": 5,
+"vocal_demographics": {
+"male_vocal_count": 2,
+"female_vocal_count": 2,
+"kids_vocal_count": 1
+}
+},
+"vocal_qualities": {
+"tone": [
+"Friendly",
+"Casual",
+"Animated/Excited"
+],
+"speechDensity": 4,
+"vocalLanguage": [
+"Mandarin",
+"English"
+]
+}
+},
+"speaking_style_and_prosody": {
+"speechRate": 3,
+"pauseDensity": 2,
+"pitchLevel": 3,
+"pitchVariability": 4,
+"intensityAndLoudness": 3,
+"voiceQuality": {
+"hasBreathiness": false,
+"hasRoughness": false,
+"hasStrain": false
+},
+"articulationClarity": 5,
+"intonationAndContour": [
+"Dynamic"
+]
+},
+"emotional_and_affective": {
+"arousal": 6,
+"valence": 8,
+"dominance": 6,
+"hasVocalTension": false
+},
+"music_features": {
+"musicPresence": true,
+"bgmGenre": [
+"Pop",
+"Acoustic/Folk"
+],
+"tempoBPM": 110,
+"bgmSinger": {
+"total_singer_count": 0,
+"male_singer_count": 0,
+"female_singer_count": 0,
+"kids_singer_count": 0
+},
+"bgmLanguage": [
+"Instrumental"
+],
+"musicToSpeechRatio": 2,
+"mode": [
+"Major"
+],
+"beatStrength": 3,
+"instrumentFamiliesAudible": [
+"Keyboard",
+"String",
+"Percussion"
+],
+"instrumentsAudible": [
+"Piano",
+"Guitar"
+],
+"musicSourceType": [
+"Stock/Royalty-Free"
+],
+"harmonicTensionLevel": 1
+},
+"sound_design": {
+"soundEffectsDetails": [
+"frictionRustleSFX",
+"impactSFX",
+"mechanicalLatchSFX",
+"trafficEngineSFX",
+"cartoonSFX"
+],
+"crowdNoiseIntensity": 3,
+"crowdNoiseDetail": [
+"Laugh",
+"Applause",
+"Chatter"
+],
+"ambientNoiseDetails": [
+"Indoor/RoomTone",
+"Urban/Traffic",
+"Domestic/Neighborhood"
+],
+"hasStrategicSilence": false
+},
+"spectral_and_acoustic": {
+"spectralCentroidBrightness": 4,
+"acousticDynamism": 4,
+"noisinessAndPercussiveness": 3,
+"harmonicsToNoiseRatio": 4,
+"hasAudioDistortion": false
+},
+"editing_and_production_style": {
+"isAudioFragmented": false,
+"audioTransition": [
+"Hard cut",
+"Cross-fade"
+],
+"vocalRatio": 4,
+"audioEventDensity": 4,
+"audioCutFrequency": 3,
+"dynamicRange": 3,
+"speechMusicOverlap": 5,
+"rhythmSync": 2,
+"audioQuality": [
+"Mixed"
+]
+}
+}
+},
+"high_inference": {
+"content_identity": {
+"videoGenre": [
+"Vlog",
+"Family"
+],
+"location": {
+"country": [
+"Taiwan"
+],
+"city": [
+"Tainan"
+]
+}
+},
+"temporal_pacing_summary": {
+"sceneCutCount": 42,
+"averageSceneDuration": 5.5,
+"editingPace": "Moderate",
+"isNarrativeShift": true,
+"mainActionFlow": "The video starts with daily home tasks and pet care, then shifts to the preparation and execution of a child's birthday party."
+},
+"narrative_and_purpose": {
+"narrativeStructure": "Linear: Daily Routine -> Event Preparation -> Celebration -> Climax/Humorous Ending",
+"mainPurpose": "The video documents the 5th birthday celebration of the creator's son, Happy. It captures the warm family atmosphere, the preparation involved in organizing the party, and small, relatable moments like feeding pets and the child's reaction to tasting dark chocolate for the first time.",
+"visualEmotion": [
+"warm",
+"energetic",
+"humorous",
+"celebratory"
+]
+},
+"endorsement_analysis": {
+"isEndorsement": true,
+"endorsementMethod": [
+"Implicit",
+"Integrated"
+],
+"endorsementCues": "Prominent display of the 'brüst' protein coffee box at the beginning and 'Fat Daddy' fried chicken during the party preparation.",
+"endorsementObject": [
+"brüst",
+"胖老爹"
+]
+},
+"social_sociology_tags": {
+"uniqueSignatures": "The use of the @人夫聖經 logo and a personal, first-person vlog style with frequent pet interactions.",
+"freeDescribe": "The video effectively uses high-quality audio and visual editing to create an engaging lifestyle narrative. The child's reaction at the end serves as a strong 'hook' or memorable moment for social media engagement."
+}
+}
+}

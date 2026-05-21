@@ -1,0 +1,257 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 194,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Five young female children are positioned in a choreographed formation on a wide urban sidewalk adjacent to a multi-lane road. The central child is in a low squat while the others stand in dynamic, ready poses. They are dressed in coordinated streetwear: oversized light blue and pink cargo trousers paired with white crop tops. The background features modern grey residential towers and a concrete overpass under a muted, overcast sky. (2) The children engage in high-energy synchronized dancing, characterized by sharp arm movements, rhythmic stepping, and fluid body rolls. Their facial expressions are intense and focused, with their mouths moving in synchronization with the unheard lyrics. The camera shifts between low-angle follow shots and eye-level static frames, capturing the textures of the damp pavement and the billowing fabric of their baggy clothing. (3) The setting transitions to a brightly colored outdoor plaza featuring a large, pixelated heart-shaped mural on a glass building facade. The girls have changed into bright yellow cargo pants and black long-sleeve crop tops with white and red graphic prints. They perform complex hand gestures and torso isolations, with a white car passing briefly in the background on a distant street. (4) A glass-enclosed pedestrian walkway with a red carpet provides the next backdrop. The girls dance in a linear formation, moving forward with confident strides and synchronized leg-lifts. The environment is characterized by clean white architectural lines and natural, diffused lighting that highlights the vibrant contrast of their yellow and black costumes against the red floor. (5) The video concludes with the girls performing a final group pose on the city sidewalk as the daylight fades. A graphic overlay appears with a white and pink border, containing several lines of text. The girls continue to move slightly in a small inset window while the background displays names and titles in various text fields.",
+      "text_narrative_log": "(1) [Subtitle]: 歌曲 : DRIP. [Subtitle]: 原唱 : BABYMONSTER. [Subtitle]: 指導 : Mixcin Cindy 、 樂樂. [Subtitle]: 全體孩子 : 彤彤、貝貝、元元、棠棠、Doris. [Subtitle]: 後製 : 楓原老爸. [Logo]: Body Glove.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "5 young girls performing a dance routine as the main group.",
+        "mainCharacterDescription": "Five young girls wearing coordinated urban streetwear, including baggy cargo pants (pink, blue, yellow) and crop tops (white, black)."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Urban",
+            "Plaza"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern city streets with overpasses, high-rise buildings, an outdoor mall area with a heart-shaped mural, and a pedestrian bridge with a red carpet.",
+        "lightingStyle": [
+          "Natural light",
+          "Overcast"
+        ],
+        "weather": [
+          "Cloudy"
+        ],
+        "season": "Winter",
+        "textOverlay": {
+          "density": "Low",
+          "textLanguage": [
+            "Traditional Chinese"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Cinematic"
+        ],
+        "cameraWork": [
+          "Follow shot",
+          "Low angle",
+          "Static",
+          "Panning"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Body Glove"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio track opens with a high-energy K-pop production featuring a fast-paced electronic beat at approximately 140 BPM. A female voice initiates a sharp, rhythmic rap with clear articulation and high-pitched inflections. The mix is dominated by a heavy, distorted synth bass and crisp snare hits that establish a driving rhythmic foundation from the outset. (2) A subtle riser SFX leads into a dense vocal section where multiple female voices overlap in harmonized layers. The speech rate is rapid, transitioning between percussive rap and melodic phrasing. The acoustic environment is pristine studio-grade with high spectral brightness and no detectable ambient noise floor, indicating a professionally mastered track. (3) A distinct 'whoosh' sound effect marks a structural transition as the instrumentation shifts into a pre-chorus. Vocal intensity increases with rising pitch contours and sustained melodic notes. The beat complexity grows with the addition of high-hat patterns and percussive fills, maintaining a high level of emotional arousal. (4) The chorus hits with a wide stereo image, featuring layered female harmonies and a booming, melodic bassline. The beat strength is maximal, with heavy kick drums driving the rhythm. The vocals are highly energetic and project high arousal, though they remain clear due to sophisticated compression and equalization in the mix. (5) A mid-track breakdown features sparse instrumentation, focusing on a deep resonant sub-bass and isolated vocal phrases with added reverb textures. This creates a moment of lower energy before a percussive impact SFX triggers a return to the high-tempo chorus, which continues until a definitive final percussive thud.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "dominant_speakers_count": 0,
+          "total_distinct_voices": 0,
+          "vocal_demographics": {
+            "male_vocal_count": 0,
+            "female_vocal_count": 0,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "None"
+          ],
+          "speechDensity": 0,
+          "vocalLanguage": [
+            "None"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": 0,
+        "pauseDensity": 0,
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "voiceQuality": {
+          "hasBreathiness": false,
+          "hasRoughness": false,
+          "hasStrain": false
+        },
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": 9,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM",
+          "Hip-Hop/Trap"
+        ],
+        "tempoBPM": 140,
+        "bgmSinger": {
+          "total_singer_count": 7,
+          "male_singer_count": 0,
+          "female_singer_count": 7,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "English",
+          "Korean"
+        ],
+        "musicToSpeechRatio": 5,
+        "musicDuration": 5,
+        "mode": [
+          "Minor"
+        ],
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "impactSFX",
+          "whooshSFX"
+        ],
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "None"
+        ],
+        "hasStrategicSilence": false
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "isAudioFragmented": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "vocalRatio": 5,
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "speechMusicOverlap": 5,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance",
+        "K-pop Cover",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 4.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false,
+      "mainActionFlow": "Constant performance of a synchronized dance routine across multiple urban locations."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Intro -> Performance -> Credits",
+      "mainPurpose": "The video is a high-production K-pop dance cover of 'DRIP' by BABYMONSTER, featuring a group of talented young children. It aims to showcase their choreography skills and performance energy within a stylishly edited urban context to entertain audiences and promote the performers.",
+      "visualEmotion": [
+        "energetic",
+        "confident",
+        "joyful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-quality urban location choices and matching stylized streetwear for the group of young dancers.",
+      "freeDescribe": "The video exhibits high technical proficiency in both choreography and post-production, typical of professional-tier social media dance content."
+    }
+  }
+}

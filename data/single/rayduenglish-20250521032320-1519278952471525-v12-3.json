@@ -1,0 +1,269 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 85,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with short black hair and glasses, wearing a light blue short-sleeved shirt over a white T-shirt and a pink lanyard, stands in a brightly lit indoor corridor. He talks to someone off-camera while gesturing with his hands. Behind him, people in casual wear walk by, and large promotional posters for skincare brands like 'VALMONT' and 'LG' are visible. (2) The scene shifts to the man sitting alone on a black folding chair in a cluttered storage or backstage area. He looks off-camera with a lonely expression. He is surrounded by stacks of cardboard boxes and giant decorative dice. Plastic shopping bags rest on the floor near his feet. (3) The man is now on a small event stage under intense studio lights. Beside him are three young women (cheerleaders) wearing white and red athletic uniforms with 'DRAGONS' branding. A host in a red and white baseball jersey speaks into a microphone. The background features a large purple and white brand backdrop with the 'PHYSIOGEL' logo. (4) The group on stage engages in a hand-stacking game. The man puts his hand on top of the cheerleaders' hands. They then pose together with product boxes. The man takes selfies with female fans who hold smartphones in their hands. One fan shows a pink ID holder with the man's photo. (5) In a narrower backstage hallway with stacks of boxes, the man takes a group selfie with the three cheerleaders. They all smile and make peace signs. The man eventually stands alone in front of a large promotional poster of himself for '潔美淨', posing with his arms crossed and smiling at the camera.",
+      "text_narrative_log": "(1) [Variety]: 前台灣新媒體影音創作者協會理事長 兼差打工慘遭畫面流出. [Subtitle]: 你怎麼今天穿這樣來大巨蛋. [Variety]: 沒人在意. (2) [Slogan]: 邊緣. [Variety]: 打造細緻嫩白肌. [Slogan]: 頂級角質營養 SPA級沐浴. (3) [Subtitle]: 因為我今天參加潔美淨的活動. [Variety]: 台灣代言人. [Logo]: PHYSIOGEL 潔美淨. (4) [Variety]: 邊佑錫. [Subtitle]: 好意思 好意思. (5) [Subtitle]: 你看有這麼多人在等我. [Subtitle]: 是來看啦啦隊的吧. (6) [Subtitle]: 沒人在理我欸. (7) [Variety]: 終於被主辦單位發現了. [Variety]: 不需要. [Variety]: 需要. (8) [Variety]: 偷碰手引發眾怒. [Subtitle]: 我的上面是阿滴啦. [Subtitle]: 喔現在不是. (9) [Variety]: 拜託啦不要退訂嘛. [Variety]: 年度代言人跟不上. [Variety]: 又有機會偷碰手?! (10) [Subtitle]: 那我們所有的挑戰者幫我圍一個圈OK嗎. [Subtitle]: 不...不好意思. [Subtitle]: 我也想參與... (11) [Variety]: 台灣潔美淨代言人. [Subtitle]: 喔恭喜 恭喜你獲得勝利. [Variety]: 阿滴 36歲. [Subtitle]: 有請我們的小龍女和我們來一張合影. (12) [Variety]: 終於有人來看台灣潔美淨代言人. (13) [Subtitle]: 傻眼欸 怎麼會有啊. [Subtitle]: 我就說邊邊啦 同等級的待遇. [Variety]: 全球代言人. (14) [Variety]: 啦啦隊有危險了!!. [Variety]: 阿滴靠近了!!. (15) [Variety]: 今天一切辛苦都值得了. (16) [Variety]: 終於發現攝影機. [Subtitle]: 欸你幹嘛一直拍. (17) [Subtitle]: 你今天工作感覺怎麼樣. [Subtitle]: 辛苦 真的太辛苦了 潔美淨多邀我. [Slogan]: 謝謝潔美淨的邀請!. [Slogan]: 5/20 ~ 6/19 康是美實體門市及網購還有優惠活動唷.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Waist up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group",
+          "Crowd"
+        ],
+        "countingEvidence": "1 main creator (Ray), 3 cheerleaders as primary secondary characters, 1 host, several fans and passers-by in the background.",
+        "mainCharacterDescription": "Ray (阿滴) is a male with black hair and gold-rimmed glasses. He wears a light blue short-sleeved school-style uniform shirt over a white crew-neck T-shirt, paired with black trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Indoor",
+            "Event Hall",
+            "Backstage"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a wide public corridor with promotional posters, a cluttered storage area with cardboard boxes and props, and a professional event stage with brand backdrops and studio lighting.",
+        "lightingStyle": [
+          "Artificial light",
+          "Bright studio lights"
+        ],
+        "weather": [
+          "Unknown"
+        ],
+        "season": "Spring",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Mandarin"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Natural"
+        ],
+        "cameraWork": [
+          "Follow shot",
+          "Static",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone",
+          "Camera"
+        ],
+        "landmark": [
+          "Taipei Dome"
+        ],
+        "brandLogos": [
+          "PHYSIOGEL 潔美淨",
+          "LG 生活健康",
+          "VALMONT",
+          "DRAGONS"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with upbeat, moderately-paced synth-pop BGM. A female voice speaks in a friendly, conversational tone with clear articulation. Ray's voice enters with a slightly higher-pitched, comedic, and self-deprecating tone, speaking at a moderate rate. The acoustic environment sounds like a large indoor space with a slight reverb. (2) A sharp transition occurs as the scene shifts; the BGM continues, but the primary vocal becomes a male stage host speaking through a sound system, characterized by a boomy, echoey, and highly energetic broadcast quality. The sound of a crowd murmuring and occasional laughter is audible in the mid-frequency range. (3) A series of rustling sounds (frictionRustleSFX) and digital camera shutter sounds (digitalUI_SFX) are heard as fans interact with the main speaker. The BGM remains steady in volume, with clear rhythmic beats. Ray's voice returns to a more casual, intimate tone while talking to fans and cheerleaders. (4) The audio ends with Ray speaking directly to the camera in a professional yet humorous manner, urging the audience to check out the brand's promotion. The BGM fades out gradually with a soft cross-fade, leaving only the room tone of the indoor hallway.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "dominant_speakers_count": 3,
+          "total_distinct_voices": 5,
+          "vocal_demographics": {
+            "male_vocal_count": 3,
+            "female_vocal_count": 2,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "Humorous",
+            "Casual",
+            "Professional/Narrative",
+            "Animated/Excited"
+          ],
+          "speechDensity": 4,
+          "vocalLanguage": [
+            "Mandarin"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": 3,
+        "pauseDensity": 2,
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "voiceQuality": {
+          "hasBreathiness": false,
+          "hasRoughness": false,
+          "hasStrain": false
+        },
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Dynamic"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "bgmSinger": {
+          "total_singer_count": 0,
+          "male_singer_count": 0,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "Instrumental"
+        ],
+        "musicToSpeechRatio": 2,
+        "musicDuration": 5,
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "digitalUI_SFX",
+          "frictionRustleSFX",
+          "cartoonSFX"
+        ],
+        "crowdNoiseIntensity": 2,
+        "crowdNoiseDetail": [
+          "Chatter",
+          "Laugh"
+        ],
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "hasStrategicSilence": false
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "isAudioFragmented": true,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "vocalRatio": 4,
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "speechMusicOverlap": 5,
+        "audioQuality": [
+          "Mixed"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Commentary",
+        "Promotional"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a self-deprecating intro showing the creator being 'ignored' at an event, followed by highlights of his stage appearance, interactions with fans, and a final direct call to action for a sale."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience Journey -> CTA",
+      "mainPurpose": "To humorously announce and promote the creator's role as a brand ambassador for Physiogel (潔美淨) while informing viewers of a specific promotional discount period at Cosmed (康是美).",
+      "visualEmotion": [
+        "Humorous",
+        "Energetic",
+        "Informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator explicitly identifies himself as the Taiwan ambassador, stands in front of branded backdrops, interacts with the product, and provides a clear promotional timeline and location.",
+      "endorsementObject": [
+        "PHYSIOGEL 潔美淨"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Self-deprecating humor about being 'ignored' or 'lonely' (邊緣人), variety-style text overlays, and interactions with cheerleaders (Dragon Beauties).",
+      "freeDescribe": "The video uses typical Taiwanese social media editing styles with heavy use of variety-show style captions to emphasize comedic beats. The creator, 阿滴 (Ray), leverages his existing educational/vlogger persona to create a relatable 'ambassador' story."
+    }
+  }
+}

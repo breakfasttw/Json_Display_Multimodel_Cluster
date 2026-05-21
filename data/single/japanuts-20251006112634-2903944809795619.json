@@ -1,0 +1,272 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video is a live-action travel vlog. A woman with dark hair tied back, wearing a long beige trench coat and dark trousers, stands in a dark concrete tunnel looking out toward a bright blue ocean. Large white text overlays the top. (2) The scene shifts to a bustling train station interior with yellow signs and many people moving through ticket gates. A digital map graphic appears on screen showing a blue line connecting Tokyo Station to Odawara, indicating geographical movement. (3) The character walks through a park with manicured green bushes and cherry blossom trees under a clear blue sky. She approaches the Odawara Castle, a multi-story white traditional Japanese building with grey tiled roofs and a massive stone foundation. (4) The scene transitions to a traditional shrine entrance with a stone torii gate and wooden steps. Inside, wooden prayer plaques (ema) hang in dense rows along a walkway. The lighting is natural and dappled by tree shadows. (5) Close-up shots of various small merchandise items including yellow tins, white notebooks with red text, and a small black statue of a boy reading. A cup of latte is shown with chocolate powder art depicting the same boy character and Japanese characters. (6) A retro blue and yellow train car sits stationary outdoors near a large white soft-serve ice cream model. The woman enters the train, which has been converted into a cafe with wooden tables and brown leather benches. (7) Close-up shots of ramen served in a round wooden bucket. The woman is seen lifting noodles with chopsticks and eating with an expressive, joyful face. She holds up three small silver spoons containing different condiments (ginger, chili paste, etc.). (8) The woman returns to the concrete tunnel by the sea, then the scene cuts to the exterior of 'nico cafe', a traditional wooden building with a white curtain featuring a red reclining figure. The interior shows wooden furniture, bookshelves, and warm hanging lamps. (9) A rooftop foot bath area is shown where several people are sitting with their feet in a pool of water, looking out at a mountain and coastal view. (10) The woman interacts with a novelty orange juice dispenser shaped like a sink faucet, filling a red cup. She smiles at the camera. The final shot shows an outdoor shopping street with white buildings and red umbrellas as a call-to-action text appears.",
+      "text_narrative_log": "(1) [Subtitle]: 今天來推薦. [Logo]: 日本夾心糖. (2) [Subtitle]: 東京近郊. (3) [Subtitle]: 一日遊景點. [Subtitle]: 絕美海岸. (4) [Subtitle]: 小田原. (5) [Subtitle]: 小田原在神奈川西部靠近箱根的位置. (6) [Subtitle]: 這裡很少人介紹所以我來探案一下. (7) [Subtitle]: 小田原城. [Subtitle]: 第一站來到小田原城. (8) [Subtitle]: 就在車站旁邊. (9) [Subtitle]: 非常的近. (10) [Slogan]: 必訪神社內文青咖啡廳. [Subtitle]: 報德二宮神社. (11) [Subtitle]: 城內有一個小而美的報德二宮神社. (12) [Subtitle]: 主祭神是二宮金次郎. (13) [Subtitle]: 以祈求學業合格. (14) [Subtitle]: 經營順利為主. (15) [Subtitle]: 附設的咖啡廳很值得一訪. (16) [Subtitle]: 咖啡廳非常現代感. (17) [Subtitle]: 有許多設計感十足的小物. (18) [Subtitle]: 很多都適合當伴手禮. (19) [Subtitle]: 還有一個很有趣的開運咖啡. (20) [Slogan]: 懷舊市內電車. [Subtitle]: 報德廣場. (21) [Subtitle]: 下一站來到報德廣場. (22) [Subtitle]: 這裡停放了一台復古的市內電車. (23) [Subtitle]: 裡面維持很好. (24) [Subtitle]: 有開放參觀也很好拍照. (25) [Slogan]: 木桶拉麵. [Logo]: Ajiichi Hojo. (26) [Subtitle]: 這家賣的是竹莢魚湯底的拉麵. (27) [Subtitle]: 湯頭鮮美不死鹹. (28) [Subtitle]: 還附上三種醬料可變化口味. (29) [Subtitle]: 沾麵或拉麵都很好吃. (30) [Subtitle]: 是東京吃不到的拉麵味道. (31) [Subtitle]: 提供很多種茶很貼心. (32) [Slogan]: 超美拍照景點. [Subtitle]: 通往海的隧道. (33) [Subtitle]: 吃飽飯之後一定要來. (34) [Subtitle]: 小田原最美的打卡景點. (35) [Subtitle]: 通往海的隧道. (36) [Subtitle]: 穿過隧道就來到海邊. (37) [Subtitle]: 超級漂亮!!!. (38) [Slogan]: 古民家改建咖啡廳. [Logo]: nico cafe. (39) [Subtitle]: 最後我們來到 nico cafe. (40) [Subtitle]: 這間是古民家改建的咖啡廳. (41) [Subtitle]: 裡面內裝很有味道. (42) [Slogan]: 泡免費足湯看風景. [Subtitle]: 小田原站. (43) [Subtitle]: 回程前來到小田原站頂樓看風景. (44) [Subtitle]: 可以拍到小田原城喔. (45) [Slogan]: 水龍頭蜜柑果汁. [Subtitle]: 小田原站. [Logo]: TIVOLI. (46) [Subtitle]: 車站內的商場. (47) [Subtitle]: 居然也有水龍頭的蜜柑果汁. (48) [Subtitle]: 好好喝喔~. (49) [Slogan]: 推薦給你們! 趕快收藏起來吧.",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 12,
+        "kidsDetectAmount": 3,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Face only"
+        ],
+        "crowdLevel": [
+          "Small Group",
+          "Crowd"
+        ],
+        "countingEvidence": "1 female main creator, approximately 15 commuters at the station, 4 people walking in the park, 5 people at the foot bath.",
+        "mainCharacterDescription": "A woman in her late 20s or early 30s with dark hair tied in a bun. She wears a long beige trench coat over a white and navy striped shirt and dark wide-leg trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Train Station",
+            "Historical Site",
+            "Shrine",
+            "Cafe",
+            "Beach"
+          ],
+          "topography": [
+            "Coastline",
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Diverse locations including a concrete tunnel opening to a pebble beach with blue ocean, a modern Japanese train station, the white walls of Odawara Castle, a wooded shrine area with red ema plaques, a retro blue train car, and the wooden interior of a traditional house cafe.",
+        "lightingStyle": [
+          "Natural light",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Sunny"
+        ],
+        "season": "Spring",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Traditional Chinese",
+            "Japanese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Natural",
+          "Bright"
+        ],
+        "cameraWork": [
+          "Static",
+          "Follow shot",
+          "Close-up",
+          "POV"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Ramen",
+          "Latte",
+          "Orange Juice",
+          "Tea",
+          "Condiments"
+        ],
+        "trafficDetect": [
+          "Train"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Odawara Castle",
+          "Hotoku Ninomiya Shrine"
+        ],
+        "brandLogos": [
+          "TIVOLI",
+          "nico cafe",
+          "Ajiichi Hojo"
+        ],
+        "instrumentsVisible": [
+          "Guitar"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-tempo, energetic J-pop track featuring bright synthesizers and a driving drum beat. A female narrator speaks with a high-pitched, enthusiastic Mandarin accent, her voice clear and prominent in the mix. (2) A sharp 'ding' notification sound effect triggers as the map appears, followed by a series of fast 'whoosh' sounds that coincide with quick visual cuts. The BGM maintains a consistent 145 BPM, providing a sense of excitement. (3) The narrator's delivery is rapid and rhythmic, matching the upbeat music. Ambient station noise is filtered out, leaving a clean studio-grade vocal track. Occasional percussive 'pop' SFX mark the appearance of on-screen text overlays. (4) As the video showcases food, the BGM's low-end frequencies are slightly boosted, emphasizing the rhythmic bass. The narrator's tone becomes more descriptive and slightly slower, though still high-energy, as she describes the ramen flavors. (5) A 'liquid pouring' sound effect is clearly heard when the orange juice is dispensed, layered over the music. The BGM reaches a crescendo toward the end with a bright synthesizer melody, concluding with a final upbeat chord and the narrator's enthusiastic sign-off.",
+      "vocal_characterization_and_census": {
+        "vocal_inventory_census": {
+          "dominant_speakers_count": 1,
+          "total_distinct_voices": 1,
+          "vocal_demographics": {
+            "male_vocal_count": 0,
+            "female_vocal_count": 1,
+            "kids_vocal_count": 0
+          }
+        },
+        "vocal_qualities": {
+          "tone": [
+            "Animated/Excited"
+          ],
+          "speechDensity": 4,
+          "vocalLanguage": [
+            "Mandarin"
+          ]
+        }
+      },
+      "speaking_style_and_prosody": {
+        "speechRate": 4,
+        "pauseDensity": 2,
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "voiceQuality": {
+          "hasBreathiness": false,
+          "hasRoughness": false,
+          "hasStrain": false
+        },
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Dynamic"
+        ]
+      },
+      "emotional_and_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 145,
+        "bgmSinger": {
+          "total_singer_count": 0,
+          "male_singer_count": 0,
+          "female_singer_count": 0,
+          "kids_singer_count": 0
+        },
+        "bgmLanguage": [
+          "Instrumental"
+        ],
+        "musicToSpeechRatio": 3,
+        "mode": [
+          "Major"
+        ],
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "sound_design": {
+        "soundEffectsDetails": [
+          "digitalUI_SF_X",
+          "whooshSFX",
+          "liquidFluidSFX"
+        ],
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "hasStrategicSilence": false
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "isAudioFragmented": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "vocalRatio": 4,
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "speechMusicOverlap": 5,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Odawara"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.05,
+      "editingPace": "Fast",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a high-speed chronological itinerary of a day trip, starting with the arrival and moving through various cultural and culinary spots."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Sequence of Locations -> CTA",
+      "mainPurpose": "The video serves as a travel recommendation guide for Odawara, Japan. It uses high-energy visuals and audio to appeal to young travelers looking for aesthetic 'Instagrammable' spots (the sea tunnel), traditional culture (the castle and shrine), and unique food experiences (bucket ramen and faucet juice).",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of specific restaurant names, cafe locations, and unique products with positive commentary.",
+      "endorsementObject": [
+        "Ajiichi Hojo",
+        "nico cafe",
+        "TIVOLI"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-pitched enthusiastic Mandarin narration, variety-show style colorful text overlays, and the '日本夾心糖' logo watermark.",
+      "freeDescribe": "The video targets the Chinese-speaking tourist market for Japan, focusing on niche but accessible day-trip locations from Tokyo."
+    }
+  }
+}
