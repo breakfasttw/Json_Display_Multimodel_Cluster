@@ -1,0 +1,259 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 50.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens inside a wooden, rustic structure resembling a theme park ride loading bay. A young woman with long black hair, wearing a dark blazer over a white shirt and a red-and-yellow striped tie, smiles and laughs toward the camera. Beside her sits a young boy with glasses and a green collared shirt with the same tie. The lighting is warm and indoor. (2) The ride vehicle moves outdoors, ascending a lift hill. The background reveals massive grey rockwork and a clear blue sky with light clouds. The woman looks up excitedly, her mouth wide open in a laugh, while the boy remains stoic with a neutral expression. (3) The vehicle crests the hill and begins a fast descent through twists and turns. The wind blows through their hair; the woman screams and laughs loudly, her eyes squinting with joy. The boy maintains a perfectly calm, expressionless face, staring straight ahead as his hair whips around. The background shows wooden village buildings, a waterfall, and other riders in the distance. (4) The vehicle passes near a water feature, with spray visible to the side. The woman continues to scream and look at the boy, who remains unmoved. The lighting is bright, natural daylight. (5) The ride slows down as it enters an indoor wooden structure again. The woman leans toward the boy, smiling and talking to him, while he finally blinks and looks slightly toward her, still maintaining a remarkably calm demeanor.",
+      "text_narrative_log": "(1) [Subtitle]: 準備要帶我們的朋友去山頂. (2) [Subtitle]: 讓他們可以滑下來. (3) [Subtitle]: 好玩!. (4) [Subtitle]: 阿布好強喔. (5) [Subtitle]: 你沒有尖叫耶. (6) [Subtitle]: 你真的沒有尖叫好強喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 female main character, 1 male child main character, 3 passengers visible in the background of the ride vehicle.",
+        "mainCharacterDescription": "A young woman with long straight black hair wearing a white shirt, a dark blazer, and a red/gold striped tie. A young boy with short black hair and black-rimmed glasses wearing a green button-down shirt and a matching striped tie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Theme Park",
+            "Roller Coaster"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The ride transitions from a wooden indoor station to an outdoor mountain environment with large artificial grey rocks, waterfalls, and Nordic-style wooden buildings. The sky is bright blue.",
+        "lightingStyle": [
+          "Natural light",
+          "Indoor warm light"
+        ],
+        "weather": [
+          "Sunny"
+        ],
+        "season": "Summer",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Mandarin"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Natural"
+        ],
+        "cameraWork": [
+          "POV",
+          "Handheld"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "World of Frozen"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a male voice (Oaken) speaking in a cheerful, high-pitched Scandinavian accent over upbeat, orchestral folk music. He says, 'Big summer blowout! Hoo-hoo!' followed by ride instructions. The female main character laughs loudly in the foreground. (2) As the ride ascends, the mechanical 'click-clack' of a roller coaster chain lift is heard. The female voice begins to heighten in pitch and volume, expressing excitement. (3) A sudden 'whoosh' of rushing air signals the descent. The female character emits high-pitched, energetic screams. The orchestral BGM continues with a fast tempo, dominated by strings and brass. (4) A distinctive liquid 'splash' sound occurs as the ride passes a water feature. The woman's screaming continues at high intensity, contrasting with the relative silence of the child. (5) The mechanical noise of the ride braking is heard, transitioning into a lower-arousal conversation. The woman's voice becomes calmer, speaking in Mandarin with a teasing, melodic tone, while background chatter from other riders becomes audible.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "English",
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Classical/Orchestral",
+          "Holiday/Festive"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Instrumental"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Brass",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Violin",
+          "Trumpet",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 3,
+        "crowdNoiseDetail": [
+          "Laugh",
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "whooshSFX",
+          "liquidFluidSFX",
+          "mechanicalLatchSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Chatter"
+        ],
+        "SignalToNoiseRatio": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Hong Kong"
+        ],
+        "city": [
+          "Lantau Island"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 50.1,
+      "editingPace": "Slow",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a single continuous shot of a roller coaster ride experience, starting from the lift hill to the finish."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Experience -> Reaction",
+      "mainPurpose": "The video aims to entertain by highlighting the humorous contrast between two riders: a woman who is visibly terrified and excited, screaming throughout the ride, and a young boy who remains incredibly calm and expressionless even during high-speed drops.",
+      "visualEmotion": [
+        "Energetic",
+        "Humorous",
+        "Joyful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The 'stoic child' trope used for comedic effect.",
+      "freeDescribe": "The video captures the 'Oaken's Sliding Sleighs' attraction at the World of Frozen in Hong Kong Disneyland. The costumes suggest a specific theme, possibly related to a fan event or general park attire."
+    }
+  }
+}

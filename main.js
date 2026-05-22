@@ -3,7 +3,7 @@
  * 主控台邏輯：處理 DOM 事件與協調資料、結構檔的載入
  */
 document.addEventListener("DOMContentLoaded", () => {
-    let currentMode = "compare";
+    let currentMode = "single";
 
     const groupSelect = document.getElementById("groupSelect");
     const tableBody = document.getElementById("tableBody");
@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const initApp = () => {
         setupTabs();
+        updateTabStyles(); // 添加這一行
         renderDropdown();
     };
 
@@ -43,6 +44,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 loadSingleData(e.target.value);
             }
         });
+    }
+
+    function updateTabStyles() {
+        if (currentMode === "compare") {
+            tabCompare.className =
+                "px-6 py-2 bg-blue-600 text-white rounded-lg font-bold border border-blue-500 shadow-md transition-colors";
+            tabSingle.className =
+                "px-6 py-2 bg-slate-800 text-slate-400 rounded-lg font-bold border border-slate-700 hover:bg-slate-700 transition-colors";
+        } else {
+            tabSingle.className =
+                "px-6 py-2 bg-blue-600 text-white rounded-lg font-bold border border-blue-500 shadow-md transition-colors";
+            tabCompare.className =
+                "px-6 py-2 bg-slate-800 text-slate-400 rounded-lg font-bold border border-slate-700 hover:bg-slate-700 transition-colors";
+        }
     }
 
     function renderDropdown() {

@@ -1,0 +1,249 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 12.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens on an outdoor, dusty open field under a flat, overcast sky. A massive crowd of people is seen in a state of frantic movement, running in various directions. In the immediate foreground, a man wearing a black 'Jeep' t-shirt and a green tactical backpack moves away from the camera. A large red flag with yellow stars (the Chinese national flag) is held high and waved amidst the moving mass of people. (2) As the camera pans shakily to the right, clouds of grey smoke or dust begin to rise from the ground within the crowd. Several children are visible running alongside adults, some looking back with wide eyes. Some individuals in the middle ground are carrying long, dark poles or sticks. A woman in a black and white striped tracksuit runs across the frame towards the center of the action. (3) A small black quadcopter drone is seen hovering in the grey sky above the crowd. Numerous people are holding up their smartphones to record the events. Another red flag with white Chinese characters printed on it is waved energetically. The ground is dry, sandy earth, and green trees form a dense line in the far background. The camera movement is rapid and handheld, following the surge of the crowd.",
+      "text_narrative_log": "(1) [Logo]: Jeep. (2) [Slogan]: 第三大队.",
+      "visual_human_presence": {
+        "totalHumanCount": 150,
+        "maleDetectAmount": 80,
+        "femaleDetectAmount": 50,
+        "kidsDetectAmount": 20,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "A large, dense crowd estimated at over a hundred people in an open field.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A wide, dusty open field or park with green deciduous trees in the background under a thick, grey overcast sky.",
+        "lightingStyle": [
+          "Natural light"
+        ],
+        "weather": [
+          "Cloudy"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "Low",
+          "textLanguage": [
+            "Mandarin"
+          ],
+          "isSubtitled": false
+        },
+        "colorTone": [
+          "Natural",
+          "Muted"
+        ],
+        "cameraWork": [
+          "Follow shot",
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Drone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Jeep"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio track is a high-intensity, chaotic field recording with a very low signal-to-noise ratio. It begins with a wall of sound consisting of multiple people yelling and screaming simultaneously at a high volume. A sharp, explosive 'bang' (impactSFX) with significant low-frequency energy occurs, immediately followed by an increase in the high-pitched vocal arousal of the crowd. There is no background music or studio processing. (2) A series of rapid, percussive transients resembling firecrackers or explosive pops ('pop-pop-pop') dominate the middle section. These sounds are accompanied by the heavy rustling of wind and fabric friction near the microphone. The collective voices of the crowd remain at an extremely high intensity level, with various male and female voices shouting in a state of high alarm or frantic energy. (3) The sequence of explosive popping sounds continues irregularly. The ambient noise floor is thick with the sound of many footsteps on soft ground and distant overlapping chatter. The vocal energy remains peaked throughout, with no coherent speech or dialogue discernable. The track ends with a final loud crack and the sound of heavy breathing and movement noise.",
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 50,
+        "male_vocal_count": 25,
+        "female_vocal_count": 20,
+        "kids_vocal_count": 5
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Anxious"
+        ],
+        "vocalLanguage": [
+          "Unknown"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 1,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 3,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 5,
+        "crowdNoiseDetail": [
+          "Screaming/Yelling",
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "impactSFX",
+          "frictionRustleSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Chatter"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 5,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 1,
+        "hasAudioDistortion": true
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Commentary"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 12.3,
+      "editingPace": "Slow",
+      "isNarrativeShift": false,
+      "mainActionFlow": "A continuous handheld recording capturing a chaotic event in a crowd."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Event Capture -> Climax",
+      "mainPurpose": "To document a chaotic and potentially violent or alarming incident involving a large crowd and explosions in an outdoor setting in China, likely for news reporting or social media sharing.",
+      "visualEmotion": [
+        "tense",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Raw, shaky handheld footage with explosive sounds and crowd panic.",
+      "freeDescribe": "The video displays hallmarks of a viral citizen-journalism clip, focusing on raw impact rather than production value."
+    }
+  }
+}

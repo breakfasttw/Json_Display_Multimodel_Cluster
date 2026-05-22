@@ -1,0 +1,254 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 29.56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a dark green and grey athletic-style jacket, stands in front of a bright yellow wall and a glass-enclosed area that looks like a bookstore or library. She holds a transparent plastic bag containing a snack and a wooden skewer with a piece of cucumber. She looks directly at the camera, her mouth moving as she speaks, occasionally smiling. (2) As she continues to speak, she uses her free hand to gesture, pointing one finger upwards to emphasize her points. The lighting is bright and even, likely from indoor overhead lights. (3) The camera remains static in a medium shot, focusing on her upper body. She occasionally shifts her weight and adjusts the snack bag. The background remains constant, showing bookshelves and people walking faintly behind the glass partition. (4) Towards the end, she points directly at the camera with a confident expression, concluding her message while maintaining eye contact. The overall atmosphere is casual and conversational.",
+      "text_narrative_log": "(1) [Slogan]: 25歲後才懂-工作根本不值得拼命. [Subtitle]: 25歲之後 After the age of 25. [Logo]: D.I.G. (2) [Subtitle]: 我才看懂一件事 I just understood. (3) [Subtitle]: 把工作看太重 Putting too much emphasis on work. (4) [Subtitle]: 真的會把自己累死 It will really exhaust oneself. (5) [Subtitle]: 我終於明白 I don't understand. (6) [Subtitle]: 工作真的沒有你想象中那麼重要 Work isn't as important as you think. (7) [Subtitle]: 一 主管不會 A supervisor doesn't know how to. (8) [Subtitle]: 因為你 埋頭苦幹 Because of you Buried bitter. (9) [Subtitle]: 而看重你 And value you. (10) [Subtitle]: 很多時候 Many waiting. (11) [Subtitle]: 會說話的 Can talk. (12) [Subtitle]: 永遠贏過 Forever. (13) [Subtitle]: 會做事的 will do things. (14) [Subtitle]: 二 同事永遠 second, colleagues will always be. (15) [Subtitle]: 只是同事 just colleagues. (16) [Subtitle]: 不共事基本上 Not working together basically. (17) [Subtitle]: 就不會再 It won't happen again. (18) [Subtitle]: 聯絡了 Contact. (19) [Subtitle]: 三 沒有人 Three without anyone. (20) [Subtitle]: 會感謝你 will thank you. (21) [Subtitle]: 加了多少班 How many classes have been added. (22) [Subtitle]: 撐了多少夜 How many nights did it last. (23) [Subtitle]: 你累壞了 You're tired. (24) [Subtitle]: 公司不會 The company won't. (25) [Subtitle]: 替你痛 Take what should be taken. (26) [Subtitle]: 四 該拿的就拿 Take what should be taken. (27) [Subtitle]: 不要不好意思 don't be embarrassed. (28) [Subtitle]: 因為公司 Indai Company. (29) [Subtitle]: 只會記得成果 I only remember the results. (30) [Subtitle]: 不會記得 I won't remember. (31) [Subtitle]: 你有多累 How tired are you. (32) [Subtitle]: 上班工作 Working at work. (33) [Subtitle]: 下班走人 off work. (34) [Subtitle]: 工作是 Work is. (35) [Subtitle]: 為了生活 for life. (36) [Subtitle]: 並不是拿命 it's not about risking one's life. (37) [Subtitle]: 去換薪水 to exchange for salary. (38) [Subtitle]: 上班族們 You are together. (39) [Subtitle]: 你們認同嗎 Do you agree?.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Hands"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female speaker, 2 blurred passers-by in the bookstore background.",
+        "mainCharacterDescription": "A young Asian woman with long, straight black hair and bangs. She is wearing a dark green jacket with a grey panel and a small sunflower-like logo on the chest. She has a natural makeup look."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Indoor",
+            "Store"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A bright yellow wall to the right and a glass storefront of a bookstore or library to the left, with visible books on shelves inside.",
+        "lightingStyle": [
+          "Natural light",
+          "Indoor ambient light"
+        ],
+        "weather": [
+          "Unknown"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Mandarin",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural",
+          "Vibrant"
+        ],
+        "cameraWork": [
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Cucumber",
+          "Snack"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a clear, young female voice speaking Mandarin at a moderate to fast pace. Her tone is conversational, friendly, yet persuasive. A light, upbeat acoustic background music featuring a rhythmic guitar strumming and a soft beat plays at a steady volume, approximately 120 BPM. (2) As she transitions to her first point, there is a slight shift in her vocal pitch, becoming more emphatic. The BGM continues consistently, providing a stable rhythmic floor. There are no significant environmental noises, suggesting a relatively quiet indoor setting. (3) During the middle section where she lists points two and three, her speech rate remains high with natural pauses between sentences. The music maintains its cheerful, steady mode, complementing her energetic delivery. No sharp SFX or transients are heard. (4) In the final segment, her voice takes on a concluding tone, slightly slower and more deliberate as she asks a question to the audience. The BGM persists until the very end, fading out slightly after her final word. The overall audio quality is clean and professional with good vocal-to-music balance.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Falling"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Commentary"
+      ],
+      "location": {
+        "country": [
+          "China"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 29.56,
+      "editingPace": "Slow",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video features a single continuous shot of a woman speaking directly to the camera, sharing a series of life and career points."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Conclusion",
+      "mainPurpose": "The video serves as a piece of motivational career advice for young adults. The creator shares her personal realization that extreme dedication to work is often unrewarded and that maintaining a healthy work-life balance is essential. She uses a list of four points to dismantle common workplace myths and encourages viewers to prioritize their own well-being over corporate goals.",
+      "visualEmotion": [
+        "Informative",
+        "Calm",
+        "Warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Direct address to the 'over-25' demographic, use of a casual street setting while eating a snack to appear relatable.",
+      "freeDescribe": "The video targets young professionals on social media, using a simple, unedited aesthetic to foster a sense of authenticity and community around shared workplace frustrations."
+    }
+  }
+}
