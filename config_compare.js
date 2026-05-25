@@ -57,6 +57,34 @@ const compareGroupDescribe = [
         videoUrl: "",
         enable: true,
     },
+
+    {
+        groupName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+        groupDisplayName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+        videoUrl: "",
+        enable: true,
+    },
+
+    {
+        groupName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        videoUrl: "",
+        enable: true,
+    },
+
+    {
+        groupName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+        groupDisplayName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+        videoUrl: "",
+        enable: true,
+    },
+
+    {
+        groupName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+        groupDisplayName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+        videoUrl: "",
+        enable: true,
+    },
 ];
 
 // Compare 模式的檔案設定 (已移除 model 欄位)
@@ -227,4 +255,103 @@ const compareFileDescribe = [
         video_url: "https://www.instagram.com/p/DX_aWtPxu9d/",
         structure_version: "json_structure_13.json",
     },
+
+    {
+        fileName: "joemanweng-20251128120717-1943369030398032-v14.json",
+        fileDisplayName: "joemanweng-20251128120717-1943369030398032-v14.json",
+        groupDisplayName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+        url: "./data/single/joemanweng-20251128120717-1943369030398032-v14.json",
+        video_url: "https://www.instagram.com/reel/DRebfF7iVoe",
+        structure_version: "json_structure_14.json",
+    },
+    {
+        fileName: "wufeili-20250709125850-26299444203001810-v14.json",
+        fileDisplayName: "wufeili-20250709125850-26299444203001810-v14.json",
+        groupDisplayName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+        url: "./data/single/wufeili-20250709125850-26299444203001810-v14.json",
+        video_url: "https://www.instagram.com/reel/DLfLXlrykQe",
+        structure_version: "json_structure_14.json",
+    },
+
+    {
+        fileName: "rayduenglish-20250804150549-1559856595225419-v14.json",
+        fileDisplayName:
+            "rayduenglish-20250804150549-1559856595225419-v14.json",
+        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        url: "./data/single/rayduenglish-20250804150549-1559856595225419-v14.json",
+        video_url: "https://www.instagram.com/reel/DH-GKiygHyU",
+        structure_version: "json_structure_14.json",
+    },
+    {
+        fileName: "zoebitalk-20250101212122-1966008960997105-v14.json",
+        fileDisplayName: "zoebitalk-20250101212122-1966008960997105-v14.json",
+        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        url: "./data/single/zoebitalk-20250101212122-1966008960997105-v14.json",
+        video_url: "https://www.instagram.com/reel/DER2K4QpHfe",
+        structure_version: "json_structure_14.json",
+    },
+
+    {
+        fileName: "walkerdad1228-20250923040624-25870566612599789-v14.json",
+        fileDisplayName:
+            "walkerdad1228-20250923040624-25870566612599789-v14.json",
+        groupDisplayName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+        url: "./data/single/walkerdad1228-20250923040624-25870566612599789-v14.json",
+        video_url: "https://www.instagram.com/reel/DGKAqzdsl-k",
+        structure_version: "json_structure_14.json",
+    },
+    {
+        fileName: "chuchumei__-20250805105548-1276250431031515-v14.json",
+        fileDisplayName: "chuchumei__-20250805105548-1276250431031515-v14.json",
+        groupDisplayName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+        url: "./data/single/chuchumei__-20250805105548-1276250431031515-v14.json",
+        video_url: "https://www.instagram.com/reel/DGKAqzdsl-k",
+        structure_version: "json_structure_14.json",
+    },
+
+    {
+        fileName: "wia627-20250212084030-1642331380410258-v14.json",
+        fileDisplayName: "wia627-20250212084030-1642331380410258-v14.json",
+        groupDisplayName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+        url: "./data/single/wia627-20250212084030-1642331380410258-v14.json",
+        video_url: "https://www.instagram.com/reel/DFQbT3mzwSA",
+        structure_version: "json_structure_14.json",
+    },
+    {
+        fileName: "20141010hero-20250730221253-1464377325322334-v14.json",
+        fileDisplayName:
+            "20141010hero-20250730221253-1464377325322334-v14.json",
+        groupDisplayName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+        url: "./data/single/20141010hero-20250730221253-1464377325322334-v14.json",
+        video_url: "https://www.instagram.com/reel/DJQjELQvXYu",
+        structure_version: "json_structure_14.json",
+    },
 ];
+
+// {
+//     groupName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+//     groupDisplayName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+//     videoUrl: "",
+//     enable: true,
+// },
+
+// {
+//     groupName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+//     groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+//     videoUrl: "",
+//     enable: true,
+// },
+
+// {
+//     groupName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+//     groupDisplayName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+//     videoUrl: "",
+//     enable: true,
+// },
+
+// {
+//     groupName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+//     groupDisplayName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+//     videoUrl: "",
+//     enable: true,
+// },

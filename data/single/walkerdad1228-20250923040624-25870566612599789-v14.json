@@ -1,0 +1,167 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 197.4,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Five young girls stand on a grey-tiled sidewalk adjacent to an urban road with modern buildings and a pedestrian bridge. One girl in the center is crouched while the others pose. They wear street-style outfits including light blue and pink baggy cargo pants and white long-sleeved crop tops. The lighting is overcast and natural. (2) The scene transitions to an outdoor plaza featuring a colorful mosaic heart mural and fountains. The performers have changed into yellow baggy cargo pants or skirts paired with black graphic tops. Some wear yellow beanies and yellow-tinted glasses. They perform synchronized hip-hop movements including arm thrusts and body waves. (3) The performance shifts to an indoor glass walkway with a red carpet floor. The girls dance towards a tracking camera, using facial expressions like winks and pointed smiles. The background shows passers-by in the distance and structural metal beams. (4) The video concludes with a group pose on the original sidewalk location, followed by a static credit screen with black and pink text overlays on a white background, listing production details and performer names.",
+      "text_narrative_log": "(1) [Slogan]: Body Glove. [Slogan]: EINKLANG WORLD. [Slogan]: CALIFORNIA. (2) [Subtitle]: 歌曲 : DRIP. [Subtitle]: 原唱 : BABYMONSTER. [Subtitle]: 指導 : Mixcin Cindy 。 樂樂. [Subtitle]: 全體舞心 : 彤彤、貝貝、元元、棠棠、Doris. [Subtitle]: 後期 : 樂樂老爸.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": ["Full body"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "5 main child performers, approximately 3 adult passers-by in the background of the walkway scenes.",
+        "mainCharacterDescription": "Five girls wearing K-pop inspired street dance attire. One set involves oversized cargo pants in pastel blue and pink with white crop tops; the second set involves bright yellow cargo bottoms with black long-sleeved shirts and yellow beanies."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": ["Outdoor Street", "Plaza", "Walkway"],
+          "topography": ["Plain"]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An urban cityscape with high-rise commercial buildings, a modern pedestrian overpass, a public plaza with a mosaic heart wall, and an enclosed glass bridge with a red carpet.",
+        "lightingStyle": ["Natural daylight", "Bright indoor lighting"],
+        "weather": ["Cloudy / Overcast"],
+        "season": ["Not visually inferable"],
+        "textOverlay": {
+          "density": "Low",
+          "textLanguage": ["Traditional Chinese", "English"],
+          "isSubtitled": true
+        },
+        "colorTone": ["Bright and colorful"],
+        "cameraWork": ["Static", "Tracking shot", "Low angle", "Panning"]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["Car", "Taxi"],
+        "techDetect": ["None"],
+        "landmark": ["None"],
+        "brandLogos": ["Body Glove"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-tempo K-Pop track (~115 BPM) featuring a heavy electronic bass kick and synthetic percussion. A female voice raps with a fast, confident flow and high volume intensity. No environmental noise is audible in this clean studio master. (2) A sharp riser SFX leads into the chorus where multiple female voices sing in harmony. The BGM swells with layered synthesizers and a driving trap-inspired beat. The vocal pitch is high and the tone is energetic and assertive. (3) The beat continues with rhythmic consistency, layering melodic vocal lines that exhibit a slight breathy texture. The BGM maintains a dense spectral presence with strong mid-range frequency weight. (4) The track concludes with a series of vocal chants and a final heavy bass beat. A digital 'blip' sound effect marks the end, followed by absolute studio silence as the music cuts off.",
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": ["None"],
+        "vocalLanguage": ["None"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": ["None"],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0,
+        "speakingLevelRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["K-Pop", "Electronic/EDM"],
+        "tempoBPM": 115,
+        "mode": ["Minor"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 7,
+        "male_singer_count": 0,
+        "female_singer_count": 7,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["Korean", "English"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer", "Percussion"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer", "Electronic Drum / E-drum"],
+        "musicSourceType": ["Copyrighted/Commercial"],
+        "harmonicTensionLevel": 3
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": ["None"],
+        "soundEffectsDetails": ["whooshSFX", "digitalUI_SFX"],
+        "ambientNoiseDetails": ["StudioSilence"],
+        "SignalToNoiseRatio": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": ["Studio"]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Dance", "Music Video"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 4.7,
+      "editingPace": "Fast",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a continuous high-energy dance performance with frequent location cuts that match the tempo of the music."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Intro -> Choreography Segment 1 -> Choreography Segment 2 -> Outro -> Credits",
+      "mainPurpose": "The video is a dance cover intended to showcase the performance skills and synchronized choreography of five young girls to the song 'DRIP' by BABYMONSTER. It serves as promotional content for the dance group and as entertainment for fans of K-pop dance covers.",
+      "visualEmotion": ["energetic", "confident", "joyful"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": ["Implicit", "Integrated"],
+      "endorsementCues": "Performers are wearing clothing with prominent 'Body Glove' and 'EINKLANG WORLD' logos, likely representing a dance studio or sponsored attire.",
+      "endorsementObject": ["Body Glove", "EINKLANG WORLD"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Highly synchronized formations for young children; professionally edited music video style with multiple outfit and location changes.",
+      "freeDescribe": "The video demonstrates high production value for a children's dance group, utilizing multiple urban locations to create a professional idol-like aesthetic."
+    }
+  }
+}

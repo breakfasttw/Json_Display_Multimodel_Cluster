@@ -1,0 +1,167 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 26.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a 2D animation style. A cartoon girl with brown hair tied in two top-knots (buns) and wearing a pinkish-red long-sleeved dress stands against a plain white background. She has her arms crossed and an angry, pouting expression with furrowed eyebrows. (2) The scene shifts to an old woman sitting in a wooden rocking chair. The visual style changes to a textured, grainy, sepia-toned 'old film' aesthetic. The elderly woman has grey hair in a bun, wears a red dress, and rocks rhythmically with her eyes closed. (3) A sudden stylistic jump occurs to a high-contrast, black-and-white manga-style close-up of a face yelling. The lines are sharp and jagged, emphasizing intense anger and explosive emotion. (4) The animation returns to the colorful cartoon girl. She is now standing against a background of flickering orange and yellow flames. She is violently shaking and slapping a brown, sausage-shaped character with a face (representing her husband). Her facial expression is wide-mouthed and manic. (5) A large cardboard box appears in a medium shot. The girl's hands are seen applying brown packing tape to the top of the box. The final shot shows her standing outdoors at night under a purple sky filled with white sparkles and stars. She looks exhausted and frustrated while large, bold text overlays occupy the bottom half of the screen.",
+      "text_narrative_log": "(1) [Subtitle]: 結婚了七年 我還是無法理解. (2) [Subtitle]: 老人說什麼 婚姻跟家電一樣 壞掉不要直接丟掉 要想辦法去修 兩人吵架 不要老是想要離婚 要想辦法溝通 去修復感情. (3) [Variety]: 可是壞掉的又不是硬體要怎麼修！ 壞掉的是他的腦袋！. (4) [Variety]: 他腦袋每天格式化 講過的話沒一句記得！ 脾氣臭！聽不懂人話 肯定是系統故障. (5) [Subtitle]: 系統問題不是應該送回原廠 讓他老媽自己修",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": ["None"],
+        "crowdLevel": ["None"],
+        "countingEvidence": "The video consists entirely of 2D animation and stylized graphic characters; no real humans are present.",
+        "mainCharacterDescription": "A cartoon girl with brown hair in double buns, wearing a red/pink long-sleeved dress. An elderly cartoon woman in a rocking chair with grey hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": ["Indoor Room", "Outdoor Night"],
+          "topography": ["None"]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The backgrounds shift from a minimalist white space to a textured sepia interior for the 'old woman' sequence, followed by a stylized flame background for the 'anger' sequence, and ending with a cartoonish night sky with stars.",
+        "lightingStyle": ["Flat animation lighting"],
+        "weather": ["Night clear"],
+        "season": ["Not applicable"],
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": ["Traditional Chinese"],
+          "isSubtitled": true
+        },
+        "colorTone": ["Animation vivid colors"],
+        "cameraWork": ["Static", "Close-up", "Split-screen / inset"]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["None"],
+        "techDetect": ["Home appliance"],
+        "landmark": ["None"],
+        "brandLogos": ["None"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a clear, youthful female voice speaking Traditional Chinese at a moderate pace. There is no background music, creating a focused, narrative opening. (2) As the visual shifts to the elderly woman, the vocal timbre changes significantly to a shaky, high-pitched, and slightly wheezy 'old person' impression. A distinct rhythmic creaking sound (mechanical friction SFX) is heard, simulating a wooden rocking chair. (3) A sudden, high-volume explosive scream interrupts the calm. The vocal arousal is maximum, with audible clipping and distortion, representing a peak emotional outburst. (4) High-tempo, energetic electronic background music (approx. 140 BPM) kicks in. The female voice returns to a fast-paced, aggressive, and high-pitched rant. Loud, percussive slapping sounds (impactSFX) are synchronized with the visual of the girl hitting the sausage character. (5) The music continues as the voice maintains its rapid delivery. A sharp, high-frequency sound of adhesive tape being pulled (friction SFX) occurs. The audio ends with a final, emphasized sentence and a quick fade-out of the music track.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Comedic/Exaggerated"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 4,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 3,
+        "dominance": 8,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Electronic/EDM"],
+        "tempoBPM": 138,
+        "mode": ["Major"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 2
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": ["None"],
+        "soundEffectsDetails": ["impactSFX", "mechanicalLatchSFX", "frictionRustleSFX"],
+        "ambientNoiseDetails": ["StudioSilence"],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": true
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": ["Hard cut"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 4,
+        "audioQuality": ["Studio"]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Comedy Animation", "Relationship Commentary"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["None"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video moves from a frustrated reflection to a parody of traditional advice, then explodes into a high-energy rant before concluding with a humorous logistical solution."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Contrastive Evidence -> Emotional Climax -> Resolution/Punchline",
+      "mainPurpose": "The video serves as a comedic vent about marital frustrations, specifically targeting the perceived 'malfunction' of a husband's brain. It satirizes the traditional advice of elderly people who suggest 'fixing' a relationship like an appliance, arguing that if the 'system' (the person's mind/personality) is fundamentally flawed, it should be 'sent back to the manufacturer' (his mother).",
+      "visualEmotion": ["humorous", "energetic", "angry", "dramatic"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The character design with double buns and the high-energy voice acting style featuring dramatic tone shifts.",
+      "freeDescribe": "The video uses a popular social media trope of contrasting calm, traditional values with the chaotic, frustrated reality of modern domestic life. The use of the 'husband' as a literal sausage is a metaphorical dehumanization for comedic effect."
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a creative 360-degree 'tiny planet' perspective of a young man driving a white convertible car through a lush green field under a sunny sky. The man has short black hair, wears sunglasses and a black sweatshirt, and is seen gripping the steering wheel and checking his rearview mirror. (2) The scene shifts to the man arriving at a car rental or parking area, pulling a silver suitcase behind a white Mercedes-Benz convertible. This is followed by a series of high-angle drone shots of Cape Sata, featuring a white lighthouse perched on a steep, rocky cliff surrounded by the deep blue ocean. (3) The man is then seen holding a printed certificate in front of a coastal backdrop, pointing at the text with his right hand. The camera transitions to a night scene showing a partially buried stone torii gate in a dark, wooded area, with the man illuminating the structure with a flashlight. (4) Next, the man is shown driving through a brightly lit city at night, with neon signs and a Ferris wheel visible in the background. The scene cuts to a close-up of a thick, breaded pork cutlet (tonkatsu) being held with chopsticks, revealing a pink, juicy interior. The man is shown eating the food with a satisfied expression. (5) Transitioning to daytime, the man walks through the misty, traditional Japanese gardens of Sengan-en. He is seen crossing a small stone bridge over a pond and admiring the view of a volcanic mountain across the bay. He then eats a traditional dango sweet and visits a small cat shrine adorned with many wooden 'ema' plaques. (6) The man arrives at Kumamoto Castle, where he is seen standing in front of the massive black-and-white stone fortress. Detailed drone shots show the intricate wooden architecture and the scale of the castle walls. He then walks through a dark, stone-walled tunnel within the castle grounds. (7) The footage shifts to the scenic roads of Mt. Aso, with the man driving his convertible through rolling green hills and winding roads. A small helicopter is shown taking off from a landing pad. The man is then filmed inside the helicopter, looking out the window with an excited grin as the camera captures breathtaking aerial views of the active volcanic crater and the surrounding caldera. (8) Finally, the man is seen hiking up a long, moss-covered stone staircase flanked by tall cedar trees and rows of traditional stone lanterns at the Kamiseki-Kumano-imasu Shrine. He stands before a small wooden shrine building, bowing his head in prayer. The video ends with a shot of him driving along a coastal road as the sun begins to set.",
+      "text_narrative_log": "(1) [Slogan]: 如何一個人開車玩南九州? (2) [Slogan]: 日本本土最南端 佐多岬. (3) [Subtitle]: 這裡除了可以領到四極證書 還有很美的瞭望台 可以看佐多岬燈塔. (4) [Subtitle]: 回程順路經過櫻島 看一下黑神埋沒鳥居. (5) [Subtitle]: 接著我們開車上輪渡 抵達鹿兒島市區. (6) [Subtitle]: 體驗一下鹿兒島必吃的黑豚豬排川久 肉質香氣四溢 口感緻密不會太油. (7) [Subtitle]: 隔天一早趁人少時 來到南九州最有名的庭園仙巖園. (8) [Subtitle]: 以櫻島為假山 錦江灣為池 感受一下頂級的枯山水跟借景手法. (9) [Subtitle]: 仙巖園中還有很可愛的貓神社 可以在這邊 祈求自己的愛貓身體健康. (10) [Subtitle]: 接著開車北上前往熊本. (11) [Subtitle]: 到這裡當然要參訪一下 三大名城熊本城. (12) [Subtitle]: 感受一下由加藤清正 打造的軍事基地 兼具美感與實用性的外觀 令人印象深刻. (13) [Subtitle]: 隔天一早 我們要直接前往阿蘇火山. (14) [Subtitle]: 沿路享受綠意非常chill 建議先衝去阿蘇火山直升機拿號碼牌. (15) [Subtitle]: 直升機雖然貴又很吃天氣 但看到的阿蘇火山口 跟米塚既壯闊又美麗 我覺得相當值得. (16) [Subtitle]: 接著前往附近的草千里散步 順便喝一下阿蘇牛奶 非常濃郁. (17) [Subtitle]: 最後前往上色見熊野座神社 這裡是電影螢火之森的取景地. (18) [Slogan]: 未完待續.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator throughout; several tourists and passers-by visible in the background at Kumamoto Castle and the shrines.",
+        "mainCharacterDescription": "A young East Asian man with short black hair. He is seen wearing a black long-sleeved sweatshirt, black trousers, and frequently wears black designer sunglasses. He carries a dark backpack during hikes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Coastline",
+            "Japanese Garden",
+            "Castle Grounds",
+            "Volcanic Mountain",
+            "Shrine",
+            "Restaurant"
+          ],
+          "topography": [
+            "Coastline",
+            "Hill",
+            "Mountain",
+            "Volcanic"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video features a diverse range of scenic locations in Southern Kyushu, including the dramatic cliffs and lighthouse at Cape Sata, the urban nightscape of Kagoshima with its Ferris wheel, the meticulously manicured traditional gardens of Sengan-en with volcanic views, the massive stone fortifications of Kumamoto Castle, the expansive green grasslands and volcanic craters of Mt. Aso, and the atmospheric, forest-shrouded stone paths of a traditional Shinto shrine.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Night artificial light",
+          "Mixed natural and artificial light",
+          "High-contrast cinematic lighting"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Partly cloudy",
+          "Foggy / Hazy"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural and bright",
+          "Cinematic",
+          "High contrast"
+        ],
+        "cameraWork": [
+          "Drone / aerial",
+          "POV",
+          "Static",
+          "Follow shot",
+          "Close-up",
+          "360-degree"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Dessert / cake / cookies",
+          "Milk",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Airplane"
+        ],
+        "techDetect": [
+          "Action camera",
+          "Smartphone"
+        ],
+        "landmark": [
+          "Cape Sata",
+          "Kumamoto Castle",
+          "Mt. Aso",
+          "Sengan-en",
+          "Kamiseki-Kumano-imasu Shrine"
+        ],
+        "brandLogos": [
+          "Mercedes-Benz",
+          "ASO MILK",
+          "Gucci"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-energy, fast-paced male Mandarin narration. The speaker has a friendly, enthusiastic tone with clear articulation. This is accompanied by an upbeat, mid-tempo electronic pop BGM featuring a steady synth beat and bright melodic textures. (2) A subtle whoosh SFX transitions the audio as the speaker's voice lowers slightly while describing the lighthouse. The BGM remains constant, providing a rhythmic backdrop. (3) As the scene changes to the night drive, the BGM volume dips slightly to allow the ambient sound of car tires on asphalt and distant city traffic hum to be heard. (4) A crisp, percussive friction sound (SFX) occurs as the narrator's chopsticks pick up the tonkatsu, followed by a subtle chewing sound. The music swells slightly in volume, maintaining a positive vibe. (5) In the garden sequence, the narrator's tone becomes more relaxed and descriptive. The BGM continues, but the acoustic space feels 'wider' with light bird chirping sounds mixed into the background. (6) A significant acoustic shift occurs with a loud, rhythmic thumping sound (SFX) mimicking helicopter rotors, marking the Mt. Aso segment. The narrator's pitch rises with excitement. (7) The final segment at the shrine features a noticeable decrease in high-frequency energy, creating a more peaceful, reverent atmosphere. The narrator speaks with a warm, lower intensity. The BGM fades out gradually as the video concludes.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "whooshSFX",
+          "frictionRustleSFX",
+          "mechanicalLatchSFX",
+          "trafficEngineSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Urban/Traffic",
+          "Nature/Outdoor",
+          "Indoor/RoomTone"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Cross-fade",
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Kagoshima",
+          "Kumamoto",
+          "Aso"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a chronological travel itinerary: arriving at the airport, renting a car, visiting several landmarks across different cities, and concluding with a serene shrine visit."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Segmented Itinerary -> Closing",
+      "mainPurpose": "The video serves as a comprehensive travel guide for solo travelers interested in a road trip through Southern Kyushu, Japan. It showcases scenic spots, local delicacies, and unique experiences (like a helicopter ride over a volcano) to inspire and inform viewers about the region's attractions.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "adventurous",
+        "inspiring"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of specific businesses like the car rental (Mercedes-Benz convertible), a specific restaurant (Tonkatsu Kawahisa), and a specific product (ASO MILK).",
+      "endorsementObject": [
+        "Mercedes-Benz",
+        "ASO MILK",
+        "川久"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced editing style mixed with 360-degree 'tiny planet' transitions and high-quality drone cinematography.",
+      "freeDescribe": "The video targets high-end independent travelers, emphasizing the freedom of a solo road trip in a luxury convertible car."
+    }
+  }
+}

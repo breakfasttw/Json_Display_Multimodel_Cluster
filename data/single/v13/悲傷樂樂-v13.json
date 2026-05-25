@@ -1,0 +1,254 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video begins with a medium close-up of Joy, an animated character with bright blue, textured hair and glowing yellow skin. She is looking downwards with a deeply saddened and reflective expression, her large blue eyes appearing watery. She wears a lime green sleeveless top featuring a dark teal geometric pattern. In her hands, she delicately holds a tangled cluster of glowing, translucent blue filament-like objects that emit a soft light. The background is a dark, out-of-focus blue gradient that creates a somber, intimate atmosphere. (2) The scene cuts to a shot of Disgust, another animated character with green skin, green hair, and large green eyes. She is looking slightly upward and to the side with an expression of intense worry and confusion, her mouth slightly agape as if about to speak. Behind her is a cluttered pile of multi-colored translucent spheres, mostly in shades of blue, purple, and green, which resemble memory orbs. The lighting is cool and moody, casting soft shadows across her face. (3) The camera returns to Joy in a tight close-up. She continues to gaze down at the glowing blue threads in her hands, her brow furrowed in deep sorrow. She then slowly lifts her head to look directly forward into the camera, her expression shifting to one of quiet acceptance and profound sadness. The lighting highlights the fine, crystalline texture of her blue hair and the soft, radiant glow of her skin against the deep, featureless blue background. The overall color palette is dominated by cool blues and vibrant greens.",
+      "text_narrative_log": "(1) [Subtitle]: I don't know. [Subtitle]: 我不知道. [Logo]: Meowcosmos @vedicmastery. (2) [Subtitle]: how to stop anxiety. [Subtitle]: 該怎麼停止焦慮. (3) [Subtitle]: Maybe we can't. [Subtitle]: 或許我們無法. (4) [Subtitle]: Maybe this is what happens. [Subtitle]: 或許這就是長大後的樣子. (5) [Subtitle]: when you grow up. [Subtitle]: 或許這就是長大後的樣子. (6) [Subtitle]: You feel. [Subtitle]: 你感受到. (7) [Subtitle]: less joy. [Subtitle]: 你感受到的快樂變少了.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head",
+          "Shoulders",
+          "Torso",
+          "Hands"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 animated female characters (Joy and Disgust)",
+        "mainCharacterDescription": "Joy has bright blue hair and yellow skin wearing a green patterned top; Disgust has green skin and hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Animation Space"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A dark, moody blue-purple void and a pile of multi-colored memory orbs.",
+        "lightingStyle": [
+          "Soft glowing light",
+          "Moody cinematic lighting"
+        ],
+        "weather": [
+          "Unknown"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "English",
+            "Mandarin"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "High Saturation",
+          "Cinematic",
+          "Cool Toned"
+        ],
+        "cameraWork": [
+          "Static",
+          "Close-up"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio track opens with a soft, melancholic solo piano melody featuring a slow, descending chord progression with a dark, warm spectral weight. A female voice with a gentle, breathy, and deeply sad tone begins to speak at a very slow rate. The prosody is characterized by a low pitch level and frequent, thoughtful pauses, creating a sense of profound vulnerability. The acoustic environment is extremely quiet, resembling a clean studio recording with high clarity and no ambient noise. (2) As the piano continues with a delicate, high-pitched motif that adds a sense of longing, the female voice continues her narration. The intensity is moderate but leans towards a whisper-like quality, emphasizing the emotional weight of the words. The speech-to-music ratio is balanced, with neither drowning out the other. The vocal contour is mostly level with occasional slight falls, indicating a state of resignation and sadness. There is a clear absence of any percussive sound effects or background chatter. (3) The piano melody slows down even further, settling into a somber, minor-key resolution. The female voice's arousal remains very low, yet there is a perceptible increase in vocal strain and breathiness as she delivers the final, poignant lines. The rhythmic synchronization between the speech pauses and the slow piano notes is highly intentional, creating a cinematic, dramatic effect. The master track maintains a high signal-to-noise ratio, focusing entirely on the intimate interplay between the voice and the piano before finally fading into silence.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 1,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Sad",
+          "Calm",
+          "Melodramatic"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Falling",
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 2,
+        "valence": 2,
+        "dominance": 3,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Cinematic/Epic",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 62,
+        "mode": [
+          "Minor"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Instrumental"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 1,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "SignalToNoiseRatio": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Commentary",
+        "Movie Clip"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 6.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video flows through static character shots accompanied by a continuous emotional monologue and sad piano music."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Reflection -> Conclusion",
+      "mainPurpose": "The video aims to evoke a sense of nostalgic sadness and philosophical reflection on the emotional complexities of growing up, specifically focusing on the loss of pure joy and the onset of anxiety. It uses characters from 'Inside Out 2' to resonate with audiences familiar with the film's themes of emotional maturity.",
+      "visualEmotion": [
+        "sad",
+        "informative",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Combination of Inside Out characters with bilingual (English/Chinese) subtitles and a specific sad vocal monologue.",
+      "freeDescribe": "The video utilizes high-quality animation assets from a major film combined with custom audio and subtitles to create a viral-style emotional edit common on social media platforms."
+    }
+  }
+}

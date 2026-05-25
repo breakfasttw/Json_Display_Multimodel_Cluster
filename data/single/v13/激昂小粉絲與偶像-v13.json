@@ -1,0 +1,250 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 28.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy in a black tiger-print bomber jacket and olive green pants stands in a public park area on a rainy day. He is animatedly performing a speech, with his arms wide open and a determined facial expression. Standing opposite him is actor Sylvester Stallone, dressed in a dark purple blazer over a black sweater. A man in a grey jacket and yellow beanie holds a black umbrella over Stallone to protect him from the light rain. (2) The camera remains at a medium-wide shot as the boy continues his energetic recitation, pointing his finger towards Stallone and moving his body in a rhythmic, boxing-like manner. Stallone watches with a serious yet supportive expression, leaning forward slightly to hear better. In the background, a small crowd of onlookers stands behind a black metal fence, some holding up smartphones to record the interaction. (3) The boy concludes his speech with high intensity, raising his arms and puffing out his chest in a triumphant stance. Stallone smiles and acknowledges the boy's performance with a gesture of his hand. The setting is characterized by wet pavement and bare winter trees under an overcast, grey sky.",
+      "text_narrative_log": "(1) [Subtitle]: 讓我告訴你一些你早就知道的事. [Logo]: @home_made_success. [Subtitle]: LET ME TELL. (2) [Subtitle]: 只有陽光和彩虹. [Subtitle]: THAT YOU / ALREADY KNOW / THE / AIN'T ALL SUNSHINE / AND RAINBOWS. (3) [Subtitle]: 這是個嚴厲、骯髒的地方. [Subtitle]: IT'S A VERY MEAN / AND NASTY PLACE. (4) [Subtitle]: 而我不管你是個怎樣的硬漢. [Subtitle]: AND I DON'T CARE / HOW TOUGH YOU ARE. (5) [Subtitle]: 它會將你擊潰至雙膝跪地. [Subtitle]: IT WILL / BEAT YOU TO YOUR KNEES. (6) [Subtitle]: 如果你任由它，它將使你永遠停滯不前. [Subtitle]: AND KEEP YOU / THERE PERMANENTLY / IF YOU LET IT. (7) [Subtitle]: 你、我、或任何人，都可以像人生一樣揮出重擊. [Subtitle]: ME, YOU, OR NOBODY / IS GONNA HIT / AS HARD AS LIFE. (8) [Subtitle]: 但這不在於你能揮出多重的拳. [Subtitle]: BUT IT AIN'T / ABOUT HOW HARD YOU HIT. (9) [Subtitle]: 而是你能承受多大的打擊. [Subtitle]: IT'S ABOUT HOW / HARD YOU CAN GET HIT. (10) [Subtitle]: 並繼續前進. [Subtitle]: AND KEEP MOVING FORWARD. (11) [Subtitle]: 你能承擔多少，並繼續向前. [Subtitle]: HOW MUCH YOU CAN TAKE / AND KEEP / MOVING FORWARD. (12) [Subtitle]: 而勝利就是這樣完成的. [Logo]: 365. [Subtitle]: THAT'S HOW / WINNING IS DONE.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 boy, 1 actor (Stallone), 1 assistant with umbrella, and approximately 9 onlookers in the background.",
+        "mainCharacterDescription": "The main boy is wearing a black bomber jacket with a large tiger graphic on the back and green joggers. Sylvester Stallone is wearing a dark purple blazer, black trousers, and a black mock-neck sweater."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Park"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor paved area near a monument or statue, featuring a black metal fence, green manicured hedges, and bare trees in the distance under a grey, overcast sky.",
+        "lightingStyle": [
+          "Natural light"
+        ],
+        "weather": [
+          "Rainy"
+        ],
+        "season": "Winter",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Mandarin",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural",
+          "Muted"
+        ],
+        "cameraWork": [
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Rocky Statue area"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, enthusiastic male child's voice shouting a dramatic speech with high vocal arousal and clear articulation. Underneath the voice, a cinematic background music track begins, featuring dramatic orchestral strings and a low, resonant drum beat at approximately 75 BPM. The sound of light rain and a faint outdoor ambient hum is present. (2) As the boy continues his recitation, his voice exhibits significant pitch variability and intensity, hitting high peaks on words like 'HIT' and 'FORWARD'. The music swells slightly with brass elements (horns) adding to the epic tone. The sound of distant crowd murmurs can be heard briefly during natural pauses in the speech. (3) The vocal delivery reaches its maximum loudness and dominance as the boy delivers the final line 'WINNING IS DONE'. The music reaches a crescendo with a sustained orchestral chord. The background noise floor remains consistent with wet outdoor acoustics and minor rustling sound effects likely from the boy's movements.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Melodramatic"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 7,
+        "dominance": 9,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Cinematic/Epic"
+        ],
+        "tempoBPM": 75,
+        "mode": [
+          "Minor"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Instrumental"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Brass",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Violin",
+          "Cello",
+          "French Horn",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 4
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "frictionRustleSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Commentary",
+        "Motivational"
+      ],
+      "location": {
+        "country": [
+          "United States"
+        ],
+        "city": [
+          "Philadelphia"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 28.5,
+      "editingPace": "Slow",
+      "isNarrativeShift": false,
+      "mainActionFlow": "A continuous single-take performance of a child reciting a speech to a celebrity."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Resolution",
+      "mainPurpose": "To showcase an inspiring fan interaction where a young boy demonstrates resilience and passion by reciting Rocky Balboa's iconic speech directly to the actor who made it famous, Sylvester Stallone.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Rocky Balboa speech, Sylvester Stallone appearance.",
+      "freeDescribe": "The video uses bilingual subtitles to appeal to a wider audience and features a viral-style motivational watermark."
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens with a split-screen effect showing four female musicians in a dimly lit studio setting. In the top left, a woman with short dark hair in a black dress plays a dark wooden double bass. Below her, another woman with long dark hair in a black sleeveless dress plays a silver flute. In the center background, a woman in a white t-shirt sits behind a drum kit, actively playing with sticks. On the right, a woman with long hair in a white dress plays a red electronic keyboard with a microphone stand positioned in front of her. The lighting is warm and focused on the performers against a dark, curtained background. The text 'Jazz Quartet' is positioned at the top center. (2) The layout remains static as the musicians continue their performance. A stylized logo 'Gies' in gold and black appears in the middle of the frame. The flute player in the bottom left is shown in a closer profile, her fingers moving rapidly across the keys of the instrument. The keyboardist on the right sways slightly to the rhythm while playing. (3) The lower portion of the screen displays the text 'You'd Be So Nice To Come Home To' in a white serif font. The performers maintain their positions, with the drummer performing a steady rhythm and the bassist plucking the strings with her right hand. The environment remains a professional indoor studio with minimal background clutter beyond the instruments and acoustic curtains.",
+      "text_narrative_log": "(1) [Slogan]: Jazz Quartet. (2) [Logo]: Gies. (3) [Slogan]: You'd Be So Nice To Come Home To.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "4 female musicians performing instruments in a quartet setup.",
+        "mainCharacterDescription": "Four women: one in a black sleeveless dress playing flute, one in a black dress playing double bass, one in a white t-shirt playing drums, and one in a white sleeveless dress playing keyboard."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Studio"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional music studio with dark gray acoustic curtains, wooden flooring visible in the center, and warm spotlighting hitting the performers.",
+        "lightingStyle": [
+          "intense studio lights",
+          "warm spotlights"
+        ],
+        "weather": [
+          "Unknown"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "English"
+          ],
+          "isSubtitled": false
+        },
+        "colorTone": [
+          "Cinematic",
+          "Warm"
+        ],
+        "cameraWork": [
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Gies",
+          "Nord"
+        ],
+        "instrumentsVisible": [
+          "Double Bass",
+          "Flute",
+          "Drum Kit",
+          "Electronic Keyboard"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins immediately with a high-tempo jazz instrumental performance. The lead instrument is a flute, displaying a bright, airy, and highly agile melodic line with rapid note transitions. The background is supported by a steady, acoustic walking bass line on a double bass and a rhythmic swing pattern on a drum kit featuring crisp hi-hat and snare hits. The keyboard provides harmonic chordal stabs in the background. The mix is clean with a high signal-to-noise ratio, suggesting a studio environment. (2) The musical intensity remains high as the flute continues its soloistic run. The drums maintain a driving swing beat with prominent cymbal resonance. There is no human speech, singing, or environmental noise; the focus is purely on the instrumental interplay. The spectral balance is bright due to the flute and cymbals, while the double bass provides a warm low-end foundation. (3) The performance continues with consistent energy and tempo until the end of the clip. The interplay between the four instruments is tight and synchronized. No external sound effects or production artifacts are present beyond the natural acoustics of the instruments and the room reverb.",
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 1,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0,
+        "speakingLevelRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 1,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Jazz/Swing"
+        ],
+        "tempoBPM": 175,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Instrumental"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Woodwind",
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Flute",
+          "Double Bass / Contrabass",
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "SignalToNoiseRatio": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music Performance"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 18.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false,
+      "mainActionFlow": "Constant instrumental music performance in a single setup."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance -> Continuity",
+      "mainPurpose": "The video showcases a high-energy live jazz performance by an all-female quartet ('Gies'). It serves as a promotional or artistic showcase for their musical proficiency, specifically highlighting a cover of the jazz standard 'You'd Be So Nice To Come Home To' featuring a lead flute melody.",
+      "visualEmotion": [
+        "energetic",
+        "professional",
+        "focused"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "true",
+      "endorsementMethod": [
+        "Implicit",
+        "Full"
+      ],
+      "endorsementCues": "The prominent placement of the 'Gies' logo and the stylized presentation suggests this is a promotional clip for the musical group.",
+      "endorsementObject": [
+        "Gies"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Split-screen four-way layout, Gies gold logo.",
+      "freeDescribe": "The video features a very high-quality studio audio recording paired with a static but multi-layered visual presentation of a jazz quartet."
+    }
+  }
+}

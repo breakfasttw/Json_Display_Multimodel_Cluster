@@ -1,0 +1,255 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 31.42,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a back view of a woman with long black hair wearing a light blue knit sweater with decorative cutouts. She stands in a park with vibrant orange-red bald cypress trees in the background. She spreads her arms wide. (2) A high-angle drone shot reveals a dense grove of bald cypress trees in various shades of red, orange, and yellow. A narrow path and a small pond are visible, with people walking around. (3) The camera follows the woman from behind as she steps across a series of rectangular stone blocks acting as a bridge over a shallow pond. The water reflects the colorful trees. (4) An aerial view shows the layout of the park, including a red car parked near the trees and a bridge in the distance under a clear blue sky. (5) The woman is seen walking through a shaded path lined with trees, then turns to face the camera and smiles while standing in front of a large red rectangular frame structure. (6) A close-up shot focuses on the feathery leaves of the bald cypress, showing a gradient of yellow and orange against a blue sky. (7) The woman and a man are sitting on a large rock in the middle of a pond. The woman points toward the scenery while the man looks at his phone. (8) The final shot is a wide aerial view of the entire park, showing the colorful grove surrounded by green fields and a sports court.",
+      "text_narrative_log": "(1) [Slogan]: 跟男友 賞落羽松. [Subtitle]: ENJOY THE BALD CYPRESS IN WINTER. (2) [Slogan]: 台中 羽粼落羽松. [Subtitle]: 現在已經正紅了耶~. (3) [Subtitle]: 當季!. (4) [Variety]: (好多可愛造景!!). (5) [Variety]: (北部天氣真是謝囉qq). [Subtitle]: 太久沒看到陽光了我們. (6) [Variety]: (美麗紅吱吱). (7) [Subtitle]: 小橋流水(?).",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 male companion on a rock, and approximately 6 passers-by visible in aerial and background shots.",
+        "mainCharacterDescription": "A young woman with long, straight black hair wearing a light blue perforated knit sweater, black skinny pants, and black boots."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Park",
+            "Garden"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A scenic park known as 'Yulin Bald Cypress' in Taichung, featuring rows of mature bald cypress trees with seasonal red and orange foliage. The setting includes man-made ponds with stepping stones, gravel paths, a red frame photo spot, and surrounding agricultural fields and a sports court visible from the air.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural and bright"
+        ],
+        "cameraWork": [
+          "Handheld",
+          "Drone / aerial",
+          "Follow shot",
+          "Panning"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a gentle, sentimental piano BGM featuring a soft melody and moderate tempo. A female voice with a friendly, casual tone speaks. (2) A male voice responds with a calm, conversational pitch. The BGM continues steadily at a lower volume relative to the speech. (3) A brief sound of light wind or outdoor ambient air is audible as the female voice continues to describe the scenery. (4) The female speaker lets out a soft, short laugh, indicating a cheerful mood. The piano music reaches a slight crescendo with a few higher notes before maintaining its melodic loop. (5) The voices overlap slightly as they exchange brief comments about the weather and the trees. The piano track remains consistent until the very end, where it gently fades out alongside the environmental room tone.",
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Indoor/RoomTone"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.85,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false,
+      "mainActionFlow": "The video follows a linear travel experience: arriving at the park, exploring the trees via foot and stone bridges, and admiring the aerial landscape."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Experience",
+      "mainPurpose": "The video serves as a travel recommendation and visual vlog intended to showcase the beauty of the Yulin Bald Cypress trees in Taichung during their peak red season. It aims to evoke a sense of warmth and aesthetic pleasure while encouraging viewers to visit the location for its 'cute' photo spots and scenic landscapes.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Soft piano BGM combined with casual couple dialogue and aerial drone shots of nature.",
+      "freeDescribe": "The contrast between the warm, vibrant colors of the trees and the bright blue sky creates a high-quality visual appeal characteristic of aesthetic lifestyle content on social media."
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 64.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Outdoor campus setting during the day. Tsai Ing-wen, wearing a dark grey blazer, white shirt, and black trousers, stands on a paved walkway surrounded by security personnel and staff in white shirts. She gestures with her right hand toward a crowd of students off-camera. The lighting is bright natural sunlight, creating sharp shadows. Text overlays appear at the top and bottom of the frame. (2) Transition to a group photo scene. Tsai Ing-wen stands in the center of a dense group of approximately 20 students. The students are smiling, making peace signs, and holding up smartphones to capture the moment. Security guards in white shirts and black tactical vests stand on the periphery, holding back the crowd with their arms. (3) The scene shifts to an indoor lobby with high ceilings and white pillars. A large, predominantly female crowd is gathered, many holding phones and reaching out. Tsai Ing-wen walks through the crowd, smiling and occasionally shaking hands. The lighting is bright and even from indoor fixtures. (4) Tsai Ing-wen is seen walking up a wide wooden staircase with polished metal railings. She is followed closely by security. Fans on the lower level look up at her, waving enthusiastically. The camera follows her movement from a low angle. (5) Final indoor shot focusing on a group of young women in the lobby. They are reacting with high excitement, some covering their mouths with their hands in surprise, while others wave toward the direction Tsai Ing-wen just passed through.",
+      "text_narrative_log": "(1) [Logo]: Threads/tsai_ingwen. [Slogan]: 學生尖叫求合影！隨扈喊：不要激動. 蔡英文：冷靜點！我拍就是了. [Subtitle]: 總統要不要跟他們拍一下. [Logo]: mnews · 鏡新聞. (2) [Subtitle]: 喔好吧. 可以拍照嗎小英總統. 總統我們這邊. 不要激動吼. 可以幫我們拍嗎. 不要激動. 我們有攝影師. (3) [Variety]: 耶~~. [Subtitle]: 來大家靠近一點喔. (4) [Subtitle]: 小英總統好漂亮. 好來看這裡喔. 來123. 再一張來123. 好謝謝. 謝謝總統. (5) [Subtitle]: 總統好. 謝謝. 不要洗手.",
+      "visual_human_presence": {
+        "totalHumanCount": 35,
+        "maleDetectAmount": 12,
+        "femaleDetectAmount": 23,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main character (Tsai Ing-wen), 6-8 security/staff members, and over 25 students/fans in both outdoor and indoor scenes.",
+        "mainCharacterDescription": "Tsai Ing-wen: Middle-aged female, short black hair, wearing glasses, a professional grey blazer, dark trousers, and black leather shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Indoor Lobby"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Outdoors: A modern school or government campus with white geometric structures, green trees, and glass-fronted buildings. Indoors: A spacious lobby with polished light-colored floors, a prominent wooden staircase, and white pillars.",
+        "lightingStyle": [
+          "Natural light",
+          "Indoor artificial light"
+        ],
+        "weather": [
+          "Sunny"
+        ],
+        "season": "Summer",
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Mandarin"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural",
+          "High Saturation"
+        ],
+        "cameraWork": [
+          "Follow shot",
+          "POV",
+          "Static"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "mnews",
+          "鏡新聞"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a cacophony of high-pitched female screaming and chaotic outdoor chatter. A clear, middle-pitched female voice asks a question in Mandarin. The background contains a generic outdoor wind floor and distant city hum. No BGM is detected. (2) A sharp transition occurs as a male voice yells directions in a stern, authoritative tone. Tsai Ing-wen's voice enters, sounding calm and mid-pitched, speaking Mandarin with moderate speed. There is a frequent occurrence of high-frequency 'clicks' resembling digital camera shutters. (3) A massive surge in vocal volume occurs as the crowd yells 'Yay' in unison. A male voice, likely a photographer, counts down '1, 2, 3' with clear articulation and professional enunciation. The percussive sound of collective movement and friction is present. (4) The acoustic environment shifts significantly to an indoor space with heavy reverberation and echo. Continuous high-pitched female screaming dominates the audio track. Frantic calls of 'Hello President' are heard at high volume and high emotional arousal. (5) The final phase features rapid-fire female speech expressing extreme excitement. One voice is clearly heard shouting about not washing hands. The sound of rhythmic clapping and footsteps on a hard, resonant surface provides percussive transients throughout the end.",
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 20,
+        "male_vocal_count": 5,
+        "female_vocal_count": 15,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_vocal_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 5,
+        "crowdNoiseDetail": [
+          "Cherring",
+          "Chatter",
+          "Applause",
+          "Laugh"
+        ],
+        "soundEffectsDetails": [
+          "digitalUI_SFX",
+          "frictionRustleSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Nature/Outdoor",
+          "Chatter"
+        ],
+        "SignalToNoiseRatio": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "News",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video starts with a request for a photo, proceeds to a group photo session, and concludes with a high-energy walkthrough in a building lobby."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Request -> Interaction -> Execution -> Transition -> Fan Reaction",
+      "mainPurpose": "To showcase the popular and approachable public persona of former Taiwanese President Tsai Ing-wen. The video emphasizes her willingness to interact with young supporters despite security concerns, highlighting a 'cool' and 'calm' attitude that endears her to the crowd.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "joyful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "mnews branding overlays, fast-paced social-style captions, high fan-screaming density.",
+      "freeDescribe": "The video effectively uses variety-show style subtitles to emphasize specific interactions, such as Tsai Ing-wen telling security to be calm, which serves to frame her as the 'cooler' head in the situation."
+    }
+  }
+}

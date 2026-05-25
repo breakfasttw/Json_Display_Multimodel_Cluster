@@ -1,0 +1,254 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 54.33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with short black hair and round glasses is walking on a tree-lined campus path. He is wearing a dark brown jacket over a white T-shirt and a green backpack. He speaks directly to the camera with animated facial expressions, pointing a finger upward. A video thumbnail overlay appears in the center. (2) He continues walking through a green campus environment with large banyan trees. He gestures toward a brick building in the background. Variety-style text overlays in bold yellow and white fonts pop up around him. (3) He stands in front of a modern wooden-clad shop named 'FJU Food Store.' He points toward a large soft-serve ice cream sculpture. The lighting is bright natural daylight. (4) Inside or near the shop, a person with long black hair is seen from behind, dispensing vanilla soft-serve into a cone from a Taylor-brand machine. (5) The man is back on the street, holding a chocolate and vanilla swirl ice cream cone. He walks across a crosswalk with yellow and white stripes. He points toward a multi-story grey building. (6) He stands in front of the 'Foreign Language Building,' posing for photos with three young women. He smiles and makes a 'V' sign. The camera angle is handheld and slightly shaky. (7) He ends the video by pointing directly at the camera on the tree-lined path, adjusting his backpack strap.",
+      "text_narrative_log": "(1) [Subtitle]: 欸你有沒有看過那個. (2) [Slogan]: Joeman跟博恩的台大學餐. (3) [Subtitle]: 有啊有啊. [Logo]: 39:45. [Subtitle]: 看他那個封面. (4) [Variety]: 噁心. [Variety]: 男為情. (5) [Subtitle]: 可是人家有一百萬觀看耶. [Subtitle]: 不是啊 對啊. (6) [Variety]: 為什麼沒有邀我. (7) [Variety]: 輔大學餐 (引戰發言). (8) [Subtitle]: 輔大學餐比較好吃啊. [Subtitle]: 我們輔大呢. (9) [Subtitle]: 是有四大園區. [Subtitle]: 這個都是在校內的餐廳. (10) [Subtitle]: 所以像我身後這個輔園. [Subtitle]: 心園 仁園 文園. (11) [Subtitle]: 還有一個理園. [Subtitle]: 啊理園比較邊緣. (12) [Subtitle]: 容易忘記它. [Variety]: (畢業超過1X年). (13) [Subtitle]: 在我們那個年代有. [Variety]: 菠蘿麵包 鬆餅 冰淇淋. (14) [Subtitle]: 我們來看一下. [Subtitle]: 冰淇淋還有沒有. (15) [Subtitle]: 現在這邊有一整個店面. [Subtitle]: 以前就是. [Subtitle]: 旁邊一個隨便的攤位. [Subtitle]: 那現在的. (16) [Variety]: 高級. [Variety]: 吃冰時間. (17) [Subtitle]: 綜合冰淇淋. [Subtitle]: 這樣四十塊. [Variety]: (老屁股逛校園). (18) [Subtitle]: 原來像這一整棟就是新的. [Subtitle]: 從來沒有看過. (19) [Subtitle]: 這個斑馬線也是新的. [Variety]: 外語大樓也翻新了. [Variety]: SURPRISE!. (20) [Subtitle]: 而且我跟你講. [Subtitle]: 還有什麼優點. [Subtitle]: 這裡... [Variety]: 學妹超多. (21) [Variety]: (這個男的欠燒欸). (22) [Subtitle]: 怎麼樣 Joeman. [Subtitle]: 聯絡我. [Subtitle]: 輔大學餐. [Subtitle]: 等你喔",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 female student dispensing ice cream, 3 female students in a photo op, and 1 passerby in the far background.",
+        "mainCharacterDescription": "A young Asian male with short black hair, wearing round silver-rimmed glasses, a dark brown button-up jacket, a white t-shirt, and tan trousers. He carries a green tactical-style backpack."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Street",
+            "Cafe"
+          ],
+          "topography": [
+            "Plain"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A university campus (Fu Jen Catholic University) featuring tree-lined boulevards with large banyan trees, a food court building named 'Fu Yuan', an ice cream shop 'FJU Food Store', and a multi-story academic building.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring / Summer"
+        ],
+        "textOverlay": {
+          "density": "High",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural and bright"
+        ],
+        "cameraWork": [
+          "Handheld",
+          "Follow shot",
+          "Selfie"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "Traffic infrastructure"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Taylor"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a clear, energetic male voice speaking at a moderate pace. There is a light, airy ambient noise floor typical of an outdoor campus. No music is present. (2) A cheerful, bouncy, acoustic-pop BGM fades in with a steady beat and guitar strums. A sharp, digital 'pop' sound effect coincides with text appearing. The male voice becomes more animated and rhythmic. (3) A mechanical, low-frequency hum of an ice cream machine is heard briefly, followed by a playful, high-pitched 'surprise' vocal SFX. The music maintains a constant tempo around 110 BPM. (4) A digital camera shutter 'click' SFX occurs as the speaker interacts with others. The speaker's pitch rises as he expresses excitement. (5) The video concludes with the male voice delivering a closing remark with high dominance and confidence, followed by the music fading out over a lingering campus ambient hum.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 112,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "digitalUI_SFX",
+          "mechanicalLatchSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 4,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Commentary"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "New Taipei City"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "Intro commentary -> Campus walk and dining hall intro -> Food demonstration -> Proof of social benefits -> Outro CTA."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Proof -> CTA",
+      "mainPurpose": "The video serves as a playful response to a popular YouTube video by Joeman and Brian Tseng about NTU dining. The creator aims to showcase the superior dining facilities and 'social atmosphere' (citing many pretty junior students) at Fu Jen Catholic University (FJU) to provoke a collaboration or reaction from Joeman.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced subtitle and variety text overlays, direct address to other famous YouTubers, and casual campus 'senior' persona.",
+      "freeDescribe": "The video uses localized humor and university rivalries (FJU vs. NTU) to engage viewers. The production quality is typical of social media shorts with high text density and frequent visual transitions."
+    }
+  }
+}

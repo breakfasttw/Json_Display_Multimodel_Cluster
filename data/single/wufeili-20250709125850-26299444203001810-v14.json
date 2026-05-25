@@ -1,0 +1,271 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 128,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black athletic top and black leggings, stands on a rocky outcrop next to a tall wooden crucifix. She looks out over a valley town nestled in the Swiss Alps with the snow-covered Matterhorn peak in the background under a clear sky. (2) She transitions to hiking on a narrow dirt mountain trail. She wears a grey sun hat and a large grey hiking backpack, utilizing a single trekking pole. The lighting is bright natural daylight. (3) A close-up shot features a hand holding a single wavy potato chip against the backdrop of the Matterhorn, framing the mountain's peak with the chip. (4) The woman walks through a lush green forest path lined with tall coniferous trees. She is seen breathing heavily and smiling at the camera in a handheld selfie shot. (5) She walks through a wide green meadow where a small child in a pink jacket runs ahead of her. The setting is vibrant and filled with sunlight. (6) She reaches a signage area with a yellow arrow on a rock, then proceeds to a ridge where she points toward the mountain. (7) The scene shifts to the Sunnegga cable car station, showing wooden buildings and a restaurant patio with red umbrellas. (8) She sits on a grassy hillside, eating snacks from a bag and smiling at the lens. (9) She arrives at the Blauherd station, a grey industrial-style building. (10) The video concludes with her sitting inside a moving funicular cabin, looking through the dark tunnel at blue lights and then turning to smile at the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 在策馬特的第二天. [Subtitle]: 我們選擇用徒步健行的方式. [Subtitle]: 用自己的雙腳去欣賞著不同角度的馬特洪峰. (2) [Subtitle]: 第一天走四號路線. (3) [Subtitle]: 先是漫步在森林裡. [Subtitle]: 輕輕的微風. [Subtitle]: 以及滿滿的芬多精. (4) [Subtitle]: 我們才剛開始爬. [Subtitle]: 一百公尺吧？ [Subtitle]: 已經喘到不行了. (5) [Subtitle]: 在森林裡. (6) [Subtitle]: 一路上都有箭頭清楚的指標. [Subtitle]: 不用擔心會迷路. (7) [Subtitle]: 走著走著就汗流浹背了. [Subtitle]: 但還是可以感覺到空氣越來越冷. [Subtitle]: 海拔也不知道來到了多少. [Subtitle]: 感覺好像跟馬特洪峰平行著走. (8) [Subtitle]: 一路上欣賞著馬特洪峰雪山. [Subtitle]: 也一起訓練著身體. [Subtitle]: 走著走著就到了SUNNEGGA纜車站. (9) [Logo]: SUNNEGGA. [Slogan]: Restaurant. [Slogan]: Luft Sunnegga. (10) [Subtitle]: 餐廳. [Subtitle]: 這邊可以坐纜車. (11) [Subtitle]: 這是五湖的其中一湖嗎. (12) [Subtitle]: 接著我們又繼續往BLAUHERD的方向走. (13) [Subtitle]: 一路上是走走停停的. [Subtitle]: 因為風景真的太美了. (14) [Subtitle]: 當我們抵達Blauherd纜車站. (15) [Logo]: Blauherd. [Slogan]: RIWAX. [Slogan]: beauty for cars. (16) [Subtitle]: 原以為可以從這裡坐纜車下山. [Subtitle]: 沒想到這時候居然還沒開放. (17) [Subtitle]: 後來又不小心走了著名的土撥鼠小徑回到SUNNEGGA. (18) [Subtitle]: 旅途中總是會有許多美麗的驚喜. [Subtitle]: 雖然多走了好多路. [Subtitle]: 但心裡是豐盛的滿足. (19) [Subtitle]: 謝謝觀賞.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Back view",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 child in pink, approximately 3 distant hikers on the trail.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair, dressed in black athletic leggings, a black top, and later a grey hoodie and wide-brimmed hiking hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Outdoor Mountain",
+            "Hiking Trail",
+            "Village"
+          ],
+          "topography": [
+            "Hill",
+            "Peak",
+            "Valley",
+            "Forest"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background feature is the Matterhorn mountain, often covered in snow. The surrounding area includes green alpine meadows, dense conifer forests, wooden chalets in Zermatt, and modern cable car stations (Sunnegga and Blauherd).",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Traditional Chinese",
+            "English"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Natural and bright"
+        ],
+        "cameraWork": [
+          "Selfie",
+          "Handheld",
+          "Static",
+          "Follow shot",
+          "POV",
+          "Panning"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Matterhorn",
+          "Zermatt",
+          "Sunnegga",
+          "Blauherd"
+        ],
+        "brandLogos": [
+          "SUNNEGGA",
+          "Blauherd",
+          "RIWAX"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a female voice narrating in a calm, melodic Mandarin tone with clear articulation. A gentle piano background track plays at a steady, moderate tempo (approx. 80 BPM) in a major key. (2) A sharp, percussive 'crunch' sound effect is heard as the speaker pauses, clearly identifying the action of eating a chip. (3) The acoustic texture shifts as rhythmic footsteps on gravel and heavy, labored breathing from the narrator are audible, indicating physical exertion during a climb. (4) A distant, high-pitched 'Hi' from a child briefly interrupts the ambient nature floor. The piano BGM remains constant in the mix. (5) Another transient 'crunch' sound occurs, followed by continued narration about the scenery and the station. (6) A significant acoustic texture shift occurs as the sound of a mechanical hum and rhythmic whirring fills the spectrum, characteristic of a moving cabin in a tunnel. The piano BGM swells slightly in volume. (7) The narration returns to a soft, reflective tone as the music begins to fade out, ending the master track with a clean cut.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative",
+          "Calm"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3,
+        "speakingLevelRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ambient",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 80,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "frictionRustleSFX",
+          "mechanicalLatchSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Commercial/Recreational"
+        ],
+        "SignalToNoiseRatio": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Switzerland"
+        ],
+        "city": [
+          "Zermatt"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 5.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video follows a chronological hiking journey from Zermatt valley to high-altitude stations, featuring scenery, resting moments, and a final train ride."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Journey -> Challenge -> Observation -> Reflection",
+      "mainPurpose": "The video serves as a travel diary and hiking guide for Zermatt, Switzerland. It aims to share the aesthetic beauty of the Matterhorn from various hiking trails while providing a personal narrative of the physical challenge and the unexpected discovery of a closed cable car station.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative",
+        "calm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator uses a characteristic 'holding a chip to the mountain' framing and a soft, high-quality narration style combined with first-person hiking perspectives.",
+      "freeDescribe": "The video is high-quality with clear focus on landmarks and personal experience, typical of lifestyle and travel influencers on social media platforms."
+    }
+  }
+}

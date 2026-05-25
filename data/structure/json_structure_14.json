@@ -1,0 +1,174 @@
+{
+  "videoName": "video.mp4", // // If provided in instructions, use the exact filename. Otherwise, default to 'video.mp4'. Do not guess based on content.
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 0, number, // Total video duration (seconds)
+      "aspectRatio": "9:16", // 9:16, 16:9, 1:1, other
+    },
+	"visual_base": {
+		"withRealPeople": true,  // [Deaf Test]  Whether real people appear in the frame (not animation or virtual avatars)
+		"visual_narrative_log": "string"; // [Deaf Test] [Format] Use (1)(2)(3) for Visual-Base CHRONOLOGICAL PHASES. No need to mark the timeline. Record {n} distinct visual events with {n} detailed descriptions. Each phase MUST cover: [People: Face/Hands], [Objects: Details/State], and [Setting: Background/Lighting]. Minimum 40 words per phase to ensure atomic detail. Do not summarize or simplify based on length. No categorical lists. No audio/text info.
+		"text_narrative_log": "string"; // [Deaf Test] [Format] (1) [Category]: Content. (2) [Category]: Content. Labels: [Subtitle], [Logo], [Variety], [Slogan]. If simultaneous text exists, list them together. No need to mark the timeline. ORIGINAL language only. No quotes, no translations, no explanations. Example: (1) [Subtitle]: 大家好. [Logo]: @HanHan. (2) [Variety]: 尖叫聲!!". 
+		"visual_human_presence": {
+		  "totalHumanCount": 0, // [Deaf Test] Includes frontal, side, and back views; includes passers-by and distant figures; count as long as they appear
+		  "maleDetectAmount": integer, // [Deaf Test] 
+		  "femaleDetectAmount": integer, // [Deaf Test] 
+		  "kidsDetectAmount": integer, // [Deaf Test] 
+		  "mainCharacterCount": 0, // [Deaf Test]  Number of individuals identified as main characters or primary interviewees
+		  "bodyPartVisibility": ["Hands only", "Full body"], // [Deaf Test] Predefined choices:["Full body", "Upper body", "Head and shoulders", "Face", "Face close-up", "Hands only", "Torso",  "Back view", "Side view", "Feet / Legs", "Partial body", "None"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "crowdLevel": ["None"], // [Deaf Test] Only count when withRealPeople. Predefined choices:["Single", "Duo", "Small Group", "Crowd", "None"]. Single(1), Duo(2), Small Group(3-9), Crowd(>=10). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "countingEvidence": "e.g., 1 main creator, 2 passers-by in background", // [Deaf Test] 
+		  "mainCharacterDescription": "string" // [Deaf Test] Describe the appearance and dressing style of the main character(s)
+		},
+		"visual_scene_and_style": {
+		  "locationCategory": { 
+			"category": ["None"], // [Deaf Test] Scene category, e.g., Indoor Kitchen, Outdoor Street, Studio, Cafe. Mandatory: Use ["None"] if absent. NEVER use [].
+			"topography": ["None"]  // [Deaf Test] Topography or natural landforms, e.g., Plain, Hill, River, Coastline, Volcanic. Mandatory: Use ["None"] if absent. NEVER use [].
+		  },
+		  "isMultipleBackground": boolean, // [Deaf Test] 
+		  "backgroundDescribe": "string", // [Deaf Test]  Detailed description of background objects and environment (maintain narrative description)
+		  "lightingStyle": ["None"],  // [Deaf Test] Predefined choices: ["Natural daylight", "Bright indoor lighting", "Bright studio lighting", "Soft indoor lighting", "Warm indoor lighting", "Dim / low light", "Night artificial light", "Neon / colored light", "Backlit / silhouette", "Mixed natural and artificial light", "Flat animation lighting", "High-contrast cinematic lighting", "Unknown"].MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "weather": ["Sunny / Clear"], // Predefined choices: [Deaf Test] ["Sunny / Clear", "Partly cloudy", "Cloudy / Overcast", "Rainy", "Snowy", "Foggy / Hazy", "Windy", "Night clear", "Indoor / not visible", "Weather not applicable", "Unknown"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "season": ["string"], // [Deaf Test]  Predefined choices: ["Spring", "Summer", "Autumn", "Winter", "Spring / Summer", "Autumn / Winter", "Not visually inferable", "Not applicable"] MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.  
+		  "textOverlay": {
+			"density": "None / Low / Medium / High", // [Deaf Test]  Frequency of variety-show style text overlays and titles
+			"textLanguage": ["None"], // [Deaf Test]  Languages appearing in text overlays, including emojis. Predefined choices: ["None", "Traditional Chinese", "Simplified Chinese", "English", "Japanese", "Korean", "French", "Thai", "Vietnamese", "Malay", "Emoji / Symbols", "Other",  "Unknown"]. Other plain language names are allowed, but you must only describe the language name cleanly without adding extra explanations (e.g., write ["Mandarin", "English"], do NOT write ["English at first", "French later"]).
+			"isSubtitled": boolean // [Deaf Test]  Whether there are subtitles
+		  },
+		  "colorTone": ["Natural"], // [Deaf Test] Predefined choices: ["Natural", "Natural and bright", "Warm", "Warm and vibrant", "High saturation", "Bright and colorful", "Muted", "Cool tone", "Pastel", "Cinematic", "High contrast", "Monochrome / grayscale", "Dark / low-key", "Animation vivid colors", "Unknown"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "cameraWork": ["POV", "Static"] // [Deaf Test] Camera techniques, Predefined choices:["Static", "Handheld", "POV", "Selfie", "Follow shot", "Tracking shot", "Close-up", "Macro close-up", "Top-down", "Panning", "Tilting", "Zoom / digital zoom", "Screen recording / screen capture", "Split-screen / inset", "Drone / aerial", "Low angle", "High angle", "Multi-camera / cutaway"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		},
+		 "visual_objects_and_brands": {
+		  "animalDetect": ["None"], // [Deaf Test] Predefined choices:["None", "Dog", "Cat", "Bird", "Fish / seafood animal", "Horse", "Cow", "Pig", "Rabbit", "Bear", "Monkey / ape", "Elephant", "Giraffe", "Lion / tiger / big cat", "Snake", "Dinosaur", "Marine animal", "Insect", "Cartoon / animated animal", "Plush / toy animal", "Animal on packaging / logo"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "foodsDetect": ["None"], // [Deaf Test]  Predefined choices: ["None", "Rice / grains", "Noodles / ramen / pasta", "Bread / pastry", "Dessert / cake / cookies", "Snack / chips / candy", "Meat / beef / pork / chicken", "Seafood / fish / shrimp", "Egg", "Vegetables", "Fruit", "Soup / hotpot / curry", "Dairy / yogurt / cheese ",  "Milk",  "Tea", "Coffee", "Beverage / juice", "Alcohol", "Fast food / burger / fries / pizza", "Japanese food / sushi", "Korean food / kimchi", "Instant / packaged food", "Condiments / sauce", "Prepared meal / plated dish"].MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers
+		  "trafficDetect": ["None"], // [Deaf Test]  Predefined choices: ["None", "Car", "Van / shuttle", "Bus", "Scooter / motorcycle", "Bicycle", "Train / metro / HSR", "Airplane", "Boat / ferry / ship", "Truck", "Taxi", "Electric vehicle", "Shopping cart", "Stroller", "Toy vehicle", "Traffic infrastructure", "Rocket / spacecraft"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "techDetect": ["None"], // [Deaf Test]  Predefined choices: ["None", "Smartphone", "Laptop", "Desktop computer / monitor", "Tablet", "Camera / DSLR", "Action camera", "Microphone / lavalier mic", "Headphones / earbuds", "Smartwatch / wearable", "TV / display screen", "Projector", "Game console / controller", "Keyboard / mouse", "Smart glasses / AR device", "Home appliance", "Kitchen appliance", "Lighting equipment / ring light", "Tripod / stabilizer", "Charging accessory / cable", "Speaker / audio device", "Security camera / smart home device", "Robot / AI device"]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		  "landmark": ["None"], // [Deaf Test]  Identified specific landmarks, e.g., Taipei 101, Tokyo Skytree. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "brandLogos": ["None"], // [Deaf Test]  Clearly identifiable trademarks on screen **Present in the original language of the trademark, do not translate to English**. Mandatory: Use ["None"] if absent. NEVER use [].
+		  "instrumentsVisible": ["None"] // [Deaf Test]  Specific instruments "being played" or "placed" on screen. Predefined choices: [Violin, Viola, Cello, Double Bass / Contrabass, Harp, Guitar, Flute, Clarinet, Oboe, Bassoon, Ocarina, Bagpipes, Trumpet, French Horn, Trombone, Tuba, Harmonica, Glockenspiel, Xylophone, Timpani, Drum Kit / Drum Set, Triangle, Gong, Piano, Electronic Keyboard / Synthesizer, Organ, Electric Guitar, Electric Bass, Electronic Drum / E-drum, Unknown, None].MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		}
+	},
+	"audio_base": {
+		"audio_narrative_log": "string", // [Blind Test] [Format] Use (1)(2)(3) for Audio-Base CHRONOLOGICAL PHASES. No need to mark the timeline. Strictly follow 'Blind Listening Test'. MANDATORY: Every unique SFX (clicks, bangs, rustles) MUST trigger a new numbered phase. Each phase MUST ALWAYS DETAIL the interplay of Vocals (Speech Rate, Pitch, Tone), Music (BPM, Texture), and SFX. Assume the persona of a Professional Acoustics Expert/Mix Engineer. Minimum 40 words per phase. Do not summarize. Do not list categories by number.
+		
+		"vocal_census": {
+			"dominant_speakers_count": 0, // [Blind Test] Total number of main dominant speakers or voices (0 to N). BGM singing is excluded.
+			"total_distinct_voices": 0, // [Blind Test] Total number of unique voices identified in the audio track, including background chatter or passers-by (0 to N). BGM singing is excluded.
+			"male_vocal_count": 0, // [Blind Test] Total number of male voices detected (including main characters, passers-by and background chatter). BGM singing is excluded.
+			"female_vocal_count": 0, // [Blind Test] Total number of female voices detected (including main characters, passers-by and background chatter). BGM singing is excluded.
+			"kids_vocal_count": 0 // [Blind Test] Total number of child voices detected (including main characters, passers-by and background chatter). BGM singing is excluded.
+		},
+
+		"vocal_prosody": {
+			"pitchLevel": 0, // [Blind Test] Perceived dominant speakers' average vocal pitch height from 0 to 5 (0 = Completely no voice, 1 = Extremely deep/low pitch, 5 = Extremely sharp/high pitch). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"pitchVariability": 0, // [Blind Test] Pitch dominant speakers' modulation and variability from 0 to 5 (0 = Completely no voice, 1 = Monotone/flat contour, 5 = High variability/dynamic intonation/dramatic). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"intensityAndLoudness": 0, // [Blind Test] Dominant speakers' volume intensity over time from 0 to 5 (0 = Silent, 1 = Whisper/extremely quiet, 3 = Moderate volume, 5 = Shouting/clipping loudness). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speechRate": 0, // [Blind Test] Dominant speakers' speed of speech from 0 to 5 (0 = None, 1 = Extremely slow/ASMR-grade, 3 = Moderate speech rate, 5 = Extremely fast/Excited). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speechPauseDensity": 0 // [Blind Test] Dominant speakers' frequency and duration of structural pauses from 0 to 5 (0 = No pauses/Continuous speech, 5 = High frequency fractured pauses/Hesitation). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		},
+
+		"vocal_voice_quality": { 
+			"tone": ["None"], // [Blind Test] Main vocal tone signature of the dominant speaker. Predefined choices: [Authoritative, Friendly, Aggressive, Calm, Humorous, Sad, Casual, Animated/Excited, Comedic/Exaggerated, Sarcastic/Teasing, Melodramatic, Professional/Narrative, Anxious, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"vocalLanguage": ["None"], // [Blind Test] Detected spoken languages. Predefined options include ["None", "Traditional Chinese", "Simplified Chinese", "English", "Japanese", "Korean", "French", "Thai", "Vietnamese", "Malay", "Emoji / Symbols", "Other",  "Unknown"]. Other plain language names are allowed, but you must only describe the language name cleanly without adding extra explanations (e.g., write ["Mandarin", "English"], do NOT write ["English at first", "French later"]).
+			"hasBreathiness": false, // [Blind Test] Whether dominant speakers' vocal breathiness texture is present (true/false).
+			"hasRoughness": false, // [Blind Test] Whether dominant speakers' vocal roughness or raspiness is present (true/false).
+			"hasStrain": false, // [Blind Test] Whether dominant speakers' vocal strain or tension is present (true/false).
+			"articulationClarity": 0, // [Blind Test] Clarity of phonemes and words from 1 to 5 (1 = Severely muffled/mumbling, 3 = Casual daily speech, 5 = Enunciated clear/professional broadcasting). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"intonationAndContour": ["None"], // [Blind Test] Dominant speakers' general intonation structural patterns. Predefined choices: [Rising, Falling, Level, Complex, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speakingRisingRatio": 0, // [Blind Test] Level rating of dominant speakers' rising intonation occurrences from 0 to 5 (0 = Completely none, 1 = Slight/occasional, 5 = Always). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speakingFallingRatio": 0, // [Blind Test] Level rating of dominant speakers' falling intonation occurrences from 0 to 5 (0 = Completely none, 1 = Slight/occasional, 5 = Always). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speakingLevelRatio": 0 // [Blind Test] Level rating of level dominant speakers' intonation occurrences from 0 to 5 (0 = Completely none, 1 = Slight/occasional, 5 = Always). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		},
+
+		"vocal_affective": {
+			"arousal": 0, // [Blind Test] Dominant speakers' emotional energy and activation level from 1 to 9 (1 = Extremely sleepy/low arousal, 5 = Neutral, 9 = Explosively high arousal/energetic). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"valence": 0, // [Blind Test] Dominant speakers' positive vs. negative emotional tone from 1 to 9 (1 = Extremely negative/angry/fearful, 5 = Neutral, 9 = Extremely positive/joyful). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"dominance": 0, // [Blind Test] Dominant speakers' vocal assertiveness and confidence level from 1 to 9 (1 = Extremely submissive/uncertain, 5 = Equal conversation, 9 = Extremely authoritative/strong command). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"hasVocalTension": false // [Blind Test] Whether dominant speakers' vocal stress, jitter, or spectral tension indicating anxiety or physical intensity is present (true/false).
+		},
+
+		"music_basic_features": {
+			"musicPresence": false, // [Blind Test] Whether background music (BGM) is present (true/false).
+			"bgmGenre": ["None"], // [Blind Test] Style genre of the background music. Predefined choices: [Pop, Electronic/EDM, Acoustic/Folk, Hip-Hop/Trap, Classical/Orchestral, Lo-fi, Ambient, Phonk/Brazilian Funk, Meme/Comedy, Rock/Metal, Jazz/Swing, R&B/Soul, Anime/J-Pop, K-Pop, Holiday/Festive, Ballad/Sentimental, Cinematic/Epic, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"tempoBPM": 0, // [Blind Test] Estimated BPM speed of background music (0 to 250 integer, 0 if no music).
+			"mode": ["None"] // [Blind Test] Musical major/minor tonality framework. Predefined choices: [Major, Minor, Pentatonic/Traditional, Chromatic/Dissonant, Atonal/Ambiguous, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		},
+
+		"music_vocal_census": {
+			"total_singer_count": 0, // [Blind Test] Total number of BGM singers (0 to N).
+			"male_singer_count": 0, // [Blind Test] Total number of male BGM singers (0 to N).
+			"female_singer_count": 0, // [Blind Test] Total number of female BGM singers (0 to N).
+			"kids_singer_count": 0, // [Blind Test] Total number of child BGM singers (0 to N).
+			"bgmLanguage": ["None"] // [Blind Test] Languages of background music vocals. Predefined options include ["None", "Traditional Chinese", "Simplified Chinese", "English", "Japanese", "Korean", "French", "Thai", "Vietnamese", "Malay", "Emoji / Symbols", "Other",  "Unknown"]. Other plain language names are allowed, but you must only describe the language name cleanly without adding extra explanations (e.g., write ["Mandarin", "English"], do NOT write ["English at first", "French later"]).
+		},
+
+		"music_structures": {
+			"musicPauseDensity": 0, // [Blind Test] Frequency and density of structural pauses or gaps in the background music from 0 to 5 (0 = Continuous music/No pauses, 5 = High frequency fractured pauses/Highly fragmented). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"beatStrength": 0, // [Blind Test] Regularity and strength of the beat from 0 to 5 (0 = No beat/Ambient floor, 1 = Soft gentle rhythm, 5 = Intense dance tracks/heavy bass rhythm). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"instrumentFamiliesAudible": ["None"], // [Blind Test] Broad instrument category classes heard. Predefined choices: [String, Brass, Woodwind, Percussion, Keyboard, Electronic, Synthesizer, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"instrumentsAudible": ["None"], // [Blind Test] Specific musical instruments audible in the mix. Predefined choices: [Violin, Viola, Cello, Double Bass / Contrabass, Harp, Guitar, Flute, Clarinet, Oboe, Bassoon, Ocarina, Bagpipes, Trumpet, French Horn, Trombone, Tuba, Harmonica, Glockenspiel, Xylophone, Timpani, Drum Kit / Drum Set, Triangle, Gong, Piano, Electronic Keyboard / Synthesizer, Organ, Electric Guitar, Electric Bass, Electronic Drum / E-drum, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"musicSourceType": ["None"], // [Blind Test] Track production source type. Predefined choices: [Stock/Royalty-Free, Copyrighted/Commercial, Cover/Remix, Live Performance, Original Jingle/Brand Theme, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"harmonicTensionLevel": 0 // [Blind Test] Musical progression complexity and emotional buildup tension from 0 to 5 (0 = Single chord loop throughout, 5 = Frequent key changes/intense dramatic harmonic buildup). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		},
+
+		"sound_design": { // Act as a Content Editor. Identify WHAT specific sound layers (SFX, ambient environment, crowd) were mixed into the track
+			"crowdNoiseIntensity": 0, // [Blind Test] Volume density level of public audience noise from 0 to 5 (0 = No audience noise, 1 = Distant faint murmur, 5 = Deafening cheering/applause/laughter). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"crowdNoiseDetail": ["None"], // [Blind Test] Collective audience sound category classes. Predefined choices: [Chatter, Cherring, Applause, Laugh, Screaming/Yelling, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.		
+			"soundEffectsDetails": ["None"], // [Blind Test] Specific sound effects events categorized by sound physics attributes. Predefined choices: [impactSFX, whooshSFX, digitalUI_SFX, cartoonSFX, animalSFX, mechanicalLatchSFX, frictionRustleSFX, liquidFluidSFX, trafficEngineSFX, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"ambientNoiseDetails": ["None"], // [Blind Test] Background environmental noise floor baseline tracking. Predefined choices: [Urban/Traffic, Industrial/Manufacturing, Construction, Nature/Outdoor, Indoor/RoomTone, StudioSilence, Domestic/Neighborhood, Chatter, Commercial/Recreational, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"SignalToNoiseRatio": 0, // [Blind Test] Technical signal-to-noise power ratio measurement from 0 to 5 (0 = Completely no noise/Perfectly clean signal, 5 = Extreme noise interference/Signal fully submerged in noise). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			},
+
+		"spectral_and_acoustic": { // Act as an Audio Mastering Engineer. Ignore the meaning of the words or music genre; look strictly at the master track's physical wave and spectrum qualities (frequency balance, clarity vs. technical noise, analog/digital artifact distortions).
+			"spectralCentroidBrightness": 0, // [Blind Test] Perceived bright/sharp vs dull/warm frequency weight from 1 to 5 (1 = Extremely dull/dark/warm, 5 = Extremely bright/sharp/piercing). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"acousticDynamism": 0, // [Blind Test] Spectral flux and shape changes over time from 1 to 5 (1 = Static/single uniform baseline frequency, 5 = Extremely dynamic/highly fluctuating bandwidth). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"noisinessAndPercussiveness": 0, // [Blind Test] Zero-crossing transient rate check from 1 to 5 (1 = Smooth/continuous wave tones, 5 = Filled with friction noise/explosive transients/heavy percussive punch). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"harmonicsToNoiseRatio": 0, // [Blind Test] Signal clarity vs noise ratio component from 1 to 5 (1 = Dominated by heavy room noise/ambient floor/Lo-Fi distortion, 5 = Pristine studio grade/clean vocals/Hi-Fi). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"hasAudioDistortion": false // [Blind Test] Whether technical master clipping, digital distortion overloads, or speaker blowout buzz artifacts are present (true/false).
+		},
+
+		"editing_and_production_style": {
+			"speechDensity": 0, // [Blind Test] Distribution of talking density over time from 0 to 5 (0 = Completely no voice, 1 = Occasional phrases/words, 3 = Normal conversational density, 5 = High-density fast talking/Rap). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"vocalRatio": 0, // [Blind Test] Structural ratio of voice tracking over the timeline from 0 to 5 (0 = Completely no voice/instrumental only, 5 = Vocals occupy the entire video length). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"musicToSpeechLoudRatio": 0, // [Blind Test] Relative loudness of music vs. voice from 0 to 5 (0 = No music, 1 = Very soft background bed, 3 = Equal music and voice loudness, 5 = Music completely drowning out vocals). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"musicDuration": 0, // [Blind Test] Structural ratio of background music tracking over the timeline from 0 to 5 (0 = no music, 1 = music only occasionally, 3 = music takes up half the length of the film, 5 = music occupy the entire video length). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"speechMusicOverlap": 0, // [Blind Test] Calculate the strict percentage of the TOTAL video timeline where primary speech/vocals and background music are sounding SIMULTANEOUSLY from 0 to 5 (0 = Voice and music never ever sound at the same time (e.g., pure talking then pure music). 1 = Occasional background bed tracks under speech. 3 = Balanced (Music and voice overlap for exactly half of the total video length). 5 = Complete continuous overlap (Music stems run directly underneath the vocal stems from the very first second to the last second of the entire video)). CRITICAL EXCLUSION: If the video has NO human speech (e.g., pure music/instrumental tracks or standard MV tracks without speech overlays), this value MUST BE 0, NOT 5. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"isAudioEditingFragmented": false, // [Blind Test] Editing track timeline arrangement style (true = highly fragmented audio slices/frequent short edits, false = continuous linear sequence or single take recording).
+			"hasStrategicSilence": false // [Blind Test] Strategic moments with very low audio energy intentionally used for suspense, seriousness, or emphasis (true/false).
+			"audioTransition": ["None"], // [Blind Test] Technical engineering audio transition styles used. Predefined choices: [Cross-fade, Hard cut, Fade out, Fades, Stingers, Risers]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"audioEventDensity": 0, // [Blind Test] Total speech, music, or SFX events occurring per minute from 1 to 5 (1 = Extremely sparse, 5 = Hyper-dense social-native layout/information overload). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"audioCutFrequency": 0, // [Blind Test] Number of sound track cut modifications per minute from 0 to 5 (0 = No edits/uninterrupted, 5 = Extreme rapid-fire鬼畜/hyper editing pace). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"dynamicRange": 0, // [Blind Test] Amplitude variance between the quietest floor and loudest peak from 1 to 5 (1 = Strongly brickwalled/highly compressed broadcast sound, 5 = Cinematic style high dynamic range). MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+			"audioQuality": ["None"] // [Blind Test] Overall production technical fidelity environment class. Predefined choices: [Studio, Field Recording, Low-fi/Phone, Compressed/Broadcast, Voice Call/Stream Ripped, Mixed, Unknown, None]. MUST strictly follow this predefined range or options. Do not append any out-of-range words, explanations, or numbers.
+		}
+	}
+  },
+  "high_inference": {
+	"content_identity": {
+      "videoGenre": ["Vlog", "Tutorial"], // Video genre, e.g., Vlog, Tutorial, Unboxing, Commentary, Gaming, etc. Mandatory: Use ["None"] if absent. NEVER use [].
+      "location": { "country": ["None"], "city": ["None"] } // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+	"temporal_pacing_summary": {
+      "sceneCutCount": 0, // Total number of cuts (reflects production intensity)
+      "averageSceneDuration": 0.0, // Average duration per shot in seconds (reflects pace)
+	  "editingPace": "string (Fast / Moderate / Slow)",
+      "isNarrativeShift": boolean, // Whether there is a transition/turn in the middle of the video (e.g., talking head first, followed by b-roll/scenery)
+      "mainActionFlow": "string" // Describe the temporal flow in one sentence, e.g., Constant talking, or Intro -> Demo -> Outr
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "string", // [Narrative Structure] Describes the framework and logic of event arrangement. Format must be "Label: Logic Flow". 1. Labeling: Must first choose a standard category from (Linear / Montage / List-based / Circular / Random). 2. Logicization: Use "->" to describe the abstract progression of stages (e.g., Hook -> Evidence -> CTA). 3. Prohibition: Strictly forbidden to mention specific content details; limited to describing narrative functions.
+      "mainPurpose": "string", // [Comprehensive Intent] Combine all the above modalities (visual narrative, audio features, narrative structure) to conduct a deep summary, describing the main purpose and core appeal of the video. Strictly forbidden to cover it in a short single sentence; must possess narrative depth.
+      "visualEmotion": ["energetic", "humorous", "informative", "warm", "flirtatious"] // Overall emotion conveyed by the imagery, e.g., Energetic, Calm, Tense, Humorous
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "boolean",  // Whether it includes product or service placement/endorsement 
+      "endorsementMethod": ["None"], // Endorsement format, must include: (Explicit/Implicit) and (Full/Integrated)
+      "endorsementCues": "string",  // Basis for determining it as an endorsement
+      "endorsementObject": ["None"] // **Present in the original language of the brand, do not translate to English**. Inferred endorsed product or brand. Mandatory: Use ["None"] if absent. NEVER use [].
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "string", // Describe visual or auditory signatures unique to the influencer (e.g., specific opening lines, specific filters)
+      "freeDescribe": "string" // Assessment of other findings that may affect the clustering results
+	}
+  }
+} 

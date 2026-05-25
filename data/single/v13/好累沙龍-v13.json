@@ -1,0 +1,262 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 76.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair and bangs stands behind a light-colored counter in a dimly lit, minimalist indoor space. She wears a black long-sleeved top and holds a professional microphone close to her mouth with her right hand. On the counter sits a modern, mushroom-shaped lamp emitting a warm glow. Behind her, a large framed photograph of a mountain landscape is centered on the wall. Her expression is somber and reflective, with her eyes looking slightly upward or toward the distance. (2) The scene abruptly transitions to a black-and-white grid layout composed of sixteen small frames. Each frame features the same woman in various candid, high-energy poses: smiling, pouting, making 'peace' signs with her fingers, holding a small camera to her eye, and resting her face in her hands. The lighting in these stills is brighter and more contrasty than the previous scene. (3) The video cuts to a full-screen close-up shot of the woman’s face against a neutral, textured wall. She is making a playful, exaggerated expression, crinkling her nose and sticking her tongue out while looking directly into the camera. Her teeth are visible as she smiles widely, and her eyes are narrowed in a joyful, silly manner.",
+      "text_narrative_log": "(1) [Subtitle]: 好累啊 (2) [Subtitle]: 爬完一座山 (3) [Subtitle]: 還有另一座 (4) [Subtitle]: 我們要經歷什麼才會變成大人 (5) [Subtitle]: 要經歷死亡 (6) [Subtitle]: 經歷怎麼都學不成的告別 (7) [Subtitle]: 經歷失敗 跌倒 (8) [Subtitle]: 然後失去些什麼 (9) [Subtitle]: 感到悲傷 絕望 (10) [Subtitle]: 可你還是你啊 (11) [Subtitle]: 糟糕的是世界 (12) [Subtitle]: 是天氣 是生活 (13) [Subtitle]: 是情緒 (14) [Subtitle]: 而不是你 (15) [Subtitle]: 就讓這個世界潰爛 潰敗 (16) [Subtitle]: 暫時按一個暫停鍵 (17) [Subtitle]: 讓我們想一想 (18) [Subtitle]: 一切還有沒有可能稍微好一點 (19) [Subtitle]: 知道你也是很努力才走到了這裡 (20) [Subtitle]: 會好起來 (21) [Subtitle]: 會越來越好",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Waist up",
+          "Face only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character throughout the video.",
+        "mainCharacterDescription": "A young Asian woman with long dark hair and straight bangs, wearing a black top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": {
+          "category": [
+            "Indoor Studio",
+            "Cafe"
+          ],
+          "topography": [
+            "None"
+          ]
+        },
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor minimalist setting with a white counter, a mushroom lamp, and a framed mountain landscape photo; followed by a plain textured wall.",
+        "lightingStyle": [
+          "Dim",
+          "Warm",
+          "Natural light"
+        ],
+        "weather": [
+          "Unknown"
+        ],
+        "season": "Unknown",
+        "textOverlay": {
+          "density": "Medium",
+          "textLanguage": [
+            "Mandarin"
+          ],
+          "isSubtitled": true
+        },
+        "colorTone": [
+          "Muted",
+          "Warm",
+          "Black and White"
+        ],
+        "cameraWork": [
+          "Static",
+          "Close-up"
+        ]
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone",
+          "Camera"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a very slow, breathy, and gentle prosody. Her pitch is moderate, but her tone is deeply somber and reflective, with significant pauses between phrases. The background music is a sentimental piano ballad with a slow tempo (~70 BPM) and minor tonality. The acoustic environment is a clean studio silence with no perceptible noise. (2) As the monologue continues, the vocal intensity increases slightly, conveying a sense of growing emotional conviction. A subtle percussive thud or kick drum enters the mix, adding a rhythmic pulse. The BGM remains piano-driven but begins a melodic buildup with added string-like textures. (3) A sudden musical transition occurs, marked by an energetic drum fill. The BGM shifts into an upbeat pop-rock anthem with a fast tempo (~135 BPM), featuring distorted electric guitars and a driving bassline. The speaker transitions into high-energy singing with a powerful, joyous vocal timbre. The spectral brightness increases significantly, and the percussive punch is high.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 2,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Sad",
+          "Calm",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Falling",
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 4,
+        "speakingLevelRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Pop/Rock"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Minor",
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Mandarin"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "String",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Drum Kit / Drum Set",
+          "Electric Guitar"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 4
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "impactSFX"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "SignalToNoiseRatio": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Commentary"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true,
+      "mainActionFlow": "The video starts with a slow, contemplative monologue in a dim setting and ends with a fast-paced montage of photos and an energetic close-up."
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Emotional Peak",
+      "mainPurpose": "The video aims to provide emotional encouragement and a sense of belonging to viewers who feel exhausted by life's challenges. It moves from identifying with 'pain' and 'failure' to celebrating individuality and finding joy, using a transition from somber monologue to upbeat singing to illustrate the 'getting better' message.",
+      "visualEmotion": [
+        "Calm",
+        "Sad",
+        "Energetic",
+        "Humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Soft-spoken Mandarin monologue combined with abrupt transitions to high-energy personality reveal.",
+      "freeDescribe": "The video utilizes a high-contrast emotional arc, both visually and aurally, to create a relatable 'safe space' for the audience."
+    }
+  }
+}
