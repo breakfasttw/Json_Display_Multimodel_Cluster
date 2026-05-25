@@ -147,7 +147,10 @@
   "high_inference": {
 	"content_identity": {
       "videoGenre": ["Vlog", "Tutorial"], // Video genre, e.g., Vlog, Tutorial, Unboxing, Commentary, Gaming, etc. Mandatory: Use ["None"] if absent. NEVER use [].
-      "location": { "country": ["None"], "city": ["None"] } // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+      "location": { 
+			"country": ["None"],  // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+			"city": ["None"]  // The country and city where the video is located; can be multiple. Mandatory: Use ["None"] if absent. NEVER use [].
+		} 
     },
 	"temporal_pacing_summary": {
       "sceneCutCount": 0, // Total number of cuts (reflects production intensity)

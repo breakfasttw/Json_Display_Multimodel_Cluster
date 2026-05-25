@@ -31,8 +31,8 @@ const compareGroupDescribe = [
     //     enable: true,
     // },
     {
-        groupName: "悲傷 vs 興奮",
-        groupDisplayName: "悲傷 vs 興奮",
+        groupName: "悲傷 (有 bgm) vs 興奮 (人群嘈雜，無 bgm)",
+        groupDisplayName: "悲傷 (有 bgm) vs 興奮 (人群嘈雜，無 bgm)",
         videoUrl: "",
         enable: true,
     },
@@ -66,8 +66,8 @@ const compareGroupDescribe = [
     },
 
     {
-        groupName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
-        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        groupName: "阿滴-輕快bgm逛校園 vs 肉比頭 - 和緩bgm旅遊",
+        groupDisplayName: "阿滴-輕快bgm逛校園 vs 肉比頭 - 和緩bgm旅遊",
         videoUrl: "",
         enable: true,
     },
@@ -188,7 +188,7 @@ const compareFileDescribe = [
     {
         fileName: "悲傷樂樂-v13.json",
         fileDisplayName: "悲傷樂樂-v13.json",
-        groupDisplayName: "悲傷 vs 興奮",
+        groupDisplayName: "悲傷 (有 bgm) vs 興奮 (人群嘈雜，無 bgm)",
         url: "./data/single/悲傷樂樂-v13.json",
         video_url: "https://www.instagram.com/p/DDZQSK8SqBA/",
         structure_version: "json_structure_13.json",
@@ -197,7 +197,7 @@ const compareFileDescribe = [
     {
         fileName: "北科大蔡英文尖叫-v13.json",
         fileDisplayName: "北科大蔡英文尖叫-v13.json",
-        groupDisplayName: "悲傷 vs 興奮",
+        groupDisplayName: "悲傷 (有 bgm) vs 興奮 (人群嘈雜，無 bgm)",
         url: "./data/single/北科大蔡英文尖叫-v13.json",
         video_url: "https://www.instagram.com/p/DYoU-jeAMy2/",
         structure_version: "json_structure_13.json",
@@ -277,7 +277,7 @@ const compareFileDescribe = [
         fileName: "rayduenglish-20250804150549-1559856595225419-v14.json",
         fileDisplayName:
             "rayduenglish-20250804150549-1559856595225419-v14.json",
-        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        groupDisplayName: "阿滴-輕快bgm逛校園 vs 肉比頭 - 和緩bgm旅遊",
         url: "./data/single/rayduenglish-20250804150549-1559856595225419-v14.json",
         video_url: "https://www.instagram.com/reel/DH-GKiygHyU",
         structure_version: "json_structure_14.json",
@@ -285,7 +285,7 @@ const compareFileDescribe = [
     {
         fileName: "zoebitalk-20250101212122-1966008960997105-v14.json",
         fileDisplayName: "zoebitalk-20250101212122-1966008960997105-v14.json",
-        groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+        groupDisplayName: "阿滴-輕快bgm逛校園 vs 肉比頭 - 和緩bgm旅遊",
         url: "./data/single/zoebitalk-20250101212122-1966008960997105-v14.json",
         video_url: "https://www.instagram.com/reel/DER2K4QpHfe",
         structure_version: "json_structure_14.json",
