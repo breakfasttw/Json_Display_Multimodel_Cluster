@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 49,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long black hair is seated on a roller coaster next to a young boy wearing glasses. The woman is dressed in a dark blazer with a striped tie, laughing with her mouth wide open and looking into the camera. The boy is in a green collared shirt with a similar tie, looking forward with a neutral, slightly focused expression. The setting is indoors with wooden structures and dim, warm artificial lighting. (2) The coaster car moves outdoors into a bright, daylight setting. The background features high rocky walls and a blue sky with light clouds. The woman continues to laugh and look around, her hair blowing in the wind. The boy remains remarkably still and silent, his hands gripped onto the safety bar. The camera is shaky due to the motion of the ride. (3) The ride speeds up significantly as they pass by a waterfall feature on the rocky mountainside. The woman lets out a loud scream, looking directly into the camera while the boy closes his eyes slightly against the wind. The background shows a blurred theme park environment with other visitors visible in the distance. The lighting is natural daylight. (4) The coaster enters a covered area with wooden beams overhead, creating a flickering light effect. The woman turns her head to look at the boy, smiling and talking to him. The boy looks back with a calm, dazed expression, not reacting to the high-speed movement. The mechanical noise of the ride is visible through the vibration of the frame.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Head and shoulders", "Upper body", "Face"],
+        "crowdLevel": ["Crowd"],
+        "countingEvidence": "2 main characters in front, several rows of passengers visible behind them in the coaster train.",
+        "mainCharacterDescription": "Woman in a black Hogwarts-style blazer and striped tie; young boy with glasses in a green shirt and striped tie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Entertainment Venue", "Tourist Attraction / Landmark"],
+        "locationTopography": ["Other natural landform"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A themed roller coaster environment featuring rocky mountains, waterfalls, wooden beams, and indoor tunnels designed to resemble a magical setting.",
+        "lightingStyle": ["Mixed natural and artificial light"],
+        "weather": ["Sunny / Clear"],
+        "season": ["Not visually inferable"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Selfie handheld", "Shaky camera"],
+        "shotSize": ["Medium close-up", "Two shot"],
+        "cameraAngles": ["POV / first-person view", "Selfie perspective"],
+        "editingTechniques": ["Straight cut"],
+        "visualRhythm": ["Fast pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": ["None"],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["Other"],
+        "techDetect": ["None"],
+        "landmark": ["None"],
+        "brandLogos": ["None"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": ["Animated/Excited"],
+        "vocalLanguage": ["Traditional Chinese", "English"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Cinematic/Epic"],
+        "tempoBPM": 128,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": ["String", "Brass", "Percussion"],
+        "instrumentsAudible": ["Violin", "Trumpet", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Original Jingle/Brand Theme"],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Screaming/Yelling", "Cheering"],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": ["Commercial/Recreational"],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": ["Other"],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": ["Impact / Hit SFX"],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": ["Field Recording"]
+      },
+      "audio_narrative_log": "(1) A male voice with a deep, cinematic tone speaks in English over a swelling orchestral background music track. The voice is energetic and theatrical. Simultaneously, a woman's loud, high-pitched laughter is heard. A constant low-frequency rumbling and high-frequency wind noise suggest rapid movement and mechanical operation. (2) The sound of the wind intensifies, creating a broadband noise floor that partially masks the music. The woman lets out several sharp, high-arousal screams. The background music remains upbeat and adventurous, featuring strings and brass instruments. There is a lack of speech from the second character, only the woman's vocalizations. (3) The mechanical noise of the coaster wheels on the track becomes more rhythmic and percussive. The woman begins speaking in Mandarin Chinese with a very high, excited pitch and fast speech rate. Her voice exhibits high arousal and positive valence. The music begins to loop a heroic motif as the wind noise stays consistent. (4) The wind noise tapers off as the ride presumably slows down. The woman's voice becomes clearer and less strained as she talks to her companion. Her speech is enunciated and clear, filled with giggles and affectionate tones. The orchestral BGM continues at a moderate volume, providing a consistent thematic backdrop to the conversation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Vlog", "Travel"],
+      "location": {
+        "country": ["China"],
+        "city": ["Beijing"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 12.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Experience -> Climax -> Reaction",
+      "mainPurpose": "The video captures a lighthearted family moment at a theme park, showcasing the thrill of a themed roller coaster. It specifically highlights the humorous contrast between the woman's high-energy screaming and the young boy's surprisingly calm and stoic reaction to the intense ride.",
+      "visualEmotion": ["energetic", "humorous", "joyful"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "freeDescribe": "The video effectively uses POV selfie-style filming to immerse the viewer in the ride experience. The contrast in characters' emotional reactions is the primary source of humor."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 233.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark hair, wearing a black sleeveless tank top and a chest-mounted camera rig, holds a cardboard box of Brust protein coffee in a modern kitchen. The kitchen has light wood floors and white cabinetry. (2) He walks up a granite staircase, passing a glass-enclosed display cabinet filled with numerous small toy figurines and gashapon items. (3) On a bed with white and blue linens, he uses his hands to pet a sleeping ginger tabby cat. He wears a silver smartwatch. (4) In a different room, he interacts with a grey and white cat standing near a black automatic pet feeder on a light-colored floor. He picks up a blue and orange bag of 'Greens' cat food and pours some into the bowl. (5) The man changes into a white Los Angeles Dodgers baseball jersey (number 17, Ohtani) and a blue baseball cap. He is in a small hobby room filled with Star Wars memorabilia (R2-D2 model), posters (Wolverine), and a yellow desk chair. (6) He sits in the driver's seat of a white Tesla, buckling his seatbelt. The shot is a wide-angle view through the car's glass roof showing a residential street. (7) Walking outdoors at dusk on a brick-paved sidewalk, the man carries a bucket of 'Fat Daddy' fried chicken and a large bottle of Coca-Cola. (8) He enters a decorated dining room where a young boy with curly hair, also wearing a Dodgers jersey and cap, is crawling on the floor. Balloons spelling 'HAPPY BIRTHDAY' and blue/white balloons are visible. (9) A wall is decorated with numerous printed photos of the boy's growth. A large silver balloon in the shape of the number '5' is present. (10) The family sits around a dining table covered with open pizza boxes, fried chicken, and drinks. (11) The boy sits at the table, intently watching a video on a smartphone showing his own birth. (12) A white birthday cake topped with fresh strawberries is placed on the table with a lit candle. The boy blows out the candle. (13) The boy takes a small square of dark chocolate, bites it, and reacts with a squinted, sour facial expression as he tastes the bitterness.",
+      "text_narrative_log": "(1) [Slogan]: 人類受難協會. [Logo]: @人類受難協會. [Subtitle]: 這天是happy生日. (2) [Subtitle]: 他這幾天都住在外公外婆家. (3) [Subtitle]: 最近地地震頻繁. (4) [Subtitle]: 家裡的扭蛋櫃早已面目全非. (5) [Subtitle]: 泡妃又在等我上樓. (6) [Subtitle]: 因為她想吃我倒的飼料. (7) [Subtitle]: 阿湯. (8) [Subtitle]: 泡妃還忘了自己是流浪貓. (9) [Subtitle]: 每天都會很職業病地來我房間門口討吃的. (10) [Subtitle]: 但是2樓明明有自動餵食機. (11) [Subtitle]: 她還是喜歡這樣的儀式感. (12) [Subtitle]: 今天岳父給Happy穿了大谷翔平的球帽跟衣服. (13) [Subtitle]: 所以我決定跟他穿父子裝. (14) [Subtitle]: 準備去市區拿披薩跟蛋糕. (15) [Subtitle]: 林太太花店的姑姑會幫Happy佈置生日場地. [Slogan]: #花花花店. (16) [Subtitle]: 大家各司其職準備出發. (17) [Subtitle]: 雖然林太太有訂披薩跟蛋糕. (18) [Subtitle]: 但我還是買了胖老爹. (19) [Subtitle]: 單純只是因為我想吃. (20) [Subtitle]: 他終於完成了他的夢想. (21) [Subtitle]: 林太太說他五歲之後就可以吃巧克力了. (22) [Subtitle]: 他媽媽特地幫他準備了100%的濃巧克力. (23) [Subtitle]: 他吃完的感想是... (24) [Variety]: 有點苦. [Variety]: 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Full body", "Upper body", "Head and shoulders", "Face", "Hands only"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "1 main male creator, 1 child (Happy), 1 man at the dining table, 2 women at the dining table.",
+        "mainCharacterDescription": "A male creator wearing a black tank top then a white Dodgers jersey and glasses. A young boy wearing a matching Dodgers jersey and cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Indoor Living Room", "Indoor Kitchen", "Car / Van Interior", "Outdoor Street", "Restaurant / Dining"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern home with a well-stocked kitchen, a display case for figurines, a hobby room with geek culture items, a Tesla interior, a suburban street at sunset, and a decorated birthday party venue with balloons and family photos.",
+        "lightingStyle": ["Warm indoor lighting", "Mixed natural and artificial light", "Night artificial light"],
+        "weather": ["Sunny / Clear", "Indoor / not visible"],
+        "season": ["Spring"],
+        "colorTone": ["Warm and vibrant"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Walking handheld", "POV / first-person view", "Static", "Selfie handheld"],
+        "shotSize": ["Medium shot", "Close-up", "Medium full shot", "Point-of-view"],
+        "cameraAngles": ["Eye-level", "High angle", "POV / first-person view", "Selfie perspective"],
+        "editingTechniques": ["Straight cut", "Jump cut", "Subtitled social-media edit", "Reaction shot"],
+        "visualRhythm": ["Natural pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": ["Traditional Chinese", "English", "Emoji / Symbols"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["Cat"],
+        "foodsDetect": ["Fast food / burger / fries / pizza", "Dessert / cake / cookies", "Coffee", "Beverage / juice", "Meat / beef / pork / chicken"],
+        "trafficDetect": ["Car", "Electric vehicle"],
+        "techDetect": ["Smartphone", "Microphone / lavalier mic", "Smartwatch / wearable", "Home appliance"],
+        "landmark": ["None"],
+        "brandLogos": ["Dodgers", "Tesla", "胖老爹", "Coca-Cola", "Brüst"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Friendly", "Humorous", "Casual"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Acoustic/Folk", "Pop"],
+        "tempoBPM": 115,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["C Major"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": ["String", "Percussion", "Keyboard"],
+        "instrumentsAudible": ["Acoustic Guitar", "Piano", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Laughter", "Chatter", "Cheering"],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": ["Indoor/RoomTone", "Urban/Traffic"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Plastic / Bag Rustle", "Object Impact / Thud / Drop", "Door / Cabinet Open-Close"],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["Pop / Bubble SFX", "Cartoon / Comedy SFX", "Meme SFX"],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut", "Cross-fade"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": ["Field Recording"]
+      },
+      "audio_narrative_log": "(1) Male voice narrating in a calm, conversational Traditional Chinese tone. An upbeat, mid-tempo acoustic guitar BGM (Major mode, ~115 BPM) plays consistently in the background. Indoor room tone is quiet. (2) A clear rustling sound of plastic pet food bags occurs, overlapping with the narration. The BGM remains steady. (3) A muffled mechanical click and thud follow, representing a car door closing. There is a slight swell in ambient road noise. (4) Sound of outdoor footsteps on hard pavement and faint wind noise are heard beneath the narration. BGM maintains energy. (5) Narrative energy increases as a door opens, followed by a burst of high-arousal crowd chatter, laughter, and greetings. (6) A collective, high-pitched singing of the 'Happy Birthday' song by multiple voices (adults and child) dominates the mix, accompanied by hand-clapping and percussive tableware sounds. (7) High-pitched child's vocal reaction with high arousal followed by loud, sharp laughter from multiple people and a comedic 'pop' sound effect."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Vlog", "Family / Kids"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 8.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Preparation Journey -> Celebration Event -> Comedic Climax",
+      "mainPurpose": "To document and share the celebration of the creator's son's (Happy) 5th birthday, highlighting the family bond, preparation efforts, and a humorous moment involving the child's first taste of dark chocolate.",
+      "visualEmotion": ["warm", "humorous", "energetic"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": ["Implicit Integrated"],
+      "endorsementCues": "Visible placement and focus on 'Fat Daddy' (胖老爹) fried chicken and 'Brüst' protein coffee box during the narrative.",
+      "endorsementObject": ["胖老爹", "Brüst"]
+    },
+    "freeDescribe": "The video uses a POV-vlog style to create an intimate family atmosphere, effectively combining product placement with authentic life milestones."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A back view of a woman with long dark hair, wearing a light blue knit sweater and black pants, standing with her arms outstretched towards a body of water and a line of tall trees with vibrant orange leaves. A text overlay is present at the top of the frame. (2) The woman is seen from the side and back as she walks carefully along a narrow concrete ledge that borders the water, with the autumn-colored trees in the background. Other visitors are visible further down the path. (3) A high-angle aerial drone shot shows a wide view of the park, revealing a winding path and waterway through groves of trees with orange, yellow, and green foliage. A few people can be seen walking on the path. (4) The drone shot continues, panning across the park to show its full layout, including the water features, the density of the trees, and the surrounding green fields and a distant road. (5) A medium shot shows the woman stepping across large, grey, flat stones that form a path across the water. The water reflects the bright sky and colorful trees around her. (6) In a medium-full shot, the woman happily walks and twirls on a dirt path under a canopy of autumn trees. Another person is seen sitting on a bench in the background. (7) A shot from across a field of green aquatic plants shows a row of the bald cypress trees. Several people are visible in the background, some taking photos. (8) A close-up shot focuses on the feathery, golden-orange leaves of a bald cypress tree, backlit by the sun, highlighting their delicate texture and color. (9) The woman walks across another set of stepping stones, gesturing towards a man sitting on a large boulder in the water. He is holding a smartphone. (10) A final, expansive aerial shot captures the entire scenic area, showcasing the geometric and natural patterns of the park's layout, surrounded by fields and infrastructure.",
+      "text_narrative_log": "(1) [Slogan]: 跟男友賞落羽松. [Slogan]: ENJOY THE BALD CYPRESS IN WINTER. (2) [Subtitle]: 這是我跟強哥第一次來. (3) [Subtitle]: 順路經過就來看一下. (4) [Subtitle]: 走吧. (5) [Slogan]: 台中 羽粼落羽松. (6) [Slogan]: 現在已經正紅了耶~. (7) [Slogan]: 當季!. (8) [Variety]: (好多可愛造景!!). (9) [Subtitle]: 覺得顏色蠻漂亮的. (10) [Subtitle]: 因為有陽光吧!. (11) [Variety]: (北部天氣真是謝 qq). (12) [Slogan]: 太久沒看到陽光了我們. (13) [Variety]: (美麗紅吱吱😍😍). (14) [Variety]: 小橋流水(?). (15) [Subtitle]: 小橋流水. (16) [Subtitle]: 下去. (17) [Subtitle]: 就小橋流水.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "One main female character, one main male character, and multiple other people visible in the background as tourists.",
+        "mainCharacterDescription": "The female character has long, dark hair and is wearing a light blue, open-knit sweater, black skinny pants, and black boots. The male character is wearing a blue hoodie, dark pants, and sneakers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "River / Lake Area",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "River / Creek",
+          "Lake / Pond",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The setting is a landscaped park featuring numerous bald cypress trees with vibrant autumn foliage (orange, red, yellow). A man-made body of water or canal winds through the park, with stepping stones and concrete ledges for visitors. The surrounding area includes green fields, a road, and some residential buildings in the distance.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant",
+          "High saturation"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Stabilized / gimbal movement",
+          "Panning"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Long shot",
+          "Establishing shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Drone / aerial view",
+          "Back view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) Gentle, slow-tempo solo piano music begins, establishing a calm and pleasant atmosphere. The melody is simple and in a major key. A female voice speaks in a relaxed, conversational Mandarin tone. (2) A male voice with a slightly deeper pitch responds to the female, maintaining the casual conversational flow. The piano BGM continues consistently underneath the dialogue. (3) The female voice speaks again, her pitch slightly raised, conveying mild excitement. The piano music remains unchanged, acting as a constant, serene sound bed. (4) The male voice replies, and the female voice follows up quickly. Their back-and-forth dialogue is natural and lighthearted. The solo piano music continues its loop, providing a consistently peaceful mood throughout the entire video.",
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 70,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 1,
+        "instrumentFamiliesAudible": [
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 10,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Introduction of activity -> Showcase of scenery & character interaction -> Concluding aerial views",
+      "mainPurpose": "The video's main purpose is to share a personal travel vlog experience of a couple visiting a scenic bald cypress park in Taichung during autumn. It aims to showcase the beauty of the location, characterized by the vibrant red and orange foliage and tranquil water features. Through a combination of ground-level shots of the woman enjoying the park and expansive aerial views, the video creates an aesthetically pleasing and relaxing atmosphere. The gentle piano music and casual dialogue between the couple enhance the feeling of a pleasant, romantic day trip, encouraging viewers to visit the location.",
+      "visualEmotion": [
+        "warm",
+        "calm",
+        "pleasant",
+        "scenic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "None",
+      "freeDescribe": "The video is a typical short-form travel vlog, utilizing popular elements like scenic drone shots and on-screen text to convey information and emotion. The content is highly seasonal and location-specific, targeting audiences interested in autumn scenery and travel spots in Taiwan. The positive and relaxed mood is designed for easy consumption and sharing on social media platforms."
+    }
+  }
+}

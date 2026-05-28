@@ -1,0 +1,188 @@
+{
+    "videoName": "video.mp4",
+    "low_inference": {
+        "basic_metadata": {
+            "videoDuration": 12.8,
+            "aspectRatio": "9:16"
+        },
+        "visual_base": {
+            "withRealPeople": true,
+            "visual_narrative_log": "(1) The video begins with a wide shot of a massive crowd of people running across a dusty, open dirt field. Two large red Chinese flags are held aloft, fluttering as the people sprint forward. Smoke or dust clouds rise from the ground, partially obscuring the middle ground. The people are dressed in various casual modern garments like jackets and backpacks. (2) As the camera moves forward, several individuals are seen holding prop rifles and charging with the crowd. A man in a grey shirt carries a young girl on his shoulders, both moving with the flow of the runners. More smoke bursts appear in the distance, simulating an explosion or battlefield environment. (3) The camera pans right, revealing more red flags, one of which has large yellow Chinese characters printed on it. A small black drone is visible hovering in the overcast sky above the crowd. People are seen smiling, laughing, and holding up smartphones to record the event, indicating a festive or commemorative reenactment atmosphere.",
+            "text_narrative_log": "(1) [Logo]: 第三大队. [Logo]: 第六大队.",
+            "visual_human_presence": {
+                "totalHumanCount": 150,
+                "maleDetectAmount": 80,
+                "femaleDetectAmount": 50,
+                "kidsDetectAmount": 20,
+                "mainCharacterCount": 0,
+                "bodyPartVisibility": [
+                    "Full body",
+                    "Upper body",
+                    "Back view",
+                    "Side view"
+                ],
+                "crowdLevel": ["Crowd"],
+                "countingEvidence": "A massive crowd of over a hundred people running together; no single individual is the focus.",
+                "mainCharacterDescription": "None"
+            },
+            "visual_scene_and_style": {
+                "locationCategory": [
+                    "Tourist Attraction / Landmark",
+                    "Historical / Cultural Site"
+                ],
+                "locationTopography": ["Plain / Flat Urban", "Hill"],
+                "isMultipleBackground": false,
+                "backgroundDescribe": "A large open dirt area surrounded by lush green trees and a visible hill in the far distance under an overcast sky.",
+                "lightingStyle": ["Natural daylight"],
+                "weather": ["Cloudy / Overcast"],
+                "season": ["Summer"],
+                "colorTone": ["Natural"]
+            },
+            "visual_filming_and_editing": {
+                "cameraMovement": ["Walking handheld", "Panning"],
+                "shotSize": ["Wide shot", "Long shot"],
+                "cameraAngles": ["Eye-level"],
+                "editingTechniques": ["Single continuous take"],
+                "visualRhythm": ["Fast pace"],
+                "takeStructure": ["Single continuous take"]
+            },
+            "visual_text_overlay": {
+                "density": "Low",
+                "textLanguage": ["Simplified Chinese"],
+                "isSubtitled": false
+            },
+            "visual_objects_and_brands": {
+                "animalDetect": ["None"],
+                "foodsDetect": ["None"],
+                "trafficDetect": ["None"],
+                "techDetect": ["Smartphone", "Robot / AI device"],
+                "landmark": ["None"],
+                "brandLogos": ["None"],
+                "instrumentsVisible": ["None"]
+            }
+        },
+        "audio_base": {
+            "vocal_census": {
+                "dominant_speakers_count": 0,
+                "total_distinct_voices": 15,
+                "male_vocal_count": 10,
+                "female_vocal_count": 5,
+                "kids_vocal_count": 0
+            },
+            "vocal_prosody": {
+                "pitchLevel": 3,
+                "pitchVariability": 4,
+                "intensityAndLoudness": 5,
+                "speechRate": 4,
+                "speechPauseDensity": 2
+            },
+            "vocal_voice_quality": {
+                "tone": ["Animated/Excited"],
+                "vocalLanguage": ["None"],
+                "hasBreathiness": false,
+                "hasRoughness": true,
+                "hasStrain": true,
+                "articulationClarity": 1,
+                "intonationAndContour": ["Complex"],
+                "speakingRisingRatio": 3,
+                "speakingFallingRatio": 3
+            },
+            "vocal_affective": {
+                "arousal": 8,
+                "valence": 7,
+                "dominance": 5,
+                "hasVocalTension": true
+            },
+            "music_basic_features": {
+                "musicPresence": false,
+                "bgmGenre": ["None"],
+                "tempoBPM": 0,
+                "mode": ["None"],
+                "keySignature": ["None"]
+            },
+            "music_vocal_census": {
+                "total_singer_count": 0,
+                "male_singer_count": 0,
+                "female_singer_count": 0,
+                "kids_singer_count": 0,
+                "bgmLanguage": ["None"]
+            },
+            "music_structures": {
+                "musicPauseDensity": 0,
+                "beatStrength": 0,
+                "instrumentFamiliesAudible": ["None"],
+                "instrumentsAudible": ["None"],
+                "musicSourceType": ["None"],
+                "harmonicTensionLevel": 0
+            },
+            "noise_and_SFX_detect": {
+                "crowdNoiseDetails": [
+                    "Screaming/Yelling",
+                    "Cheering",
+                    "Chatter"
+                ],
+                "crowdNoiseIntensity": 5,
+                "ambientNoiseDetails": ["Nature/Outdoor"],
+                "ambientNoiseIntensity": 2,
+                "incidentalNoiseDetails": [
+                    "Firecrackers / Fireworks / Explosion",
+                    "Footsteps"
+                ],
+                "incidentalNoiseIntensity": 4,
+                "SignalToNoiseRatio": 3,
+                "soundEffectsDetails": ["None"],
+                "soundEffectsIntensity": 0,
+                "soundEffectsCoverage": 0
+            },
+            "spectral_and_acoustic": {
+                "spectralCentroidBrightness": 3,
+                "acousticDynamism": 4,
+                "noisinessAndPercussiveness": 5,
+                "harmonicsToNoiseRatio": 2,
+                "hasAudioDistortion": false
+            },
+            "editing_and_production_style": {
+                "speechDensity": 0,
+                "vocalRatio": 0,
+                "musicToSpeechLoudRatio": 0,
+                "musicDuration": 0,
+                "speechMusicOverlap": 0,
+                "isAudioEditingFragmented": false,
+                "hasStrategicSilence": false,
+                "audioTransition": ["None"],
+                "audioEventDensity": 4,
+                "audioCutFrequency": 0,
+                "dynamicRange": 3,
+                "audioQuality": ["Field Recording"]
+            },
+            "audio_narrative_log": "(1) The audio begins with a loud, sharp series of popping sounds resembling firecrackers or rapid gunfire. Simultaneously, there is an intense, high-arousal wall of sound consisting of many people screaming and yelling in excitement. The pitch is erratic and sharp. (2) A second series of rapid-fire percussive pops occurs, sounding slightly more distant than the first. The crowd noise remains at a sustained peak of volume, with various indistinct male and female voices shouting at once over a background of natural outdoor wind. (3) The popping sounds continue sporadically as the overall intensity of the screaming slowly begins to modulate, though it remains loud. There is a sense of physical movement in the recording, with rustling sounds suggesting the microphone is being carried by a running individual."
+        }
+    },
+    "high_inference": {
+        "content_identity": {
+            "videoGenre": ["Event / Festival", "Short Video", "Documentary"],
+            "location": {
+                "country": ["China"],
+                "city": ["Unknown"]
+            }
+        },
+        "temporal_pacing_summary": {
+            "sceneCutCount": 0,
+            "averageSceneDuration": 12.8,
+            "editingPace": "Slow",
+            "isNarrativeShift": false
+        },
+        "narrative_and_purpose": {
+            "narrativeStructure": "Linear: Hook -> Evidence",
+            "mainPurpose": "To document and share the high-energy, immersive experience of a historical or military reenactment event (often referred to as 'Red Tourism' in China). The video captures the visual chaos and auditory intensity of a group of people charging together to simulate a historic battle.",
+            "visualEmotion": ["energetic", "tense"]
+        },
+        "endorsement_analysis": {
+            "isEndorsement": false,
+            "endorsementMethod": ["None"],
+            "endorsementCues": "None",
+            "endorsementObject": ["None"]
+        },
+        "freeDescribe": "The presence of modern smartphones, a drone, and casual clothing indicates this is a public performance or tourist activity rather than a scripted film set or a real conflict."
+    }
+}

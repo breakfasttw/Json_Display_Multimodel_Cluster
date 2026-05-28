@@ -1,0 +1,273 @@
+{
+  "videoName": "5inana-20250701123040-937232652216330.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 24,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with short dark hair, wearing a grey patterned beanie and a white t-shirt with a black harness-style belt, stands outdoors. She holds a small grey handheld microphone in her right hand. Behind her is a large green agave plant with long, pointed leaves. She looks directly into the camera lens and begins speaking. The lighting is natural and diffuse, suggesting an overcast day. (2) The woman continues her monologue, gesturing frequently with her left hand to emphasize her points. Her facial expressions are animated, shifting between a focused, serious look and a slight, confident smile. The camera remains static in a medium shot, capturing her from the waist up. She maintains consistent eye contact with the viewer throughout her delivery. (3) The background reveals a quiet urban street with a few parked vehicles and residential buildings in the distance under a grey sky. The speaker continues talking, occasionally tilting her head for emphasis. The overall visual composition remains steady, focusing entirely on the person speaking and her expressive hand movements until the video concludes.",
+      "text_narrative_log": "(1) [Slogan]: www.patreon.com/c/nanaphoto. [Logo]: nana_photo_. [Subtitle]: 歷史是很重要的!. (2) [Subtitle]: 你知道政府總是想. (3) [Subtitle]: 騙我們!!. (4) [Subtitle]: 我說「以前」~. (5) [Subtitle]: 所以我們可以從. (6) [Subtitle]: 以前的歷史. (7) [Subtitle]: 可以去看現在. (8) [Subtitle]: 我們到底是不是. (9) [Subtitle]: 愚民?!. (10) [Subtitle]: 還自以為. (11) [Subtitle]: 自己很聰明??. (12) [Subtitle]: 至於誰是. (13) [Subtitle]: 愚民?. (14) [Subtitle]: 還是誰是. (15) [Subtitle]: 聰明的人民?. (16) [Subtitle]: 我剛剛已經講得. (17) [Subtitle]: 很清楚了.... (18) [Subtitle]: 不清楚?. (19) [Subtitle]: 可以再看一遍!",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main creator speaking to the camera.",
+        "mainCharacterDescription": "A woman with short dark hair, wearing a patterned grey beanie, a white t-shirt with a grey pattern, and a black harness-like accessory."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large agave succulent plant is positioned directly behind the subject. To the side, a paved urban street extends into the background with parked cars and urban architecture under a cloudy sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "YouTube"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Lo-fi"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "C Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking with a clear, engaging, and conversational tone. The speech rate is moderate with expressive pitch variability. Underneath the vocals, a soft acoustic guitar melody plays steadily, creating a relaxed background atmosphere. Faint urban ambient noise is present but does not interfere with the vocal clarity. (2) The speaker continues her monologue, her tone becoming slightly more animated as she makes specific points. A brief, light laugh is audible between sentences, indicating a friendly and casual delivery. The background music remains constant in its low-volume, melodic structure, maintaining the overall mood of the recording. (3) The monologue finishes with a final concluding statement. The voice maintains its articulate quality until the end. There are no sudden sound effects, sharp transients, or significant changes in the background audio layer, which ends smoothly alongside the spoken content and the accompanying acoustic music track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Commentary"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 24,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Argument -> Conclusion",
+      "mainPurpose": "The video features a woman discussing the critical importance of understanding history to better analyze current government actions and avoid manipulation. She delivers her message in a direct yet friendly manner, inviting viewers to re-watch the content for full comprehension while promoting her Patreon page.",
+      "visualEmotion": [
+        "informative",
+        "warm",
+        "assertive"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Promotes a Patreon account URL on the screen throughout the duration of the video.",
+      "endorsementObject": [
+        "Patreon"
+      ]
+    },
+    "freeDescribe": "A straightforward outdoor monologue with clear subtitles and acoustic background music, likely intended for social media short-form video consumption."
+  }
+}

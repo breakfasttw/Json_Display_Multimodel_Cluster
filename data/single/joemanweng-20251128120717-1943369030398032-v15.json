@@ -1,0 +1,321 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 86,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A wide-angle fisheye perspective shows the interior of a black convertible car driving on a coastal road; a young male with black hair and sunglasses is in the driver's seat. (2) The scene shifts to several medium shots of the same man driving, smiling, and looking at the scenery; the lighting is bright natural daylight. (3) A white Mercedes convertible with a visible license plate is parked in a lot; the man walks towards it carrying a silver rolling suitcase. (4) Aerial footage displays a white lighthouse situated on the peak of a steep, green cliff overlooking a vast blue ocean. (5) A close-up shows hands holding a white paper certificate with red stamps and black printed text. (6) The man is seen walking through a modern white circular observation deck and looking out at the rocky coastline and islands. (7) Driving shots continue during sunset, showing a large volcanic mountain across a bay with orange-tinted clouds. (8) At night, a flashlight illuminates a stone torii gate that is mostly buried in dark volcanic sand and surrounded by a chain fence. (9) The car is driven onto a ferry at night, characterized by bright blue overhead lighting and metallic structures. (10) A nighttime city street features a large illuminated purple Ferris wheel and moving traffic as seen from the car. (11) In a brightly lit restaurant, close-up shots show a plate of breaded pork cutlets; the man uses chopsticks to lift a piece and eat it. (12) The man walks through a Japanese garden with stone paths as white artificial mist rolls across the ground. (13) Wide shots of a manicured garden with a large volcano in the background under a clear blue sky. (14) A close-up shows two glazed mochi balls on a wooden stick; the man takes a bite. (15) The scene features a small shrine with stone cat statues and wooden prayer plaques hanging on a rack. (16) The car drives along a highway through flat green farmlands under a bright sun. (17) The man stands before a massive black and white Japanese castle with stone foundations, raising his arms in a celebratory gesture. (18) Interior shots of the castle show dark wooden pillars, beams, and stone walls. (19) A street scene shows a white and green tram stopped at a station near shops filled with black bear mascots. (20) Winding mountain roads lead through rolling green hills towards a smoking volcanic crater. (21) A small white helicopter is seen landing on a grassy field, followed by aerial views from the cockpit overlooking the volcanic vents. (22) The man walks across a wide, flat grassy plain with mountains in the far distance. (23) A close-up of a white milk bottle with red and purple labels is held up to the camera. (24) The man climbs a long stone staircase lined with dozens of moss-covered stone lanterns in a dense forest. (25) A final aerial shot shows the man standing on a small pier by the sea with mountains in the background.",
+      "text_narrative_log": "(1) [Subtitle]: 如何一個人開車玩南九州? (2) [Subtitle]: 跟著我一起從鹿兒島機場出發. (3) [Subtitle]: 開車兩個半小時可以到達. (4) [Subtitle]: 日本本土最南端 佐多岬. (5) [Subtitle]: 這裡除了可以領到四極證書. (6) [Subtitle]: 還有很美的瞭望台. (7) [Subtitle]: 可以看佐多岬燈塔. (8) [Subtitle]: 回程順路經過櫻島. (9) [Subtitle]: 看一下黑神埋沒鳥居. (10) [Subtitle]: 這裡保留了100年前櫻島火山噴發時. (11) [Subtitle]: 熔岩埋沒鳥居的震撼畫面. (12) [Subtitle]: 接著我們開車上輪渡. (13) [Subtitle]: 抵達鹿兒島市區. (14) [Subtitle]: 體驗一下鹿兒島必吃的黑豚豬排川久. (15) [Subtitle]: 肉質香氣四溢. (16) [Subtitle]: 口感緻密不會太油. (17) [Subtitle]: 隔天一早趁人少時. (18) [Subtitle]: 來到南九州最有名的庭園 仙巖園. (19) [Subtitle]: 以櫻島為假山 錦江灣為池. (20) [Subtitle]: 感受一下頂級的枯山水跟借景手法. (21) [Subtitle]: 再吃一下特產兩棒餅. (22) [Subtitle]: 甜甜鹹鹹的. (23) [Subtitle]: 仙巖園中還有很可愛的貓神神社. (24) [Subtitle]: 可以在這邊祈求自己的愛貓身體健康. (25) [Subtitle]: 接著開車北上前往熊本. (26) [Subtitle]: 到這裡當然要參訪一下. (27) [Subtitle]: 三大名城熊本城. (28) [Subtitle]: 感受一下由加藤清正打造的軍事基地. (29) [Subtitle]: 兼具美感與實用性的外觀. (30) [Subtitle]: 令人印象深刻. (31) [Subtitle]: 接著在附近逛一下. (32) [Subtitle]: 熊本市區後早早入睡. (33) [Subtitle]: 因為隔天一早. (34) [Subtitle]: 我們要直接前往阿蘇火山. (35) [Subtitle]: 阿蘇火山擁有極為特別的地形與植被. (36) [Subtitle]: 沿路享受綠意非常chill. (37) [Subtitle]: 建議先衝去阿蘇火山直升機拿號碼牌. (38) [Subtitle]: 我早上8點多到. (39) [Subtitle]: 前面就已經有3組人了. (40) [Subtitle]: 直升機雖然貴又很吃天氣. (41) [Subtitle]: 但看到的阿蘇火山口跟米塚. (42) [Subtitle]: 既壯闊又美麗. (43) [Subtitle]: 我覺得相當值得. (44) [Subtitle]: 接著前往附近的草千里散步. (45) [Subtitle]: 順便喝一下阿蘇牛奶. [Logo]: ASO MILK. (46) [Subtitle]: 非常濃郁. (47) [Subtitle]: 最後前往上色見熊野座神社. (48) [Subtitle]: 這裡是電影螢火之森的取景地. (49) [Subtitle]: 布滿青苔連綿的燈座. (50) [Subtitle]: 與鳥居搭配森林充滿詩意. (51) [Subtitle]: 在這邊休息一下後. (52) [Subtitle]: 我們繼續往日本最西端前進. (53) [Slogan]: 未完待續.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main male creator, 1 helicopter pilot, and approximately 13 tourists/passers-by in various locations.",
+        "mainCharacterDescription": "A young Asian male with black hair, often wearing a black sweatshirt, black beanie, and black sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Park / Garden",
+          "Restaurant / Dining",
+          "Historical / Cultural Site",
+          "Tourist Attraction / Landmark",
+          "Mountain / Forest / Trail",
+          "Car / Van Interior",
+          "Boat / Ferry / Cruise"
+        ],
+        "locationTopography": [
+          "Coastline / Beach",
+          "Mountain",
+          "Hill",
+          "Plain / Flat Urban",
+          "Forest"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Diverse locations across Southern Kyushu including coastal roads, Cape Sata lighthouse, the volcanic landscapes of Sakurajima and Mt. Aso, the traditional Sengan-en garden, Kumamoto Castle, and the forested Kamishimi Kumano-za Shrine.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Night artificial light",
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Partly cloudy",
+          "Night clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Follow shot",
+          "Drone / aerial view",
+          "Static",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot",
+          "Wide shot",
+          "Extreme long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "POV / first-person view",
+          "Selfie perspective",
+          "Drone / aerial view",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Dessert / cake / cookies",
+          "Milk",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Airplane",
+          "Boat / ferry / ship"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "Cape Sata",
+          "Sakurajima",
+          "Sengan-en",
+          "Kumamoto Castle",
+          "Mt. Aso",
+          "Kamishimi Kumano-za Shrine"
+        ],
+        "brandLogos": [
+          "Mercedes-Benz",
+          "ASO MILK"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The video opens with a mid-tempo acoustic guitar melody (approx. 110 BPM) and a clear, friendly male narrator's voice. Background noise is a clean studio-grade room tone. (2) A subtle rushing wind sound and low-frequency engine hum are mixed in to simulate the driving environment. (3) A sharp digital 'click' sound effect marks the appearance of a text overlay. The guitar strumming remains consistent in volume and rhythm. (4) As the scene transitions to the lighthouse, the outdoor environmental noise floor increases with a noticeable wind-over-microphone texture. (5) A brief paper rustling sound is heard as the certificate is shown. The narrator's speech rate is moderate and well-enunciated. (6) A 'whoosh' transition sound marks the shift to the night scene, where the ambient noise floor becomes slightly darker and more muffled. (7) A faint metallic hum and splashing water sound are audible during the ferry sequence. (8) In the restaurant, a crisp 'crunch' sound effect is heard as the character eats, followed by a light wooden 'clink' of chopsticks. (9) The garden scene features a peaceful nature-based ambient floor with extremely faint bird vocalizations in the distance. (10) A rhythmic, percussive chopping sound (helicopter rotor blades) enters the mix, becoming the dominant non-vocal sound. The narrator's voice is slightly ducked but maintains high clarity. (11) A liquid 'gulp' sound effect is synchronized with the drinking of milk. (12) The final shrine sequence has a quiet, high-bandwidth forest atmosphere with soft rustling leaves. (13) The music fades out with a final resonant guitar chord, ending in a brief moment of studio silence.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 1,
+        "crowdNoiseDetail": [
+          "Chatter"
+        ],
+        "soundEffectsDetails": [
+          "impactSFX",
+          "whooshSFX",
+          "digitalUI_SFX",
+          "frictionRustleSFX",
+          "liquidFluidSFX",
+          "trafficEngineSFX"
+        ],
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Urban/Traffic",
+          "Indoor/RoomTone"
+        ],
+        "SignalToNoiseRatio": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel",
+        "Food Review"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Kagoshima",
+          "Kumamoto"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 52,
+      "averageSceneDuration": 1.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Day 1 (Kagoshima) -> Food -> Day 2 (Gardens) -> Day 3 (Kumamoto & Mt. Aso) -> Teaser",
+      "mainPurpose": "To provide a comprehensive and visually engaging solo driving itinerary for South Kyushu, Japan. The video combines practical travel tips with high-quality landscape shots and culinary highlights to inspire viewers to explore the region independently.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal travel vlog without clear promotional calls to action for specific brands, despite showing logo-ed items like a car and milk.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-quality drone footage, fast-paced editing synchronized with friendly narration, and 'to be continued' ending style.",
+      "freeDescribe": "The video successfully uses a mix of high-production value aerial shots and intimate POV driving/eating shots to create a relatable yet aspirational travel aesthetic."
+    }
+  }
+}

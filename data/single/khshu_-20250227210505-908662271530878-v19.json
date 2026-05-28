@@ -1,0 +1,293 @@
+{
+  "videoName": "khshu_-20250227210505-908662271530878.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 78,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with black hair in a high bun, wearing a white mesh long-sleeved top over a white slip dress, holds a smartphone in a selfie perspective. She waves enthusiastically at the camera with her right hand while smiling broadly. The setting is a brightly lit restaurant with warm indoor lighting, featuring orange-brown booths and TASTY brand logos on the walls. Graphical overlays resembling a live stream interface, including a LIVE tag and scrolling user comments in Traditional Chinese, are visible on the screen. (2) The camera angle remains in a selfie handheld style as the woman moves through the restaurant, gesturing toward her face and the surrounding environment. Her facial expressions are highly animated, involving frequent eye contact and mouth movements. The background shows blurred tables, chairs, and other diners in the distance. The lighting is consistent and bright, typical of a well-lit commercial space. (3) The scene cuts to a medium shot of the woman sitting at a long table covered with a white cloth. The table is laden with numerous plated dishes, including steaks, salads, appetizers, and a glass of white wine. She holds a fork and knife in the air, expressing wide-eyed surprise and excitement. Colorful graphic elements like hand-drawn hearts and confetti patterns are superimposed on the frame. (4) Close-up shots show the woman taking large bites of steak, closing her eyes, and nodding to signify enjoyment. Large bold text in Traditional Chinese appears sequentially at the bottom of the frame, providing promotional details. The video concludes with a full-screen graphic card featuring the woman’s portrait, the brand logo, and a picture of a seafood platter with detailed promotional text and dates.",
+      "text_narrative_log": "(1) [Logo]: TASTY 西堤牛排. [Logo]: LIVE. (2) [Slogan]: 美味MOMENT. (3) [Subtitle]: 3月1號到4月30號. (4) [Subtitle]: 到西堤牛排. (5) [Subtitle]: 喊出『美味Moment』. (6) [Subtitle]: 並消費兩客經典套餐. (7) [Slogan]: 西堤免費招待你. (8) [Slogan]: 美式手抓海鮮拼盤乙份.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator is prominently featured throughout the video.",
+        "mainCharacterDescription": "A young woman with her hair in a neat bun, wearing a stylish white mesh layered top over a white dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior of a TASTY steakhouse, featuring warm wood accents, comfortable booth seating, and modern branding logos. Tables are set with white cloths and various dishes.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Vegetables",
+          "Bread / pastry",
+          "Alcohol"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TASTY 西堤牛排"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "Unknown"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A solo female voice delivers an energetic greeting with a high pitch level and significant pitch variability, suggesting high emotional arousal. The background music is an upbeat electronic-pop track with an estimated tempo of 120 BPM, characterized by a driving drum beat and bright synthesizer textures. (2) A distinct, low-frequency organic rumbling sound, resembling a stomach growl, occurs for approximately one second. This is immediately followed by a change in the speaker's tone to a slightly lower-volume, sheepish, and comedic delivery. The BGM continues uninterrupted in the background. (3) The narration resumes at a fast speech rate, maintaining a friendly and animated tone. Periodic high-frequency digital 'pop' and 'ding' sound effects are inserted, coinciding with rapid visual edits. The master track exhibits high harmonic clarity and a bright spectral centroid. (4) A sharp, broadband 'whoosh' transition sound effect marks a shift in the content, followed by a high-intensity vocal exclamation of surprise. The voice sounds more projected and authoritative during this segment. The BGM remains constant, providing a steady rhythmic bed. (5) The speaker transitions to a structured promotional announcement with a professional and enunciated broadcasting style. The vocal ratio is high, occupying most of the timeline. The track concludes with a final melodic synthesizer stinger and a soft fade out of the background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Food Review",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Interaction -> Evidence -> CTA",
+      "mainPurpose": "The video is a promotional advertisement for TASTY (Xi Ti) Steakhouse. It uses a popular foodie influencer to create a simulated live-stream interaction to announce a promotional event where customers can receive a free seafood platter by using a specific phrase during their visit.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Clear display of brand logo, direct call to action involving the restaurant's name, and promotion of a specific menu-based offer.",
+      "endorsementObject": [
+        "TASTY 西堤牛排"
+      ]
+    },
+    "freeDescribe": "The video effectively combines social media trends (simulated live stream) with professional food videography to create a highly engaging promotional piece."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 233,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Full body", "Upper body", "Face"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "1 main male narrator, 1 male child (Happy), 2 women at the dining table, and 1 man partially visible at the table.",
+        "mainCharacterDescription": "A male narrator in his 30s, initially wearing a black tank top and later a white Nike Dodgers jersey with Ohtani #17. A young boy (Happy) with curly black hair wearing a matching blue Dodgers t-shirt and cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Indoor Living Room", "Indoor Kitchen", "Car / Van Interior", "Outdoor Street", "Restaurant / Dining"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern well-lit home with a large wooden dining table, a kitchen with stainless steel appliances, a staircase with grey marble steps, and a decorated living room with blue/white balloons and photo walls. Outdoor scenes show a narrow paved residential street during sunset.",
+        "lightingStyle": ["Warm indoor lighting", "Bright indoor lighting", "Night artificial light"],
+        "weather": ["Indoor / not visible"],
+        "season": ["Not visually inferable"],
+        "colorTone": ["Warm and vibrant"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Walking handheld", "Selfie handheld", "Static"],
+        "shotSize": ["Medium shot", "Close-up", "Medium close-up", "Wide shot"],
+        "cameraAngles": ["Eye-level", "POV / first-person view", "High angle"],
+        "editingTechniques": ["Straight cut", "Jump cut", "Slow motion", "Subtitled social-media edit"],
+        "visualRhythm": ["Natural pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": ["Traditional Chinese", "English", "Emoji / Symbols"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["Cat"],
+        "foodsDetect": ["Dessert / cake / cookies", "Fast food / burger / fries / pizza", "Beverage / juice", "Meat / beef / pork / chicken", "Fruit"],
+        "trafficDetect": ["Car", "Electric vehicle"],
+        "techDetect": ["Smartphone", "Home appliance", "Kitchen appliance"],
+        "landmark": ["None"],
+        "brandLogos": ["Nike", "Dodgers", "Coca-Cola", "brüst", "Hoka", "Tesla"],
+        "instrumentsVisible": ["None"]
+      },
+      "visual_narrative_log": "(1) A man with black hair and a black tank top stands in a kitchen, holding a cardboard box of 'brüst' protein coffee. (2) The camera follows him as he walks up marble stairs; a ginger cat and a grey-and-white cat appear at the top. He opens a bag of cat food and pours it into a feeder. (3) The man stands in a walk-in closet or gear room, changing into a white Dodgers jersey and putting on black-rimmed glasses and a blue baseball cap. (4) He sits in the driver's seat of a car, filming himself from a high angle. (5) He walks down a narrow street at dusk, carrying a white plastic bag of '胖老爹' fried chicken and a 1.25L bottle of Coca-Cola. (6) He opens a white door to a room filled with blue and white balloons, where a group is seated around a table with pizzas and chicken. (7) A young boy in a blue Dodgers jersey sits at the table, looking at a strawberry cream cake. The boy is shown in close-up eating a small square of dark chocolate, making a bitter facial expression.",
+      "text_narrative_log": "(1) [Logo]: 人來瘋領養中心. [Subtitle]: 這天是happy生日. (2) [Subtitle]: 他這幾天都住在外公外婆家. (3) [Subtitle]: 最近地震頻繁 家裡的扭蛋櫃 早已面目全非. (4) [Subtitle]: 泡妃又在等我上樓 因為她想吃我倒的飼料. (5) [Subtitle]: 阿湯❤️. (6) [Subtitle]: 泡妃還忘了自己是流浪貓 每天都會很職業病地 來我房間門口討吃的 但是2樓明明有自動餵食機 她還是喜歡這樣的儀式感. (7) [Subtitle]: 今天岳父給Happy 穿了大谷翔平的球帽跟衣服 所以我決定跟他穿親子裝. (8) [Subtitle]: 準備去市區拿披薩跟蛋糕. (9) [Slogan]: 林太太花店的姑姑 會幫Happy佈置生日場地 #花花花店. (10) [Subtitle]: 大家各司其職 準備出發. (11) [Subtitle]: 雖然林太太有訂 披薩跟蛋糕 但我還是買了胖老爹 單純只是因為我想吃😂. (12) [Subtitle]: 他終於完成了他的夢想 林太太說他五歲之後 就可以吃巧克力了. (13) [Subtitle]: 他媽媽特地幫他準備了 100%的濃巧克力👍. (14) [Subtitle]: 他吃完的感想是... (15) [Variety]: 有點苦🤢. [Variety]: 哈哈哈哈哈哈."
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Friendly", "Narrative", "Animated/Excited"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Acoustic/Folk", "Holiday/Festive", "Pop"],
+        "tempoBPM": 115,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["English"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": ["String", "Percussion", "Keyboard"],
+        "instrumentsAudible": ["Guitar", "Piano", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Cheering", "Laughter", "Chatter"],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": ["Indoor/RoomTone", "Urban/Traffic"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Plastic / Bag Rustle", "Door / Cabinet Open-Close", "Footsteps", "Food Bite / Crunch"],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["Whoosh / Transition SFX", "Ding / Bell SFX", "Cartoon / Comedy SFX"],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut", "Cross-fade"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": ["Field Recording"]
+      },
+      "audio_narrative_log": "(1) A male narrator speaks in a warm, calm tone over a mid-tempo acoustic guitar BGM with a bright, clean timbre. Faint domestic room tone is present. (2) A sharp rustling sound of a plastic bag occurs, followed by the percussive sound of dry kibble hitting a plastic bowl. The narrator continues describing his cats. (3) The BGM transitions seamlessly to a more rhythmic pop track as the narrator explains the choice of matching outfits. (4) Subdued low-frequency rumble indicates a car interior environment; the sound of a mechanical click from a car door is heard. (5) Outdoor footsteps on pavement and the high-frequency crinkling of a plastic bag are audible, mixed with distant urban street hum. (6) A sudden burst of high-arousal cheering and multiple voices singing the 'Happy Birthday' melody in a festive atmosphere. (7) Laughter and high-pitched speech from a child (Happy) are heard, followed by a crunching sound. The narrator laughs heartily as the child comments on the bitterness of the chocolate."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Vlog", "Family / Kids", "Lifestyle"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["Tainan"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 8.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Preparation -> Climax -> Resolution",
+      "mainPurpose": "A celebratory lifestyle vlog documenting the father's journey to prepare for his son's 5th birthday, focusing on the emotional bond shared through matching sports jerseys and the humorous milestone of the child trying 100% dark chocolate for the first time.",
+      "visualEmotion": ["warm", "joyful", "humorous"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "POV-style camera work with chest-mounted perspective; intimate family-oriented narration style.",
+      "freeDescribe": "The video effectively uses the Dodgers/Ohtani theme as a narrative thread to connect the father and son's experience."
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 129.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In an office setting with cool, bright fluorescent lighting, a man with a shaved head wearing a grey hoodie sits at a desk, appearing distressed while looking at papers. A second man in a white blazer and black baseball cap stands behind him, placing a hand on his shoulder in a controlling manner. (2) A tight close-up of the man in the blazer looking directly into the camera with an intense, serious gaze; his skin is tanned and he wears a stud earring. (3) The scene shifts to a brightly lit commercial gym. The shaved-head man is performing pull-ups with a face of extreme physical strain. The man in the cap, now in a black tank top, stands closely behind him. (4) Cut to a hallway where the shaved-head man is speaking anxiously into a smartphone, covering his mouth with his hand. (5) Back in the gym, the shaved-head man lies on a flat weight bench. The man in the tank top leans over him, instructing him while their faces are very close. (6) The man in the tank top uses his smartphone to take a photo of the man on the bench. (7) Office environment. The shaved-head man is seen at a sink washing his hands, followed by a shot of him handing a white product bag with \"STEP V\" branding to the man in the blazer. (8) At the gym, the shaved-head man is using a leg press machine. A smartphone lying on a weight belt on the floor displays an incoming call from \"Emily 小艾\". The man in the tank top leans against the machine, watching him.",
+      "text_narrative_log": "(1) [Variety]: (大嫌的上司邀約健身). [Subtitle]: 等下下班陪我一起去健身吧. (2) [Subtitle]: 我...我女朋友在家等我，我要趕快回家陪她. [Variety]: (上司用權勢施壓). (3) [Subtitle]: 不行. (4) [Subtitle]: 下個月業績是很難達標的喔. (5) [Subtitle]: 蛤? [Variety]: (為生計只能隱忍). (6) [Subtitle]: 寶寶對不起啦，我等一下要加班，我今天會比較晚回去喔. (7) [Variety]: (貼心的女友沒有起疑). [Subtitle]: 喔好喔 辛苦囉. (8) [Subtitle]: 阿斯. [Variety]: (為了安全，上司戴上腰帶). (9) [Subtitle]: 我們今天第一次，還是戴一下吧. (10) [Variety]: (上司霸道的指導). [Subtitle]: 來過來這邊乖乖躺好. (11) [Subtitle]: 我現在要幹嘛. (12) [Subtitle]: 屁股夾緊用力往上頂. (13) [Subtitle]: 這樣嗎. (14) [Subtitle]: 做得很好嘛，這不是自己動起來了嗎. (15) [Subtitle]: 不行了不行了. [Variety]: (上司偷拍). (16) [Subtitle]: 你怎麼在拍，不要不要，如果我女朋友知道，我沒有在加班，跟你在健身房的話... (17) [Variety]: (被上司取得把柄). [Subtitle]: 如果不想被女朋友看到，你就知道明天要來健身了吧. (18) [Variety]: (上司秀出巨大的健身成果). [Subtitle]: 我看你以前，是沒有用過這麼大的槓片吧. (19) [Subtitle]: 我看，有人可以插銷插的這麼深吧. (20) [Subtitle]: 剛不是有人說不想健身嗎，現在這些都已經充血充成這樣了. (21) [Subtitle]: 看你是很不誠實哦. (22) [Subtitle]: 才做沒幾組就濕成這樣子了，自己把腿張開. (23) [Variety]: (女友來電). [Subtitle]: 誰打來了. (24) [Subtitle]: 喔沒有啦，我女朋友. [Variety]: (上司下指令). (25) [Subtitle]: 接啊為什麼不接. (26) [Subtitle]: 不行啦，會被發現. (27) [Subtitle]: 我叫你接起來. (28) [Subtitle]: 喂. [Variety]: (努力不讓女友發現). (29) [Subtitle]: 喂你還在忙嗎. (30) [Subtitle]: 我還在加班，今天會比較晚回去. (31) [Subtitle]: 背景...聲音怎麼有健身房，然後還有喘氣的聲音啊. (32) [Subtitle]: 沒有啦，他們在看皮塔的影片. (33) [Subtitle]: 那...那你忙完趕快回來喔，我在家等你. (34) [Variety]: (上司似乎對健身膩了). [Subtitle]: 啊，昨天太激烈，今天有點累，我們就不健身囉. (35) [Variety]: (主動開口哀求上司健身). [Subtitle]: 老闆，今天還是陪我健身啦，今天是我自己想要. (36) [Subtitle]: 你體力不好的話，我幫你買了STEP V，最新的植物性高蛋白，每一份有23克蛋白質，而且不會引起乳糖不耐症，幫你補充體力. (37) [Subtitle]: 感謝你給我，你的蛋白質，今晚我再補一點給你. (38) [Subtitle]: 來，我們一樣把這戴上. (39) [Subtitle]: 老闆，今天我們不要戴好不好. [Variety]: (主動要求不戴腰帶). (40) [Variety]: (上司開始吃不消了). [Subtitle]: 哇，你加這麼重，我快做不完了. (41) [Subtitle]: 老闆我們還有三下. (42) [Subtitle]: 啊，真是累死我了，我們今天就先練到這吧. (43) [Subtitle]: 老闆我們不是還有三組嗎. (44) [Subtitle]: 做...做完啦. (45) [Subtitle]: 是誰當初說不想健身，我看現在身體倒是挺誠實的. (46) [Variety]: (沉浸在和上司健身，女友...).",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Full body",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main male characters acting throughout; 1 female character appearing in a separate cutaway scene on a sofa.",
+        "mainCharacterDescription": "One man has a shaved head, wears a grey 'UNIVERSITY' hoodie and later a white long-sleeve shirt with grey sweatpants. The second man is muscular, wearing a dark baseball cap, and alternates between a white blazer and a black athletic tank top with grey athletic pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace",
+          "Gym / Fitness Center",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The office background features standard white desks, paperwork, and bright overhead lighting. The gym contains professional strength training equipment, racks, weight plates, and a dark, moody industrial aesthetic. The living room cutaway shows a textured sofa and a patterned throw rug.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting",
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural",
+          "Cinematic",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Reaction shot",
+          "Shot-reverse-shot"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "STEP V",
+          "NIKE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Authoritative",
+          "Anxious",
+          "Teasing",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Cinematic/Epic"
+        ],
+        "tempoBPM": 75,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "C Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Violin",
+          "Cello"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Notification Sound",
+          "Object Impact / Thud / Drop",
+          "Metal  Bump ",
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A deep, calm male voice speaks with an authoritative tone, followed by a second male voice that sounds nervous and stuttering. Sentimental, slow-tempo piano music begins playing softly in the background. (2) Sound of shuffling paper and a subtle metallic thud. The BGM maintains a melancholic but steady major-mode melody. (3) Rhythmic metallic clanking of gym equipment begins. One male voice starts grunting with high intensity and vocal strain, indicating heavy physical effort. (4) An electronic smartphone ringtone (marimba-style) cuts through the BGM. (5) A third voice, female, is heard clearly with a gentle, calm delivery over a muffled phone-call acoustic filter. (6) A sharp, singular metallic 'ding' SFX signifies a transition. (7) Loud thuds of heavy weights hitting a floor or machine stack occur intermittently, synchronized with the male grunting which has increased in pitch and arousal. (8) The music continues with added string textures (violins) providing a more cinematic emotional swell as the dialogue concludes."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Short Video",
+        "Sports / Fitness",
+        "Promotion / Advertisement / Indorsement"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 5.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Complication -> Climax -> Brand Integration -> Twist/Resolution",
+      "mainPurpose": "This video is a parodic comedy sketch that uses the tropes of Boys' Love (BL) office and gym dramas to promote 'STEP V' vegan protein powder. It creates intentional sexual tension through fitness double entendres to engage viewers before pivoting to a direct product endorsement.",
+      "visualEmotion": [
+        "humorous",
+        "tense",
+        "flirtatious"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "A character specifically presents the 'STEP V' package, recites its nutritional benefits (23g protein, no lactose intolerance), and it is used to resolve a plot point about physical fatigue.",
+      "endorsementObject": [
+        "STEP V"
+      ]
+    },
+    "freeDescribe": "The video utilizes parodic 'cringe' humor and suggestiveness to maintain high viewer retention in a short-form format, effectively masking a commercial advertisement as a comedic narrative."
+  }
+}

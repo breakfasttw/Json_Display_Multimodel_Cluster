@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 113.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with her hair in a bun, wearing a floral sleeveless top and blue jeans, stands excitedly in front of a FamilyMart convenience store entrance, gesturing with her hands together. The lighting is bright and even. (2) Close-up shot of a soft-serve ice cream machine dispensing a two-toned brown and beige swirl into a purple paper cup. (3) The main woman is now outside against a blue corrugated metal wall, holding a small microphone and interviewing two young women in casual clothing. One woman wears a blue T-shirt with a palm tree logo. They are smiling and laughing. (4) The woman is now back in front of the store, interviewing a different woman wearing glasses and black overalls over a white T-shirt. (5) A series of quick cuts show various women tasting the ice cream from cups using plastic spoons inside the store. The background shows shelves of merchandise and bright indoor lighting. (6) Close-up shots of the ice cream in a pink and purple cup, showing textures of the soft serve. (7) The main creator holds a purple cup with a straw and a soft-serve cone, pointing to promotional text overlays on the screen. (8) Final shot of the creator posing with the purple drink cup in a brightly lit indoor seating area.",
+      "text_narrative_log": "(1) [Logo]: 水水灶咖 X Fami!ce. [Subtitle]: 霜淇淋來了!. (2) [Variety]: 仙~仙~仙~仙草. (3) [Slogan]: (問這問題會不會太晚了?). (4) [Variety]: (要不然咧). (5) [Variety]: 老闆不要看. (6) [Slogan]: 今日主題:仙草牛奶(?). [Variety]: (莫名覺得很私XD). (7) [Variety]: 仙~仙~仙~仙草. [Slogan]: (現在脫粉還來的及嗎?). (8) [Slogan]: 絕對不是被脅迫^^. [Variety]: 仙~仙~仙~仙草. (9) [Slogan]: 真的是仙草的還原. (10) [Slogan]: Q:綜合 v.s 單口味. (11) [Variety]: 老闆我要一支. (12) [Variety]: 仙~草. (13) [Slogan]: 這段發生什麼事. (14) [Variety]: 來不及了. (15) [Slogan]: 是我喜歡的那種. (16) [Variety]: 真的仙草. (17) [Slogan]: 勁勾呷捏. (18) [Variety]: 仙草+1. (19) [Slogan]: 請移除牛奶的部分XD. (20) [Slogan]: 奶香濃郁 喝得到芋頭丁. [Variety]: 酷繽沙. (21) [Slogan]: 芋頭牛奶酷繽沙 + 仙仙仙仙草. (22) [Slogan]: 7/5-7/7 隨買跨店取 5支只要188元. (23) [Slogan]: 7/11-7/13-7/18-7/20 康康五 買一送一. (24) [Slogan]: Oh My God Taro Milk. 芋頭牛奶 全新上市. (25) [Slogan]: 7/9-7/22 新品嘗鮮價 59元. (26) [Slogan]: 7/9-9/2 酷繽沙全品項 第二件6折 還有買3送1!!!",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": ["Full body", "Upper body", "Head and shoulders", "Face", "Face close-up", "Hands only"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "1 main female creator, 4 primary female interviewees, 1 male staff member partially visible, 2 customers in background.",
+        "mainCharacterDescription": "A young Asian woman with a slim build, hair tied in a bun, wearing a light-colored floral print sleeveless ruffle top and light blue denim jeans with a diagonal fly design."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Convenience Store", "Outdoor Street", "Retail Store"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between the storefront of a FamilyMart with its signature green/white/blue branding, an outdoor blue metal fence wall, and the brightly lit interior of the store showing product aisles, self-checkout kiosks, and seating areas.",
+        "lightingStyle": ["Bright indoor lighting", "Natural daylight", "Bright studio lighting"],
+        "weather": ["Sunny / Clear"],
+        "season": ["Summer"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Walking handheld", "Static", "Dolly in / push in", "Close-up"],
+        "shotSize": ["Medium shot", "Medium close-up", "Close-up", "Insert shot"],
+        "cameraAngles": ["Eye-level", "Selfie perspective"],
+        "editingTechniques": ["Jump cut", "Fast cuts", "Subtitled social-media edit", "Reaction shot", "Graphic transition"],
+        "visualRhythm": ["Fast pace"],
+        "takeStructure": ["Compilation / montage sequence"]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": ["Traditional Chinese", "English", "Emoji / Symbols"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["Dessert / cake / cookies", "Beverage / juice", "Milk", "Ice cream"],
+        "trafficDetect": ["None"],
+        "techDetect": ["Microphone / lavalier mic", "Smartphone"],
+        "landmark": ["None"],
+        "brandLogos": ["FamilyMart", "Fami!ce", "水水灶咖", "JUI SUI KITCHEN", "Let's Café"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 0,
+        "female_vocal_count": 5,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Animated/Excited", "Casual", "Friendly"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Pop", "Electronic/EDM"],
+        "tempoBPM": 128,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer", "Percussion"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Laughter", "Chatter"],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": ["Indoor/RoomTone", "Commercial/Recreational"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Mechanical Click / Latch", "Plastic / Bag Rustle"],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["Whoosh / Transition SFX", "Ding / Bell SFX", "Pop / Bubble SFX", "Cartoon / Comedy SFX"],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut", "Fade out"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": ["Studio"]
+      },
+      "audio_narrative_log": "(1) High-energy female narration begins over an upbeat electronic pop BGM with a strong, danceable beat. The voice is bright and fast-paced. (2) A synthetic 'whoosh' SFX accompanies a shift in the vocal rhythm as the main speaker introduces the product. (3) Sound of rhythmic laughter from multiple female voices as the interview section begins. A playful 'boing' cartoon SFX is heard. (4) A 'ding' SFX signals a transition back to the main narrator's review, with the BGM remaining consistent in tempo. (5) Another series of 'pop' and 'bubble' sound effects punctuate the quick cuts of people eating, synced with the visual transitions. (6) The final phase features a more instructional, promotional tone from the main speaker with detailed price and date information, ending with a cheerful sign-off as the BGM fades."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Product Review", "Promotion / Advertisement / Indoresment", "Food Review", "Lifestyle"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.69,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Public Interview/Trial -> Product Features -> Multi-Product Synergy -> Limited Time Promotion -> CTA",
+      "mainPurpose": "To promote a new collaboration between 'Jui Sui Kitchen' and FamilyMart's 'Fami!ce' ice cream brand, specifically focusing on the grass jelly (Xiancao) flavor and a taro milk drink. The video uses person-on-the-street reactions and social proof to build excitement for the product release and highlight specific discount dates.",
+      "visualEmotion": ["energetic", "humorous", "warm"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": ["Explicit", "Full"],
+      "endorsementCues": "Direct collaboration mentioned in logos and subtitles; clear display of product packaging and retail location; specific price promotion information provided.",
+      "endorsementObject": ["FamilyMart", "Fami!ce", "水水灶咖"]
+    },
+    "freeDescribe": "The video adopts a classic Taiwanese 'Variety Show' editing style, characterized by high-density colorful text overlays and playful SFX to keep engagement high in a short-form vertical format."
+  }
+}

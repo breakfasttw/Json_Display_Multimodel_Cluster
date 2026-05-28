@@ -1,0 +1,297 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 87.82,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a colorful graphic title card overlaid on a background of fresh white roses wrapped in pink paper. A small circular avatar featuring a cartoon character (Wreck-It Ralph) is positioned near the top. The scene is brightly lit, showcasing pink and white floral textures. (2) The camera transitions to a rapid-fire sequence within a large warehouse retail environment. The first product shown is bulk packs of purple and white Kleenex toilet paper stacked high on warehouse shelving. Bright overhead industrial lighting illuminates the plastic packaging. (3) The perspective shifts to large purple boxes of Arm & Hammer cat litter. The camera remains mostly static for each product shot, focusing on the center of the frame where large text overlays appear. (4) The scene cuts to refrigerated meat sections, showing plastic-wrapped trays of Australian lamb chops with bright red meat and white fat visible. (5) A series of quick cuts follows, showcasing various packaged snacks: shredded squid, mini Snickers bars in red bags, and boxes of almond fish crackers. The background consistently features stacked warehouse inventory and industrial shelving. (6) The footage continues through the aisles, displaying Kirkland-branded chocolate crepes in green boxes, glass jars of colorful fruit candies, and blue bags of Calbee pea snacks. (7) The montage moves to red tubes of Pringles, red boxes of Glico biscuits, and luxury Godiva chocolate boxes. Each cut is precise, centering the product against the backdrop of the store's massive scale. (8) The camera focuses on alcoholic beverages, including bottled whisky and sparkling wine arranged in boxes. The lighting is sharp and direct, reflecting off the glass and plastic surfaces. (9) Moving to fresh produce, the video shows containers of black grapes, blueberries, large bags of Australian white potatoes, and bundles of fresh green spring onions. (10) Dairy and beverage aisles are featured next, showing stacks of Binggrae flavored milk, yellow packs of Yakult, and white tubs of yogurt. (11) The final sequence covers dry goods and frozen items, including Wu Mu noodles, freshly baked cinnamon rolls, frozen sea bass, mussels, and egg tofu. The video concludes with household health items like Starbucks coffee beans, Quaker oats, Always sanitary pads, and bottles of Centrum vitamins.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 比爾特派員. [Slogan]: 好市多 每週特價速報 02/10~02/16 記得追蹤我們. (2) [Slogan]: 舒潔三層 抽取式衛生紙 原價419 -84 特價335. (3) [Slogan]: ARM & HAMMER 加強除臭貓砂 原價525 -105 特價420. (4) [Slogan]: 澳洲法式小羊排 原價1449/kg -200 特價1249/kg. (5) [Slogan]: 北海鱈魚香絲 原價299 -50 特價249. (6) [Slogan]: 士力架 迷你花生巧克力 原價469 -100 特價369. (7) [Slogan]: 大田海洋 鱈魚杏仁脆片 原價299 -60 特價239. (8) [Slogan]: 美珍香 休閒金尊肉乾 原價469 -95 特價374. (9) [Slogan]: 科克蘭 牛奶巧克力捲餅 原價489 -100 特價389. (10) [Slogan]: QUEEN'S DELIGHT 熱帶水果風味糖 原價279 -60 特價219. (11) [Slogan]: CALBEE HARVEST SNAPS 鹽味豌豆脆果 原價499 -90 特價359 特價至2/13. (12) [Slogan]: 品客洋芋片 原味 原價299 -60 特價239. (13) [Slogan]: GLICO 綜合乳酸菌夾心餅乾 原價399 -80 特價319. (14) [Slogan]: GODIVA 經典大師 綜合含餡巧克力 原價529 -110 特價419. (15) [Slogan]: GUDRUN MINI CUBES 綜合巧克力禮盒 原價629 -232 特價397 限時特價桃園南崁店. (16) [Slogan]: GLENMORANGIE 12YO 格蘭傑 蘋果白蘭地桶威士忌 原價1899 -402 特價1497 限時特價桃園南崁店. (17) [Slogan]: BERNINI 微甜氣泡白葡萄酒 原價799 -160 特價639. (18) [Slogan]: 久世福 日式刀削章魚 鱈魚條 原價329 -66 特價263. (19) [Slogan]: 秘魯無籽黑葡萄 原價299 -50 特價249. (20) [Slogan]: 空運智利藍莓 原價359 -60 特價299. (21) [Slogan]: 澳洲白玉馬鈴薯 原價199 -40 特價159. (22) [Slogan]: 生蔥 原價199 -49 特價150 限時特價桃園南崁店. (23) [Slogan]: BINGGRAE 香蕉牛奶 草莓牛奶 (保久調味乳) 原價639 -130 特價509. (24) [Slogan]: 養樂多300 活菌發酵乳 原價299 -60 特價239. (25) [Slogan]: 味全 簡單點鮮奶優格 原價379 -80 特價299. (26) [Slogan]: 五木經濟包營養麵 原價279 -60 特價219. (27) [Slogan]: 五木細關東麵 原價295 -60 特價235. (28) [Slogan]: 法式肉桂奶油酥 9入 原價399 -80 特價319. (29) [Slogan]: TRYGOODZ 翠果子綜合米果 原價285 -60 特價225 特價至2/13. (30) [Slogan]: 龍虎石斑 原價679/kg -100 特價579/kg. (31) [Slogan]: 冷藏馬祖淡菜 原價429 -80 特價349. (32) [Slogan]: 石安牧場 香滷蛋白丁 原價329 -65 特價264. (33) [Slogan]: JUVER 蘋果汁 原價399 -80 特價319 特價至2/12. (34) [Slogan]: 西雅圖 極品嚴焙大濾掛咖啡 原價699 -140 特價559. (35) [Slogan]: 不倒翁 金螃蟹海鮮風味拉麵 原價399 -80 特價319. (36) [Slogan]: 健司 帕蒂小蛋糕 原價339 -70 特價269. (37) [Slogan]: VITALI 維大力汽水 原價249 -50 特價199. (38) [Slogan]: BIBIGO 冷凍泡菜起司飯糰 原價419 -90 特價329. (39) [Slogan]: 灣仔碼頭 高麗菜豬肉水餃 原價559 -120 特價439. (40) [Slogan]: STARBUCKS 中度烘焙即溶咖啡 原價499 -100 特價399. (41) [Slogan]: STARBUCKS 早餐綜合咖啡豆 原價769 -200 特價569. (42) [Slogan]: 桂格 有機大燕麥片 原價379 -80 特價299. (43) [Slogan]: 桂格燕麥片 紅豆紫米風味 原價499 -100 特價399. (44) [Slogan]: 好自在 清新淨味液體衛生棉 27公分 26片x2入 原價549 -150 特價399. (45) [Slogan]: 善存 女性綜合維他命 男性綜合維他命 原價1549 -310 特價1239.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One male narrator is represented by an avatar and his hands are occasionally seen holding or pointing to items.",
+        "mainCharacterDescription": "The main character is an off-screen narrator. His avatar is a stylized cartoon character from 'Wreck-It Ralph'."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The background consists of various sections of a Costco warehouse store, including dry goods aisles with heavy-duty metal racking, refrigerated open-top coolers for meat and seafood, and produce sections with bulk cardboard crates.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Snack / chips / candy",
+          "Fruit",
+          "Vegetables",
+          "Dairy / yogurt / cheese ",
+          "Beverage / juice",
+          "Coffee",
+          "Alcohol",
+          "Dessert / cake / cookies",
+          "Bread / pastry",
+          "Noodles / ramen / pasta"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kleenex",
+          "Arm & Hammer",
+          "Snickers",
+          "Kirkland",
+          "Pringles",
+          "Glico",
+          "Godiva",
+          "Glenmorangie",
+          "Bernini",
+          "Binggrae",
+          "Yakult",
+          "Juver",
+          "Starbucks",
+          "Quaker",
+          "Always",
+          "Centrum"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with high-energy, upbeat electronic pop background music (BGM) featuring a steady percussive beat and bright synthesized textures. A male voice with high vocal arousal and clear articulation quickly introduces the 'Costco weekly special report' in Traditional Chinese. (2) The narrator begins a rapid-fire delivery of product names and pricing details. His speech rate is extremely fast, listing original prices, discounts, and final special prices for items like Kleenex and cat litter. The BGM remains consistent in the background at a moderate volume level. (3) As the list continues through meat and snack sections, the narrator maintains a rhythmic cadence that mirrors the visual cuts. The audio signal is very clean, indicating a studio-recorded voice-over with high harmonics-to-noise ratio and professional compression. (4) The narration continues without pause for the duration of the video, covering dozens of items. The voice exhibits a friendly and enthusiastic tone, typical of a promotional announcement. There are no significant ambient noises or disruptive sound effects, only the persistent BGM and the high-density vocal track. (5) Toward the end, the pace remains constant as the narrator finishes with health and vitamin supplements. The music concludes with a sharp cutoff as the video ends, without a significant fade-out.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Rising",
+          "Falling"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "digitalUI_SFX"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "SignalToNoiseRatio": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Shopping",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 44,
+      "averageSceneDuration": 1.99,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Itemized Specials -> CTA",
+      "mainPurpose": "To quickly inform Costco members about the weekly discount items and special prices available between February 10th and 16th, encouraging viewers to visit the store and follow the creator for more updates.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed pricing, store location specifics, and promotional dates for Costco products.",
+      "endorsementObject": [
+        "Costco Wholesale"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Agent Bill (比爾特派員) avatar and rapid-fire price listing narration.",
+      "freeDescribe": "The video utilizes a highly compressed information delivery style popular on short-form video platforms to capture the attention of value-conscious shoppers."
+    }
+  }
+}

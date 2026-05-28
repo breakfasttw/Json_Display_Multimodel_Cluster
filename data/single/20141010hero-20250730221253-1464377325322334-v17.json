@@ -1,0 +1,303 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 89,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 15,
+        "femaleDetectAmount": 10,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main creators, dozens of pilgrimage participants in the background.",
+        "mainCharacterDescription": "One male with short black hair wearing a white t-shirt; one male with a stockier build wearing a grey t-shirt and a crossbody bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior",
+          "Convenience Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Nighttime highway seen through a windshield; bright white shelves of a convenience store filled with beverages and snacks; a sunlit residential street with power lines and multi-story buildings during a parade.",
+        "lightingStyle": [
+          "Mixed natural and artificial light",
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Full shot",
+          "Long shot",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Beverage / juice",
+          "Instant / packaged food",
+          "Rice / grains"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Van / shuttle",
+          "Truck"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "7-Eleven",
+          "Taisun"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      },
+      "visual_narrative_log": "(1) Inside a car at night, a young man with short dark hair in a green shirt speaks directly to a handheld camera. A smartphone is mounted on the dashboard showing a dark interface. (2) The scene shifts to the man and a friend eating snacks inside the car. The lighting is dim. (3) The camera records from a moving car at night, showing a dark road with streetlights. (4) Inside a bright convenience store, the main character stands before shelves of canned goods. He picks up multiple shrink-wrapped packs of red canned congee. (5) Back in the car, now in daylight, he gestures while speaking. Blue and black backpacks are visible in the rear. (6) A close-up shows a smartphone screen displaying a map with a tracking route and a small picture-in-picture video of a crowd. (7) Outside in bright daylight, the two men stand by the open trunk of a white car parked on a street. They hand out the red cans to a passing crowd of people wearing pink vests and hats. (8) A large crowd moves past, followed by a religious palanquin draped in pink fabric, carried by men in yellow uniforms. (9) The main character stands on the street, palms pressed together in prayer as the parade continues. (10) Inside the car, the man holds up small red and green fabric charms towards the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 好的各位今天呢拍完影片 大概是凌晨2:23分. (2) [Subtitle]: 秉持著每一年呢 都要去白沙屯走一下 我想就是現在. (3) [Subtitle]: 這個奇怪的時間 5/5 2:24分在台南黃金海岸 Right now 祂現在在哪裡 祂在雲林. (4) [Subtitle]: 主要是 媽祖好像五點就要起駕了 開去那邊剛好. (5) [Subtitle]: 大家都要起床囉 慰勞一下這些走那麼遠的人 他們這樣走也走了一百七十幾公里了欸. (6) [Subtitle]: 大家應該沒吃早餐吧 那我就買個八寶粥吧. (7) [Subtitle]: 媽祖會保佑你 妈祖会保佑你唷. (8) [Subtitle]: 我們採購完畢60人份的早餐了 現在時間大概是5:40分 我們連自己的早餐都還沒吃欸. (9) [Subtitle]: 我們在這邊埋伏（？ 啊不是埋伏啦在這邊等待 現在應該是路線會像這樣子. (10) [Subtitle]: 辛苦了 加油喔. (11) [Subtitle]: 每一年求的願望都是希望家人身體健康. (12) [Subtitle]: 只要這一家人平安無事 我都會來陪走一小段還願. (13) [Subtitle]: 今年是第六年 比較忙 只能用這種方式 希望大家都能平平安安的. (14) [Subtitle]: 好快 好快沒了欸. (15) [Subtitle]: 剛剛拿到的結緣品 很棒欸 感覺好好喔."
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 4,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 72,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "G Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Notification Sound",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear male voice speaks in a friendly, conversational tone with moderate pitch. A steady, low-frequency hum of a car engine is audible in the background. (2) A sharp, digital \"blip\" transition occurs. The voice continues, now accompanied by the faint, high-frequency rustling of plastic packaging. (3) A two-tone \"ding-dong\" chime, typical of a convenience store entrance, sounds. The acoustic environment shifts to a more resonant, indoor quality. (4) A series of dull, percussive thuds suggests heavy objects being moved. Background music featuring a soft acoustic guitar begins at a slow tempo. (5) A sentimental male vocal track in the BGM swells in volume. The main narrator's voice overlaps with the music. (6) The acoustic setting moves outdoors. A dense layer of background chatter and distant cheering from a crowd is heard. Rhythmic, metallic gong strikes occur at regular intervals. (7) The BGM continues with a warm piano melody. The narrator speaks with higher energy and arousal. Occasional muffled thuds of items being handled punctuate the speech."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Event / Festival"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan",
+          "Yunlin"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Contextual Setup -> Preparation (Buying supplies) -> Execution (Distributing items) -> Emotional Resolution.",
+      "mainPurpose": "The video documents the creator's spontaneous decision to participate in the annual Baishatun Mazu Pilgrimage. It captures the journey from late-night filming to buying 60 portions of breakfast at a convenience store to distribute to tired pilgrims. The core appeal lies in the emotional connection to a significant cultural event and the act of selfless service for the community, ending with a personal prayer for family health.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "While Taisun brand canned congee is shown, it is purchased by the creator at a store to be given away as a charitable act rather than a traditional product placement.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Fast-paced vlog style with consistent Traditional Chinese subtitles and a focus on community/traditional events.",
+      "freeDescribe": "The video effectively utilizes the contrast between the quiet, solitary night start and the bustling, community-focused daytime climax to build a narrative of devotion."
+    }
+  }
+}

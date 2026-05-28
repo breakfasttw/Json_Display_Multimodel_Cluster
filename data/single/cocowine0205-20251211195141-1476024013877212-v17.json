@@ -1,0 +1,176 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 87,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Full body", "Upper body", "Head and shoulders", "Face", "Hands only"],
+        "crowdLevel": ["Duo"],
+        "countingEvidence": "2 main female creators/presenters throughout the video.",
+        "mainCharacterDescription": "Woman A has long dark hair, wearing a black beret, a light-colored vest over a purple long-sleeve shirt. Woman B has short dark hair, wearing a blue beret and a voluminous yellow puffer jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Supermarket / Warehouse Store", "Indoor Home", "Indoor Living Room", "Office / Workplace", "Road / Highway / Parking Area"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video starts in a night parking lot in front of a Costco store with a large lit logo. It transitions to an indoor home setting with a modern living room featuring a brown sofa and white walls. There's a kitchen counter area, a laundry machine area, and an office desk with two monitors and a keyboard. A festive CGI background with fireworks and traditional lanterns is used at the end.",
+        "lightingStyle": ["Night artificial light", "Bright indoor lighting", "Mixed natural and artificial light"],
+        "weather": ["Night clear", "Indoor / not visible"],
+        "season": ["Winter"],
+        "colorTone": ["Natural and bright", "Warm and vibrant"],
+        "visual_filming_and_editing": {
+          "cameraMovement": ["Static", "Handheld", "Zoom in"],
+          "shotSize": ["Medium shot", "Medium close-up", "Close-up", "Medium full shot"],
+          "cameraAngles": ["Eye-level", "High angle"],
+          "editingTechniques": ["Straight cut", "Graphic transition", "Meme-style edit", "Slow motion", "Subtitled social-media edit", "Reaction shot"],
+          "visualRhythm": ["Fast pace"],
+          "takeStructure": ["Compilation / montage sequence"]
+        },
+        "visual_text_overlay": {
+          "density": "High",
+          "textLanguage": ["Traditional Chinese", "English", "Emoji / Symbols"],
+          "isSubtitled": true
+        },
+        "visual_objects_and_brands": {
+          "animalDetect": ["Dog"],
+          "foodsDetect": ["Coffee", "Beverage / juice", "Dairy / yogurt / cheese ", "Milk", "Tea"],
+          "trafficDetect": ["Car", "Shopping cart"],
+          "techDetect": ["Laptop", "Desktop computer / monitor", "Keyboard / mouse", "Smartphone", "Home appliance"],
+          "landmark": ["None"],
+          "brandLogos": ["COSTCO", "LYSOL", "Koh", "Moccona", "WEIDER"],
+          "instrumentsVisible": ["None"]
+        },
+        "visual_narrative_log": "(1) The video opens at night in a Costco parking lot. Two women (A and B) stand in the foreground; Woman B holds a small white dog. A large Costco logo is superimposed at the top. (2) The scene shifts indoors. Woman A holds multiple bottles of Lysol Laundry Sanitizer, showing difficulty carrying them to emphasize their weight. She then demonstrates pouring the blue liquid into a washing machine's detergent tray. (3) Woman B is seen at a kitchen counter. She holds a carton of Koh Coconut Water and a glass jar of Moccona Coffee. She mixes the two with milk into a glass with ice, showing the finished 'Coconut Americano.' (4) Both women appear together holding boxes of Weider Lutein. They show the yellow powder inside a sachet by pouring it onto a small plate. Woman B is then shown working at a desk with dual monitors, taking the supplement. (5) The final phase features both women in front of a festive Chinese New Year CGI background with fireworks and red lanterns, posing with 'eye' gestures.",
+        "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. (2) [Slogan]: 你們知道嗎？ 不出門也能買到好事多 線上買超方便. (3) [Slogan]: 如果只能選三樣 好市多網購你會買什麼？. (4) [Variety]: go home. (5) [Subtitle]: 首先是Lysol來舒. [Slogan]: 衣物抗菌液 1.21公升 3入. (6) [Subtitle]: 洗潔劑非常重. [Slogan]: 網購直送到家超輕鬆！. (7) [Subtitle]: 如果有寶寶、毛小孩. (8) [Subtitle]: 還有愛弄髒的大人. [Variety]: 怪人. (9) [Subtitle]: 洗衣服時加一杯 倒入柔軟精的洗劑槽. (10) [Subtitle]: 溫和除菌 不傷衣料真安心. (11) [Subtitle]: 飲料類我會推薦 椰子水或骨灰罈咖啡. (12) [Slogan]: Koh純椰子汁 1公升 x 6入 $459. [Subtitle]: 價格實在之外 椰子水味道自然就像現剖. (13) [Variety]: 就像現剖. (14) [Slogan]: Moccona 中烘焙即溶咖啡粉 400公克. [Subtitle]: 咖啡依造個人口味 調濃調淡 加上鮮奶 調成拿鐵超讚. (15) [Subtitle]: 最重要是兩個相加. (16) [Slogan]: 調成為『冰椰美式』 你一定要試試看. (17) [Subtitle]: 第三樣. [Slogan]: 威德適立佳葉黃素. (18) [Subtitle]: 家中常備真的很安心 一盒有60入 小巧又方便攜帶. (19) [Slogan]: 細田顆粒粉包設計. [Subtitle]: 不喜歡吞膠囊的朋友們有福了 老人小孩超友善. (20) [Subtitle]: 吃起來香甜莓果味 真的超好吃. (21) [Subtitle]: 長時間用眼前 別忘了照顧好自己的雙眼. (22) [Slogan]: 游離型小分子好吸收. [Subtitle]: 並且選用. [Slogan]: 全美最多醫師推薦的專利葉黃素. (23) [Subtitle]: 添加植物性的Omega3 以及明亮草、山桑子. (24) [Slogan]: 眼睛健康更升級. (25) [Subtitle]: 不論是手機電腦不離手的你 認真讀書的孩子們 以及最親愛的家人長輩們. (26) [Slogan]: 這是很棒的選擇！. (27) [Subtitle]: 最重要是奶素也可以吃喔！. (28) [Slogan]: 這世界很美 葉黃素守護視力 給全家人最好的保護！"
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Friendly", "Animated/Excited", "Professional/Narrative"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Acoustic/Folk", "Pop"],
+        "tempoBPM": 128,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": ["String", "Percussion"],
+        "instrumentsAudible": ["Guitar", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["None"],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": ["StudioSilence"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["None"],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": ["Whoosh / Transition SFX", "Pop / Bubble SFX", "Ding / Bell SFX", "Digital UI SFX"],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut", "Fades"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": ["Studio"]
+      },
+      "audio_narrative_log": "(1) The audio begins with an upbeat acoustic guitar melody and high-energy female Chinese dialogue. A sharp 'Pop' SFX triggers as the main topic is introduced. (2) A 'Whoosh' SFX marks the transition as the speaker describes Lysol sanitizer with rapid, excited speech. The background music remains consistent with a steady percussive beat. (3) A bubbly 'Pop' SFX occurs as the scene changes to the beverage section. The vocal tone is persuasive and cheerful. Sounds of liquid pouring are subtly layered under the speech and music. (4) A 'Ding' SFX introduces the third product, Lutein. The dialogue becomes more informative but maintains high arousal. Subtle digital 'click' SFX are heard as the visuals show computer use. (5) The music swells slightly as the speakers deliver a final enthusiastic recommendation and holiday blessing. The audio remains clean with studio-quality clarity and high signal-to-noise ratio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Promotion / Advertisement / Indoresment", "Shopping", "Product Showcase"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["None"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Item 1 (Household) -> Item 2 (F&B) -> Item 3 (Health) -> Closing/CTA.",
+      "mainPurpose": "The video is a promotional endorsement for Costco's online shopping platform. The creators recommend three specific products (laundry sanitizer, coconut water/coffee, and eye health supplements) to demonstrate the convenience of having heavy or essential items delivered directly to the home, targeting families and busy professionals.",
+      "visualEmotion": ["energetic", "informative", "warm"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": ["Explicit", "Full"],
+      "endorsementCues": "Direct presentation of branded products with price information and usage instructions, while explicitly mentioning online shopping benefits.",
+      "endorsementObject": ["COSTCO", "LYSOL", "Koh", "Moccona", "WEIDER"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy duo presentation style; frequent use of variety-show style large text overlays; recurring white dog as a mascot.",
+      "freeDescribe": "The video uses typical social-native editing with fast cuts and sound effects to maintain high viewer engagement. The transition from real-world locations to a festive CGI background at the end suggests it was produced for the Chinese New Year period."
+    }
+  }
+}

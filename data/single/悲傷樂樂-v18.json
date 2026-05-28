@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 18.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video is a 3D animated clip from Inside Out 2. Joy, a character with glowing yellow skin and short blue hair, wears a lime green patterned dress. She looks down with a deeply sorrowful and anxious expression, holding a bundle of glowing blue memory threads. The lighting is dark with a blue bioluminescent glow around the character. (2) Disgust, a green-skinned character with green hair and a purple scarf, is shown in a medium shot. She stands amidst a sea of colorful, translucent memory orbs. Her face shows worry and distress, with furrowed brows and a slightly open mouth. (3) The shot returns to Joy in a medium close-up. She looks up with watery, sad eyes, her mouth trembling slightly. She then looks back down, appearing defeated and melancholy. The background is a dark, abstract void that shifts between purple and deep blue hues.",
+      "text_narrative_log": "(1) [Subtitle]: I don't know. 我不知道. [Logo]: Meowsmos @vedicmastery. (2) [Subtitle]: how to stop anxiety. 該怎麼停止焦慮. (3) [Subtitle]: Maybe we can't. 或許我們無法. (4) [Subtitle]: Maybe this is what happens 或許這就是長大後的模樣. (5) [Subtitle]: when you grow up. 或許這就是長大後的模樣. (6) [Subtitle]: You feel 你感受到的快樂變少了. (7) [Subtitle]: less joy. 你感受到的快樂變少了.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Head and shoulders", "Upper body"],
+        "crowdLevel": ["None"],
+        "countingEvidence": "Two animated characters: Joy and Disgust.",
+        "mainCharacterDescription": "Joy has yellow skin, blue hair, and a green dress; Disgust has green skin and hair with a purple scarf."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Animation / Graphic Background"],
+        "locationTopography": ["None"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A dark, abstract interior space representing the mind, filled with colorful memory orbs in one scene and a dark blue void in others.",
+        "lightingStyle": ["Dim / low light"],
+        "weather": ["Indoor / not visible"],
+        "season": ["Not applicable"],
+        "colorTone": ["Cool tone"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Static"],
+        "shotSize": ["Medium close-up"],
+        "cameraAngles": ["Eye-level"],
+        "editingTechniques": ["Straight cut"],
+        "visualRhythm": ["Slow pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": ["English", "Traditional Chinese"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["None"],
+        "techDetect": ["None"],
+        "landmark": ["None"],
+        "brandLogos": ["None"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 2,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": ["Sad"],
+        "vocalLanguage": ["English"],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Falling"],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 2,
+        "valence": 2,
+        "dominance": 2,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Ballad/Sentimental"],
+        "tempoBPM": 65,
+        "mode": ["Minor / Aeolian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 1,
+        "instrumentFamiliesAudible": ["Keyboard"],
+        "instrumentsAudible": ["Piano"],
+        "musicSourceType": ["Copyrighted/Commercial"],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["None"],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": ["StudioSilence"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["None"],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": ["None"],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Fade out"],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": ["Studio"]
+      },
+      "audio_narrative_log": "(1) A very somber and slow piano melody begins, establishing a mournful and reflective atmosphere. A female voice speaks with a soft, breathy, and highly melancholic tone: 'I don't know.' The voice has low intensity and a falling intonation. (2) The piano continues as the female voice adds more vocal tension and a slight tremor: 'I don't know how to stop anxiety.' The speech rate is slow, with high clarity and a sense of resignation. (3) The piano accompaniment becomes more sparse as the voice enters a final, even softer phase. With long, heavy pauses, she says: 'Maybe we can't... Maybe this is what happens when you grow up. You feel... less joy.' The audio ends with the fading notes of the piano, conveying deep sadness."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Animation"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["None"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 6.1,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Reflection -> Conclusion",
+      "mainPurpose": "The video aims to evoke deep emotional resonance and empathy by showcasing a poignant moment of vulnerability and existential sadness from the movie 'Inside Out 2'. It highlights the difficult realization that growing up often entails a decrease in pure joy and an increase in complex, uncontrollable emotions like anxiety.",
+      "visualEmotion": ["Sad", "Tense", "Melancholy"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "freeDescribe": "The video uses a combination of slow pacing, somber piano music, and emotive character animation to create a highly relatable 'sad-core' aesthetic commonly found in short-form social media content."
+  }
+}

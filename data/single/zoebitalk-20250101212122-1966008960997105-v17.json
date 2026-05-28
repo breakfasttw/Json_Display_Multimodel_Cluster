@@ -1,0 +1,288 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 main male companion, and approximately 4 other tourists visible in the background shots.",
+        "mainCharacterDescription": "The main female character has long, straight black hair and is wearing a light blue cable-knit sweater with black trousers and black boots. The male companion wears a blue hooded jacket and dark pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor scenic park featuring rows of bald cypress trees with vibrant orange and red foliage, shallow ponds with stone stepping paths, green farm fields in the distance, and decorative installations like a large red frame.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Drone / aerial view",
+          "Walking handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Wide shot",
+          "Medium shot",
+          "Medium close-up",
+          "Extreme long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      },
+      "visual_narrative_log": "(1) This live-action video begins with a woman with long black hair, wearing a light blue textured knit sweater and black pants, walking away from the camera through a park. She joyfully stretches her arms out wide as she approaches a line of orange-colored trees. The lighting is bright and natural, casting soft shadows on the ground near a water feature with concrete blocks. (2) Transition to sweeping aerial drone footage of the 'Yulin Bald Cypress' attraction. The scene displays rows of tall trees in varying shades of yellow, orange, and red, interspersed with clear ponds reflecting the sky. Small groups of visitors are scattered throughout the paths. The background shows a flat landscape with green fields and distant infrastructure under a clear, sunny sky. (3) The main character is seen balancing carefully while walking across round, light-gray stone stepping paths situated in the middle of a shallow pond. Her black boots are visible as she moves. The surrounding trees are densely packed with autumnal foliage, and the water is still, creating a serene and picturesque outdoor environment with high-contrast cinematic lighting. (4) The camera follows the woman from behind as she strolls down a wide dirt path lined with golden-brown trees. The sun is positioned high, creating a warm glow that illuminates the setting. She moves with a relaxed gait, occasionally looking at the scenery. In the distance, another visitor in purple clothing can be seen sitting on a bench. (5) The woman turns around to face the camera, flashing a wide, joyful smile. Her facial features are clear, showing high arousal and happiness. She stands in front of a decorative large red square frame set against a backdrop of green hills and lush grass. The editing uses a jump cut to maintain a fast, energetic pace. (6) Series of insert shots highlight the texture and vibrant colors of the bald cypress needles, which are a mix of yellow and deep orange. The camera then pans to a wide view of a cultivated farm field with rows of green sprouts, bordered by the colorful grove. The lighting remains bright and consistent with a warm color tone. (7) The woman is joined by her boyfriend, who wears a blue hooded jacket. They are both on the stone path in the water. She points playfully at something off-camera while he holds a smartphone. Their interaction is casual and cheerful, set against the backdrop of the orange trees and the clear blue sky. (8) The video concludes with another expansive drone shot of the entire park area. The intricate layout of the ponds and the clusters of trees are viewed from a high altitude. The surrounding urban and rural mix of Taichung is visible in the distance, including a large bridge structure, under a hazy but bright horizon.",
+      "text_narrative_log": "(1) [Subtitle]: 跟男友賞落羽松. [Subtitle]: ENJOY THE BALD CYPRESS IN WINTER. (2) [Subtitle]: 這是我跟祥狗狗第一次來. (3) [Subtitle]: 順路經過就來看一下. (4) [Subtitle]: 走吧! (5) [Slogan]: 台中 羽粼落羽松. [Subtitle]: 現在已經正紅了耶~ (6) [Subtitle]: 當季! (7) [Variety]: (好多可愛造景!!) (8) [Subtitle]: 覺得顏色滿漂亮的. (9) [Subtitle]: 因為有陽光吧! (10) [Variety]: (北部天氣真是謝囉qq) [Subtitle]: 太久沒看到陽光了我們. (11) [Variety]: (美麗紅吱吱🥰🥰) (12) [Subtitle]: 小橋流水(?) (13) [Subtitle]: 下去! 小橋流水!"
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "Unknown"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Fade out"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful young female voice with a high pitch and moderate speech rate introduces the trip. The vocal tone is animated and friendly. Accompanying the speech is an upbeat, mid-tempo acoustic pop BGM featuring a bright acoustic guitar and light percussion. The audio is extremely clean with a high signal-to-noise ratio. (2) The female voice continues with a rising intonation and increased volume, expressing admiration for the red trees. The BGM maintains a steady, rhythmic presence in the background. The spectral brightness is high, emphasizing the sharp transients of the guitar strings and the clear phonemes of the speaker. No ambient noise is detectable. (3) A secondary male voice enters briefly with a deeper, low-pitched timbre and a casual delivery style to emphasize the peak season. This creates a duo vocal texture. The BGM remains continuous without any structural pauses. The intensity of the speech is moderate conversational loudness, balanced with the background musical bed. (4) The audio transitions into a short instrumental segment where the BGM becomes the dominant signal. The music exhibits a major key tonality and a gentle but steady beat. The acoustic dynamism is moderate as the guitar melody fluctuates. The overall loudness is consistent, showing a compressed broadcast-style dynamic range. (5) Dialogue resumes as the female and male voices discuss the pleasant sunlight. The female voice has a breathy, excited quality with high pitch variability. The speech rate is natural. The background music continues at a lower volume, providing a warm emotional vibe. The harmonics-to-noise ratio is excellent. (6) Another instrumental-heavy phase follows, featuring the upbeat guitar-led track. The music has a simple, looping harmonic structure with low tension. The spectral weight is balanced, providing a warm and inviting atmosphere. There is no crowd chatter or ambient noise floor audible, indicating a clean post-production mix. (7) The female voice returns with a playful, teasing tone and high arousal, joking about the bridge scenery. Her speech is enunciated and clear, with a noticeable rising-falling intonation contour. The male voice can be heard laughing softly. The BGM remains constant, supporting the lighthearted and humorous vocal mood. (8) The video ends with a musical outro as the BGM volume increases slightly before a smooth fade-out. The instrumental textures remain bright and sharp. The overall audio quality is professional, characterized by a high signal-to-noise ratio and an absence of any incidental noises like thuds or rustles throughout the duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.58,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Location Introduction -> Environmental Experience -> Playful Interaction -> Conclusion",
+      "mainPurpose": "The video is a travel vlog documenting a visit to a scenic park in Taichung. It aims to share the visual beauty of the bald cypress trees turning red in winter and captures the joyful experience of the couple. The use of high-quality aerial shots and energetic narration promotes the location as a must-visit seasonal attraction.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy female narration, interactive couple dynamic, heavy use of aesthetic drone footage combined with colorful variety-style text overlays.",
+      "freeDescribe": "The video follows typical high-production short-form travel content trends, focusing on 'Instagrammable' spots and cheerful, relatable storytelling."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 124.3,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A large group of teenage students, both male and female, are gathered in a brightly lit school hallway with blue lockers and tiled floors. They are wearing uniforms: white short-sleeved shirts and dark skirts or trousers. The students are arranged in rows and perform a synchronized body percussion routine, stomping their feet twice and clapping their hands once in a steady rhythm. Their facial expressions are energetic and focused, with many smiling as they coordinate their movements. (2) The scene cuts to a classroom setting where a smaller group of uniformed students continues the same rhythmic stomping and clapping. Wooden desks and chairs are visible in the background, along with educational posters on the walls. The lighting is bright and even, typical of an indoor school environment. The camera uses a medium-full shot to capture the students' upper bodies and hand movements clearly. (3) The performance transitions to a large auditorium or stage with a dark wooden floor and professional stage lighting. A massive crowd of students fills the stage, performing the same synchronized rhythm in unison. The camera angle shifts to a high angle and panning shots to showcase the scale of the group. The background features stage curtains and technical equipment. (4) Close-up shots focus on the specific hand claps and the synchronized stomping of feet on the wooden floor. The camera captures the texture of the shoes hitting the wood and the blur of hands moving rapidly. The students' movements are high-energy, with some raising their arms into the air during the claps. (5) The video concludes with a wide shot of the entire group on stage. All students raise their hands and cheer together, breaking the rhythmic routine. The lighting remains bright, and the setting is a large, crowded hall filled with the performers. The overall visual style is cinematic yet documentary-like, capturing a live event.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 45,
+        "maleDetectAmount": 20,
+        "femaleDetectAmount": 25,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": ["Full body"],
+        "crowdLevel": ["Crowd"],
+        "countingEvidence": "A large group of at least 45 students in school uniforms performing on stage and in hallways.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Classroom / School", "Stage / Performance Venue"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The background shifts between a school hallway with blue lockers, a standard classroom with desks and posters, and a large auditorium stage with wooden flooring and curtains.",
+        "lightingStyle": ["Bright indoor lighting", "Bright studio lighting"],
+        "weather": ["Indoor / not visible"],
+        "season": ["Not visually inferable"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Panning", "Static", "Handheld"],
+        "shotSize": ["Full shot", "Medium shot", "Close-up", "Long shot"],
+        "cameraAngles": ["Eye-level", "High angle", "Low angle"],
+        "editingTechniques": ["Straight cut", "Fast cuts", "Montage"],
+        "visualRhythm": ["Rhythm matched to music"],
+        "takeStructure": ["Compilation / montage sequence"]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": ["None"],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["None"],
+        "trafficDetect": ["None"],
+        "techDetect": ["Lighting equipment / ring light"],
+        "landmark": ["None"],
+        "brandLogos": ["None"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 30,
+        "male_vocal_count": 15,
+        "female_vocal_count": 15,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Animated/Excited"],
+        "vocalLanguage": ["English"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Rock/Metal"],
+        "tempoBPM": 81,
+        "mode": ["Major / Ionian"],
+        "keySignature": ["Unknown"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["English"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": ["Percussion", "Electronic"],
+        "instrumentsAudible": ["Drum Kit / Drum Set", "Electric Guitar"],
+        "musicSourceType": ["Copyrighted/Commercial"],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Cheering", "Applause", "Laughter"],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": ["Indoor/RoomTone"],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": ["Footsteps", "Object Impact / Thud / Drop"],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["None"],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": ["Studio"]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a series of heavy, rhythmic percussive thuds followed by sharp claps, creating a steady stomp-stomp-clap pattern. The environment has a noticeable indoor resonance, indicating a large enclosed space. There is no BGM at the very beginning, allowing the physical impacts to dominate the mix. (2) A sharp, high-pitched vocal shout from a group of male and female voices erupts in unison with the beat, marking a transition in arousal. The chanting is rhythmic and punchy. A rock-style music track (Queen's 'We Will Rock You') enters, featuring a steady bass drum and later, distorted electric guitar riffs. The BGM tempo is roughly 81 BPM, perfectly synchronized with the live percussive sounds. (3) A distinct transient sound of many feet stomping on a wooden stage triggers a change in acoustic texture, adding a hollow, resonant quality to the lower frequencies. The crowd's vocal energy increases, with multiple layers of chanting and cheering overlapping with the professional lead male vocals of the BGM. (4) The audio concludes with a sudden cessation of the rhythmic beat, followed by an explosion of loud cheering, whistling, and clapping from the crowd. The noise floor remains high as the collective human voices saturate the upper-mid frequencies before fading out. The mix maintains high clarity throughout, blending live capture and studio music seamlessly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Music / Performance / MV", "Lifestyle"],
+      "location": {
+        "country": ["Unknown"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 6.9,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Performance Intro -> Escalating Group Participation -> Grand Finale/Cheer",
+      "mainPurpose": "To showcase a large-scale, highly synchronized school spirit performance using body percussion to the iconic rhythm of 'We Will Rock You.' It highlights unity, coordination, and youth energy.",
+      "visualEmotion": ["energetic", "warm", "joyful"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "freeDescribe": "The video effectively uses a well-known musical hook to unify a large group of performers, creating a high-energy, infectious atmosphere."
+  }
+}

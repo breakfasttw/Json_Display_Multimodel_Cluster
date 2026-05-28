@@ -1,0 +1,290 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 89.2,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins at night on an urban street corner. A young man with dark hair, wearing a black face mask and a black oversized hoodie with a white cross detail, stands on the sidewalk. He holds a pack of wet wipes in both hands, looking down at them while talking. Behind him, a green traffic light glows against the dark sky, and a white car is parked nearby. (2) The scene shifts to an indoor shrimp fishing facility. The walls are brightly decorated with green and yellow geometric patterns. The man is now seated on a white plastic chair beside a large rectangular pond filled with dark water. He gestures toward a white fishing rod with his hands while looking directly at the camera. A brief animated image of a female anime character with a pink bow appears as an overlay. (3) A staff member wearing a red polo shirt and jeans walks past the pond carrying a white bucket, presumably to restock shrimp. The main character continues his commentary, pointing toward his fishing line in the water. Other patrons are visible sitting along the pond edge in the background. (4) The man pulls his fishing rod upward, successfully catching a grey shrimp that dangles from the hook. He brings the shrimp close to the camera for a close-up view. He smiles behind his mask and uses his hands to point at the catch. (5) The man crouches on the stone-tiled ledge of the pond. He points into the water at a shrimp swimming near the surface. He then reaches into the water with his bare right hand and successfully grabs the shrimp by its long antennae, lifting it out to show the camera. A young girl in a purple coat stands nearby, watching him. (6) He stands up, triumphantly holding the live shrimp by its whiskers, moving it toward the lens before the video cuts to a black screen.",
+      "text_narrative_log": "(1) [Subtitle]: 老闆帶我來這裡幹嘛. (2) [Subtitle]: 帶你來釣蝦啊 幹嘛 沒釣過蝦喔. (3) [Subtitle]: 你還會釣蝦喔 我以為你只會戴口罩. (4) [Subtitle]: 大家也要知道一件事 黃帝我是個釣蝦高手好不好. (5) [Subtitle]: 你看我的釣竿 我的馬上坐下來就已經在吃了. (6) [Subtitle]: 來 我現在直接拉起來. (7) [Subtitle]: OK 我先示範一下釣不到的樣子. (8) [Subtitle]: 他要丟蝦子了 他丟蝦子的瞬間 我就馬上把竿子放過去 我就會中 來 他來了. (9) [Subtitle]: 來放 哎呀 釣蝦高手的經驗告訴你 等一下喔 就馬上由那個蝦子吃我的餌. (10) [Subtitle]: 來喔 感覺來囉 一次兩隻喔 兩隻的話這支影片 我送出$1000現金 你看你看 我的就在吃了. (11) [Subtitle]: 這個時候拉才是真的會上鉤 來 帶一下鏡頭 來喔 看 我說了 我是釣蝦高手 我厲不厲害 厲害嗎 我厲害嗎. (12) [Subtitle]: OK 各位 這裡有一隻蝦子 有看到嗎 幫我tag一下 有一隻蝦子浮在那邊 來 我徒手把他抓起來. (13) [Subtitle]: 哈哈 我就說我是釣蝦高手唄 我直接抓他觸鬚啊 釣蝦高手 不要跑 不要跑 跑走了.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 female voice off-camera, 1 male staff in red, 1 child in purple, and at least 4 other male patrons in the background.",
+        "mainCharacterDescription": "A young male with short dark hair, wearing a black disposable face mask and a black oversized hoodie with a small white cross emblem."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video starts on a city street at night with traffic lights and parked cars. It then moves to an indoor shrimp fishing pond with bright green/yellow walls, rows of white plastic chairs, and claw machine games in the background.",
+        "lightingStyle": [
+          "Night artificial light",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Fish / seafood animal"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "Unknown"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Object Impact / Thud / Drop",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a bright high-pitched pop sound effect. A young male voice speaks in Traditional Chinese with an inquisitive tone, followed by a female voice responding. A high-energy electronic pop BGM with a synthesized beat starts immediately. (2) A sharp 'whoosh' transition sound occurs. The male voice resumes, now in a more resonant, broadcast-like quality, confidently boasting about his fishing skills. The BGM maintains a steady, upbeat tempo in the background. (3) A comic 'boing' sound effect plays as the speaker makes a joke. This is followed by a digital 'ding' sound for emphasis. Low-level ambient noise of a public space and water splashing is audible under the dialogue. (4) A rapid sequence of comic sound effects (pings and bubbles) punctuates the speaker's excitement as he describes the fishing process. The rhythmic electronic beat of the BGM remains dominant. (5) A 'magic sparkle' SFX plays as the shrimp is caught. The male narrator's pitch rises in excitement. (6) Another splash sound and a short bubble SFX trigger a new phase. The narrator whispers conspiratorially before catching the shrimp by hand. The video ends with a final celebratory chime SFX."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Challenge -> Demonstration -> Surprise Ending.",
+      "mainPurpose": "The video is a comedic vlog intended to entertain viewers by showcasing the creator's self-proclaimed expertise in shrimp fishing. It starts with a humorous premise of being 'taken' to a pond, followed by a series of confident claims and successful demonstrations of both rod-fishing and hand-catching, supported by high-energy editing and meme-style sound effects.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "No specific brand promotion detected; the setting appears to be a generic entertainment venue.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes classic social media editing tropes, including fast cuts, vibrant subtitles, and cartoonish SFX to maintain high engagement."
+  }
+}

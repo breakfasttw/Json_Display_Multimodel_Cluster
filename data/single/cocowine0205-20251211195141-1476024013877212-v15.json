@@ -1,0 +1,294 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 85.34,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens at night in front of a large, brightly lit Costco Wholesale warehouse. Two women stand side-by-side; the woman on the left wears a black beret and a light-colored coat, while the woman on the right wears a blue beret and a bright yellow puffer jacket, cradling a small white dog in her arms. Large text overlays and the Costco logo appear at the top. (2) The scene shifts indoors to a living room setting. The woman in the black beret holds a large white bottle of Lysol laundry sanitizer, later struggling to carry three bottles at once to emphasize weight. A comedic cut shows a person lying face-down on the floor near a dog crate filled with plush toys. (3) The woman in the yellow jacket is then seen in a kitchen environment. She presents a carton of Koh coconut water and a jar of Moccona instant coffee. She demonstrates pouring the coconut water into a glass and mixing in the coffee, showing the resulting layered beverage with a blue straw. (4) Both women appear together again, holding yellow boxes of Weider Ocular Lutein. They display the individual powder packets and demonstrate eating the powder directly. The scene includes shots of the powder being poured onto a plate to show its fine, pinkish texture, and a person using multiple electronic devices simultaneously to illustrate eye strain. (5) The final segment features the two women in front of a vibrant, digital background depicting a traditional Asian festival scene with red lanterns and fireworks. They make heart shapes with their hands and gesture enthusiastically toward the camera.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 你們知道嗎? [Slogan]: 不出門也能買到好事多. [Variety]: 線上買超方便. (2) [Slogan]: 如果只能選三樣 好市多網購 你會買什麼? [Variety]: go home. (3) [Subtitle]: 首先是Lysol來舒. [Slogan]: 衣物抗菌液 1.21公升 3入. [Variety]: 洗潔劑非常重 網購直送到家 超輕鬆!. [Subtitle]: 如果有寶寶、毛小孩 還有愛弄髒的大人 洗衣服時加一杯 倒入柔軟精的洗劑槽. (4) [Variety]: 溫和除菌 不傷衣料真安心. (5) [Subtitle]: 飲料類我會推薦 椰子水或骨灰罈咖啡. [Slogan]: Koh純椰子汁 1公升 X 6入 $459. [Variety]: 價格實在之外. (6) [Variety]: 就像現剖. (7) [Slogan]: Moccona 中烘焙即溶咖啡粉 400公克. [Variety]: 咖啡依個人口味 調濃調淡 加上鮮奶 調成拿鐵超讚. (8) [Slogan]: 最重要是 兩個相加 調成為 『冰椰美式』. [Variety]: 你一定要試試看. (9) [Subtitle]: 第三樣. [Logo]: WEIDER. [Slogan]: 威德適立佳 葉黃素. [Variety]: 家中常備 真的很安心 一盒有 60入 小巧又方便攜帶. (10) [Variety]: 細田顆粒 粉包設計. [Variety]: 不喜歡吞膠囊的朋友們有福了 老人小孩超友善. (11) [Variety]: 吃起來香甜莓果味 真的超好吃. (12) [Subtitle]: 長時間用眼前 別忘了照顧好自己的雙眼. (13) [Slogan]: 游離型 小分子好吸收 並且選用 全美最多醫師推薦的專利葉黃素. (14) [Variety]: 添加植物性的Omega3 以及明亮草、山桑子 眼睛健康 更升級. (15) [Subtitle]: 不論是手機電腦 不離手的你 認真讀書的孩子們 以及最親愛的家人長輩們 這是很棒的選擇! 最重要是 奶素也可以吃喔!. (16) [Slogan]: 這世界很美 葉黃素守護視力 給全家人最好的保護!.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two main female presenters appearing throughout the video.",
+        "mainCharacterDescription": "Woman 1: Long dark hair, wearing a black beret, beige fuzzy coat over a light-colored dress. Woman 2: Dark hair with bangs, wearing a blue beret and a bright yellow puffer jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts outside a Costco warehouse at night with cars in the parking lot. Moves to a cozy indoor living room with a brown leather sofa, and a clean kitchen with a white countertop.",
+        "lightingStyle": [
+          "Night artificial light",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Night clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Coffee",
+          "Beverage / juice",
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "Costco"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Lysol",
+          "Koh",
+          "Moccona",
+          "WEIDER"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) The audio begins with a high-energy, fast-paced female voice greeting the audience in Mandarin. The background music is an upbeat, modern electronic-pop track with a tempo of approximately 124 BPM. A series of 'pop' and 'whoosh' digital sound effects coincide with the appearance of on-screen text. (2) As the first product is introduced, the vocal tone remains enthusiastic and informative. The sound of a heavy plastic bottle being set down is audible, followed by a comical 'slide' sound effect during the gag scene. The music continues at a consistent volume. (3) A second female voice enters, maintaining a similar high-pitched and cheery prosody. Distinct 'liquid pouring' and 'stirring' sound effects are mixed in as the beverage is prepared. Short 'ding' and 'sparkle' SFX highlight promotional text. (4) Both voices interact, creating a more dynamic dialogue. The sound of a foil packet being torn open is crisp and clear. The acoustic environment is consistent with a clean, studio-processed indoor recording. (5) The final phase features a crescendo in the BGM volume accompanied by digital 'celebratory' sound effects like bells and synthesized firework bursts. Both women speak in unison for the sign-off, with high emotional arousal and positive valence.",
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "digitalUI_SFX",
+          "whooshSFX",
+          "liquidFluidSFX",
+          "frictionRustleSFX"
+        ],
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "SignalToNoiseRatio": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Shopping",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.56,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Category 1 (Cleaning) -> Category 2 (Beverage) -> Category 3 (Supplement) -> Outro",
+      "mainPurpose": "The video promotes Costco's online shopping service in Taiwan by highlighting three specific products (Lysol, Koh/Moccona, Weider) that are convenient to buy online and deliver to home. It uses an energetic, fast-paced influencer style to appeal to busy households and tech-savvy consumers.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Direct display of products, mention of prices/discounts, and a clear call to buy from Costco online.",
+      "endorsementObject": [
+        "Costco",
+        "Lysol",
+        "Koh",
+        "Moccona",
+        "WEIDER"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-density Traditional Chinese text overlays with emoji accents, fast-cut editing rhythm, and high-pitched energetic narration characteristic of Taiwanese 'Liaobao' (product recommendation) videos.",
+      "freeDescribe": "The video effectively utilizes cross-promotion by linking specific popular brands found within the Costco warehouse ecosystem to drive traffic to their e-commerce platform."
+    }
+  }
+}

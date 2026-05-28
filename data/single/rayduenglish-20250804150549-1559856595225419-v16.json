@@ -1,0 +1,175 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 53,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with black hair, round glasses, a white t-shirt, and a dark brown open jacket is walking along a sidewalk lined with large trees in bright daylight. He looks directly at the camera, gesturing with his right hand as he speaks. The background features a green park area and a road with parked cars. (2) An rectangular graphic overlay appears, showing a YouTube thumbnail with two men eating. The man in the jacket points his index finger toward the graphic while maintaining eye contact with the camera and an expressive facial expression. (3) The man stands in front of a building with a 'FOOD COURT' sign and a 7-Eleven logo visible. He uses his fingers to count, holding up his hand in a gesture. The lighting is bright and natural, indicating an outdoor campus environment. (4) The scene shifts to the exterior of 'FJU Food Store.' The man stands next to a large, human-sized plastic soft-serve ice cream cone statue. He gestures towards the store entrance, which has wooden paneling and glass doors. (5) A close-up shot shows a person's hands operating a silver soft-serve machine. Chocolate and vanilla swirled ice cream is being dispensed into a wafer cone held by a hand. The focus is tightly on the movement of the ice cream and the mechanical nozzle. (6) The man walks across a brightly painted yellow and white zebra crossing on a campus road. He turns back to the camera, pointing at a modern grey multi-story building in the distance under a clear sky. (7) A group of three young women in casual student attire (sweatshirts, skirts) join the man. He poses in the center, holding a phone for a selfie and making a 'V' sign with his fingers. They are standing in front of a concrete building with large windows. (8) The man stands alone on the tree-lined path again. He points both index fingers directly at the lens, leaning in slightly with an assertive and playful facial expression as the video concludes.",
+      "text_narrative_log": "(1) [Subtitle]: 欸你有沒有看過那個. (2) [Slogan]: Joeman跟博恩的台大學餐. (3) [Logo]: 臺大學餐對決... 39:45. (4) [Subtitle]: 有啊有啊. [Variety]: 噁心. [Variety]: 男為情. (5) [Subtitle]: 可是人家有一百萬觀看耶. [Subtitle]: 不是啊對啊. [Variety]: 為什麼沒有邀我. (6) [Slogan]: 輔大學餐 (引戰發言). [Subtitle]: 輔大學餐比較好吃啊. (7) [Subtitle]: 我們輔大呢是有四大園區. [Slogan]: 心園 仁園 文園 還有一個理園. (8) [Slogan]: (畢業超過1X年). [Subtitle]: 在我們那個年代有波蘿麵包 鬆餅 冰淇淋. (9) [Logo]: FJU Food Store. [Subtitle]: 現在這邊有一整個店面. (10) [Variety]: 吃冰時間. (11) [Subtitle]: 綜合冰淇淋 這樣四十塊. (12) [Slogan]: (老屁股逛校園). [Subtitle]: 原來像這一整棟就是新的 從來沒有看過. (13) [Slogan]: 外語大樓也翻新了. [Variety]: SURPRISE. (14) [Subtitle]: 而且我跟你講這裡... [Variety]: 學妹超多. (15) [Variety]: (這個男的欠燒欸). [Subtitle]: 怎麼樣 Joeman 聯絡我 輔大學餐 等你喔",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": ["Full body", "Upper body", "Head and shoulders", "Face", "Hands only"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "1 main male character (Eko), 3 female students posing for a photo, 1 female staff member's hands at the ice cream machine, and 1 passerby in the distant background.",
+        "mainCharacterDescription": "A male influencer with short black hair and round spectacles, wearing a crisp white t-shirt under a dark brown utility-style button-up jacket and khaki trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Classroom / School", "Outdoor Street", "Park / Garden", "Restaurant / Dining"],
+        "locationTopography": ["Plain / Flat Urban", "Park / Green Space"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video is filmed at Fu Jen Catholic University, featuring tree-lined campus paths, university cafeteria entrances, a 7-Eleven storefront, the FJU Food Store, and modern academic buildings like the Foreign Language building.",
+        "lightingStyle": ["Natural daylight"],
+        "weather": ["Sunny / Clear"],
+        "season": ["Spring / Summer"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Walking handheld", "Selfie handheld", "Static"],
+        "shotSize": ["Medium shot", "Medium close-up", "Close-up", "Insert shot"],
+        "cameraAngles": ["Eye-level", "Selfie perspective"],
+        "editingTechniques": ["Jump cut", "Straight cut", "Subtitled social-media edit", "Meme-style edit"],
+        "visualRhythm": ["Fast pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": ["Traditional Chinese", "English", "Emoji / Symbols"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["None"],
+        "foodsDetect": ["Dessert / cake / cookies", "Prepared meal / plated dish"],
+        "trafficDetect": ["Car"],
+        "techDetect": ["Smartphone"],
+        "landmark": ["None"],
+        "brandLogos": ["7-Eleven", "FJU Food Store"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A high-pitched, energetic male voice speaks rapidly with clear articulation. The background music is an upbeat, funky electronic track with a prominent bassline and a steady tempo of approximately 115 BPM. The vocal delivery is conversational yet performative. (2) A sharp 'Whoosh' transition SFX occurs as the speaker mocks a video thumbnail. His vocal pitch increases, showing high arousal and a teasing, comedic tone. The BGM maintains a consistent volume floor beneath the primary speech. (3) A series of bright, digital 'Ding' or chime SFX punctuate the audio as the speaker lists different campus cafeterias. The vocal pace remains high with short, rhythmic pauses between items. Background urban ambiance is minimal. (4) A mechanical whirring and liquid-dispensing sound with a mid-frequency bandwidth is audible as ice cream is served. The speaker's voice is absent during this short sequence, allowing the incidental noise to take prominence for a moment. (5) The speaker returns with a bright, enthusiastic tone. A sudden 'Ta-da' or 'Surprise' orchestral stinger SFX plays loudly, followed by faint sounds of female laughter and outdoor crowd chatter in the background layer. (6) A sharp, percussive 'Click' sound resembling a camera shutter occurs. The BGM swells slightly in volume during this transition. The main speaker continues to deliver speech with high dominance and confidence. (7) The video concludes with the speaker delivering a direct challenge. His voice is projected and authoritative. The BGM abruptly stops with a quick fade-out, ending the audio track on a high-arousal vocal note.",
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Comedic/Exaggerated", "Animated/Excited", "Sarcastic/Teasing", "Friendly"],
+        "vocalLanguage": ["Traditional Chinese"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": ["Complex"],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Electronic/EDM", "Pop"],
+        "tempoBPM": 115,
+        "mode": ["Major"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": ["None"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": ["Electronic", "Synthesizer", "Percussion"],
+        "instrumentsAudible": ["Electronic Keyboard / Synthesizer", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free"],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Laughter", "Chatter"],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": ["Nature/Outdoor", "StudioSilence"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Mechanical Click / Latch", "Liquid Pour / Splash", "Camera Shutter / Camera Operation"],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["Whoosh / Transition SFX", "Ding / Bell SFX", "Cartoon / Comedy SFX", "Stinger SFX"],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Hard cut", "Fade out", "Stingers"],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": ["Mixed"]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Comedy", "Lifestyle", "Vlog", "Storytelling", "Short Video"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["New Taipei City"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.78,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Evidence -> Demonstration -> Challenge",
+      "mainPurpose": "The creator, an alumnus of Fu Jen Catholic University, is reacting to a viral video by Joeman and Brian Tseng about National Taiwan University's campus food. He playfully critiques their video and then provides a fast-paced tour of his own alma mater's superior food options (like the famous FJU ice cream) and newly renovated facilities. The ultimate goal is to generate engagement by jokingly challenging the major influencer Joeman to collaborate on a 'Fu Jen School Food' episode.",
+      "visualEmotion": ["energetic", "humorous", "informative"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": ["None"],
+      "endorsementCues": "None",
+      "endorsementObject": ["None"]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "The creator (Eko) uses his signature fast-talking theatrical delivery, distinctive round glasses, and the context of his affiliation with the 'AmazingTalker Show' channel. The use of variety-show style '引戰' (starting a fight) captions is a common trope in Taiwanese social media culture.",
+      "freeDescribe": "The video leverages inter-university rivalry and the popularity of established influencers (Joeman, Brian Tseng) to create high-engagement content within the Taiwanese YouTube community."
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 31,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long black hair, dressed in a turquoise open-knit sweater and black pants, stands facing away from the camera. She extends her arms towards a scenic landscape of orange and green bald cypress trees. A small canal with rectangular stepping stones is in the foreground. Large text overlays her figure. (2) High-angle drone footage reveals the extent of the cypress grove. Trees with red, orange, and golden foliage are interspersed with green ones. People walk along paths. In the distance, a grassy field and a road with a bridge are visible under a clear, bright sky. (3) The woman carefully walks across floating concrete stepping stones in a shallow pond. She then transitions to walking down a narrow dirt path flanked by yellow-leaved trees. She glances back at the camera with a cheerful smile. The sunlight creates long shadows on the ground. (4) Close-up shots highlight the intricate, needle-like texture of the bald cypress leaves turning orange and red. The woman is seen twirling near a red cylindrical art installation. A large grey flower pot with dark plants is nearby. (5) The woman balances on concrete blocks in the water, pointing playfully at a man sitting on a large rock. The man wears a blue jacket and looks at a smartphone. The water surface reflects the colorful trees and the bright sky. (6) A wider aerial shot shows the park's layout, featuring the circular pond, winding paths, and the surrounding farmland. The color contrast between the vibrant orange trees and the green fields is sharp.",
+      "text_narrative_log": "(1) [Slogan]: 跟男友 賞落羽松. [Slogan]: ENJOY THE BALD CYPRESS IN WINTER. (2) [Slogan]: 台中 羽驎落羽松. [Subtitle]: 現在已經正紅了耶~. [Variety]: 當季! (3) [Variety]: (好多可愛造景!!). (4) [Variety]: (北部天氣真是謝ㄌqq). [Subtitle]: 太久沒看到陽光了我們. (5) [Variety]: (美麗紅吱吱🥹🥹). (6) [Subtitle]: 小橋流水(?) [Subtitle]: 下去!. [Variety]: 小橋流水😜.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Back view",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 male companion, approximately 6 distant passers-by visible in aerial and park shots.",
+        "mainCharacterDescription": "A young woman with long, straight black hair wearing a turquoise perforated knit sweater and black high-waisted skinny pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Lake / Pond",
+          "Farmland"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A scenic park featuring rows of mature bald cypress trees in autumnal colors ranging from bright green to deep orange and red. The setting includes shallow water ponds with concrete stepping stones, dirt pathways, and surrounding agricultural fields in a rural-urban fringe area.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Drone / aerial view",
+          "Panning",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Wide shot",
+          "Medium shot",
+          "Extreme long shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Drone / aerial view",
+          "Back view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Slow motion"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "羽驎落羽松"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) Acoustic guitar-driven folk-pop music starts. A high-pitched female voice speaks in Mandarin with a cheerful, rapid-fire delivery. The music features a rhythmic strumming pattern and clear mid-frequency resonance. No background noise is audible. (2) The BGM continues with a steady tempo. The female voice maintains its high arousal level. A male voice interjects with a lower pitch and calm, conversational tone. The vocals are clearly mixed above the instrumental track. (3) The acoustic guitar melody remains consistent. The female narrator continues her upbeat commentary. Her speech has a high pitch variability, reflecting excitement. The music provides a warm, optimistic atmosphere. (4) The BGM enters a repetitive loop. The female voice laughs, increasing the vocal pitch and dynamic range. Her articulation remains crisp. The overall audio signal is clean, indicating a high-quality field recording or post-production cleanup. (5) A short dialogue exchange occurs between the male and female voices. The male voice is steady, while the female voice is playful. A slight change in the BGM's intensity occurs as speech density remains high. (6) The speech ends, leaving the BGM to carry the remaining seconds. The music maintains its bright spectral profile before a final hard cut at the end of the video. The signal-to-noise ratio is high throughout.",
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "sound_design": {
+        "crowdNoiseIntensity": 0,
+        "crowdNoiseDetail": [
+          "None"
+        ],
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "SignalToNoiseRatio": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taichung"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Location Showcase -> Character Interaction -> Atmospheric Conclusion",
+      "mainPurpose": "To share a joyful travel experience visiting the 'Yulin Bald Cypress' (羽驎落羽松) in Taichung during the winter season, aiming to provide travel inspiration and showcase the aesthetic appeal of the changing leaves.",
+      "visualEmotion": [
+        "Warm",
+        "Energetic",
+        "Cheerful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal travel vlog documenting a day trip rather than a structured commercial promotion.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "High-energy female narration, variety-style floating text, and a mix of selfie-perspective and drone shots common in Taiwanese lifestyle vlogging.",
+      "freeDescribe": "The video successfully uses seasonal scenery (bald cypress in winter) as a central visual hook to create an inviting, warm atmosphere despite the winter theme."
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 90,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens inside a car at night. A man with short dark hair wearing a green t-shirt sits in the driver's seat, gesturing with his hands while talking. A smartphone is mounted on a red holder on the dashboard, displaying a chat interface. Rain streaks are visible on the windshield, illuminated by streetlights. (2) The scene shifts to two men inside the car; the previous man is now accompanied by another man in a black t-shirt. They are both holding wooden skewers with food. The background is dark, showing the interior of the vehicle cabin with dim dashboard lighting. (3) A POV shot through the windshield shows a highway at dawn. Green overhead signs for freeway exits appear briefly against a dark gray sky. The road surface is wet. (4) The setting changes to a bright supermarket. The main character, now in a white t-shirt, stands before shelves filled with bottled water and canned goods. He and his companion stack multiple packs of red-labeled canned porridge. (5) In a bright outdoor street during the day, the man in the white shirt stands by the open side door of a silver van. A large crowd of people wearing pink and red hats with backpacks walks past him in a steady stream. He hands out individual red cans to the passers-by. (6) A religious procession moves down the street. Men in yellow uniforms carry an ornate red and gold sedan chair. The crowd is dense, and a camera operator is visible filming the event. (7) Back inside the car during daylight, the man shows a red braided cord and a small yellow embroidered charm to the camera. The car interior is cluttered with gear in the back seat.",
+      "text_narrative_log": "(1) [Subtitle]: 好的各位今天呢拍完影片大概是凌晨2:23分. (2) [Subtitle]: 秉持著一年呢都要去白沙屯走一下. (3) [Subtitle]: 我想就是現在. (4) [Subtitle]: 5/5 2:24分在台南黃金海岸. (5) [Subtitle]: Right now 祂現在在哪裡. (6) [Subtitle]: 祂在雲林. (7) [Subtitle]: 媽祖好像五點就要起駕了. (8) [Subtitle]: 開去那邊剛好. (9) [Subtitle]: 大家應該沒吃早餐吧. (10) [Subtitle]: 那我就買個八寶粥吧. [Logo]: 全聯福利中心. (11) [Subtitle]: 好重. (12) [Subtitle]: 媽祖會保佑你. (13) [Subtitle]: 我們採購完畢60人份的早餐了. (14) [Subtitle]: 現在時間大概是5:40分. (15) [Subtitle]: 我們連自己的早餐都還沒吃欸. (16) [Subtitle]: 我們在這邊埋伏 (?). (17) [Subtitle]: 啊不是埋伏啦 在這邊等待. (18) [Subtitle]: 現在應該是路線會像這樣子. (19) [Subtitle]: 謝謝. (20) [Subtitle]: 加油. (21) [Subtitle]: 每一年的願望都是希望家人身體健康. (22) [Subtitle]: 只要這一年家人平安無事我都會來陪走一小段還願. (23) [Subtitle]: 今年是第六年 比較忙只能用這種方式希望大家都能平平安安的. (24) [Subtitle]: 好快 好快沒了欸. (25) [Subtitle]: 剛剛拿到的結緣品. (26) [Subtitle]: 很棒欸 感覺好好喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 100,
+        "maleDetectAmount": 60,
+        "femaleDetectAmount": 40,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": "Crowd",
+        "countingEvidence": "2 main characters, over 90 pilgrims and bystanders in the background.",
+        "mainCharacterDescription": "A young Asian male with short dark hair, initially in a green t-shirt, later in a white t-shirt. He has a friendly and energetic demeanor."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior",
+          "Supermarket / Warehouse Store",
+          "Outdoor Street",
+          "Road / Highway / Parking Area"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Vehicle interior with dashboard and phone mount; bright supermarket aisles with stocked shelves; sunlit urban street with residential buildings and power lines.",
+        "lightingStyle": [
+          "Dim / low light",
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Rainy",
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring"
+        ],
+        "colorTone": [
+          "Natural",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Full shot",
+          "Long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Fade out"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Prepared meal / plated dish",
+          "Instant / packaged food",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Van / shuttle",
+          "Truck"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "PX Mart",
+          "泰山"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "audio_narrative_log": "(1) A male voice speaks with a moderate pitch and casual tone from a quiet interior. Background noise consists of a low-frequency hum from a car engine and the rhythmic mechanical sound of windshield wipers hitting glass. There is no background music. (2) A sharp, high-frequency 'whoosh' sound effect triggers a phase change. The primary male voice is joined by a second male voice; both exhibit a high arousal level and humorous tone. Sounds of chewing and the rustling of plastic food packaging are clearly audible. (3) Acoustic environment shifts to a supermarket. Distinct 'beep' sounds of point-of-sale scanners and the clinking of metal cans being stacked create a busy atmosphere. The narrator maintains a fast speech rate. (4) A transition SFX leads to an outdoor acoustic texture. High spectral bandwidth wind noise and the scattered chatter of a large crowd (murmur) become prominent. A sentimental Mandopop ballad begins as BGM, featuring acoustic guitar and piano with a tempo of approximately 65 BPM. (5) Loud, resonant brass bell strikes and rhythmic wooden percussive thuds signify a religious procession. The narrator's voice drops in volume and intensity, becoming more breathy and sincere. (6) The audio returns to a car interior profile. The music fades out, leaving the narrator's voice and the minor rustling of fabric and small plastic items.",
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 12,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental"
+        ],
+        "tempoBPM": 65,
+        "mode": [
+          "Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic",
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Metal Bump ",
+          "Object Impact / Thud / Drop",
+          "Keyboard / Mouse Click"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Event / Festival"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan",
+          "Yunlin"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Setup -> Action -> Result",
+      "mainPurpose": "The video documents a spontaneous and heartwarming act of charity during the Baishatun Mazu Pilgrimage in Taiwan. The creator starts the journey in the middle of the night, prepares by purchasing a large quantity of food, and captures the emotional experience of distributing it to pilgrims. It aims to showcase the spirit of the festival and the creator's personal devotion and community support.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": "false",
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "social_sociology_tags": {
+      "uniqueSignatures": "Spontaneous late-night starts, high-energy narration, and direct community interaction.",
+      "freeDescribe": "The video successfully captures the cultural atmosphere of a major religious event through a personal lens, blending fast-paced vlog editing with moments of sentimental reflection."
+    }
+  }
+}
