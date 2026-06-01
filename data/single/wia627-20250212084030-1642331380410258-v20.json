@@ -1,0 +1,172 @@
+{
+  "videoName": "video.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 232,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a modern, well-lit indoor apartment. A man with short black hair, wearing a black tank top and a chest-mounted camera rig, carries a large cardboard box of brüst protein coffee through a dining area featuring a long wooden table and minimalist decor. (2) He approaches a tall glass display cabinet filled with dozens of small colorful gashapon toy figurines. He inspects the shelves, showing several toys that have fallen over. He wears a neutral to slightly disappointed expression as he looks at the disarray. (3) The man walks up a stone staircase with white railings. A grey and white tuxedo cat sits at the top landing. He then enters a bedroom and gently pets an orange tabby cat sleeping on a wooden headboard, using his left hand while holding the camera steady. (4) He moves to a storage area, opens a drawer to retrieve a large blue bag of 'CAT CANE' pet food, and walks out to a bright outdoor terrace. Several cats of various coats approach him as he pours the dry kibble into a white bowl on the tiled floor. (5) In a different scene, the man is now dressed in a white LA Dodgers baseball jersey with blue lettering and a matching black baseball cap. He is in a small, cluttered hobby room filled with toys, a robot figure, and movie posters. He adjusts his glasses and cap in front of a mirror. (6) The scene shifts to a driveway where he unplugs a charging cable from a white Tesla Model Y and gets into the driver's seat. Later, he is seen walking down a narrow residential street at dusk, holding a red bucket of fried chicken and a large bottle of Coca-Cola. (7) He enters a living room decorated for a party with blue and white balloons and a 'HAPPY BIRTHDAY' banner. A young boy with curly black hair is wearing the same Dodgers jersey and cap as the man. They interact playfully as the boy crawls on the floor. (8) The family gathers around a dining table laden with pizzas, fried chicken, and a strawberry cream cake. A video plays on a smartphone showing a crying newborn baby, which the boy watches with curiosity. Lighting is warm and domestic. (9) Candles are lit on the cake, and the family sings together. The boy excitedly prepares to eat. His mother hands him a small square of dark chocolate. He bites into it, his face contorts into a grimace of distaste, and the adults laugh as variety text appears over the frame.",
+      "text_narrative_log": "(1) [Subtitle]: 這天是happy生日. 他這幾天都住在外公外婆家. [Logo]: 人肉搜索聯盟. (2) [Subtitle]: 最近地震頻繁. 家裡的扭蛋櫃早已面目全非. (3) [Subtitle]: 泡妃又在等我上樓. 因為她想吃我倒的飼料. (4) [Subtitle]: 阿湯❤️. (5) [Subtitle]: 泡妃還忘了自己是流浪貓. 每天都會很職業病地來我房間門口討吃的. 但是2樓明明有自動餵食機. 她還是喜歡這樣的儀式感. (6) [Subtitle]: 今天岳父給Happy穿了大谷翔平的球帽跟衣服. 所以我決定跟他穿親子裝. (7) [Subtitle]: 準備去市區拿披薩跟蛋糕. (8) [Subtitle]: 林太太花店的姑姑會幫Happy佈置生日場地 #花花花店. (9) [Subtitle]: 大家各司其職 準備出發. (10) [Subtitle]: 雖然林太太有訂披薩跟蛋糕. 但我還是買了胖老爹. 單純只是因為我想吃😂. (11) [Subtitle]: 壽星. 你是不是穿大谷翔平. (12) [Subtitle]: 他終於完成了他的夢想. 林太太說他五歲之後就可以吃巧克力了. (13) [Subtitle]: 他媽媽特地幫他準備了100%的濃巧克力. 他吃完的感想是... (14) [Variety]: 有點苦🤢. 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": ["Full body", "Upper body", "Face close-up", "Hands only"],
+        "crowdLevel": ["Small Group"],
+        "countingEvidence": "1 main male creator, 1 child (Happy), 2 females at the dining table, and 1 other male relative.",
+        "mainCharacterDescription": "A middle-aged man with short black hair wearing a black tank top, then a white LA Dodgers #17 jersey and cap. The second main character is a young boy with curly black hair wearing a matching Dodgers jersey and cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": ["Indoor Living Room", "Indoor Kitchen", "Outdoor Street", "Car / Van Interior"],
+        "locationTopography": ["Plain / Flat Urban"],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern minimalist home interior with wooden furniture, glass toy cabinets, a stone staircase, and an outdoor balcony with tiles. Later, a residential street at dusk and a white car interior.",
+        "lightingStyle": ["Soft indoor lighting", "Natural daylight", "Warm indoor lighting", "Night artificial light"],
+        "weather": ["Sunny / Clear"],
+        "season": ["Not visually inferable"],
+        "colorTone": ["Natural and bright"]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": ["Handheld", "Walking handheld", "Static"],
+        "shotSize": ["Medium shot", "Medium close-up", "Close-up", "Wide shot"],
+        "cameraAngles": ["Eye-level", "POV / first-person view"],
+        "editingTechniques": ["Straight cut", "Jump cut", "Slow motion", "Subtitled social-media edit"],
+        "visualRhythm": ["Natural pace"],
+        "takeStructure": ["Multiple shots"]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": ["Traditional Chinese", "Emoji / Symbols"],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": ["Cat"],
+        "foodsDetect": ["Dessert / cake / cookies", "Fast food / burger / fries / pizza", "Beverage / juice", "Pet Food"],
+        "trafficDetect": ["Electric vehicle"],
+        "techDetect": ["Smartphone", "Home appliance", "Charging accessory / cable", "Camera / DSLR"],
+        "landmark": ["None"],
+        "brandLogos": ["LA Dodgers", "Tesla", "brüst", "Coca-Cola", "胖老爹"],
+        "instrumentsVisible": ["None"]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": ["Friendly", "Casual", "Animated/Excited"],
+        "vocalLanguage": ["Traditional Chinese", "English"],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": ["Rising", "Complex"],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": ["Acoustic/Folk", "Holiday/Festive"],
+        "tempoBPM": 110,
+        "mode": ["Major / Ionian"]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 4,
+        "male_singer_count": 2,
+        "female_singer_count": 1,
+        "kids_singer_count": 1,
+        "bgmLanguage": ["Traditional Chinese", "English"]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": ["String", "Percussion"],
+        "instrumentsAudible": ["Guitar", "Drum Kit / Drum Set"],
+        "musicSourceType": ["Stock/Royalty-Free", "Live Performance"],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": ["Laughter", "Chatter", "Cheering"],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": ["Indoor/RoomTone", "Urban/Traffic"],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": ["Plastic / Bag Rustle", "Object Impact / Thud / Drop", "Animal Sound / Barking", "Mechanical Click / Latch", "Footsteps"],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": ["Whoosh / Transition SFX", "Pop / Bubble SFX", "Cartoon / Comedy SFX"],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": ["Cross-fade", "Hard cut"],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": ["Mixed"]
+      },
+      "audio_narrative_log": "(1) A light, rhythmic acoustic guitar melody plays steadily in the background. A male narrator speaks in a calm, friendly Mandarin tone, explaining the day's plans. Faint ambient room tone and soft thuds from footsteps on a wooden floor are audible. (2) A distinctive metallic click and the friction of a glass door opening can be heard as the narrator checks a cabinet. The guitar melody remains constant. (3) A sharp, high-pitched cat meow rings out clearly, marking a transition in focus. The man's voice shifts slightly as he greets the animal with a playful tone. (4) The crackling and crinkling of a plastic bag rustling becomes prominent. This is followed by a cascade of dry, percussive sounds as kibble hits a ceramic bowl with high-frequency resonance. (5) A deep, resonant thud signifies a car door closing. The background atmosphere shifts to a steady, low-frequency hum of a car engine, accompanied by the rhythmic mechanical clicking of a turn signal indicator. (6) The acoustic guitar BGM swells slightly as the man walks outside, with the soft crunch of shoes on pavement audible. The vocal tone becomes more excited. (7) A major transition occurs into a busy indoor acoustic environment. Loud chatter, high-energy laughter from several adults, and the high-pitched, excited squeals of a child dominate the mix. (8) The group begins singing 'Happy Birthday' in both Mandarin and English. The vocals are unrefined and high-energy, characteristic of a live family gathering. (9) A short, concentrated burst of air (whoosh) sounds as candles are blown out, followed by loud clapping and cheers. (10) The child's voice emits a sudden, strained 'ew' sound, followed by an immediate burst of loud, high-arousal laughter from multiple adults as the guitar melody fades out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": ["Vlog", "Family / Kids"],
+      "location": {
+        "country": ["Taiwan"],
+        "city": ["Unknown"]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 28,
+      "averageSceneDuration": 8.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Preparation -> Journey -> Climax Celebration -> Humorous Ending.",
+      "mainPurpose": "The video is a personal lifestyle vlog documenting a father's preparations and celebration for his son Happy's 5th birthday. It uses a relatable narrative starting with daily pet care and solo errands, building anticipation before the family gathering. The emotional core is warm and humorous, peaking with the 'dark chocolate test' which provides a comedic and memorable conclusion to the milestone event.",
+      "visualEmotion": ["warm", "humorous", "joyful", "energetic"]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": ["None"],
+      "endorsementCues": "While brands like brüst and Fat Daddy are visible, they are treated as part of daily life and personal consumption rather than organized promotional content.",
+      "endorsementObject": ["None"]
+    },
+    "freeDescribe": "High-quality family vlog with strong visual continuity (matching jerseys) and clear narrative progression."
+  }
+}
