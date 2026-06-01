@@ -335,4 +335,20 @@ const singleFileDescribe = [
         video_url: "",
         structure_version: "json_structure_19.json", // 指派新的結構檔
     },
+
+    {
+        fileName: "602avenue-20251128221356-961894563162870-v20.json",
+        fileDisplayName: "有璟妍精 - 穴位耳針 - v20",
+        url: "./data/single/602avenue-20251128221356-961894563162870-v20.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "cocowine0205-20250309085507-1430224778644875-v20.json",
+        fileDisplayName: "可可酒精 - 露營神器連帽防水厚絨保暖 - v20",
+        url: "./data/single/cocowine0205-20250309085507-1430224778644875-v20.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
 ];

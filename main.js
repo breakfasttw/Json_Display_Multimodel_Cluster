@@ -126,7 +126,10 @@ document.addEventListener("DOMContentLoaded", () => {
         groupSelect.innerHTML = "";
 
         if (currentMode === "compare") {
-            const activeGroups = compareGroupDescribe.filter((g) => g.enable);
+            const activeGroups = compareGroupDescribe
+                .filter((g) => g.enable)
+                .slice()
+                .reverse();
 
             activeGroups.forEach((group) => {
                 const opt = document.createElement("option");
@@ -141,7 +144,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 tableBody.innerHTML = `<tr><td colspan="7" class="p-8 text-center text-slate-500">沒有可用的 Compare 群組</td></tr>`;
             }
         } else if (currentMode === "structure") {
-            const structureVersions = getUniqueStructureVersions();
+            const structureVersions = getUniqueStructureVersions()
+                .slice()
+                .reverse();
 
             structureVersions.forEach((versionName) => {
                 const opt = document.createElement("option");
@@ -156,15 +161,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 tableBody.innerHTML = `<tr><td colspan="7" class="p-8 text-center text-slate-500">沒有可用的 Structure 檔案</td></tr>`;
             }
         } else {
-            singleFileDescribe.forEach((file) => {
-                const opt = document.createElement("option");
-                opt.value = file.fileName;
-                opt.textContent = file.fileDisplayName;
-                groupSelect.appendChild(opt);
-            });
+            singleFileDescribe
+                .slice()
+                .reverse()
+                .forEach((file) => {
+                    const opt = document.createElement("option");
+                    opt.value = file.fileName;
+                    opt.textContent = file.fileDisplayName;
+                    groupSelect.appendChild(opt);
+                });
 
             if (singleFileDescribe.length > 0) {
-                loadSingleData(singleFileDescribe[0].fileName);
+                loadSingleData(
+                    singleFileDescribe[singleFileDescribe.length - 1].fileName,
+                );
             } else {
                 tableBody.innerHTML = `<tr><td colspan="7" class="p-8 text-center text-slate-500">沒有可用的 Single 檔案</td></tr>`;
             }
