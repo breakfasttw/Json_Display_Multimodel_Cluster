@@ -27,37 +27,35 @@ window.AppStructure = {
             let rowsToRender = [];
 
             lines.forEach((line) => {
-                const keyMatch = line.match(keyRegex);
+                const lineWithoutComment = line.split("//")[0];
+                const keyMatch = lineWithoutComment.match(keyRegex);
                 const commentMatch = commentRegex.test(line)
                     ? line.match(commentRegex)
                     : null;
 
-                // 1. 遇到開頭大括號，代表進入更深一層的父結構層級
-                if (line.includes("{") && keyMatch) {
+                if (lineWithoutComment.includes("{") && keyMatch) {
                     pathStack.push(keyMatch[1]);
                 }
 
-                // 2. 如果是葉子特徵節點 (不包含開頭大括號，且有真實欄位鍵值)
-                if (keyMatch && !line.includes("{")) {
+                if (keyMatch && !lineWithoutComment.includes("{")) {
                     const currentKey = keyMatch[1];
                     const comment = commentMatch ? commentMatch[1].trim() : "";
 
-                    // 核心修正：動態補全當前節點的完整路徑鏈結
                     let fullPathArray = [...pathStack, currentKey];
 
-                    // 精準指派至 L1 ~ L5 的獨立位置
                     const l1 = fullPathArray[0] || "";
                     const l2 = fullPathArray[1] || "";
                     const l3 = fullPathArray[2] || "";
                     const l4 = fullPathArray[3] || "";
                     const l5 = fullPathArray[4] || "";
 
-                    // 精確截取冒號後方的真實內容來判定資料型別
-                    const colonIndex = line.indexOf(":");
-                    let dataType = "String"; // 預設型態
+                    const colonIndex = lineWithoutComment.indexOf(":");
+                    let dataType = "String";
 
                     if (colonIndex !== -1) {
-                        const afterColon = line.substring(colonIndex + 1);
+                        const afterColon = lineWithoutComment.substring(
+                            colonIndex + 1,
+                        );
                         const valuePart = afterColon
                             .split("//")[0]
                             .trim()
@@ -97,13 +95,11 @@ window.AppStructure = {
                     });
                 }
 
-                // 3. 遇到結尾大括號，回退退出一層父結構
-                if (line.includes("}")) {
+                if (lineWithoutComment.includes("}")) {
                     pathStack.pop();
                 }
             });
 
-            // 開始渲染表格
             tableBody.innerHTML = "";
             if (rowsToRender.length === 0) {
                 tableBody.innerHTML = `<tr><td colspan="7" class="p-8 text-center text-slate-500">無可展示的結構欄位</td></tr>`;
@@ -117,7 +113,6 @@ window.AppStructure = {
                 prevL5 = "";
 
             rowsToRender.forEach((row, index) => {
-                // 鏈式從屬判定邏輯
                 const isL1Same = row.l1 === prevL1;
                 const isL2Same = isL1Same && row.l2 === prevL2;
                 const isL3Same = isL2Same && row.l3 === prevL3;
@@ -130,7 +125,6 @@ window.AppStructure = {
                 prevL4 = row.l4;
                 prevL5 = row.l5;
 
-                // 填充樣式：保證欄位名稱全部看得到，但重複的父分類會被轉為細字淡化
                 const classL1 = isL1Same
                     ? "text-slate-300/70 font-normal select-none"
                     : "text-amber-500 font-bold drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]";
@@ -147,7 +141,6 @@ window.AppStructure = {
                     ? "text-slate-300/70 font-normal select-none"
                     : "text-pink-400 font-bold";
 
-                // 大模態區塊線切分樣式
                 let trBorderClass = "border-b border-slate-800/60";
                 if (index > 0) {
                     if (!isL1Same) {
@@ -167,14 +160,14 @@ window.AppStructure = {
                 const tr = document.createElement("tr");
                 tr.className = `${trBorderClass} hover:bg-slate-800/40 transition-colors`;
                 tr.innerHTML = `
-                    <td class="p-3 w-[6.8%] text-[11px] text-center border-r border-slate-800/40 ${classL1}">${row.l1}</td>
-                    <td class="p-3 w-[6.8%] text-[11px] text-center border-r border-slate-800/40 ${classL2}">${row.l2 || '<span class="text-slate-700">—</span>'}</td>
-                    <td class="p-3 w-[6.8%] text-[12x] text-center border-r border-slate-800/40 ${classL3}">${row.l3 || '<span class="text-slate-700">—</span>'}</td>
-                    <td class="p-3 w-[6.8%] text-[12x] text-center border-r border-slate-800/40 ${classL4}">${row.l4 || '<span class="text-slate-700">—</span>'}</td>
-                    <td class="p-3 w-[6.8%] text-[12px] text-center border-r border-slate-800/40 ${classL5}">${row.l5 || '<span class="text-slate-700">—</span>'}</td>
-                    <td class="p-3 w-[15%] text-xs font-bold text-center border-r border-slate-800/40 ${typeColor}">${row.dataType}</td>
-                    <td class="p-3 w-[51%] text-sm text-slate-300 font-normal whitespace-pre-wrap leading-relaxed text-left">${row.featurePrompt || '<span class="text-slate-700">—</span>'}</td>
-                `;
+                <td class="p-3 w-[6.8%] text-[11px] text-center border-r border-slate-800/40 ${classL1}">${row.l1}</td>
+                <td class="p-3 w-[6.8%] text-[11px] text-center border-r border-slate-800/40 ${classL2}">${row.l2 || '<span class="text-slate-700">—</span>'}</td>
+                <td class="p-3 w-[6.8%] text-[12x] text-center border-r border-slate-800/40 ${classL3}">${row.l3 || '<span class="text-slate-700">—</span>'}</td>
+                <td class="p-3 w-[6.8%] text-[12x] text-center border-r border-slate-800/40 ${classL4}">${row.l4 || '<span class="text-slate-700">—</span>'}</td>
+                <td class="p-3 w-[6.8%] text-[12px] text-center border-r border-slate-800/40 ${classL5}">${row.l5 || '<span class="text-slate-700">—</span>'}</td>
+                <td class="p-3 w-[15%] text-xs font-bold text-center border-r border-slate-800/40 ${typeColor}">${row.dataType}</td>
+                <td class="p-3 w-[51%] text-sm text-slate-300 font-normal whitespace-pre-wrap leading-relaxed text-left">${row.featurePrompt || '<span class="text-slate-700">—</span>'}</td>
+            `;
                 tableBody.appendChild(tr);
             });
         } catch (err) {

@@ -2,7 +2,7 @@
   "videoName": "video.mp4", //If provided in instructions, use the exact filename. Otherwise, default to 'video.mp4'. Do not guess based on content.
   "low_inference": {
 	"basic_metadata": {
-		"videoDuration": 0, number, // Total video duration (seconds)
+		"videoDuration": 0,  // Total video duration (seconds)
 		"aspectRatio": "9:16", // 9:16, 16:9, 1:1, etc.
 	},
 	"visual_base": {
