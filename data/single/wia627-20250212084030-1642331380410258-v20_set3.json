@@ -1,0 +1,319 @@
+{
+  "videoName": "wia627-20250212084030-1642331380410258-04.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 232,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a bright, modern kitchen and living area. A man wearing a black tank top and a chest-mounted camera harness holds a large cardboard box of protein coffee. He looks around the room, which features light wood furniture and white walls. (2) The man walks through the apartment, passing a large glass-fronted display cabinet filled with hundreds of small colorful figurines and collectible toys. The lighting is soft and even. (3) He moves toward a granite staircase where a grey and white cat waits for him. He pets a ginger cat lying on a wooden headboard in a bedroom before heading to a dedicated pet feeding area on the second floor. (4) He is seen pouring cat food from a large blue bag into several automatic feeders as multiple cats gather around his feet in a brightly lit hallway. (5) In a smaller room packed with collectibles, movie posters (including Deadpool), and a large R2-D2 model, the man changes into a white Los Angeles Dodgers jersey and puts on a blue baseball cap. (6) The man is seen driving a white car and later walking down a narrow street at dusk, carrying a bucket of fried chicken and a large bottle of Coca-Cola. (7) He enters a living room decorated with blue and white balloons and a \"Happy Birthday\" banner. A young boy in a matching Dodgers jersey is seen running around. (8) A group of people is seated at a dining table filled with several boxes of pizza. The man presents the fried chicken and Coke. (9) The boy watches a video on a smartphone showing his own birth. He later sits in front of a strawberry-topped cake, blows out a candle, and makes a sour face after tasting a piece of dark chocolate.",
+      "text_narrative_log": "(1) [Logo]: 小兔聯盟運動會. (2) [Subtitle]: 這天是happy生日 他這幾天都住在外公外婆家. (3) [Subtitle]: 最近地震頻繁 家裡的扭蛋櫃早已面目全非. (4) [Subtitle]: 泡妃又在等我上樓 因為她想吃我倒的飼料. (5) [Subtitle]: 阿湯❤️. (6) [Subtitle]: 泡妃還忘了自己是流浪貓 每天都會很職業病地 來我房間門口討吃的 但是2樓明明有自動餵食機 她還是喜歡這樣的儀式感. (7) [Subtitle]: 今天岳父給Happy穿了大谷翔平的球帽跟衣服 所以我決定跟他穿親子裝. (8) [Subtitle]: 準備去市區拿披薩跟蛋糕. (9) [Subtitle]: 林太太花店的姑姑會幫Happy佈置生日場地 #花花花店. (10) [Subtitle]: 大家各司其職 準備出發. (11) [Subtitle]: 雖然林太太有訂披薩跟蛋糕 但我還是買了胖老爹 單純只是因為我想吃😂. (12) [Subtitle]: 他終於完成了他的夢想 林太太說他五歲之後就可以吃巧克力了. (13) [Subtitle]: 他媽媽特地幫他準備了100%的濃巧克力👍. (14) [Subtitle]: 他吃完的感想是... (15) [Variety]: 有點苦🤢. (16) [Variety]: 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator (man), 1 birthday boy (Happy), 2 adult females at the party, 2 adult males at the party.",
+        "mainCharacterDescription": "The main creator is a man in his 30s with short black hair, wearing a Dodgers jersey (#17 Ohtani) and a blue cap. The second main character is a young boy about 5 years old, wearing an identical Dodgers jersey and cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room",
+          "Indoor Bedroom",
+          "Car / Van Interior",
+          "Outdoor Street",
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern apartment with white walls, minimalist furniture, and extensive display cases for collectibles. Transition to a vehicle interior and then a suburban street at dusk. Finally, a festively decorated dining room with balloons and party banners.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight",
+          "Night artificial light"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Point of view",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage",
+          "Fade in / fade out"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Coffee",
+          "Fast food / burger / fries / pizza",
+          "Meat / beef / pork / chicken",
+          "Beverage / juice",
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR",
+          "Action camera",
+          "TV / display screen",
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Dodgers",
+          "Nike",
+          "Coca-Cola",
+          "Fat Daddy",
+          "Hoka",
+          "McDonald's",
+          "Star Wars"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Footsteps",
+          "Door / Cabinet Open-Close",
+          "Vehicle Horn / Engine",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful, mid-tempo acoustic guitar track begins. A male voice speaks with a friendly, narrative tone. The acoustics sound like a large, echoey room. Footsteps on a hard surface are heard occasionally. (2) A sharp crinkling sound of a plastic bag triggers a phase shift. The voice becomes softer and more rhythmic as he speaks to his cats. The BGM remains steady. (3) A loud mechanical click and door slam transition the scene. The ambient background noise shifts to a low-frequency rumble typical of a car interior. A rhythmic indicator clicking sound is audible. (4) The audio opens up to outdoor street noise with distant wind. The male voice projects louder. A rustling of a paper bucket is briefly heard. (5) The sound of a door opening leads to a burst of high-pitched cheering and female chatter. Multiple voices overlap in a festive environment. (6) A collective group singing of \"Happy Birthday\" in Chinese dominates the track. This is followed by a sharp burst of pre-recorded canned laughter and a comedic 'boing' sound effect when the boy makes a face."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Family / Kids"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 5.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Daily Life -> Preparation -> Event -> Resolution",
+      "mainPurpose": "The video documents the creator's preparation and celebration of his son Happy's 5th birthday. It captures mundane domestic details like feeding cats alongside significant milestones like the son reaching the age where he is allowed to eat chocolate, conveying a warm family atmosphere.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Mention of a specific flower shop hashtag and the brand of fried chicken (胖老爹) as part of the celebratory meal preparation.",
+      "endorsementObject": [
+        "花花花店",
+        "胖老爹"
+      ]
+    },
+    "freeDescribe": "The video uses a high-energy vlog style common in social media content, featuring integrated pet content and family milestones to drive engagement."
+  }
+}

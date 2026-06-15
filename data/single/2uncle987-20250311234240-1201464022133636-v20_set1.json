@@ -1,0 +1,308 @@
+{
+  "videoName": "2uncle987-20250311234240-1201464022133636-02.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A family of four, including two adult women and two young boys, stands in front of a large grey stone monument inscribed with Japanese characters. They wave and smile at the camera. The background consists of dense green hedges under a bright, partly cloudy sky. (2) The scene shifts to a close-up of numerous red Daruma dolls of varying sizes arranged on wooden shelves. A young boy in a fuzzy yellow and blue jacket looks at them with curiosity. (3) A wooden sign displays admission fees in Japanese and English, with prices ranging from 100 to 500 yen. (4) A boy sits on a gravel path, making a peace sign with his fingers. Several small red Daruma dolls are placed on the ground near him. (5) A woman wearing a beige trench coat and blue jeans walks through a large red temple gate. The area is crowded with other tourists. (6) The woman stands by a large pond, pointing towards the scenic background which includes a red bridge and forested mountains. (7) A montage follows, showing the family walking up stone steps, posing with more Daruma dolls, and exploring the temple grounds. (8) A boy points at a small hole in a stone wall where several Daruma dolls are tucked away; an animation of white mice is overlaid on the dolls. (9) Wide shots capture the temple's architecture, including a red pagoda and stone lanterns, with many small Daruma dolls placed on every available surface. (10) The woman and a boy are shown at a wooden station, using a large stamp to mark a postcard. (11) The family enters a brightly lit souvenir shop. The two women are seen with shopping baskets filled with various packaged goods. They appear excited and are laughing. (12) Close-up shots of the products in the shop reveal snacks, noodles, and cookies, all featuring Daruma-themed packaging. (13) The family walks away from the temple area, smiling and talking. (14) A series of still photographs shows the family in various picturesque spots around the temple grounds. (15) The video ends with a close-up of a boy's face as he smiles broadly at the camera.",
+      "text_narrative_log": "(1) [Variety]: 3 2 1. [Logo]: @2uncle987. (2) [Slogan]: 大阪必去景點. [Subtitle]: 勝尾寺. (3) [Subtitle]: 入園門票. (4) [Subtitle]: 除了很多小達摩很可愛之外. (5) [Subtitle]: 這裡的風景也很漂亮很好拍. (6) [Subtitle]: 看他們變成老鼠在挖洞. (7) [Subtitle]: 全寺院6處可蒐集明信片蓋章. (8) [Subtitle]: 門票會給一個這個明信片. (9) [Subtitle]: 我剛剛看到兩站. (10) [Subtitle]: 這是第三站. (11) [Subtitle]: 可以蓋章的地方. (12) [Subtitle]: 參拜順路. (13) [Logo]: 勝尾寺紀念品店. (14) [Slogan]: 勝つんじゃが. (15) [Variety]: (太難買!!大人小孩都愛). (16) [Subtitle]: 怎麼買這麼多. (17) [Subtitle]: 很好買. (18) [Subtitle]: 都超可愛. (19) [Subtitle]: 我媽也是. (20) [Subtitle]: 她也大包小包. (21) [Subtitle]: 好多好多太好買了. (22) [Subtitle]: 入園時間: 08:00-17:00. (23) [Subtitle]: 很推薦耶. (24) [Subtitle]: 因為那個很好拍. (25) [Subtitle]: 然後很可愛很好買.",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 12,
+        "femaleDetectAmount": 13,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only",
+          "Back view",
+          "Side view",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "4 main family members (2 women, 2 boys) and approximately 20 background tourists throughout the temple grounds.",
+        "mainCharacterDescription": "One woman wears a beige trench coat over a grey top and wide-leg blue jeans. An older woman wears a brown puffer jacket and blue jeans. Two young boys wear matching fuzzy jackets with yellow, blue, and white panels."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Temple / Shrine / Church / Religious Site",
+          "Retail Store",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Mountain / Forest / Trail",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The outdoor scenes feature traditional Japanese temple architecture, including a red pagoda, stone monuments, red bridges, and ponds. The grounds are filled with stone lanterns and thousands of small red Daruma dolls. The indoor scene is a modern souvenir shop with wooden shelves and bright lighting.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Partly cloudy"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Walking handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot",
+          "Close-up",
+          "Long shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Dessert / cake / cookies",
+          "Noodles / ramen / pasta"
+        ],
+        "trafficDetect": [
+          "Bicycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Katsuoji Temple"
+        ],
+        "brandLogos": [
+          "Adidas"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a cheerful female voice counting down '3, 2, 1' in Traditional Chinese, immediately followed by an upbeat acoustic pop track featuring a bright guitar melody and steady percussion. The energy is high and welcoming. (2) A female narrator begins speaking with high arousal and positive valence, describing the beauty of Katsuoji Temple. Her speech rate is fast and enthusiastic. (3) A sharp 'ding' sound effect marks a visual transition to a close-up of Daruma dolls. The background music maintains a consistent tempo. (4) The sound of light outdoor wind and distant tourist chatter is audible beneath the primary narration. A child's voice briefly interjects with an excited exclamation. (5) As the scene moves to the souvenir shop, the audio becomes more layered with the sounds of laughter and the rustling of shopping baskets. The narrator and an older woman engage in a lively, overlapping conversation about their purchases. (6) A 'whoosh' transition sound effect accompanies a fast cut between shop items. The music remains the dominant background element. (7) The video concludes with the narrator's final recommendation, delivered in a warm, satisfied tone, followed by a final 'pop' sound effect as the audio fades out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Food Review",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.7,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Exploration -> Shopping -> Recommendation",
+      "mainPurpose": "The video is a travel vlog designed to recommend Katsuoji Temple in Osaka as a must-visit destination. It showcases the temple's unique aesthetic, specifically the thousands of Daruma dolls, the interactive activities like stamp collecting, and the extensive range of themed souvenirs. The goal is to share a positive family travel experience and provide practical information for potential visitors.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video is a personal travel vlog sharing a family outing; there is no evidence of paid promotion for specific brands beyond the location itself.",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The fast-paced editing, bright color palette, and enthusiastic narration create a highly engaging social-media-style travel guide."
+  }
+}

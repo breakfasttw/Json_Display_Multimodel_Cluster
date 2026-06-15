@@ -359,4 +359,86 @@ const singleFileDescribe = [
         video_url: "",
         structure_version: "json_structure_20.json", // 指派新的結構檔
     },
+
+    {
+        fileName: "wia627-20250212084030-1642331380410258-v20_set1.json",
+        fileDisplayName:
+            "【保守】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        url: "./data/single/wia627-20250212084030-1642331380410258-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "wia627-20250212084030-1642331380410258-v20_set3.json",
+        fileDisplayName:
+            "【適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        url: "./data/single/wia627-20250212084030-1642331380410258-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "cocowine0205-20250217100535-1617257429400233-v20_set1.json",
+        fileDisplayName: "【保守】可可酒精 -好事多週報 - v20",
+        url: "./data/single/cocowine0205-20250217100535-1617257429400233-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "cocowine0205-20250217100535-1617257429400233-v20_set3.json",
+        fileDisplayName: "【適中】可可酒精 -好事多週報 - v20",
+        url: "./data/single/cocowine0205-20250217100535-1617257429400233-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "2uncle987-20250311234240-1201464022133636-v20_set1.json",
+        fileDisplayName: "【保守】二伯 - 小孩家族旅遊 - v20",
+        url: "./data/single/2uncle987-20250311234240-1201464022133636-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "2uncle987-20250311234240-1201464022133636-v20_set3.json",
+        fileDisplayName: "【適中】二伯 - 小孩家族旅遊 - v20",
+        url: "./data/single/2uncle987-20250311234240-1201464022133636-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "3ctim-20250219172139-1661366341964183-v20_set1.json",
+        fileDisplayName: "【保守】Tim哥 - 開箱降噪耳機 - v20",
+        url: "./data/single/3ctim-20250219172139-1661366341964183-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "3ctim-20250219172139-1661366341964183-v20_set3.json",
+        fileDisplayName: "【適中】Tim哥 - 開箱降噪耳機 - v20",
+        url: "./data/single/3ctim-20250219172139-1661366341964183-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "chuchumei__-20250805105548-1276250431031515-v20_set1.json",
+        fileDisplayName: "【保守】啾啾妹 - 圖文創作 - v20",
+        url: "./data/single/chuchumei__-20250805105548-1276250431031515-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
+
+    {
+        fileName: "chuchumei__-20250805105548-1276250431031515-v20_set3.json",
+        fileDisplayName: "【保守】啾啾妹 - 圖文創作 - v20",
+        url: "./data/single/chuchumei__-20250805105548-1276250431031515-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json", // 指派新的結構檔
+    },
 ];

@@ -1,0 +1,286 @@
+{
+  "videoName": "3ctim-20250219172139-1661366341964183-04.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 50,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing a black sweater and a grey flat cap is speaking directly to the camera in a studio setting. He is wearing white earbuds and gesturing with his hands. Behind him, a shelf holds various product boxes. (2) Close-up shots of a red earbud case and red earbuds are shown. The case features a prominent circular dial on one corner. (3) The man holds the red earbud case, demonstrating the dial's rotation. He appears enthusiastic and continues his presentation. (4) A smartphone screen is shown next to the red earbud case. As a hand rotates the dial on the case, the volume slider on the phone screen moves accordingly. (5) The smartphone displays an app interface with settings for 'CMF Buds Pro 2', including EQ and noise cancellation options. (6) The man transitions to holding a silver smartwatch with a round face and a grey strap. (7) Close-up of the smartwatch screen showing heart rate and blood oxygen monitoring icons being touched by a finger. (8) The smartphone screen displays the 'CMF Watch' app, showing a variety of customizable watch faces. (9) A hand demonstrates the modularity of the watch by removing and replacing its outer bezel. (10) The man wears the watch on his wrist, pointing at the screen while continuing to speak. (11) A hand interacts with the watch screen to answer an incoming call, while a smartphone nearby shows the call interface.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. (2) [Subtitle]: 有一個CP值破天際的. (3) [Subtitle]: Nothing的子品牌. (4) [Subtitle]: 叫CMF. (5) [Subtitle]: 在台灣也有開賣. (6) [Subtitle]: 超高性價比的降噪耳機. (7) [Subtitle]: CMF的Buds Pro 2. (8) [Subtitle]: 注意囉！它是降噪耳機喔. (9) [Subtitle]: 你看它很漂亮. (10) [Subtitle]: 而且不到2000塊就可以買到！. (11) [Subtitle]: 續航12小時. (12) [Subtitle]: 最帥的是. (13) [Subtitle]: 它充電盒上面. (14) [Subtitle]: 有一個可以快速控制各種功能的旋鈕. (15) [Subtitle]: 自訂EQ語音降噪. (16) [Subtitle]: 還有LDAC高解析度的認證. (17) [Subtitle]: 當然我們這次也有體驗. (18) [Subtitle]: 超便宜才2690元的. (19) [Subtitle]: CMF Watch Pro 2的智慧錶. (20) [Subtitle]: 有支援包含心率. (21) [Subtitle]: 血氧運動的監測功能. (22) [Subtitle]: 錶面它其實有超多的變化. (23) [Subtitle]: 甚至於連錶圈都可以交換. (24) [Subtitle]: 還可以自行更換一般的錶帶. (25) [Subtitle]: 最誇張的是這個手錶的續航呢. (26) [Subtitle]: 可以誇張到11天之久！. (27) [Subtitle]: 更讚的是它也支援一般的通話外. (28) [Subtitle]: 還可以直接接聽LINE的通話！",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting products.",
+        "mainCharacterDescription": "A middle-aged man wearing a black long-sleeved sweater with a 'ROOTS CANADA' logo, a grey flat cap, and glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A blurred indoor studio setting with a shelf containing product boxes from brands like Nothing and CMF, along with some decorative items.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Headphones / earbuds",
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nothing",
+          "CMF",
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with high energy and clear articulation, introducing a product. The background music is an upbeat electronic track with a steady, driving beat. A sharp 'whoosh' sound effect marks a visual transition. (2) The speaker continues with an enthusiastic tone, highlighting the brand name. A subtle 'pop' sound effect is heard during a cut. The music remains consistent in tempo and volume. (3) A distinct mechanical clicking sound is heard as the speaker mentions a physical dial. The music volume ducks slightly to ensure the speaker's explanation is prominent. (4) A bright 'ding' sound effect occurs as a key feature is mentioned. The speaker's pitch rises slightly to convey excitement. (5) The speaker's voice remains the dominant audio layer, with the upbeat music providing a constant energetic backdrop. Another 'whoosh' transition sound is heard as the focus shifts to a second product. (6) A phone ringing sound effect is integrated into the mix, followed by the speaker's voice confirming the watch's call-answering capability. The music continues at a steady pace until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 3.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Product 1 Features -> Product 2 Features -> Conclusion/CTA",
+      "mainPurpose": "To review and promote the CMF Buds Pro 2 and CMF Watch Pro 2, highlighting their high cost-performance ratio, unique design features like the functional dial on the earbud case, and various technical specifications including battery life and health monitoring capabilities.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The creator is actively demonstrating and praising the features of specific CMF products, mentioning prices and availability in Taiwan.",
+      "endorsementObject": [
+        "CMF",
+        "Nothing"
+      ]
+    },
+    "freeDescribe": "The video employs a high-energy tech influencer style, utilizing fast-paced editing, bright studio lighting, and enthusiastic narration to maintain viewer engagement while delivering product information."
+  }
+}

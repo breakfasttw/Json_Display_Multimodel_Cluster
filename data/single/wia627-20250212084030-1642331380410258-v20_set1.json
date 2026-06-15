@@ -1,0 +1,299 @@
+{
+  "videoName": "wia627-20250212084030-1642331380410258-01.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 233,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark hair and glasses, wearing a black tank top, stands in a modern, well-lit kitchen. He holds a large box of \"brüst\" coffee protein drinks. The background shows a clean, minimalist living space with a wooden dining table and white walls. (2) The man walks through the house, passing a glass display cabinet filled with numerous small colorful figurines. He moves towards a staircase with grey stone steps and white railings. The camera follows his movement, providing a first-person perspective of the home's layout. (3) He reaches a bedroom where a ginger cat is resting on a wooden shelf. He reaches out with his hand, which has a watch and a tattoo, to gently pet the cat's head. The room is bright with a bed and some toys visible. (4) On a balcony area with a glass roof, the man pours cat food from a blue bag into a white bowl. Several cats, including a grey and white one and a calico one, gather around to eat. The area is clean and sunlit. (5) The man is now in a room filled with collectibles, posters, and a yellow chair. He has changed into a white Dodgers baseball jersey and a black cap. He adjusts his glasses and speaks directly to the camera, looking enthusiastic. (6) He enters a garage and gets into a white Tesla. The camera shows the car's interior, including the large touchscreen and white seats. He drives through a residential area with traditional Taiwanese houses under a clear blue sky. (7) Walking down a narrow street, the man carries a white plastic bag of food and a large bottle of Coca-Cola. He is still wearing the Dodgers jersey and cap. The lighting suggests it is late afternoon or early evening. (8) He enters a room decorated for a birthday. There are blue and white balloons, a \"HAPPY BIRTHDAY\" banner, and a wall covered with photos of a child. A young boy in a matching blue Dodgers shirt is playing on the floor. (9) The boy sits at a table and watches a video on a smartphone. The video shows a newborn baby in a hospital setting. A woman in a beige top stands next to him, watching the video as well. (10) A white cake topped with fresh strawberries is placed on the table. The boy uses a blue plastic knife to cut a slice. He takes a small piece of dark chocolate, eats it, and makes a funny, disgusted face, causing the adults to laugh.",
+      "text_narrative_log": "(1) [Subtitle]: 這天是happy生日 他這幾天都住在外公外婆家. [Logo]: 人類發展協會. (2) [Subtitle]: 最近地震頻繁 家裡的扭蛋櫃早已面目全非. (3) [Subtitle]: 泡妃又在等我上樓 因為她想吃我倒的飼料. (4) [Subtitle]: 阿湯❤️. (5) [Subtitle]: 泡妃還忘了自己是流浪貓 每天都會很職業病地來我房間門口討吃的 但是2樓明明有自動餵食機 她還是喜歡這樣的儀式感. (6) [Subtitle]: 今天岳父給Happy穿了大谷翔平的球帽跟衣服 所以我決定跟他穿父子裝. (7) [Subtitle]: 準備去市區拿披薩跟蛋糕. (8) [Subtitle]: 林太太花店的姑姑會幫Happy佈置生日場地 #花花花店. (9) [Subtitle]: 大家各司其職 準備出發. (10) [Subtitle]: 雖然林太太有訂披薩跟蛋糕 但我還是買了胖老爹 單純只是因為我想吃😂. (11) [Subtitle]: 他終於完成了他的夢想 林太太說他五歲之後就可以吃巧克力了. (12) [Subtitle]: 他媽媽特地幫他準備了100%的濃巧克力👍. (13) [Subtitle]: 他吃完的感想是... (14) [Variety]: 有點苦🤢. (15) [Variety]: 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator, 1 child, 3 others at the party.",
+        "mainCharacterDescription": "The man wears a black tank top initially, then a white Dodgers jersey, black cap, and glasses. The boy wears a blue Dodgers shirt and a matching cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Outdoor Street",
+          "Car / Van Interior",
+          "Garage"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern home interior with kitchen, stairs, bedroom, and balcony. Urban street with houses. Interior of a Tesla. Party room with balloons and photos.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Coffee",
+          "Pizza",
+          "Cake",
+          "Fried chicken",
+          "Chocolate",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Dodgers",
+          "Coca-Cola",
+          "brüst",
+          "Tesla",
+          "HOKA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Door / Cabinet Open-Close",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Cross-fade"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with upbeat, acoustic guitar-driven background music. A man's voice provides a friendly narration in Mandarin. There are soft sounds of movement and a box being handled. (2) As the man walks, footsteps are audible. The music continues at a steady tempo. He speaks to a cat, his tone becoming more affectionate and higher in pitch. (3) Sounds of a plastic bag rustling and cat food hitting a bowl are heard. The man continues his casual narration. (4) The scene shifts to a car; the engine hum is faint. The man's voice is clear, explaining his plans. (5) At the party, background chatter and laughter from multiple people are audible. The music remains consistent. (6) A video plays on a phone within the audio track, featuring a baby crying and people talking. (7) The group sings \"Happy Birthday\" in Mandarin. There is applause and cheering. (8) The boy speaks, his voice high-pitched and excited. The man laughs. The sound of a cake being cut and the boy's reaction to the chocolate (a disgusted sound) are captured."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Family / Kids",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Tainan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 5.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Preparation -> Journey -> Celebration",
+      "mainPurpose": "The video documents a father's day preparing for and celebrating his son's 5th birthday. It captures personal moments like feeding cats, choosing matching outfits, and the family gathering, aiming to share a heartwarming family milestone.",
+      "visualEmotion": [
+        "warm",
+        "joyful",
+        "humorous"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A wholesome family vlog with high production value, focusing on emotional connection and daily life details."
+  }
+}

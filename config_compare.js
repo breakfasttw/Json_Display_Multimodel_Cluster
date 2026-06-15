@@ -85,6 +85,47 @@ const compareGroupDescribe = [
         videoUrl: "",
         enable: true,
     },
+
+    {
+        groupName:
+            "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        groupDisplayName:
+            "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        videoUrl: "https://www.instagram.com/reel/DFQbT3mzwSA",
+        enable: true,
+    },
+
+    {
+        groupName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
+        groupDisplayName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
+        videoUrl:
+            "http://140.109.171.245:8080/stream/cocowine0205/cocowine0205-20250217100535-1617257429400233.mp4?token=Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
+        enable: true,
+    },
+
+    {
+        groupName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
+        groupDisplayName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
+        videoUrl:
+            "http://140.109.171.245:8080/stream/2uncle987/2uncle987-20250311234240-1201464022133636.mp4?token=Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
+        enable: true,
+    },
+
+    {
+        groupName: "【保守 vs 適中】Tim哥 - 開箱降噪耳機 - v20",
+        groupDisplayName: "【保守 vs 適中】Tim哥 - 開箱降噪耳機 - v20",
+        videoUrl:
+            "http://140.109.171.245:8080/stream/3ctim/3ctim-20250219172139-1661366341964183.mp4?token=Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
+        enable: true,
+    },
+
+    {
+        groupName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
+        groupDisplayName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
+        videoUrl:
+            "http://140.109.171.245:8080/stream/chuchumei__/chuchumei__-20250805105548-1276250431031515.mp4?token=Ij56g2T8wER55H692A04PYK9QMV2I46UPr9U7Q2W0M5E1X3T2AP4ETUIF2NO1R9B7I3LEVPIM",
+        enable: true,
+    },
 ];
 
 // Compare 模式的檔案設定 (已移除 model 欄位)
@@ -326,32 +367,129 @@ const compareFileDescribe = [
         video_url: "https://www.instagram.com/reel/DJQjELQvXYu",
         structure_version: "json_structure_14.json",
     },
+
+    {
+        fileName: "wia627-20250212084030-1642331380410258-v20_set1.json",
+        fileDisplayName: "保守",
+        groupDisplayName:
+            "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        url: "./data/single/wia627-20250212084030-1642331380410258-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+
+    {
+        fileName: "wia627-20250212084030-1642331380410258-v20_set3.json",
+        fileDisplayName: "適中",
+        groupDisplayName:
+            "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+        url: "./data/single/wia627-20250212084030-1642331380410258-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+
+    {
+        fileName: "cocowine0205-20250217100535-1617257429400233-v20_set1.json",
+        fileDisplayName: "保守",
+        groupDisplayName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
+        url: "./data/single/cocowine0205-20250217100535-1617257429400233-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+    {
+        fileName: "cocowine0205-20250217100535-1617257429400233-v20_set3.json",
+        fileDisplayName: "適中",
+        groupDisplayName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
+        url: "./data/single/cocowine0205-20250217100535-1617257429400233-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+
+    {
+        fileName: "2uncle987-20250311234240-1201464022133636-v20_set1.json",
+        fileDisplayName: "保守",
+        groupDisplayName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
+        url: "./data/single/2uncle987-20250311234240-1201464022133636-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+    {
+        fileName: "2uncle987-20250311234240-1201464022133636-v20_set3.json",
+        fileDisplayName: "適中",
+        groupDisplayName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
+        url: "./data/single/2uncle987-20250311234240-1201464022133636-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+
+    {
+        fileName: "3ctim-20250219172139-1661366341964183-v20_set1.json",
+        fileDisplayName: "保守",
+        groupDisplayName: "【保守 vs 適中】Tim哥 - 開箱降噪耳機 - v20",
+        url: "./data/single/3ctim-20250219172139-1661366341964183-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+    {
+        fileName: "3ctim-20250219172139-1661366341964183-v20_set3.json",
+        fileDisplayName: "適中",
+        groupDisplayName: "【保守 vs 適中】Tim哥 - 開箱降噪耳機 - v20",
+        url: "./data/single/3ctim-20250219172139-1661366341964183-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+
+    {
+        fileName: "chuchumei__-20250805105548-1276250431031515-v20_set1.json",
+        fileDisplayName: "保守",
+        groupDisplayName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
+        url: "./data/single/chuchumei__-20250805105548-1276250431031515-v20_set1.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
+    {
+        fileName: "chuchumei__-20250805105548-1276250431031515-v20_set3.json",
+        fileDisplayName: "適",
+        groupDisplayName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
+        url: "./data/single/chuchumei__-20250805105548-1276250431031515-v20_set3.json",
+        video_url: "",
+        structure_version: "json_structure_20.json",
+    },
 ];
 
 // {
-//     groupName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
-//     groupDisplayName: "Joeman-輕快動感敘述旅遊 vs 吳斐莉-和緩敘述旅遊",
+//     groupName:
+//         "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
+//     groupDisplayName:
+//         "【保守 vs 適中】上發條俱樂部 -幫小孩慶生 (有貓叫、多場景) - v20",
 //     videoUrl: "",
 //     enable: true,
 // },
 
 // {
-//     groupName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
-//     groupDisplayName: "阿滴-輕快無bgm逛校園 vs 肉比頭 - 和緩有bgm旅遊",
+//     groupName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
+//     groupDisplayName: "【保守 vs 適中】可可酒精 -好事多週報 - v20",
 //     videoUrl: "",
 //     enable: true,
 // },
 
 // {
-//     groupName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
-//     groupDisplayName: "純 K-POP 舞蹈無人聲 vs 純人聲無BGM 2D 圖文",
+//     groupName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
+//     groupDisplayName: "【保守 vs 適中】二伯 - 小孩家族旅遊 - v20",
 //     videoUrl: "",
 //     enable: true,
 // },
 
 // {
-//     groupName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
-//     groupDisplayName: "歡樂幫小孩慶生 vs 虔誠媽祖繞境",
+//     groupName: "【保守 vs 適中】Tim哥 - 開香降噪耳機 - v20",
+//     groupDisplayName: "【保守 vs 適中】Tim哥 - 開香降噪耳機 - v20",
+//     videoUrl: "",
+//     enable: true,
+// },
+
+// {
+//     groupName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
+//     groupDisplayName: "【保守 vs 適中】啾啾妹 - 圖文創作 - v20",
 //     videoUrl: "",
 //     enable: true,
 // },

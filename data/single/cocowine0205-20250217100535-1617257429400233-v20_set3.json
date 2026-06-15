@@ -1,0 +1,298 @@
+{
+  "videoName": "cocowine0205-20250217100535-1617257429400233-05.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The opening phase presents a vibrant pink and white floral background overlaid with the large red and blue Costco Wholesale logo. A small cartoon male character with a surprised expression is positioned on the left side of a pink banner. Large white and pink Chinese text fills the center, indicating a weekly special report for February 10th to 16th. Bright, saturated lighting enhances the festive promotional atmosphere. (2) The sequence shifts to a warehouse setting with high industrial shelves. Stacks of Kleenex toilet paper in purple packaging and Arm & Hammer cat litter in orange and blue boxes are displayed prominently. The camera performs a slight push-in on the products. Bright white text overlays specify price reductions. The flooring is polished concrete, and the lighting is even, bright studio-grade supermarket illumination. (3) The scene transitions to the refrigerated section. Plastic-wrapped trays of Australian French lamb chops are neatly arranged in silver metal cooling racks. The meat is bright red with white marbling. Large yellow and red text highlights a 200-dollar discount. The background shows other meat products and the clean, white interior of the refrigerated display case with overhead fluorescent lighting. (4) A rapid montage of snack and candy aisles follows. Packages of shredded squid, Snickers minis, almond crisps, and Bee Cheng Hiang beef jerky are shown stacked in their original shipping cartons. The camera captures these from a medium shot perspective, often slightly handheld. Colorful packaging dominates the frame, complemented by bold variety-show style text detailing specific prices and savings. (5) The focus moves to the beverage and pantry section. Glass jars of colorful fruit candies, tubes of Pringles, boxes of Bisco biscuits, and elegant Godiva chocolate boxes are showcased. The items are neatly stacked on warehouse pallets. Text overlays continue to pop up in the center-right of the screen, identifying brands and promotional prices against the backdrop of the vast, high-ceilinged warehouse environment. (6) The video highlights alcoholic and fresh items. Bottles of Glenmorangie whiskey in orange boxes, Bernini sparkling wine, and containers of Kuze Fuku snacks appear. This is followed by close-ups of fresh black grapes, blueberries in plastic clamshells, and bags of white potatoes. The lighting remains bright and natural for a retail space, emphasizing the freshness and quantity of the produce on display. (7) The final phase features dairy, frozen, and health products. Stacks of banana milk, Yakult, and large tubs of yogurt are shown in refrigerated units. This is followed by bags of dumplings, boxes of Starbucks coffee, and large containers of Quaker oats. The video concludes with packs of Always sanitary pads and Centrum vitamin bottles. The camera uses quick cuts to maintain a fast rhythm, with price text consistently appearing on the right.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 比爾特派員 好市多 每週特價速報 02/10~02/16 記得追蹤我們. (2) [Subtitle]: 舒潔三層抽取式衛生紙 原價419 -84 特價335. (3) [Subtitle]: ARM & HAMMER 加強除臭貓砂 原價525 -105 特價420. (4) [Subtitle]: 澳洲法式小羊排 原價1449/kg -200 特價1249/kg. (5) [Subtitle]: 北海鱈魚香絲 原價299 -50 特價249. (6) [Subtitle]: 士力架迷你花生巧克力 原價469 -100 特價369. (7) [Subtitle]: 大田海洋鱈魚杏仁脆片 原價299 -60 特價239. (8) [Subtitle]: 美珍香休閒金尊肉乾 原價469 -95 特價374. (9) [Subtitle]: 科克蘭牛奶巧克力捲餅 原價489 -100 特價389. (10) [Subtitle]: QUEEN’S DELIGHT 熱帶水果風味糖 原價279 -60 特價219. (11) [Subtitle]: CALBEE HARVEST SNAPS 鹽味豌豆脆果 原價499 -90 特價359 特價至2/13. (12) [Subtitle]: 品客洋芋片原味 原價299 -60 特價239. (13) [Subtitle]: GLICO 綜合乳酸菌夾心餅乾 原價399 -80 特價319. (14) [Subtitle]: GODIVA 經典大師綜合含餡巧克力 原價529 -110 特價419. (15) [Subtitle]: GUDRUN MINI CUBES 綜合巧克力禮盒 原價629 -232 特價397 [Variety]: 限時特價桃園南崁店. (16) [Subtitle]: 格蘭傑蘋果白蘭地桶威士忌 原價1899 -402 特價1497 [Variety]: 限時特價桃園南崁店. (17) [Subtitle]: BERNINI 微甜氣泡白葡萄酒 原價799 -160 特價639. (18) [Subtitle]: 久世福日式刀削章魚鱈魚條 原價329 -66 特價263. (19) [Subtitle]: 秘魯無籽黑葡萄 原價299 -50 特價249. (20) [Subtitle]: 空運智利藍莓 原價359 -60 特價299. (21) [Subtitle]: 澳洲白玉馬鈴薯 原價199 -40 特價159. (22) [Subtitle]: 生蔥 原價199 -49 特價150 [Variety]: 限時特價桃園南崁店. (23) [Subtitle]: BINGGRAE 香蕉牛奶 草莓牛奶 原價639 -130 特價509. (24) [Subtitle]: 養樂多300活菌發酵乳 原價299 -60 特價239. (25) [Subtitle]: 味全簡單點鮮奶優格 原價379 -80 特價299. (26) [Subtitle]: 五木經濟包營養麵 原價279 -60 特價219. (27) [Subtitle]: 五木細關東麵 原價295 -60 特價235. (28) [Subtitle]: 法式肉桂奶油酥9入 原價399 -80 特價319. (29) [Subtitle]: TRYGOODZ 翠果子綜合米果 原價285 -60 特價225 特價至2/13. (30) [Subtitle]: 龍虎石斑 原價679/kg -100 特價579/kg. (31) [Subtitle]: 冷藏馬祖淡菜 原價429 -80 特價349. (32) [Subtitle]: 石安牧場香滷蛋白丁 原價329 -65 特價264. (33) [Subtitle]: JUVER 蘋果汁 原價399 -80 特價319 特價至2/12. (34) [Subtitle]: 西雅圖極品嚴焙大濾掛咖啡 原價699 -140 特價559. (35) [Subtitle]: 不倒翁金螃蟹海鮮風味拉麵 原價399 -80 特價319. (36) [Subtitle]: 健司帕蒂小蛋糕 原價339 -70 特價269. (37) [Subtitle]: VITALI 維大力汽水 原價249 -50 特價199. (38) [Subtitle]: BIBIGO 冷凍泡菜起司飯糰 原價419 -90 特價329. (39) [Subtitle]: 灣仔碼頭高麗菜豬肉水餃 原價559 -120 特價439. (40) [Subtitle]: STARBUCKS 中度烘焙即溶咖啡 原價499 -100 特價399. (41) [Subtitle]: STARBUCKS 早餐綜合咖啡豆 原價769 -200 特價569. (42) [Subtitle]: 桂格有機大麥麥片 原價379 -80 特價299. (43) [Subtitle]: 桂格燕麥片紅豆紫米風味 原價499 -100 特價399. (44) [Subtitle]: 好自在清新淨味液體衛生棉 原價549 -150 特價399. (45) [Subtitle]: 善存女性綜合維他命 男性綜合維他命 原價1549 -310 特價1239.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "No real people are visible in the frames; only products and text are shown.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The background consistently features the interior of a Costco warehouse. High industrial metal shelving units are visible, filled with bulk-packaged goods and original shipping cartons. Refrigerated glass cases and open cooling units for meat and produce are also shown. The environment is spacious with a utilitarian, warehouse-style aesthetic.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Very fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Simplified Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Snack / chips / candy",
+          "Dessert / cake / cookies",
+          "Fruit",
+          "Vegetables",
+          "Milk",
+          "Coffee",
+          "Beverage / juice",
+          "Alcohol",
+          "Noodles / ramen / pasta"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kleenex",
+          "Arm & Hammer",
+          "Snickers",
+          "Bee Cheng Hiang",
+          "Kirkland",
+          "Calbee",
+          "Pringles",
+          "Glico",
+          "Godiva",
+          "Glenmorangie",
+          "Bernini",
+          "Binggrae",
+          "Wei-Chuan",
+          "Starbucks",
+          "Quaker",
+          "Always",
+          "Centrum"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_vocal_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy male narrator introducing the Costco weekly specials. His voice is bright, with high arousal and a friendly, sales-oriented tone. Background music (BGM) consists of a driving electronic pop beat at approximately 128 BPM, featuring synthetic percussive textures and a stable major mode. No ambient noise is present, indicating a studio recording. (2) As the visuals transition through household items like toilet paper and cat litter, the narrator maintains a rapid speech rate, enunciating each product name and price with precision. The BGM continues steadily in the background, providing a rhythmic pulse that matches the fast visual editing. A subtle 'ding' sound effect occasionally punctuates the price reveals. (3) The middle phase focuses on a long list of snacks and beverages. The narrator's pitch variability is high as he emphasizes the discount amounts. The interplay between his excited vocal delivery and the upbeat synthesizer melody creates a sense of urgency and excitement. The speech density is extremely high, with almost no pauses between mentions of items like Snickers and Pringles. (4) In the section covering fresh produce and alcohol, the narrator's tone remains professional yet enthusiastic. He seamlessly moves from describing grapes to whiskey. The BGM maintains its consistent volume and energy level, never overshadowing the primary vocal signal, which remains clear with high fidelity and strong harmonic clarity. (5) The final phase covers pantry staples and health supplements. The narrator's intensity remains consistent until the very end of the recording. The rapid-fire delivery concludes without a final outro, ending abruptly on the mention of vitamins. The overall production is a hyper-dense social-media style edit where the audio track is precisely synced to the rapid visual cuts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.95,
+      "editingPace": "Very Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence -> Evidence",
+      "mainPurpose": "The video serves as a high-speed informational advertisement designed to showcase a large volume of discounted products available at Costco within a specific timeframe. By using rapid visual cuts, high-energy narration, and constant price comparisons, it aims to create a sense of 'FOMO' (fear of missing out) and encourage immediate shopping trips among its target audience.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "The entire video is dedicated to promoting specific products and brands currently on sale at Costco Wholesale.",
+      "endorsementObject": [
+        "Costco Wholesale",
+        "Kleenex",
+        "Arm & Hammer",
+        "Godiva",
+        "Starbucks"
+      ]
+    },
+    "freeDescribe": "Hyper-fast promotional content optimized for social media engagement, prioritizing information density over cinematic aesthetics."
+  }
+}

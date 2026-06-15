@@ -1,0 +1,296 @@
+{
+  "videoName": "cocowine0205-20250217100535-1617257429400233-04.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 88,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a vibrant title card featuring the Costco Wholesale logo prominently at the top. A cartoon character resembling Wreck-It Ralph is positioned on the left, looking surprised. Large, stylized pink and yellow text in Traditional Chinese announces the 'Costco Weekly Special Report' for the dates February 10th to February 16th. The background is a soft-focus image of white and red roses, suggesting a Valentine's Day theme. (2) The scene transitions rapidly through various aisles of a Costco warehouse. Each shot is a medium-close up of a specific product on a shelf. For example, stacks of Kleenex toilet paper are shown, followed by large bags of Arm & Hammer cat litter. Each product is accompanied by a large, centered text overlay detailing the item name, original price, discount amount, and final special price in bold colors. (3) The montage continues through the refrigerated and fresh food sections. Trays of Australian lamb chops are displayed in a glass case, followed by packages of North Sea shredded squid. The camera remains mostly static for each brief shot, relying on fast cuts to maintain a high-energy pace. The lighting is bright and even, typical of a large retail environment. (4) The final sequence covers a wide array of snacks, beverages, and household items. Brands like Snickers, Godiva, Starbucks, and Quaker are featured. The background consistently shows the industrial shelving and bulk packaging characteristic of a warehouse store. The video maintains its rapid editing style until the end, providing a comprehensive look at the week's deals.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 比爾特派員. [Slogan]: 好市多 每週特價速報 02/10~02/16 記得追蹤我們. (2) [Subtitle]: 舒潔三層 抽取式衛生紙. [Slogan]: 原價419 -84 特價335. (3) [Subtitle]: ARM & HAMMER 加強除臭貓砂. [Slogan]: 原價525 -105 特價420. (4) [Subtitle]: 澳洲法式小羊排. [Slogan]: 原價1449/kg -200 特價1249/kg. (5) [Subtitle]: 北海鱈魚香絲. [Slogan]: 原價299 -50 特價249. (6) [Subtitle]: 士力架 迷你花生巧克力. [Slogan]: 原價469 -100 特價369. (7) [Subtitle]: 大田海洋 鱈魚杏仁脆片. [Slogan]: 原價299 -60 特價239. (8) [Subtitle]: 美珍香 休閒金尊肉乾. [Slogan]: 原價469 -95 特價374. (9) [Subtitle]: 科克蘭 牛奶巧克力捲餅. [Slogan]: 原價489 -100 特價389. (10) [Subtitle]: QUEEN'S DELIGHT 熱帶水果風味糖. [Slogan]: 原價279 -60 特價219. (11) [Subtitle]: CALBEE HARVEST SNAPS 鹽味豌豆脆果. [Slogan]: 原價499 -90 特價359 特價至2/13. (12) [Subtitle]: 品客洋芋片 原味. [Slogan]: 原價299 -60 特價239. (13) [Subtitle]: GLICO 綜合乳酸菌夾心餅乾. [Slogan]: 原價399 -80 特價319. (14) [Subtitle]: GODIVA 經典大師 綜合含餡巧克力. [Slogan]: 原價529 -110 特價419. (15) [Subtitle]: GUDRUN MINI CUBES 綜合巧克力禮盒. [Slogan]: 原價629 -232 特價397 限時特價桃園南崁店. (16) [Subtitle]: 格蘭傑 蘋果白蘭地桶威士忌. [Slogan]: 原價1899 -402 特價1497 限時特價桃園南崁店. (17) [Subtitle]: BERNINI 微甜氣泡白葡萄酒. [Slogan]: 原價799 -160 特價639. (18) [Subtitle]: 久世福 日式刀削章魚 鱈魚條. [Slogan]: 原價329 -66 特價263. (19) [Subtitle]: 秘魯無籽黑葡萄. [Slogan]: 原價299 -50 特價249. (20) [Subtitle]: 空運智利藍莓. [Slogan]: 原價359 -60 特價299. (21) [Subtitle]: 澳洲白玉馬鈴薯. [Slogan]: 原價199 -40 特價159. (22) [Subtitle]: 生蔥. [Slogan]: 原價199 -49 特價150 限時特價桃園南崁店. (23) [Subtitle]: BINGGRAE 香蕉牛奶 草莓牛奶 (保久調味乳). [Slogan]: 原價639 -130 特價509. (24) [Subtitle]: 養樂多300 活菌發酵乳. [Slogan]: 原價299 -60 特價239. (25) [Subtitle]: 味全 簡單點鮮奶優格. [Slogan]: 原價379 -80 特價299. (26) [Subtitle]: 五木經濟包營養麵. [Slogan]: 原價279 -60 特價219. (27) [Subtitle]: 五木細關東麵. [Slogan]: 原價295 -60 特價235. (28) [Subtitle]: 法式肉桂奶油酥 9入. [Slogan]: 原價399 -80 特價319. (29) [Subtitle]: TRYGOODZ 翠果子綜合米果. [Slogan]: 原價285 -60 特價225 特價至2/13. (30) [Subtitle]: 龍虎石斑. [Slogan]: 原價679/kg -100 特價579/kg. (31) [Subtitle]: 冷藏馬祖淡菜. [Slogan]: 原價429 -80 特價349. (32) [Subtitle]: 石安牧場 香滷蛋白丁. [Slogan]: 原價329 -65 特價264. (33) [Subtitle]: JUVER 蘋果汁. [Slogan]: 原價399 -80 特價319 特價至2/12. (34) [Subtitle]: 西雅圖 極品嚴焙大濾掛咖啡. [Slogan]: 原價699 -140 特價559. (35) [Subtitle]: 不倒翁 金螃蟹海鮮風味拉麵. [Slogan]: 原價399 -80 特價319. (36) [Subtitle]: 健司 帕蒂小蛋糕. [Slogan]: 原價339 -70 特價269. (37) [Subtitle]: VITALI 維大力汽水. [Slogan]: 原價249 -50 特價199. (38) [Subtitle]: BIBIGO 冷凍泡菜起司飯糰. [Slogan]: 原價419 -90 特價329. (39) [Subtitle]: 灣仔碼頭 高麗菜豬肉水餃. [Slogan]: 原價559 -120 特價439. (40) [Subtitle]: STARBUCKS 中度烘焙即溶咖啡. [Slogan]: 原價499 -100 特價399. (41) [Subtitle]: STARBUCKS 早餐綜合咖啡豆. [Slogan]: 原價769 -200 特價569. (42) [Subtitle]: 桂格 有機大麥麥片. [Slogan]: 原價379 -80 特價299. (43) [Subtitle]: 桂格燕麥片 紅豆紫米風味. [Slogan]: 原價499 -100 特價399. (44) [Subtitle]: 好自在 清新淨味液體衛生棉. [Slogan]: 原價549 -150 特價399. (45) [Subtitle]: 善存 女性綜合維他命 男性綜合維他命. [Slogan]: 原價1549 -310 特價1239.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "No real humans are visible; only a cartoon character in the intro.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The background consists of various aisles within a Costco warehouse store, featuring industrial metal shelving, bulk-packaged goods, refrigerated display cases for meat and seafood, and bakery display tables.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Fruit",
+          "Vegetables",
+          "Snack / chips / candy",
+          "Dessert / cake / cookies",
+          "Beverage / juice",
+          "Alcohol",
+          "Coffee",
+          "Dairy / yogurt / cheese",
+          "Noodles / ramen / pasta",
+          "Bread / pastry"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kleenex",
+          "Arm & Hammer",
+          "Snickers",
+          "Bee Cheng Hiang",
+          "Kirkland",
+          "Pringles",
+          "Glico",
+          "Godiva",
+          "Starbucks",
+          "Quaker",
+          "Always",
+          "Centrum"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy male narrator begins speaking immediately with a bright, enthusiastic tone. He introduces the 'Costco Weekly Special Report' with clear articulation and a fast speech rate. Simultaneously, an upbeat electronic pop track with a tempo of approximately 128 BPM starts, featuring a driving four-on-the-floor kick drum and bright synthesizer melodies. (2) As the visual cuts begin, the narrator's voice becomes a rapid-fire delivery of product names and prices. His pitch is moderate but exhibits high variability to maintain listener engagement. The BGM remains at a consistent volume, sitting just below the vocal track in the mix, providing a rhythmic pulse that matches the editing pace. (3) The audio continues with this dense information flow. There are no significant pauses in the narration, creating a sense of urgency and excitement. Subtle 'whoosh' sound effects are occasionally heard during transitions between different product categories, adding a layer of professional sound design to the fast-paced edit. (4) The track concludes with the narrator's final price announcement. The BGM maintains its energy throughout, with no fade-out or change in texture, ending abruptly with the final visual frame. The overall mix is clean and studio-quality, with high signal-to-noise ratio and no audible environmental distractions from the warehouse."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taoyuan"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.95,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Intro -> Product List -> Outro",
+      "mainPurpose": "To inform viewers about current weekly discounts at Costco Taiwan (specifically the Nankan store) and encourage them to visit and follow the social media account for more updates.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Explicit",
+        "Full"
+      ],
+      "endorsementCues": "Directly listing products and prices from a specific retailer (Costco) with promotional language.",
+      "endorsementObject": [
+        "Costco"
+      ]
+    },
+    "freeDescribe": "A high-energy, fast-paced promotional video typical of social media 'deal hunters'. The use of a cartoon character and bright text overlays is designed to grab attention quickly."
+  }
+}

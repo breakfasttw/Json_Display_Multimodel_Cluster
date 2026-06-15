@@ -1,0 +1,302 @@
+{
+  "videoName": "2uncle987-20250311234240-1201464022133636-01.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 77,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women and two young boys are standing in front of a tall grey stone pillar with Japanese characters carved into it. One woman wears a beige trench coat and waves at the camera with a big smile. The other woman wears a brown puffer jacket and holds a phone. The two boys are positioned in front of them, wearing colorful, multi-patterned fleece jackets. The background consists of tall green hedges and a blue sky with soft white clouds. (2) A young boy with glasses is looking closely at a wooden shelf filled with dozens of red Daruma dolls of various sizes. The setting is a traditional Japanese wooden structure. (3) A close-up shot shows a wooden sign with black text on a white background, listing admission fees in Japanese and English. (4) A young boy sits on a gravel path, smiling and making a peace sign, with a small red doll next to him. (5) A woman in a beige coat walks with the two boys through a temple courtyard filled with many visitors. Traditional red Japanese temple gates and buildings are visible in the background. (6) The woman stands by a large pond with a scenic view of forested hills and a red bridge. She points toward the scenery while talking. (7) Close-up shots show children's feet climbing stone stairs, followed by the boys making peace signs in front of a wall of Daruma dolls. (8) A wall of wooden plaques with Japanese calligraphy is shown. Small red dolls are tucked into crevices of the wooden beams. (9) A boy squats down to look at a cluster of small dolls placed in a hole in a stone wall. Cartoonish white mice are digitally overlaid onto the dolls. (10) Wide shots capture hundreds of small red dolls placed along rooftops and throughout the temple grounds. (11) The woman holds up blank postcards at a stamp station. A boy is seen pressing a large wooden stamp onto a card. (12) A large, ornate red Japanese temple hall with gold accents stands under a cloudy sky. (13) The family walks past stone lanterns. A small waterfall flows into a pond near a red torii gate. (14) Inside a brightly lit souvenir shop, the woman and boys carry shopping baskets filled with packaged snacks and merchandise. They show off their purchases with excited expressions. (15) The family walks toward the camera on a path near the entrance. The woman smiles and speaks directly to the lens.",
+      "text_narrative_log": "(1) [Variety]: 到了!!. (2) [Slogan]: 大阪必去景點. [Subtitle]: 勝尾寺. (3) [Subtitle]: 入園門票. (4) [Subtitle]: 看他們變成老鼠在挖洞. (5) [Slogan]: 全寺院6處可蒐集明信片蓋章. (6) [Subtitle]: 勝尾寺紀念品店. (7) [Variety]: (大推必買!!大人小孩都愛). (8) [Slogan]: 入園時間：08:00-17:00.",
+      "visual_human_presence": {
+        "totalHumanCount": 18,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 10,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 female main creator, 1 female companion, 2 children, and approximately 14 other tourists in the background.",
+        "mainCharacterDescription": "A woman in a beige trench coat and blue jeans; a woman in a brown puffer jacket; two young boys wearing multi-colored (yellow, brown, white, blue) fleece jackets and glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Temple / Shrine / Religious Site",
+          "Tourist Attraction / Landmark",
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Mountain / Forest / Trail",
+          "Plain / Flat Urban",
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Traditional Japanese temple architecture with red pagodas and gates, stone lanterns, a scenic pond with a red bridge, forested mountains, and a modern, well-lit interior of a gift shop.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Partly cloudy"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Wide shot",
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Bicycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Katsuo-ji"
+        ],
+        "brandLogos": [
+          "Adidas",
+          "Tom Sawyer"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Guitar",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Vocals: A burst of energetic greetings from multiple voices, characterized by high pitch and enthusiastic valence. Music: Upbeat acoustic pop music with a prominent guitar melody and steady drum beat begins. SFX: None. (2) Vocals: The female narrator begins speaking in a friendly, conversational Mandarin, describing the appeal of Osaka. Music: The track remains steady in the background. SFX: A soft 'whoosh' transition effect coincides with the first visual cut. (3) Vocals: Children's voices are heard laughing in the background mix. Music: Percussive elements become more driving. SFX: A 'ding' sound effect highlights the appearance of on-screen text overlays. (4) Vocals: The narrator explains the temple's activities with clear articulation and high emotional arousal. Music: Harmonic progression remains stable and positive. SFX: The sound of a mechanical wooden stamp 'thud' is captured as the boy stamps his card. (5) Vocals: High-intensity excitement as the family shows their shopping baskets; voices overlap with laughter. Music: Tempo remains consistent at approximately 122 BPM. SFX: Distinct rustling of plastic bags and the sound of shopping baskets being moved. (6) Vocals: The narrator concludes with a warm, lower-arousal recommendation of the site. Music: Slowly fades out with a final melodic flourish. SFX: A bright notification-style chime marks the end of the video."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Travel",
+        "Food Review",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Osaka"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.83,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook/Greeting -> Highlights of Temple Scenic Views -> Interactive Activities -> Shopping Experience -> Final Recommendation.",
+      "mainPurpose": "To provide a comprehensive travel guide and recommendation for Katsuo-ji temple in Osaka, emphasizing its visual uniqueness, family-friendly activities, and shopping opportunities.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative",
+        "joyful"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Detailed showcasing of specific souvenir shop products, pricing info, and highly positive personal testimonial.",
+      "endorsementObject": [
+        "Katsuo-ji",
+        "Katsunjaga"
+      ]
+    },
+    "freeDescribe": "A highly engaging travel vlog that combines high-energy editing, detailed information, and authentic family interaction to appeal to tourists."
+  }
+}

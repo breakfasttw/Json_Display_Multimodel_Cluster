@@ -1,0 +1,271 @@
+{
+  "videoName": "chuchumei__-20250805105548-1276250431031515-05.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 27,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The animation begins with a cartoon girl with dark hair in two buns, wearing a pink dress. She stands against a plain white background with her arms crossed, looking extremely annoyed with furrowed brows and a small frown. (2) The scene cuts to an elderly woman sitting in a wooden rocking chair. She wears a red dress and has grey hair tied up. The background has a textured, vintage paper appearance. She looks calm and is speaking with her eyes closed. (3) The visual style shifts dramatically to a high-contrast black and white background with radiating lines. The girl is shown in a close-up, shouting with an exaggerated, angry expression, her mouth wide open and teeth bared. (4) A montage follows showing the girl aggressively interacting with a small, brown, bean-shaped character representing her husband. In one frame, she is shaking him violently against a background of orange flames. In another, she is hitting him on the head. (5) The girl is then seen packing the brown character into a large cardboard box. She holds a roll of yellow packing tape and applies it to the top of the box to seal it. (6) The final scene shows the girl from behind, looking up at a purple night sky filled with white stars and small clouds. She has a frustrated expression with a 'vein' symbol on her head, looking towards the horizon.",
+      "text_narrative_log": "(1) [Subtitle]: 結婚了七年 我還是無法理解. (2) [Subtitle]: 老人說什麼. (3) [Subtitle]: 婚姻跟家電一樣 壞了不要直接丟掉 要想辦法去修. (4) [Subtitle]: 兩人吵架 不要老是想要離婚 要想辦法溝通 去修復感情. (5) [Subtitle]: 可是壞掉的又不是硬體要怎麼修. (6) [Subtitle]: 壞掉的是他的腦袋. (7) [Subtitle]: 他腦袋每天格式化 講過的話沒一句記得. (8) [Subtitle]: 固執脾氣臭 聽不懂人話. (9) [Subtitle]: 肯定是系統故障. (10) [Subtitle]: 系統問題不是應該送回原廠. (11) [Subtitle]: 讓他老媽自己修.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female cartoon character, 1 elderly female cartoon character.",
+        "mainCharacterDescription": "A cartoon girl with dark hair styled in two buns, wearing a simple pink long-sleeved dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The backgrounds vary from plain white to a textured vintage paper style, a fiery orange background for anger, and a purple starry night sky.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Weather not applicable"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 3,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched young female voice speaks quickly with an annoyed and incredulous tone. A bouncy, upbeat electronic BGM with a steady 4/4 beat starts immediately. (2) The voice shifts to a slower, slightly shaky, and deeper elderly female tone, mimicking a grandmotherly figure giving traditional advice. The BGM continues unchanged. (3) A sudden transition occurs where the young female voice begins shouting at a very high volume and intensity. A sharp 'whoosh' sound effect and a heavy 'impact' SFX punctuate the start of this rant. (4) The shouting continues at a rapid pace. Multiple rhythmic 'thud' and 'punch' sound effects are layered over the voice, synchronized with the visual attacks. The BGM remains cheerful, creating a comedic juxtaposition. (5) The sound of adhesive tape being pulled from a roll and applied to a surface is clearly audible. The young female voice continues her high-arousal rant without pausing. (6) The final sentence is delivered with a sharp, decisive downward intonation. A final 'pop' sound effect marks the conclusion of the audio track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Animation",
+        "Storytelling"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.25,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Contrast (Advice vs Reality) -> Rant -> Resolution (Punchline)",
+      "mainPurpose": "A comedic animation venting about the frustrations of marriage, specifically a husband's perceived lack of memory and stubbornness, using the metaphor of a 'system failure' that needs to be 'returned to the factory' (his mother).",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses high-contrast animation styles and exaggerated voice acting to deliver a relatable comedic punchline about marital friction."
+  }
+}

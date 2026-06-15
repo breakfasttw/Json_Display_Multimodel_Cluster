@@ -1,0 +1,279 @@
+{
+  "videoName": "chuchumei__-20250805105548-1276250431031515-02.mp4",
+  "low_inference": {
+    "basic_metadata": {
+      "videoDuration": 27.24,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a 2D animated girl with dark hair in two buns, wearing a red long-sleeved dress. She stands against a plain white background with an angry facial expression, arms tightly crossed, and eyebrows furrowed. (2) The scene cuts to an elderly animated woman with grey hair in a bun, sitting in a brown wooden rocking chair. She wears a red dress and has her eyes peacefully closed while her mouth moves in speech. The background is a textured grey room with soft, dim lighting. (3) A dramatic, high-contrast close-up of the young girl's face appears with black and white hatching lines, showing extreme frustration. Her hand is clenched into a fist. (4) The background shifts to a dynamic fiery scene with orange and yellow flames. The girl is shown attacking a small, brown, bean-headed character, using fast-paced arm movements and physical impact animations. (5) The final scene features a purple background with white sparkles and stars. The girl uses a roll of orange tape to seal a large cardboard box marked with a glass 'fragile' icon. The bean character's legs are seen protruding from the top before being packed away.",
+      "text_narrative_log": "(1) [Subtitle]: 結婚了七年 我還是無法理解. [Logo]: @chuchumei__. (2) [Subtitle]: 老人說什麼. (3) [Subtitle]: 婚姻跟家電一樣. (4) [Subtitle]: 壞掉不要直接丟掉. (5) [Subtitle]: 要想辦法去修. (6) [Subtitle]: 兩人吵架 不要老是想要離婚. (7) [Subtitle]: 要想辦法溝通 去修復感情. (8) [Subtitle]: 可是壞掉的 又不是硬體 要怎麼修. (9) [Subtitle]: 壞掉的是他的腦袋!. (10) [Subtitle]: 他腦袋每天格式化. (11) [Subtitle]: 講過的話沒一句記得!. (12) [Subtitle]: 脾氣臭! 聽不懂人話!. (13) [Subtitle]: 肯定早系統故障!. (14) [Subtitle]: 系統問題不是應該送回原廠. (15) [Subtitle]: 讓他老媽自己修.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 animated young female protagonist, 1 animated elderly female grandmother.",
+        "mainCharacterDescription": "A cute 2D animated girl named Chu Chu Mei with large black eyes, two hair buns, and a red collar dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Transitions from a pure white minimalist background to a dimly lit interior room, followed by a stylized fiery background for the action sequence, and finally a purple starry digital background.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Weather not applicable"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 3,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A young female voice speaks with a moderate, slightly agitated tone accompanied by a steady, rhythmic electronic background music with clear synthesized beats. (2) The audio shifts to a low-pitch, elderly female voice characterized by slow articulation and a slight vocal tremor. A rhythmic wooden creaking sound, resembling a rocking chair, repeats in the background floor. (3) A sharp 'whoosh' transition leads into a high-arousal female scream with high pitch variability. The BGM intensity increases with a distorted electronic texture. (4) A series of rapid impact sound effects (thuds and slaps) are synchronized with frantic female shouting. A roaring fire sound effect creates a dense acoustic layer. (5) The track concludes with the sound of adhesive tape being sharply pulled and torn (metallic friction sound), followed by a final punchy sentence from the young female speaker with a sarcastic tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Animation",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 4.54,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Montage: Hook -> Contrasting Advice -> Reality/Rant -> Humorous Conclusion",
+      "mainPurpose": "To humorously vent about marital frustrations by contrasting traditional wisdom (repairing a marriage like an appliance) with the reality of dealing with a difficult partner, ending with a joke about returning the husband to his mother for 'repairs'.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "tense"
+      ]
+    },
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video utilizes classic animation tropes and high-energy audio-visual synchronization to create a relatable comedic piece for a married audience."
+  }
+}
